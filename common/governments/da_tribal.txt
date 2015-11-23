@@ -1,0 +1,222 @@
+feudal_governments = {
+	chasind_government = {
+		preferred_holdings = { TRIBAL }
+		allowed_holdings = {
+			TRIBAL
+			FORT
+			CASTLE
+		}
+		accepts_liege_governments_culture = { # Tribals have no opinion penalty towards their liege if of the same culture
+			feudal_government
+			republic_government
+			merchant_republic_government
+			theocracy_government
+			muslim_government
+		}
+		vassal_call_to_arms = {
+			tribal_government
+		}
+		no_vassal_tax = {
+			tribal_government
+		}
+		builds_with_prestige = {
+			TRIBAL
+		}
+		frame_suffix = "_tribal"
+		title_prefix = "tribal_"
+		potential = {
+			top_liege = {
+				religion = chasind
+				culture = chasind
+			}
+		}
+		
+		color = { 99 58 28 }
+		
+		
+		
+		ignores_de_jure_laws = yes
+		can_build_castle = no
+		can_build_city = no
+		can_build_temple = no
+		can_build_tribal = no
+		can_change_to_nomad_on_start = no
+		
+	}
+	avvar_government = {
+		preferred_holdings = { TRIBAL }
+		allowed_holdings = {
+			TRIBAL
+			FORT
+			CASTLE
+		}
+		accepts_liege_governments_culture = { # Tribals have no opinion penalty towards their liege if of the same culture
+			feudal_government
+			republic_government
+			merchant_republic_government
+			theocracy_government
+			muslim_government
+		}
+		vassal_call_to_arms = {
+			tribal_government
+		}
+		no_vassal_tax = {
+			tribal_government
+		}
+		builds_with_prestige = {
+			TRIBAL
+		}
+		frame_suffix = "_tribal"
+		title_prefix = "tribal_"
+		potential = {
+			top_liege = {
+				religion = avvar
+				culture = avvar
+			}
+		}
+		
+		color = { 92 31 23 }
+		
+		
+		ignores_de_jure_laws = yes
+		can_build_castle = no
+		can_build_city = no
+		can_build_temple = no
+		can_build_tribal = no
+		can_change_to_nomad_on_start = no
+		
+	}
+	dalish_government = {
+		preferred_holdings = { TRIBAL }
+		allowed_holdings = {
+			TRIBAL
+			FORT
+			CASTLE
+		}
+		accepts_liege_governments_culture = { # Tribals have no opinion penalty towards their liege if of the same culture
+			feudal_government
+			republic_government
+			merchant_republic_government
+			theocracy_government
+			muslim_government
+		}
+		vassal_call_to_arms = {
+			tribal_government
+		}
+		no_vassal_tax = {
+			tribal_government
+		}
+		builds_with_prestige = {
+			TRIBAL
+		}
+		frame_suffix = "_tribal"
+		title_prefix = "tribal_"
+		potential = {
+			top_liege = {
+				religion_group = elven_pantheon
+				culture = dalish_elf
+			}
+		}
+		
+		color = { 99 211 84 } 
+		
+		
+		
+		ignores_de_jure_laws = yes
+		can_build_castle = no
+		can_build_city = no
+		can_build_temple = no
+		can_build_tribal = no
+		can_change_to_nomad_on_start = no
+		
+	}
+	darkspawn_government = {
+		preferred_holdings = { TRIBAL }
+		allowed_holdings = {
+			TRIBAL
+			FORT
+			CASTLE
+		}
+		accepts_liege_governments_culture = { # Tribals have no opinion penalty towards their liege if of the same culture
+			feudal_government
+			republic_government
+			merchant_republic_government
+			theocracy_government
+			muslim_government
+		}
+		vassal_call_to_arms = {
+			tribal_government
+		}
+		no_vassal_tax = {
+			tribal_government
+		}
+		builds_with_prestige = {
+			TRIBAL
+		}
+		frame_suffix = "_tribal"
+		title_prefix = "tribal_"
+		potential = {
+			top_liege = {
+				religion = darkspawn_old_gods
+			}
+		}
+		
+		color = { 92 31 23 }
+		
+		
+		
+		allow_looting = yes
+		
+		ignores_de_jure_laws = yes
+		can_build_castle = no
+		can_build_city = no
+		can_build_temple = no
+		can_build_tribal = no
+		
+	}
+	unsettled_government = {
+		preferred_holdings = { TRIBAL }
+		allowed_holdings = {
+			TRIBAL
+			FORT
+			CASTLE
+		}
+		accepts_liege_governments_culture = { # Tribals have no opinion penalty towards their liege if of the same culture
+			feudal_government
+			republic_government
+			merchant_republic_government
+			theocracy_government
+			muslim_government
+		}
+		vassal_call_to_arms = {
+			tribal_government
+		}
+		no_vassal_tax = {
+			tribal_government
+		}
+		builds_with_prestige = {
+			TRIBAL
+		}
+		frame_suffix = "_tribal"
+		title_prefix = "tribal_"
+		potential = {
+			top_liege = {
+				religion_group = unsettled
+			}
+		}
+		
+		color = { 92 31 23 }
+		
+		
+		
+		allow_looting = yes
+		
+		ignores_de_jure_laws = yes
+		can_build_castle = no
+		can_build_city = no
+		can_build_temple = no
+		can_build_tribal = no
+		can_change_to_nomad_on_start = no
+		
+	}
+}

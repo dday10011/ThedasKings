@@ -1,0 +1,33 @@
+#character
+on_startup = {
+	events = { 
+		da_racial_setup.1 #maintenance: race/caste for randomle generated characters
+		qunari_marriage.1 #qunari breeding program event
+		history_fix.1 #de jure and the facto changes on campaign start
+	}
+}
+
+#character
+on_yearly_pulse = {
+	events = {
+		da_racial_setup.1 #maintenance: race/caste for randomle generated characters
+		qunari_marriage.1 #qunari breeding program event
+	}
+	
+}
+
+
+# character
+on_birth = {
+	events = {
+		da_dwarf_caste.1
+		da_racial_setup.2
+	}
+}
+
+on_death = {
+	events = {
+		qunari_marriage.5 #qunari breeding program event
+	}
+}
+

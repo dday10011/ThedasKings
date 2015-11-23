@@ -1,0 +1,22 @@
+
+#DA cultures
+
+qunarigfx = {
+	skin_tone = 0
+	}
+
+dwarfgfx = {			#in portrait add-on, for DLC compatibility
+	skin_tone = 0
+	}
+
+elfgfx = {
+	skin_tone = 0
+	}
+
+darkspawngfx = {
+	skin_tone = 0
+	}
+
+forestgfx = {
+	skin_tone = 0
+	}

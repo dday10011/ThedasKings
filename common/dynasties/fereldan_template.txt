@@ -1,0 +1,824 @@
+#Higher nobility dynasties
+
+1002 = { name = "Theirin" culture = fereldan }
+2002 = { name = "Guerrin" culture = fereldan }
+3002 = { name = "Cousland" culture = fereldan }
+4002 = { name = "Howe" culture = fereldan }
+5002 = { name = "Of Oswin" culture = fereldan }
+6002 = { name = "Mac Tir" culture = fereldan }
+7002 = { name = "Kendells" culture = fereldan }
+8002 = { name = "Bryland" culture = fereldan }
+9002 = { name = "Lendon" culture = fereldan }
+10002 = { name = "Wulff" culture = fereldan }
+11002 = { name = "Dryden" culture = fereldan }
+
+#Dynasties for canonical banns with known land
+
+12002 = { name = "Eremon" culture = fereldan }
+13002 = { name = "Friseal" culture = fereldan } #non-canon name for bann Ceorlic dynasty
+21002 = { name = "Burke" culture = fereldan } #non canon dynasty for the lord of the Feravel Plains
+23002 = { name = "Oswin" culture = fereldan } #probable family name for bann Loren
+24002 = { name = "Camran" culture = fereldan } #non-canon dynasty for the bann of Amaranthine city
+25002 = { name = "Lutair" culture = fereldan } #non-canon dynasty for the bann of West Hill
+26002 = { name = "Mac Eanraig" culture = fereldan } #non-canon dynasty for the bann of the Storm coast
+34002 = { name = "fereldan Andarson" culture = fereldan } #non-canon dynasty for the bann of West Hill
+36002 = { name = "Mac Phaidein" culture = fereldan } # non-canonical dynasty for the bann of Dragon's Peak
+
+#Dynasties for cannonical banns with no known land
+
+22002 = { name = "Beordan" culture = fereldan } # Dynasty for Bann Bryton
+27002 = { name = "Asgain" culture = fereldan } # Dynasty for Bann Grainne
+28002 = { name = "Mac Rath" culture = fereldan } # Dynasty for Bann Ferrenly
+30002 = { name = "Matasan" culture = fereldan } # Dynasty for Bann Kail
+31002 = { name = "Talmach" culture = fereldan } # Dynasty for Bann Lanya
+32002 = { name = "Ualas" culture = fereldan } # Dynasty for Bann Parth
+33002 = { name = "Baranti" culture = fereldan } # Dynasty for Bann Nicola
+35002 = { name = "Dunaid" culture = fereldan } # Dynasty for Bann Rodolf
+37002 = { name = "Mac Rob" culture = fereldan } # Dynasty for Bann Telmen
+38002 = { name = "Krole" culture = fereldan } # Dynasty for Bann Valdur
+39002 = { name = "Rosach" culture = fereldan } # Dynasty for Bann Tremaine
+40002 = { name = "Sutharlan" culture = fereldan } # Dynasty for Bann Trumhall
+41002 = { name = "Marr" culture = fereldan } # Dynasty for Bann Derby
+42002 = { name = "Bhasa" culture = fereldan } # Dynasty for Bann Donall
+43002 = { name = "Creag" culture = fereldan } # Dynasty for Bann Bronach
+44002 = { name = "Gunnach" culture = fereldan } # Gynasty for Bann Perrin
+
+
+#Dynasties for made-up banns
+
+29002 = { name = "Gallach" culture = fereldan } 
+14002 = { name = "Steelbark" culture = fereldan }
+45002 = { name = "Mac Beatha" culture = fereldan }
+46002 = { name = "Mac Cuinn" culture = fereldan }
+47002 = { name = "Mac Ealar" culture = fereldan }
+48002 = { name = "Mac Ealar" culture = fereldan }
+49002 = { name = "Todt" culture = fereldan }
+50002 = { name = "Ruadh" culture = fereldan }
+51002 = { name = "Roid" culture = fereldan }
+52002 = { name = "Salmond" culture = fereldan }
+53002 = { name = "Morganach" culture = fereldan }
+54002 = { name = "Mawr" culture = fereldan }
+55002 = { name = "Guinne" culture = fereldan }
+56002 = { name = "Càidh" culture = fereldan }
+57002 = { name = "Breac" culture = fereldan }
+58002 = { name = "Caimbeul" culture = fereldan }
+59002 = { name = "Baran" culture = fereldan }
+60002 = { name = "Bochanan" culture = fereldan }
+61002 = { name = "Gallagher " culture = fereldan }
+62002 = { name = "Arasgain" culture = fereldan }
+63002 = { name = "Mac a' Lìos" culture = fereldan }
+64002 = { name = "Mac Garadh" culture = fereldan }
+65002 = { name = "Ròs" culture = fereldan }
+66002 = { name = "Glas" culture = fereldan }
+67002 = { name = "Gòrdan" culture = fereldan }
+68002 = { name = "Lios" culture = fereldan }
+69002 = { name = "Mac Caog" culture = fereldan }
+70002 = { name = "Mac Colla" culture = fereldan }
+71002 = { name = "Mac Figeinn" culture = fereldan }
+72002 = { name = "Mac Leòir" culture = fereldan }
+73002 = { name = "Mac Mhata" culture = fereldan }
+74002 = { name = "Neis" culture = fereldan }
+75002 = { name = "Paorach" culture = fereldan }
+76002 = { name = "MacIll Aodhagain" culture = fereldan }
+77002 = { name = "Munna" culture = fereldan }
+78002 = { name = "Mac Usbaig" culture = fereldan }
+79002 = { name = "O'Cain" culture = fereldan }
+80002 = { name = "O'Luing" culture = fereldan }
+81002 = { name = "Moireach" culture = fereldan }
+82002 = { name = "Preas" culture = fereldan }
+83002 = { name = "Siosal" culture = fereldan }
+84002 = { name = "Corwyn" culture = fereldan }
+85002 = { name = "Gòrdan" culture = fereldan }
+86002 = { name = "Derocher" culture = fereldan } #HERE IS DEROCHER
+
+#dynasties for fan-submited characters.
+#in progress. Using the last IDs in the lists.
+
+#unused
+
+
+87002 = { name = "fereldan 87" culture = fereldan }
+88002 = { name = "fereldan 88" culture = fereldan }
+89002 = { name = "fereldan 89" culture = fereldan }
+90002 = { name = "fereldan 90" culture = fereldan }
+91002 = { name = "fereldan 91" culture = fereldan }
+92002 = { name = "fereldan 92" culture = fereldan }
+93002 = { name = "Hawke" culture = fereldan }
+94002 = { name = "fereldan 94" culture = fereldan }
+95002 = { name = "fereldan 95" culture = fereldan }
+96002 = { name = "fereldan 96" culture = fereldan }
+97002 = { name = "fereldan 97" culture = fereldan }
+98002 = { name = "fereldan 98" culture = fereldan }
+99002 = { name = "fereldan 99" culture = fereldan }
+100002 = { name = "fereldan 100" culture = fereldan }
+101002 = { name = "fereldan 101" culture = fereldan }
+102002 = { name = "fereldan 102" culture = fereldan }
+103002 = { name = "fereldan 103" culture = fereldan }
+104002 = { name = "fereldan 104" culture = fereldan }
+105002 = { name = "fereldan 105" culture = fereldan }
+106002 = { name = "fereldan 106" culture = fereldan }
+107002 = { name = "fereldan 107" culture = fereldan }
+108002 = { name = "fereldan 108" culture = fereldan }
+109002 = { name = "fereldan 109" culture = fereldan }
+110002 = { name = "fereldan 110" culture = fereldan }
+111002 = { name = "fereldan 111" culture = fereldan }
+112002 = { name = "fereldan 112" culture = fereldan }
+113002 = { name = "fereldan 113" culture = fereldan }
+114002 = { name = "fereldan 114" culture = fereldan }
+115002 = { name = "fereldan 115" culture = fereldan }
+116002 = { name = "fereldan 116" culture = fereldan }
+117002 = { name = "fereldan 117" culture = fereldan }
+118002 = { name = "fereldan 118" culture = fereldan }
+119002 = { name = "fereldan 119" culture = fereldan }
+120002 = { name = "fereldan 120" culture = fereldan }
+121002 = { name = "fereldan 121" culture = fereldan }
+122002 = { name = "fereldan 122" culture = fereldan }
+123002 = { name = "fereldan 123" culture = fereldan }
+124002 = { name = "fereldan 124" culture = fereldan }
+125002 = { name = "fereldan 125" culture = fereldan }
+126002 = { name = "fereldan 126" culture = fereldan }
+127002 = { name = "fereldan 127" culture = fereldan }
+128002 = { name = "fereldan 128" culture = fereldan }
+129002 = { name = "fereldan 129" culture = fereldan }
+130002 = { name = "fereldan 130" culture = fereldan }
+131002 = { name = "fereldan 131" culture = fereldan }
+132002 = { name = "fereldan 132" culture = fereldan }
+133002 = { name = "fereldan 133" culture = fereldan }
+134002 = { name = "fereldan 134" culture = fereldan }
+135002 = { name = "fereldan 135" culture = fereldan }
+136002 = { name = "fereldan 136" culture = fereldan }
+137002 = { name = "fereldan 137" culture = fereldan }
+138002 = { name = "fereldan 138" culture = fereldan }
+139002 = { name = "fereldan 139" culture = fereldan }
+140002 = { name = "fereldan 140" culture = fereldan }
+141002 = { name = "fereldan 141" culture = fereldan }
+142002 = { name = "fereldan 142" culture = fereldan }
+143002 = { name = "fereldan 143" culture = fereldan }
+144002 = { name = "fereldan 144" culture = fereldan }
+145002 = { name = "fereldan 145" culture = fereldan }
+146002 = { name = "fereldan 146" culture = fereldan }
+147002 = { name = "fereldan 147" culture = fereldan }
+148002 = { name = "fereldan 148" culture = fereldan }
+149002 = { name = "fereldan 149" culture = fereldan }
+150002 = { name = "fereldan 150" culture = fereldan }
+151002 = { name = "fereldan 151" culture = fereldan }
+152002 = { name = "fereldan 152" culture = fereldan }
+153002 = { name = "fereldan 153" culture = fereldan }
+154002 = { name = "fereldan 154" culture = fereldan }
+155002 = { name = "fereldan 155" culture = fereldan }
+156002 = { name = "fereldan 156" culture = fereldan }
+157002 = { name = "fereldan 157" culture = fereldan }
+158002 = { name = "fereldan 158" culture = fereldan }
+159002 = { name = "fereldan 159" culture = fereldan }
+160002 = { name = "fereldan 160" culture = fereldan }
+161002 = { name = "fereldan 161" culture = fereldan }
+162002 = { name = "fereldan 162" culture = fereldan }
+163002 = { name = "fereldan 163" culture = fereldan }
+164002 = { name = "fereldan 164" culture = fereldan }
+165002 = { name = "fereldan 165" culture = fereldan }
+166002 = { name = "fereldan 166" culture = fereldan }
+167002 = { name = "fereldan 167" culture = fereldan }
+168002 = { name = "fereldan 168" culture = fereldan }
+169002 = { name = "fereldan 169" culture = fereldan }
+170002 = { name = "fereldan 170" culture = fereldan }
+171002 = { name = "fereldan 171" culture = fereldan }
+172002 = { name = "fereldan 172" culture = fereldan }
+173002 = { name = "fereldan 173" culture = fereldan }
+174002 = { name = "fereldan 174" culture = fereldan }
+175002 = { name = "fereldan 175" culture = fereldan }
+176002 = { name = "fereldan 176" culture = fereldan }
+177002 = { name = "fereldan 177" culture = fereldan }
+178002 = { name = "fereldan 178" culture = fereldan }
+179002 = { name = "fereldan 179" culture = fereldan }
+180002 = { name = "fereldan 180" culture = fereldan }
+181002 = { name = "fereldan 181" culture = fereldan }
+182002 = { name = "fereldan 182" culture = fereldan }
+183002 = { name = "fereldan 183" culture = fereldan }
+184002 = { name = "fereldan 184" culture = fereldan }
+185002 = { name = "fereldan 185" culture = fereldan }
+186002 = { name = "fereldan 186" culture = fereldan }
+187002 = { name = "fereldan 187" culture = fereldan }
+188002 = { name = "fereldan 188" culture = fereldan }
+189002 = { name = "fereldan 189" culture = fereldan }
+190002 = { name = "fereldan 190" culture = fereldan }
+191002 = { name = "fereldan 191" culture = fereldan }
+192002 = { name = "fereldan 192" culture = fereldan }
+193002 = { name = "fereldan 193" culture = fereldan }
+194002 = { name = "fereldan 194" culture = fereldan }
+195002 = { name = "fereldan 195" culture = fereldan }
+196002 = { name = "fereldan 196" culture = fereldan }
+197002 = { name = "fereldan 197" culture = fereldan }
+198002 = { name = "fereldan 198" culture = fereldan }
+199002 = { name = "fereldan 199" culture = fereldan }
+200002 = { name = "fereldan 200" culture = fereldan }
+201002 = { name = "fereldan 201" culture = fereldan }
+202002 = { name = "fereldan 202" culture = fereldan }
+203002 = { name = "fereldan 203" culture = fereldan }
+204002 = { name = "fereldan 204" culture = fereldan }
+205002 = { name = "fereldan 205" culture = fereldan }
+206002 = { name = "fereldan 206" culture = fereldan }
+207002 = { name = "fereldan 207" culture = fereldan }
+208002 = { name = "fereldan 208" culture = fereldan }
+209002 = { name = "fereldan 209" culture = fereldan }
+210002 = { name = "fereldan 210" culture = fereldan }
+211002 = { name = "fereldan 211" culture = fereldan }
+212002 = { name = "fereldan 212" culture = fereldan }
+213002 = { name = "fereldan 213" culture = fereldan }
+214002 = { name = "fereldan 214" culture = fereldan }
+215002 = { name = "fereldan 215" culture = fereldan }
+216002 = { name = "fereldan 216" culture = fereldan }
+217002 = { name = "fereldan 217" culture = fereldan }
+218002 = { name = "fereldan 218" culture = fereldan }
+219002 = { name = "fereldan 219" culture = fereldan }
+220002 = { name = "fereldan 220" culture = fereldan }
+221002 = { name = "fereldan 221" culture = fereldan }
+222002 = { name = "fereldan 222" culture = fereldan }
+223002 = { name = "fereldan 223" culture = fereldan }
+224002 = { name = "fereldan 224" culture = fereldan }
+225002 = { name = "fereldan 225" culture = fereldan }
+226002 = { name = "fereldan 226" culture = fereldan }
+227002 = { name = "fereldan 227" culture = fereldan }
+228002 = { name = "fereldan 228" culture = fereldan }
+229002 = { name = "fereldan 229" culture = fereldan }
+230002 = { name = "fereldan 230" culture = fereldan }
+231002 = { name = "fereldan 231" culture = fereldan }
+232002 = { name = "fereldan 232" culture = fereldan }
+233002 = { name = "fereldan 233" culture = fereldan }
+234002 = { name = "fereldan 234" culture = fereldan }
+235002 = { name = "fereldan 235" culture = fereldan }
+236002 = { name = "fereldan 236" culture = fereldan }
+237002 = { name = "fereldan 237" culture = fereldan }
+238002 = { name = "fereldan 238" culture = fereldan }
+239002 = { name = "fereldan 239" culture = fereldan }
+240002 = { name = "fereldan 240" culture = fereldan }
+241002 = { name = "fereldan 241" culture = fereldan }
+242002 = { name = "fereldan 242" culture = fereldan }
+243002 = { name = "fereldan 243" culture = fereldan }
+244002 = { name = "fereldan 244" culture = fereldan }
+245002 = { name = "fereldan 245" culture = fereldan }
+246002 = { name = "fereldan 246" culture = fereldan }
+247002 = { name = "fereldan 247" culture = fereldan }
+248002 = { name = "fereldan 248" culture = fereldan }
+249002 = { name = "fereldan 249" culture = fereldan }
+250002 = { name = "fereldan 250" culture = fereldan }
+251002 = { name = "fereldan 251" culture = fereldan }
+252002 = { name = "fereldan 252" culture = fereldan }
+253002 = { name = "fereldan 253" culture = fereldan }
+254002 = { name = "fereldan 254" culture = fereldan }
+255002 = { name = "fereldan 255" culture = fereldan }
+256002 = { name = "fereldan 256" culture = fereldan }
+257002 = { name = "fereldan 257" culture = fereldan }
+258002 = { name = "fereldan 258" culture = fereldan }
+259002 = { name = "fereldan 259" culture = fereldan }
+260002 = { name = "fereldan 260" culture = fereldan }
+261002 = { name = "fereldan 261" culture = fereldan }
+262002 = { name = "fereldan 262" culture = fereldan }
+263002 = { name = "fereldan 263" culture = fereldan }
+264002 = { name = "fereldan 264" culture = fereldan }
+265002 = { name = "fereldan 265" culture = fereldan }
+266002 = { name = "fereldan 266" culture = fereldan }
+267002 = { name = "fereldan 267" culture = fereldan }
+268002 = { name = "fereldan 268" culture = fereldan }
+269002 = { name = "fereldan 269" culture = fereldan }
+270002 = { name = "fereldan 270" culture = fereldan }
+271002 = { name = "fereldan 271" culture = fereldan }
+272002 = { name = "fereldan 272" culture = fereldan }
+273002 = { name = "fereldan 273" culture = fereldan }
+274002 = { name = "fereldan 274" culture = fereldan }
+275002 = { name = "fereldan 275" culture = fereldan }
+276002 = { name = "fereldan 276" culture = fereldan }
+277002 = { name = "fereldan 277" culture = fereldan }
+278002 = { name = "fereldan 278" culture = fereldan }
+279002 = { name = "fereldan 279" culture = fereldan }
+280002 = { name = "fereldan 280" culture = fereldan }
+281002 = { name = "fereldan 281" culture = fereldan }
+282002 = { name = "fereldan 282" culture = fereldan }
+283002 = { name = "fereldan 283" culture = fereldan }
+284002 = { name = "fereldan 284" culture = fereldan }
+285002 = { name = "fereldan 285" culture = fereldan }
+286002 = { name = "fereldan 286" culture = fereldan }
+287002 = { name = "fereldan 287" culture = fereldan }
+288002 = { name = "fereldan 288" culture = fereldan }
+289002 = { name = "fereldan 289" culture = fereldan }
+290002 = { name = "fereldan 290" culture = fereldan }
+291002 = { name = "fereldan 291" culture = fereldan }
+292002 = { name = "fereldan 292" culture = fereldan }
+293002 = { name = "fereldan 293" culture = fereldan }
+294002 = { name = "fereldan 294" culture = fereldan }
+295002 = { name = "fereldan 295" culture = fereldan }
+296002 = { name = "fereldan 296" culture = fereldan }
+297002 = { name = "fereldan 297" culture = fereldan }
+298002 = { name = "fereldan 298" culture = fereldan }
+299002 = { name = "fereldan 299" culture = fereldan }
+300002 = { name = "fereldan 300" culture = fereldan }
+301002 = { name = "fereldan 301" culture = fereldan }
+302002 = { name = "fereldan 302" culture = fereldan }
+303002 = { name = "fereldan 303" culture = fereldan }
+304002 = { name = "fereldan 304" culture = fereldan }
+305002 = { name = "fereldan 305" culture = fereldan }
+306002 = { name = "fereldan 306" culture = fereldan }
+307002 = { name = "fereldan 307" culture = fereldan }
+308002 = { name = "fereldan 308" culture = fereldan }
+309002 = { name = "fereldan 309" culture = fereldan }
+310002 = { name = "fereldan 310" culture = fereldan }
+311002 = { name = "fereldan 311" culture = fereldan }
+312002 = { name = "fereldan 312" culture = fereldan }
+313002 = { name = "fereldan 313" culture = fereldan }
+314002 = { name = "fereldan 314" culture = fereldan }
+315002 = { name = "fereldan 315" culture = fereldan }
+316002 = { name = "fereldan 316" culture = fereldan }
+317002 = { name = "fereldan 317" culture = fereldan }
+318002 = { name = "fereldan 318" culture = fereldan }
+319002 = { name = "fereldan 319" culture = fereldan }
+320002 = { name = "fereldan 320" culture = fereldan }
+321002 = { name = "fereldan 321" culture = fereldan }
+322002 = { name = "fereldan 322" culture = fereldan }
+323002 = { name = "fereldan 323" culture = fereldan }
+324002 = { name = "fereldan 324" culture = fereldan }
+325002 = { name = "fereldan 325" culture = fereldan }
+326002 = { name = "fereldan 326" culture = fereldan }
+327002 = { name = "fereldan 327" culture = fereldan }
+328002 = { name = "fereldan 328" culture = fereldan }
+329002 = { name = "fereldan 329" culture = fereldan }
+330002 = { name = "fereldan 330" culture = fereldan }
+331002 = { name = "fereldan 331" culture = fereldan }
+332002 = { name = "fereldan 332" culture = fereldan }
+333002 = { name = "fereldan 333" culture = fereldan }
+334002 = { name = "fereldan 334" culture = fereldan }
+335002 = { name = "fereldan 335" culture = fereldan }
+336002 = { name = "fereldan 336" culture = fereldan }
+337002 = { name = "fereldan 337" culture = fereldan }
+338002 = { name = "fereldan 338" culture = fereldan }
+339002 = { name = "fereldan 339" culture = fereldan }
+340002 = { name = "fereldan 340" culture = fereldan }
+341002 = { name = "fereldan 341" culture = fereldan }
+342002 = { name = "fereldan 342" culture = fereldan }
+343002 = { name = "fereldan 343" culture = fereldan }
+344002 = { name = "fereldan 344" culture = fereldan }
+345002 = { name = "fereldan 345" culture = fereldan }
+346002 = { name = "fereldan 346" culture = fereldan }
+347002 = { name = "fereldan 347" culture = fereldan }
+348002 = { name = "fereldan 348" culture = fereldan }
+349002 = { name = "fereldan 349" culture = fereldan }
+350002 = { name = "fereldan 350" culture = fereldan }
+351002 = { name = "fereldan 351" culture = fereldan }
+352002 = { name = "fereldan 352" culture = fereldan }
+353002 = { name = "fereldan 353" culture = fereldan }
+354002 = { name = "fereldan 354" culture = fereldan }
+355002 = { name = "fereldan 355" culture = fereldan }
+356002 = { name = "fereldan 356" culture = fereldan }
+357002 = { name = "fereldan 357" culture = fereldan }
+358002 = { name = "fereldan 358" culture = fereldan }
+359002 = { name = "fereldan 359" culture = fereldan }
+360002 = { name = "fereldan 360" culture = fereldan }
+361002 = { name = "fereldan 361" culture = fereldan }
+362002 = { name = "fereldan 362" culture = fereldan }
+363002 = { name = "fereldan 363" culture = fereldan }
+364002 = { name = "fereldan 364" culture = fereldan }
+365002 = { name = "fereldan 365" culture = fereldan }
+366002 = { name = "fereldan 366" culture = fereldan }
+367002 = { name = "fereldan 367" culture = fereldan }
+368002 = { name = "fereldan 368" culture = fereldan }
+369002 = { name = "fereldan 369" culture = fereldan }
+370002 = { name = "fereldan 370" culture = fereldan }
+371002 = { name = "fereldan 371" culture = fereldan }
+372002 = { name = "fereldan 372" culture = fereldan }
+373002 = { name = "fereldan 373" culture = fereldan }
+374002 = { name = "fereldan 374" culture = fereldan }
+375002 = { name = "fereldan 375" culture = fereldan }
+376002 = { name = "fereldan 376" culture = fereldan }
+377002 = { name = "fereldan 377" culture = fereldan }
+378002 = { name = "fereldan 378" culture = fereldan }
+379002 = { name = "fereldan 379" culture = fereldan }
+380002 = { name = "fereldan 380" culture = fereldan }
+381002 = { name = "fereldan 381" culture = fereldan }
+382002 = { name = "fereldan 382" culture = fereldan }
+383002 = { name = "fereldan 383" culture = fereldan }
+384002 = { name = "fereldan 384" culture = fereldan }
+385002 = { name = "fereldan 385" culture = fereldan }
+386002 = { name = "fereldan 386" culture = fereldan }
+387002 = { name = "fereldan 387" culture = fereldan }
+388002 = { name = "fereldan 388" culture = fereldan }
+389002 = { name = "fereldan 389" culture = fereldan }
+390002 = { name = "fereldan 390" culture = fereldan }
+391002 = { name = "fereldan 391" culture = fereldan }
+392002 = { name = "fereldan 392" culture = fereldan }
+393002 = { name = "fereldan 393" culture = fereldan }
+394002 = { name = "fereldan 394" culture = fereldan }
+395002 = { name = "fereldan 395" culture = fereldan }
+396002 = { name = "fereldan 396" culture = fereldan }
+397002 = { name = "fereldan 397" culture = fereldan }
+398002 = { name = "fereldan 398" culture = fereldan }
+399002 = { name = "fereldan 399" culture = fereldan }
+400002 = { name = "fereldan 400" culture = fereldan }
+401002 = { name = "fereldan 401" culture = fereldan }
+402002 = { name = "fereldan 402" culture = fereldan }
+403002 = { name = "fereldan 403" culture = fereldan }
+404002 = { name = "fereldan 404" culture = fereldan }
+405002 = { name = "fereldan 405" culture = fereldan }
+406002 = { name = "fereldan 406" culture = fereldan }
+407002 = { name = "fereldan 407" culture = fereldan }
+408002 = { name = "fereldan 408" culture = fereldan }
+409002 = { name = "fereldan 409" culture = fereldan }
+410002 = { name = "fereldan 410" culture = fereldan }
+411002 = { name = "fereldan 411" culture = fereldan }
+412002 = { name = "fereldan 412" culture = fereldan }
+413002 = { name = "fereldan 413" culture = fereldan }
+414002 = { name = "fereldan 414" culture = fereldan }
+415002 = { name = "fereldan 415" culture = fereldan }
+416002 = { name = "fereldan 416" culture = fereldan }
+417002 = { name = "fereldan 417" culture = fereldan }
+418002 = { name = "fereldan 418" culture = fereldan }
+419002 = { name = "fereldan 419" culture = fereldan }
+420002 = { name = "fereldan 420" culture = fereldan }
+421002 = { name = "fereldan 421" culture = fereldan }
+422002 = { name = "fereldan 422" culture = fereldan }
+423002 = { name = "fereldan 423" culture = fereldan }
+424002 = { name = "fereldan 424" culture = fereldan }
+425002 = { name = "fereldan 425" culture = fereldan }
+426002 = { name = "fereldan 426" culture = fereldan }
+427002 = { name = "fereldan 427" culture = fereldan }
+428002 = { name = "fereldan 428" culture = fereldan }
+429002 = { name = "fereldan 429" culture = fereldan }
+430002 = { name = "fereldan 430" culture = fereldan }
+431002 = { name = "fereldan 431" culture = fereldan }
+432002 = { name = "fereldan 432" culture = fereldan }
+433002 = { name = "fereldan 433" culture = fereldan }
+434002 = { name = "fereldan 434" culture = fereldan }
+435002 = { name = "fereldan 435" culture = fereldan }
+436002 = { name = "fereldan 436" culture = fereldan }
+437002 = { name = "fereldan 437" culture = fereldan }
+438002 = { name = "fereldan 438" culture = fereldan }
+439002 = { name = "fereldan 439" culture = fereldan }
+440002 = { name = "fereldan 440" culture = fereldan }
+441002 = { name = "fereldan 441" culture = fereldan }
+442002 = { name = "fereldan 442" culture = fereldan }
+443002 = { name = "fereldan 443" culture = fereldan }
+444002 = { name = "fereldan 444" culture = fereldan }
+445002 = { name = "fereldan 445" culture = fereldan }
+446002 = { name = "fereldan 446" culture = fereldan }
+447002 = { name = "fereldan 447" culture = fereldan }
+448002 = { name = "fereldan 448" culture = fereldan }
+449002 = { name = "fereldan 449" culture = fereldan }
+450002 = { name = "fereldan 450" culture = fereldan }
+451002 = { name = "fereldan 451" culture = fereldan }
+452002 = { name = "fereldan 452" culture = fereldan }
+453002 = { name = "fereldan 453" culture = fereldan }
+454002 = { name = "fereldan 454" culture = fereldan }
+455002 = { name = "fereldan 455" culture = fereldan }
+456002 = { name = "fereldan 456" culture = fereldan }
+457002 = { name = "fereldan 457" culture = fereldan }
+458002 = { name = "fereldan 458" culture = fereldan }
+459002 = { name = "fereldan 459" culture = fereldan }
+460002 = { name = "fereldan 460" culture = fereldan }
+461002 = { name = "fereldan 461" culture = fereldan }
+462002 = { name = "fereldan 462" culture = fereldan }
+463002 = { name = "fereldan 463" culture = fereldan }
+464002 = { name = "fereldan 464" culture = fereldan }
+465002 = { name = "fereldan 465" culture = fereldan }
+466002 = { name = "fereldan 466" culture = fereldan }
+467002 = { name = "fereldan 467" culture = fereldan }
+468002 = { name = "fereldan 468" culture = fereldan }
+469002 = { name = "fereldan 469" culture = fereldan }
+470002 = { name = "fereldan 470" culture = fereldan }
+471002 = { name = "fereldan 471" culture = fereldan }
+472002 = { name = "fereldan 472" culture = fereldan }
+473002 = { name = "fereldan 473" culture = fereldan }
+474002 = { name = "fereldan 474" culture = fereldan }
+475002 = { name = "fereldan 475" culture = fereldan }
+476002 = { name = "fereldan 476" culture = fereldan }
+477002 = { name = "fereldan 477" culture = fereldan }
+478002 = { name = "fereldan 478" culture = fereldan }
+479002 = { name = "fereldan 479" culture = fereldan }
+480002 = { name = "fereldan 480" culture = fereldan }
+481002 = { name = "fereldan 481" culture = fereldan }
+482002 = { name = "fereldan 482" culture = fereldan }
+483002 = { name = "fereldan 483" culture = fereldan }
+484002 = { name = "fereldan 484" culture = fereldan }
+485002 = { name = "fereldan 485" culture = fereldan }
+486002 = { name = "fereldan 486" culture = fereldan }
+487002 = { name = "fereldan 487" culture = fereldan }
+488002 = { name = "fereldan 488" culture = fereldan }
+489002 = { name = "fereldan 489" culture = fereldan }
+490002 = { name = "fereldan 490" culture = fereldan }
+491002 = { name = "fereldan 491" culture = fereldan }
+492002 = { name = "fereldan 492" culture = fereldan }
+493002 = { name = "fereldan 493" culture = fereldan }
+494002 = { name = "fereldan 494" culture = fereldan }
+495002 = { name = "fereldan 495" culture = fereldan }
+496002 = { name = "fereldan 496" culture = fereldan }
+497002 = { name = "fereldan 497" culture = fereldan }
+498002 = { name = "fereldan 498" culture = fereldan }
+499002 = { name = "fereldan 499" culture = fereldan }
+500002 = { name = "fereldan 500" culture = fereldan }
+501002 = { name = "fereldan 501" culture = fereldan }
+502002 = { name = "fereldan 502" culture = fereldan }
+503002 = { name = "fereldan 503" culture = fereldan }
+504002 = { name = "fereldan 504" culture = fereldan }
+505002 = { name = "fereldan 505" culture = fereldan }
+506002 = { name = "fereldan 506" culture = fereldan }
+507002 = { name = "fereldan 507" culture = fereldan }
+508002 = { name = "fereldan 508" culture = fereldan }
+509002 = { name = "fereldan 509" culture = fereldan }
+510002 = { name = "fereldan 510" culture = fereldan }
+511002 = { name = "fereldan 511" culture = fereldan }
+512002 = { name = "fereldan 512" culture = fereldan }
+513002 = { name = "fereldan 513" culture = fereldan }
+514002 = { name = "fereldan 514" culture = fereldan }
+515002 = { name = "fereldan 515" culture = fereldan }
+516002 = { name = "fereldan 516" culture = fereldan }
+517002 = { name = "fereldan 517" culture = fereldan }
+518002 = { name = "fereldan 518" culture = fereldan }
+519002 = { name = "fereldan 519" culture = fereldan }
+520002 = { name = "fereldan 520" culture = fereldan }
+521002 = { name = "fereldan 521" culture = fereldan }
+522002 = { name = "fereldan 522" culture = fereldan }
+523002 = { name = "fereldan 523" culture = fereldan }
+524002 = { name = "fereldan 524" culture = fereldan }
+525002 = { name = "fereldan 525" culture = fereldan }
+526002 = { name = "fereldan 526" culture = fereldan }
+527002 = { name = "fereldan 527" culture = fereldan }
+528002 = { name = "fereldan 528" culture = fereldan }
+529002 = { name = "fereldan 529" culture = fereldan }
+530002 = { name = "fereldan 530" culture = fereldan }
+531002 = { name = "fereldan 531" culture = fereldan }
+532002 = { name = "fereldan 532" culture = fereldan }
+533002 = { name = "fereldan 533" culture = fereldan }
+534002 = { name = "fereldan 534" culture = fereldan }
+535002 = { name = "fereldan 535" culture = fereldan }
+536002 = { name = "fereldan 536" culture = fereldan }
+537002 = { name = "fereldan 537" culture = fereldan }
+538002 = { name = "fereldan 538" culture = fereldan }
+539002 = { name = "fereldan 539" culture = fereldan }
+540002 = { name = "fereldan 540" culture = fereldan }
+541002 = { name = "fereldan 541" culture = fereldan }
+542002 = { name = "fereldan 542" culture = fereldan }
+543002 = { name = "fereldan 543" culture = fereldan }
+544002 = { name = "fereldan 544" culture = fereldan }
+545002 = { name = "fereldan 545" culture = fereldan }
+546002 = { name = "fereldan 546" culture = fereldan }
+547002 = { name = "fereldan 547" culture = fereldan }
+548002 = { name = "fereldan 548" culture = fereldan }
+549002 = { name = "fereldan 549" culture = fereldan }
+550002 = { name = "fereldan 550" culture = fereldan }
+551002 = { name = "fereldan 551" culture = fereldan }
+552002 = { name = "fereldan 552" culture = fereldan }
+553002 = { name = "fereldan 553" culture = fereldan }
+554002 = { name = "fereldan 554" culture = fereldan }
+555002 = { name = "fereldan 555" culture = fereldan }
+556002 = { name = "fereldan 556" culture = fereldan }
+557002 = { name = "fereldan 557" culture = fereldan }
+558002 = { name = "fereldan 558" culture = fereldan }
+559002 = { name = "fereldan 559" culture = fereldan }
+560002 = { name = "fereldan 560" culture = fereldan }
+561002 = { name = "fereldan 561" culture = fereldan }
+562002 = { name = "fereldan 562" culture = fereldan }
+563002 = { name = "fereldan 563" culture = fereldan }
+564002 = { name = "fereldan 564" culture = fereldan }
+565002 = { name = "fereldan 565" culture = fereldan }
+566002 = { name = "fereldan 566" culture = fereldan }
+567002 = { name = "fereldan 567" culture = fereldan }
+568002 = { name = "fereldan 568" culture = fereldan }
+569002 = { name = "fereldan 569" culture = fereldan }
+570002 = { name = "fereldan 570" culture = fereldan }
+571002 = { name = "fereldan 571" culture = fereldan }
+572002 = { name = "fereldan 572" culture = fereldan }
+573002 = { name = "fereldan 573" culture = fereldan }
+574002 = { name = "fereldan 574" culture = fereldan }
+575002 = { name = "fereldan 575" culture = fereldan }
+576002 = { name = "fereldan 576" culture = fereldan }
+577002 = { name = "fereldan 577" culture = fereldan }
+578002 = { name = "fereldan 578" culture = fereldan }
+579002 = { name = "fereldan 579" culture = fereldan }
+580002 = { name = "fereldan 580" culture = fereldan }
+581002 = { name = "fereldan 581" culture = fereldan }
+582002 = { name = "fereldan 582" culture = fereldan }
+583002 = { name = "fereldan 583" culture = fereldan }
+584002 = { name = "fereldan 584" culture = fereldan }
+585002 = { name = "fereldan 585" culture = fereldan }
+586002 = { name = "fereldan 586" culture = fereldan }
+587002 = { name = "fereldan 587" culture = fereldan }
+588002 = { name = "fereldan 588" culture = fereldan }
+589002 = { name = "fereldan 589" culture = fereldan }
+590002 = { name = "fereldan 590" culture = fereldan }
+591002 = { name = "fereldan 591" culture = fereldan }
+592002 = { name = "fereldan 592" culture = fereldan }
+593002 = { name = "fereldan 593" culture = fereldan }
+594002 = { name = "fereldan 594" culture = fereldan }
+595002 = { name = "fereldan 595" culture = fereldan }
+596002 = { name = "fereldan 596" culture = fereldan }
+597002 = { name = "fereldan 597" culture = fereldan }
+598002 = { name = "fereldan 598" culture = fereldan }
+599002 = { name = "fereldan 599" culture = fereldan }
+600002 = { name = "fereldan 600" culture = fereldan }
+601002 = { name = "fereldan 601" culture = fereldan }
+602002 = { name = "fereldan 602" culture = fereldan }
+603002 = { name = "fereldan 603" culture = fereldan }
+604002 = { name = "fereldan 604" culture = fereldan }
+605002 = { name = "fereldan 605" culture = fereldan }
+606002 = { name = "fereldan 606" culture = fereldan }
+607002 = { name = "fereldan 607" culture = fereldan }
+608002 = { name = "fereldan 608" culture = fereldan }
+609002 = { name = "fereldan 609" culture = fereldan }
+610002 = { name = "fereldan 610" culture = fereldan }
+611002 = { name = "fereldan 611" culture = fereldan }
+612002 = { name = "fereldan 612" culture = fereldan }
+613002 = { name = "fereldan 613" culture = fereldan }
+614002 = { name = "fereldan 614" culture = fereldan }
+615002 = { name = "fereldan 615" culture = fereldan }
+616002 = { name = "fereldan 616" culture = fereldan }
+617002 = { name = "fereldan 617" culture = fereldan }
+618002 = { name = "fereldan 618" culture = fereldan }
+619002 = { name = "fereldan 619" culture = fereldan }
+620002 = { name = "fereldan 620" culture = fereldan }
+621002 = { name = "fereldan 621" culture = fereldan }
+622002 = { name = "fereldan 622" culture = fereldan }
+623002 = { name = "fereldan 623" culture = fereldan }
+624002 = { name = "fereldan 624" culture = fereldan }
+625002 = { name = "fereldan 625" culture = fereldan }
+626002 = { name = "fereldan 626" culture = fereldan }
+627002 = { name = "fereldan 627" culture = fereldan }
+628002 = { name = "fereldan 628" culture = fereldan }
+629002 = { name = "fereldan 629" culture = fereldan }
+630002 = { name = "fereldan 630" culture = fereldan }
+631002 = { name = "fereldan 631" culture = fereldan }
+632002 = { name = "fereldan 632" culture = fereldan }
+633002 = { name = "fereldan 633" culture = fereldan }
+634002 = { name = "fereldan 634" culture = fereldan }
+635002 = { name = "fereldan 635" culture = fereldan }
+636002 = { name = "fereldan 636" culture = fereldan }
+637002 = { name = "fereldan 637" culture = fereldan }
+638002 = { name = "fereldan 638" culture = fereldan }
+639002 = { name = "fereldan 639" culture = fereldan }
+640002 = { name = "fereldan 640" culture = fereldan }
+641002 = { name = "fereldan 641" culture = fereldan }
+642002 = { name = "fereldan 642" culture = fereldan }
+643002 = { name = "fereldan 643" culture = fereldan }
+644002 = { name = "fereldan 644" culture = fereldan }
+645002 = { name = "fereldan 645" culture = fereldan }
+646002 = { name = "fereldan 646" culture = fereldan }
+647002 = { name = "fereldan 647" culture = fereldan }
+648002 = { name = "fereldan 648" culture = fereldan }
+649002 = { name = "fereldan 649" culture = fereldan }
+650002 = { name = "fereldan 650" culture = fereldan }
+651002 = { name = "fereldan 651" culture = fereldan }
+652002 = { name = "fereldan 652" culture = fereldan }
+653002 = { name = "fereldan 653" culture = fereldan }
+654002 = { name = "fereldan 654" culture = fereldan }
+655002 = { name = "fereldan 655" culture = fereldan }
+656002 = { name = "fereldan 656" culture = fereldan }
+657002 = { name = "fereldan 657" culture = fereldan }
+658002 = { name = "fereldan 658" culture = fereldan }
+659002 = { name = "fereldan 659" culture = fereldan }
+660002 = { name = "fereldan 660" culture = fereldan }
+661002 = { name = "fereldan 661" culture = fereldan }
+662002 = { name = "fereldan 662" culture = fereldan }
+663002 = { name = "fereldan 663" culture = fereldan }
+664002 = { name = "fereldan 664" culture = fereldan }
+665002 = { name = "fereldan 665" culture = fereldan }
+666002 = { name = "fereldan 666" culture = fereldan }
+667002 = { name = "fereldan 667" culture = fereldan }
+668002 = { name = "fereldan 668" culture = fereldan }
+669002 = { name = "fereldan 669" culture = fereldan }
+670002 = { name = "fereldan 670" culture = fereldan }
+671002 = { name = "fereldan 671" culture = fereldan }
+672002 = { name = "fereldan 672" culture = fereldan }
+673002 = { name = "fereldan 673" culture = fereldan }
+674002 = { name = "fereldan 674" culture = fereldan }
+675002 = { name = "fereldan 675" culture = fereldan }
+676002 = { name = "fereldan 676" culture = fereldan }
+677002 = { name = "fereldan 677" culture = fereldan }
+678002 = { name = "fereldan 678" culture = fereldan }
+679002 = { name = "fereldan 679" culture = fereldan }
+680002 = { name = "fereldan 680" culture = fereldan }
+681002 = { name = "fereldan 681" culture = fereldan }
+682002 = { name = "fereldan 682" culture = fereldan }
+683002 = { name = "fereldan 683" culture = fereldan }
+684002 = { name = "fereldan 684" culture = fereldan }
+685002 = { name = "fereldan 685" culture = fereldan }
+686002 = { name = "fereldan 686" culture = fereldan }
+687002 = { name = "fereldan 687" culture = fereldan }
+688002 = { name = "fereldan 688" culture = fereldan }
+689002 = { name = "fereldan 689" culture = fereldan }
+690002 = { name = "fereldan 690" culture = fereldan }
+691002 = { name = "fereldan 691" culture = fereldan }
+692002 = { name = "fereldan 692" culture = fereldan }
+693002 = { name = "fereldan 693" culture = fereldan }
+694002 = { name = "fereldan 694" culture = fereldan }
+695002 = { name = "fereldan 695" culture = fereldan }
+696002 = { name = "fereldan 696" culture = fereldan }
+697002 = { name = "fereldan 697" culture = fereldan }
+698002 = { name = "fereldan 698" culture = fereldan }
+699002 = { name = "fereldan 699" culture = fereldan }
+700002 = { name = "fereldan 700" culture = fereldan }
+701002 = { name = "fereldan 701" culture = fereldan }
+702002 = { name = "fereldan 702" culture = fereldan }
+703002 = { name = "fereldan 703" culture = fereldan }
+704002 = { name = "fereldan 704" culture = fereldan }
+705002 = { name = "fereldan 705" culture = fereldan }
+706002 = { name = "fereldan 706" culture = fereldan }
+707002 = { name = "fereldan 707" culture = fereldan }
+708002 = { name = "fereldan 708" culture = fereldan }
+709002 = { name = "fereldan 709" culture = fereldan }
+710002 = { name = "fereldan 710" culture = fereldan }
+711002 = { name = "fereldan 711" culture = fereldan }
+712002 = { name = "fereldan 712" culture = fereldan }
+713002 = { name = "fereldan 713" culture = fereldan }
+714002 = { name = "fereldan 714" culture = fereldan }
+715002 = { name = "fereldan 715" culture = fereldan }
+716002 = { name = "fereldan 716" culture = fereldan }
+717002 = { name = "fereldan 717" culture = fereldan }
+718002 = { name = "fereldan 718" culture = fereldan }
+719002 = { name = "fereldan 719" culture = fereldan }
+720002 = { name = "fereldan 720" culture = fereldan }
+721002 = { name = "fereldan 721" culture = fereldan }
+722002 = { name = "fereldan 722" culture = fereldan }
+723002 = { name = "fereldan 723" culture = fereldan }
+724002 = { name = "fereldan 724" culture = fereldan }
+725002 = { name = "fereldan 725" culture = fereldan }
+726002 = { name = "fereldan 726" culture = fereldan }
+727002 = { name = "fereldan 727" culture = fereldan }
+728002 = { name = "fereldan 728" culture = fereldan }
+729002 = { name = "fereldan 729" culture = fereldan }
+730002 = { name = "fereldan 730" culture = fereldan }
+731002 = { name = "fereldan 731" culture = fereldan }
+732002 = { name = "fereldan 732" culture = fereldan }
+733002 = { name = "fereldan 733" culture = fereldan }
+734002 = { name = "fereldan 734" culture = fereldan }
+735002 = { name = "fereldan 735" culture = fereldan }
+736002 = { name = "fereldan 736" culture = fereldan }
+737002 = { name = "fereldan 737" culture = fereldan }
+738002 = { name = "fereldan 738" culture = fereldan }
+739002 = { name = "fereldan 739" culture = fereldan }
+740002 = { name = "fereldan 740" culture = fereldan }
+741002 = { name = "fereldan 741" culture = fereldan }
+742002 = { name = "fereldan 742" culture = fereldan }
+743002 = { name = "fereldan 743" culture = fereldan }
+744002 = { name = "fereldan 744" culture = fereldan }
+745002 = { name = "fereldan 745" culture = fereldan }
+746002 = { name = "fereldan 746" culture = fereldan }
+747002 = { name = "fereldan 747" culture = fereldan }
+748002 = { name = "fereldan 748" culture = fereldan }
+749002 = { name = "fereldan 749" culture = fereldan }
+750002 = { name = "fereldan 750" culture = fereldan }
+751002 = { name = "fereldan 751" culture = fereldan }
+752002 = { name = "fereldan 752" culture = fereldan }
+753002 = { name = "fereldan 753" culture = fereldan }
+754002 = { name = "fereldan 754" culture = fereldan }
+755002 = { name = "fereldan 755" culture = fereldan }
+756002 = { name = "fereldan 756" culture = fereldan }
+757002 = { name = "fereldan 757" culture = fereldan }
+758002 = { name = "fereldan 758" culture = fereldan }
+759002 = { name = "fereldan 759" culture = fereldan }
+760002 = { name = "fereldan 760" culture = fereldan }
+761002 = { name = "fereldan 761" culture = fereldan }
+762002 = { name = "fereldan 762" culture = fereldan }
+763002 = { name = "fereldan 763" culture = fereldan }
+764002 = { name = "fereldan 764" culture = fereldan }
+765002 = { name = "fereldan 765" culture = fereldan }
+766002 = { name = "fereldan 766" culture = fereldan }
+767002 = { name = "fereldan 767" culture = fereldan }
+768002 = { name = "fereldan 768" culture = fereldan }
+769002 = { name = "fereldan 769" culture = fereldan }
+770002 = { name = "fereldan 770" culture = fereldan }
+771002 = { name = "fereldan 771" culture = fereldan }
+772002 = { name = "fereldan 772" culture = fereldan }
+773002 = { name = "fereldan 773" culture = fereldan }
+774002 = { name = "fereldan 774" culture = fereldan }
+775002 = { name = "fereldan 775" culture = fereldan }
+776002 = { name = "fereldan 776" culture = fereldan }
+777002 = { name = "fereldan 777" culture = fereldan }
+778002 = { name = "fereldan 778" culture = fereldan }
+779002 = { name = "fereldan 779" culture = fereldan }
+780002 = { name = "fereldan 780" culture = fereldan }
+781002 = { name = "fereldan 781" culture = fereldan }
+782002 = { name = "fereldan 782" culture = fereldan }
+783002 = { name = "fereldan 783" culture = fereldan }
+784002 = { name = "fereldan 784" culture = fereldan }
+785002 = { name = "fereldan 785" culture = fereldan }
+786002 = { name = "fereldan 786" culture = fereldan }
+787002 = { name = "fereldan 787" culture = fereldan }
+788002 = { name = "fereldan 788" culture = fereldan }
+789002 = { name = "fereldan 789" culture = fereldan }
+790002 = { name = "fereldan 790" culture = fereldan }
+791002 = { name = "fereldan 791" culture = fereldan }
+792002 = { name = "fereldan 792" culture = fereldan }
+793002 = { name = "fereldan 793" culture = fereldan }
+794002 = { name = "fereldan 794" culture = fereldan }
+795002 = { name = "fereldan 795" culture = fereldan }
+796002 = { name = "fereldan 796" culture = fereldan }
+797002 = { name = "fereldan 797" culture = fereldan }
+798002 = { name = "fereldan 798" culture = fereldan }
+799002 = { name = "fereldan 799" culture = fereldan }
+800002 = { name = "fereldan 800" culture = fereldan }
+
+#unused
+
+
+
+15002 = { name = "fereldan 15" culture = fereldan }
+16002 = { name = "fereldan 16" culture = fereldan }
+17002 = { name = "fereldan 17" culture = fereldan }
+18002 = { name = "fereldan 18" culture = fereldan }
+19002 = { name = "fereldan 19" culture = fereldan }
+20002 = { name = "fereldan 20" culture = fereldan }

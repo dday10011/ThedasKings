@@ -1,0 +1,76 @@
+1006 = { name = "Valmont" culture = orlesian }
+2006 = { name = "de Chalons" culture = orlesian }
+3006 = { name = "de Montfort" culture = orlesian }
+4006 = { name = "de Launcet" culture = orlesian }
+5006 = { name = "de Ghislain" culture = orlesian }
+6006 = { name = "Blanchard" culture = orlesian }
+7006 = { name = "de Fer" culture = rivaini }
+8006 = { name = "Fontaine" culture = orlesian }
+9006 = { name = "de Val Montaigne" culture = orlesian }
+10006 = { name = "de Chevin" culture = orlesian }
+11006 = { name = "de Montsimmard" culture = orlesian }
+12006 = { name = "Calvet" culture = orlesian }
+13006 = { name = "DuRellion" culture = orlesian }
+14006 = { name = "Bouffon" culture = orlesian }
+15006 = { name = "Montbelliard" culture = orlesian }
+16006 = { name = "de Mourier" culture = orlesian }
+17006 = { name = "de Poisson" culture = orlesian }
+18006 = { name = "Doucy" culture = orlesian }
+19006 = { name = "Desjardins" culture = orlesian }
+20006 = { name = "d'Amortisan" culture = orlesian }
+21006 = { name = "de Lasouche" culture = orlesian }
+22006 = { name = "Deveraux" culture = orlesian }
+23006 = { name = "Vasseur" culture = orlesian }
+24006 = { name = "Poulenc" culture = orlesian }
+25006 = { name = "Lescot" culture = orlesian }
+26006 = { name = "Abernache" culture = orlesian }
+27006 = { name = "Garde-Haut" culture = orlesian }
+28006 = { name = "Lagaspe" culture = orlesian }
+29006 = { name = "Maron" culture = orlesian }
+30006 = { name = "de Lion" culture = orlesian }
+31006 = { name = "Maurel" culture = orlesian }
+32006 = { name = "Lemarque" culture = orlesian }
+33006 = { name = "Callier" culture = orlesian }
+34006 = { name = "DesRosiers" culture = orlesian }
+35006 = { name = "Thibault" culture = orlesian }
+36006 = { name = "Richelieu" culture = orlesian }
+37006 = { name = "Gelinaux" culture = orlesian }
+38006 = { name = "Jauquin" culture = orlesian }
+39006 = { name = "de Lancre" culture = orlesian }
+40006 = { name = "Volant" culture = orlesian }
+41006 = { name = "Emmald" culture = orlesian }
+42006 = { name = "Germaine" culture = orlesian }
+43006 = { name = "Severin" culture = orlesian }
+44006 = { name = "Bonchance" culture = orlesian }
+45006 = { name = "de Lydes" culture = orlesian }
+46006 = { name = "Mantillon" culture = orlesian }
+47006 = { name = "de Alyons" culture = orlesian }
+48006 = { name = "Courtemance" culture = orlesian }
+49006 = { name = "de Halamshiral" culture = orlesian }
+50006 = { name = "de Velun" culture = orlesian }
+51006 = { name = "d'Argent" culture = orlesian }
+52006 = { name = "Elodie" culture = orlesian }
+53006 = { name = "Helene" culture = orlesian }
+54006 = { name = "Boisvert" culture = orlesian }
+55006 = { name = "de Jader" culture = orlesian }
+56006 = { name = "Etienne" culture = orlesian }
+57006 = { name = "de Bayard" culture = orlesian }
+58006 = { name = "d'Arnee" culture = orlesian }
+59006 = { name = "Arlange" culture = orlesian }
+60006 = { name = "de Rosfort" culture = orlesian }
+61006 = { name = "Couteau" culture = orlesian }
+62006 = { name = "Colombe" culture = orlesian }
+63006 = { name = "de Val Foret" culture = orlesian }
+64006 = { name = "Elspeth" culture = orlesian }
+65006 = { name = "Fleur" culture = orlesian }
+66006 = { name = "Bencour" culture = orlesian }
+67006 = { name = "Mainserai" culture = orlesian }
+68006 = { name = "D'Onterre" culture = orlesian }
+69006 = { name = "Alcyone" culture = orlesian }
+70006 = { name = "Dever" culture = orlesian }
+71006 = { name = "Bellien" culture = orlesian }
+72006 = { name = "Sidonia" culture = orlesian }
+73006 = { name = "Nester" culture = orlesian }
+74006 = { name = "Ezoire" culture = orlesian }
+75006 = { name = "Le Roux" culture = orlesian }
+76006 = { name = "Richard" culture = orlesian }

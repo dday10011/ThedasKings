@@ -1,0 +1,86 @@
+
+anderfel = {
+	graphical_cultures = { easterngfx }
+
+	anders = {
+		graphical_cultures = { ugricgfx }
+		
+		color = { 0.1 0.6 0.6 }
+
+		    male_names = {
+                        #CANON
+                        Berard Eilfas Grivaud Henault Nakiri Padin Sekah
+ 
+                        #NONCANON
+                        Ablard Adal Aeron Aled Alfon Angaaralt Arnaud Artur
+                        Bertr Brinaud Brunt
+                        Corin
+                        Dewey
+                        Eberhart Einion Egos Evauld
+                        Fredin
+                        Gault Geraurd Griffith Gwyndin
+                        Helnor Hokas
+                        Idris Iefan Iwan
+                        Jorge Juston
+                        Kadas Kefin
+                        Lothorn
+                        Madard Mavauld Mekal Merih Meige
+                        Neriah
+                        Oakn Olwin Oswault
+                        Padeh Paul
+                        Rees
+                        Siegnault Storas
+                        Thornt Tomos
+                        Ulfarn
+                        Winrig
+                        Vauld Vitah
+                        Walt
+ 
+                }
+                female_names = {
+                        #CANON
+                        Berrith Kilina Mariwen Talisa Uvasha Woolsley
+                       
+                        #NONCANON
+                        Ada Aerona Agneh Alina Amalin Anwen Andra
+                        Barbel Bethan Bettina Bridget
+                        Dianah Dilis Dores
+                        Edeth Emme Enid Eurwen
+                        Fersha Florwin Frida
+                        Gloria Grewen Griffah Gwenith
+                        Harin Helgin
+                        Iloni
+                        Justinia
+                        Karon Ketrin Kora Krain
+                        Liesha
+                        Mabin Malti Mared Morwen
+                        Nest
+                        Rechel Rasha Rhonwen
+                        Sabrith Siwen
+                        Tarlina
+                        Ulrika Ursel
+                        Verah Viktorah
+                        Winfar
+                        Zerhah
+                }
+ 
+		from_dynasty_prefix = "of "
+
+		modifier = default_culture_modifier
+	}
+	orth	 = {
+		graphical_cultures = { ugricgfx }
+		
+		color = { 0.4 0.75 0.85 }
+
+		male_names = {
+			Orth
+		}
+		female_names = {
+			Lady
+		}
+		from_dynasty_prefix = "of "
+
+		modifier = default_culture_modifier
+	}
+}

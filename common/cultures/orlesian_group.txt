@@ -1,0 +1,164 @@
+imperial_orlesian = {
+	graphical_cultures = { westerngfx }
+
+	cirriane = {
+		graphical_cultures = { norsegfx }
+		
+		color = { 0.5 0.5 0.5 }
+
+		male_names = {
+			Abernath Agmo Aldenon Ap Arland Barlin Brandel Bulfa Byron Cadrim Ceorlic Conobar Cormac Dane Daveth Drass Eddelbrek Eirik Elorn Elstan
+			Fergus Gable Garavel Gareth Hafter Harwen Havard Herren Imrek Ines Irminric Irving Kell Kester Kolgrim Kylon Levi Loghain Lomo
+			Luthias Maric Mather Morrighan Murdock Ormo Oswyn Owen Owyne Radun Raelnor Rendorn Rexel Rhys Riordan Ruadan Rylock Sadatt Sarha Sarim
+			Sighard Taoran Teagan Urien Wade Yuriah
+		}
+		female_names = {
+			Alfstanna Andraste Cauthrien Elethia Farrah Habren Haelia Kaitlyn Keili Landra Lowenna Mallol Mheairi Moira Morag Morrigan Rowan Sang Sorcha Tamra
+		}
+		
+		dukes_called_kings = yes
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier
+	}
+	
+	inghirsh = {
+		graphical_cultures = { norsegfx }
+		
+		color = { 0.5 0.5 0.5 }
+
+		male_names = {
+			Abernath Agmo Aldenon Ap Arland Barlin Brandel Bulfa Byron Cadrim Ceorlic Conobar Cormac Dane Daveth Drass Eddelbrek Eirik Elorn Elstan
+			Fergus Gable Garavel Gareth Hafter Harwen Havard Herren Imrek Ines Irminric Irving Kell Kester Kolgrim Kylon Levi Loghain Lomo
+			Luthias Maric Mather Morrighan Murdock Ormo Oswyn Owen Owyne Radun Raelnor Rendorn Rexel Rhys Riordan Ruadan Rylock Sadatt Sarha Sarim
+			Sighard Taoran Teagan Urien Wade Yuriah
+		}
+		female_names = {
+			Alfstanna Andraste Cauthrien Elethia Farrah Habren Haelia Kaitlyn Keili Landra Lowenna Mallol Mheairi Moira Morag Morrigan Rowan Sang Sorcha Tamra
+		}
+		
+		dukes_called_kings = yes
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier
+	}
+	
+	orlesian = {
+		graphical_cultures = { frankishgfx }
+		
+		color = { 0.5 0.5 0.5 }
+
+		male_names = {
+			#CANON
+			Aldren Alte Arlange Arnaud Arwand
+			Bastien Bencour Benoit Bregan Brevin
+			Chantral Corentine Cyril
+			Diguier Dorian Durellion
+			Edmonde Emile Etienne
+			Felix Ferdinand Florian Foisine Francois Freyan
+			Gascard Gaspar Gaspard Gaston Germain Gerod Guillaume Guy Gratien
+			Hubert
+			Ignace
+			Jeannot Jovi Julien
+			Kaleva Kordillus Kristoff
+			Leonas Lumile
+			Mainserai Marquis Martel Meghren Michel Morrac
+			Nicolas Philliam Pierre Prosper
+			Regalyan Remache Remi Remille Reville Reynaud
+			Stroud
+			Val Varian
+			
+			#NONCANON
+			Alain Alderic Alexandre Alphonse Andre Armand Augustine
+			Bernard
+			Cesar Claude_Claud
+			Damien
+			Edmund Emmanuel
+			Fabian
+			Gabriel Ghislain Gilles
+			Henri
+			Jean
+			Leonard Lionel
+			Marcel Mathieu Maurice
+			Olivier
+			Pascal Phillipe Pierre
+			Renard
+			Sebastian Simeon
+			Tristan
+			Valentine
+			Xavier
+
+
+		}
+		female_names = {
+			#CANON
+			Adrian Alcyone Amandine Amelie Area Aveline
+			Babette
+			Calienne Callista Camille Cecilie Celene Celeste Charlotte Cosinne
+			Dorothea Dulci
+			Elodie Elspeth Evangeline 
+			Fifi
+			Genevieve
+			Helene
+			Isolde
+			Jeaneve Jeannevere
+			Leliana Leonie Lienne Liselle
+			Mantillon Marjolaine Melcendre Montbelliard
+			Ninette
+			Olessa
+			Reimas
+			Servana Seryl
+			Vivienne Vougiene
+			Wilhelmina
+			
+			#NONCANON
+			Adeline Alexis
+			Blanche
+			Clarise Constance Corinne Cosette
+			Delphine Denise
+			Eleonore Elise Emeline Estelle Eveline
+			Faustine Felice Fleur Florentine Francine
+			Guenievre Guendoline
+			Honoria
+			Jaquette Jocelyne Josette Juliet
+			Laurine Lorette Lucette Lucile
+			Maxime Monique
+			Odette Olive Olympe
+			Paulette
+			Rossette
+			Saundra
+			Veronique Victoire
+
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier
+	}
+}

@@ -1,0 +1,147 @@
+alamarri = {
+	graphical_cultures = { norsegfx }
+	
+	avvar = {
+		graphical_cultures = { easternslavicgfx }
+		
+		color = { 0.3 0.55 0.8 }
+		
+		
+		male_names = {
+			Balak Elorn Havard Kell Maferath Morrighan'nan Owyne Ruadan
+		}
+		female_names = {
+			Anashe Kaelah Lowenna Stiksma 
+		}
+
+		dukes_called_kings = yes
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 30
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+
+	chasind = {
+		graphical_cultures = { easternslavicgfx }
+		
+		color = { 0.25 0.5 0.75 }
+		
+		male_names = {
+			Abernath Agmo Aldenon Ap Arland Baba Barlin Brandel Bulfa Byron Cadrim Cahir Ceorlic Conobar Cormac Dane Daveth Drass Eddelbrek Eirik Elorn Elstan
+			Fergus Gable Garavel Gareth Hafter Harwen Havard Herren Imrek Ines Irminric Irving Kell Kester Kolgrim Kylon Levi Loghain Lomo Luthias Maric
+			Mather Morrighan Murdock Ormo Oswyn Owen Owyne Radun Raelnor Rendorn Rexel Rhys Riordan Ruadan Rylock Sadatt Sarha Sarim Sighard Taoran Teagan Urien
+			Velcorminth Wade Yuriah Zorya
+		}
+		female_names = {
+			Alfstanna Cauthrien Elethia Farrah Flemeth Habren Haelia Kaitlyn Keili Landra Lowenna Mallol Mheairi Moira Morag Morrigan Rowan Sang Sorcha
+			Stoyanka Tamra
+		}
+		
+		dukes_called_kings = yes
+		
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 80
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	clayne = {
+		graphical_cultures = { easternslavicgfx }
+		
+		color = { 0.2 0.45 0.65 }
+		
+		male_names = {
+			Abernath Agmo Aldenon Ap Arland Baba Barlin Brandel Bulfa Byron Cadrim Cahir Ceorlic Conobar Cormac Dane Daveth Drass Eddelbrek Eirik Elorn Elstan
+			Fergus Gable Garavel Gareth Hafter Harwen Havard Herren Imrek Ines Irminric Irving Kell Kester Kolgrim Kylon Levi Loghain Lomo Luthias Maric
+			Mather Morrighan Murdock Ormo Oswyn Owen Owyne Radun Raelnor Rendorn Rexel Rhys Riordan Ruadan Rylock Sadatt Sarha Sarim Sighard Taoran Teagan Urien
+			Velcorminth Wade Yuriah Zorya
+		}
+		female_names = {
+			Alfstanna Cauthrien Elethia Farrah Habren Haelia Kaitlyn Keili Landra Lowenna Mallol Mheairi Moira Morag Morrigan Rowan Sang Sorcha Tamra
+		}
+		
+		dukes_called_kings = yes
+		
+		modifier = default_culture_modifier
+	}
+	fereldan = {
+		graphical_cultures = { fereldangfx easternslavicgfx }
+		
+		color = { 0.15 0.4 0.55 }
+		
+		male_names = {
+			Aeden Aldenon Aldous Alec Alistair Ardal Arland Athlar 
+			Barlin Bevin Brandel Bryant Bryce 
+			Cadrim Calenhad Cailan Carroll Carver Ceorlic Colbert Conner Conobar Cullen 
+			Dairren_Derren Daltin Daveth Donall_Donnel Duncan 
+			Eamon Elric 
+			Fergus Franderel 
+			Gable Gallagher Gainley Garret Gareth Garevel Gethon Godwin Greagoir Guy 
+			Harwen Havard Henric Herren 
+			Imrek Irminric Irving 
+			Jory Jowan 
+			Kendrick Kylon 
+			Levi Loghain Lloyd 
+			Malcolm Maric Matthias Mervis Murdock 
+			Niall Nathaniel 
+			Oren Oswyn Owen 
+			Padric Perrin_Perin Perth Pryce 
+			Rendon Rendorn Rhys Riordan 
+			Sabin Samuel Sarim Silas Sighard 
+			Tarleton Teagan Thomas_Tomas Tilver Timothy Toben 
+			Uldred Urien 
+			Vanedrin Vaughan_Vaughn Varel Voric 
+			Wade Walter Wesley Weylan_Weylon 
+			Yuriah
+		}
+		female_names = {
+			Adria Alfstanna Allison Amalia Anora Aveline 
+			Bella Bethany 
+			Cauthrien 
+			Danella Delilah 
+			Eleanor Esmerelle Evelina 
+			Farrah 
+			Goldanna 
+			Habren 
+			Ines 
+			Joanna Justine 
+			Kaitlyn Keili 
+			Landry Leandra Lilith Lily Liza 
+			Mallol Maverlies Mheairi Miriam Moira 
+			Nancine 
+			Rosamund Rowan Rylien Rylock 
+			Sang Sarha Sophia
+			Sorcha 
+			Tamra 
+			Valena Veness 
+			Wynne
+		}
+		
+		
+		modifier = default_culture_modifier
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 0
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 30
+		mother_name_chance = 0
+	}
+}

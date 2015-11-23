@@ -1,0 +1,301 @@
+laws = {  
+	mage_privileges_0 = { #Repressed
+		group = mage_privileges
+		potential = { 
+			holder_scope = {
+				independent = yes 
+			}
+		}       
+		allow = {
+			or = {
+				has_law = mage_privileges_1
+				holder_scope = {
+					religion = qun_religion
+				}
+			}
+			holder_scope = {
+				NOT = { 
+					has_character_flag = enacted_mage_law
+				}
+			}
+		}
+		revoke_allowed = {
+			always = no
+		}                        
+		ai_will_do = {
+			factor = 0
+		}
+		ai_will_revoke = {
+			factor = 0
+		}
+		effect = {
+			hidden_tooltip = {
+				revoke_law = mage_privileges_1
+				revoke_law = mage_privileges_2
+				revoke_law = mage_privileges_3
+				revoke_law = mage_privileges_4
+				revoke_law = mage_privileges_5
+				revoke_law = mage_privileges_6
+			}
+		}
+		pass_effect = {
+			holder_scope = { set_character_flag = enacted_mage_law }
+		}
+	}
+
+	mage_privileges_1 = { #Severely surveilled
+		group = mage_privileges
+		potential = { 
+			holder_scope = {
+				independent = yes 
+			}
+		}                
+		allow = {
+			holder_scope = {
+				NOT = { 
+					has_character_flag = enacted_mage_law
+				}
+			}
+			or = {
+				has_law = mage_privileges_0
+				has_law = mage_privileges_2
+			}
+		}
+		revoke_allowed = {
+			always = no
+		}                        
+		ai_will_do = {
+			factor = 0
+		}
+		ai_will_revoke = {
+			factor = 0
+		}
+		effect = {
+			hidden_tooltip = {
+				revoke_law = mage_privileges_0
+				revoke_law = mage_privileges_2
+				revoke_law = mage_privileges_3
+				revoke_law = mage_privileges_4
+				revoke_law = mage_privileges_5
+				revoke_law = mage_privileges_6
+			}
+		}
+		pass_effect = {
+			holder_scope = { set_character_flag = enacted_mage_law }
+		}
+	}
+
+	mage_privileges_2 = { #Surveilled
+		group = mage_privileges
+		potential = { 
+			holder_scope = {
+				independent = yes 
+			}
+		}               
+		default = yes          
+		allow = {
+			holder_scope = {
+				NOT = { 
+					has_character_flag = enacted_mage_law
+				}
+			}
+			or = {
+				has_law = mage_privileges_1
+				has_law = mage_privileges_3
+			}
+		}
+		revoke_allowed = {
+			always = no
+		}                        
+		ai_will_do = {
+			factor = 0
+		}
+		ai_will_revoke = {
+			factor = 0
+		}
+		effect = {
+			hidden_tooltip = {
+				revoke_law = mage_privileges_0
+				revoke_law = mage_privileges_1
+				revoke_law = mage_privileges_3
+				revoke_law = mage_privileges_4
+				revoke_law = mage_privileges_5
+				revoke_law = mage_privileges_6
+			}
+		}
+		pass_effect = {
+			holder_scope = { set_character_flag = enacted_mage_law }
+		}
+	}
+
+    mage_privileges_3 = { #Leniently surveilled
+		group = mage_privileges
+		potential = { 
+			holder_scope = {
+				independent = yes 
+			}
+		}                
+		allow = {
+			holder_scope = {
+				NOT = { 
+					has_character_flag = enacted_mage_law
+				}
+			}
+			or = {
+				has_law = mage_privileges_2
+				has_law = mage_privileges_4
+			}
+		}
+		revoke_allowed = {
+			always = no
+		}                        
+		ai_will_do = {
+			factor = 0
+		}
+		ai_will_revoke = {
+			factor = 0
+		}
+		effect = {
+			hidden_tooltip = {
+				revoke_law = mage_privileges_0
+				revoke_law = mage_privileges_1
+				revoke_law = mage_privileges_2
+				revoke_law = mage_privileges_4
+				revoke_law = mage_privileges_5
+				revoke_law = mage_privileges_6
+			}
+		}
+		pass_effect = {
+			holder_scope = { set_character_flag = enacted_mage_law }
+		}
+	}
+
+	mage_privileges_4 = { #citizenship
+		group = mage_privileges
+		potential = { 
+			holder_scope = {
+				independent = yes 
+			}
+		}                
+		allow = {
+			holder_scope = {
+				NOT = { 
+					has_character_flag = enacted_mage_law
+				}
+			}
+			or = {
+				has_law = mage_privileges_3
+				has_law = mage_privileges_5
+			}
+		}
+		revoke_allowed = {
+			always = no
+		}                        
+		ai_will_do = {
+			factor = 0
+		}
+		ai_will_revoke = {
+			factor = 0
+		}
+		effect = {
+			hidden_tooltip = {
+				revoke_law = mage_privileges_0
+				revoke_law = mage_privileges_1
+				revoke_law = mage_privileges_2
+				revoke_law = mage_privileges_3
+				revoke_law = mage_privileges_5
+				revoke_law = mage_privileges_6
+			}
+		}
+		pass_effect = {
+			holder_scope = { set_character_flag = enacted_mage_law }
+		}
+	}
+
+	mage_privileges_5 = { #magocracy
+		group = mage_privileges
+		potential = { 
+			holder_scope = {
+				independent = yes 
+			}
+		}                
+		allow = {
+			holder_scope = {
+				NOT = { 
+					has_character_flag = enacted_mage_law
+				}
+			}
+			has_law = mage_privileges_4
+		}
+		revoke_allowed = {
+			always = no
+		}                        
+		ai_will_do = {
+			factor = 0
+		}
+		ai_will_revoke = {
+			factor = 0
+		}
+		effect = {
+			hidden_tooltip = {
+				revoke_law = mage_privileges_0
+				revoke_law = mage_privileges_1
+				revoke_law = mage_privileges_2
+				revoke_law = mage_privileges_3
+				revoke_law = mage_privileges_4
+				revoke_law = mage_privileges_6
+			}
+		}
+		pass_effect = {
+			holder_scope = { set_character_flag = enacted_mage_law }
+		}
+	}
+			
+	mage_privileges_6 = { #Autonomous - for pagans
+		group = mage_privileges
+		potential = { 
+			holder_scope = {
+				independent = yes 
+			}
+		}                
+		default = yes
+		allow = {
+			holder_scope = {
+				or = {
+					culture = dalish_elf
+					religion_group = pagans_group
+					religion_group = the_stone #a default really.
+				}
+			}
+			holder_scope = {
+				NOT = { 
+					has_character_flag = enacted_mage_law
+				}
+			}
+		}
+		revoke_allowed = {
+			always = no
+		}                        
+		ai_will_do = {
+			factor = 0
+		}
+		ai_will_revoke = {
+			factor = 0
+		}
+		effect = {
+			hidden_tooltip = {
+				revoke_law = mage_privileges_0
+				revoke_law = mage_privileges_1
+				revoke_law = mage_privileges_2
+				revoke_law = mage_privileges_3
+				revoke_law = mage_privileges_4
+				revoke_law = mage_privileges_5
+			}
+		}
+		pass_effect = {
+			holder_scope = { set_character_flag = enacted_mage_law }
+		}
+	}
+	
+}
+

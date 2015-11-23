@@ -1,0 +1,9 @@
+bookmark =
+{
+	name = "BM_FIFTHBLIGHT"
+	desc = "BM_FIFTHBLIGHT_DESC"
+	date = 8929.1.1
+
+	character = 1102
+	
+}

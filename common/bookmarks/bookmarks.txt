@@ -1,0 +1,18 @@
+bookmark =
+{
+	name = "BM_FIFTHBLIGHT"
+	desc = "BM_FIFTHBLIGHT_DESC"
+	date = 8929.1.1
+
+	character = 1002005 #Cailan
+    character = 1006001 #Celene
+    character = 1010001
+	character = 1008001
+	character = 1003001
+	character = 1011001
+	character = 7006001
+	character = 1007001
+	character = 1009001
+	character = 1001001
+	character = 5002004 #Loghain
+}

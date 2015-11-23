@@ -1,0 +1,21 @@
+
+unsettled = {
+	graphical_cultures = { forestgfx }
+
+	forest = {
+		graphical_cultures = { forestgfx }
+		
+		color = { 0.4 0.6 0.4 }
+
+		male_names = {
+			Forest
+		}
+		female_names = {
+			Forest
+		}
+		
+		from_dynasty_prefix = "of "
+
+		modifier = default_culture_modifier
+	}
+}

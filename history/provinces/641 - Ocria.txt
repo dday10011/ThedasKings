@@ -1,0 +1,17 @@
+# c_ocria
+
+# County Title
+title = c_ocria
+
+# Settlements
+max_settlements = 3
+
+b_ocria = castle
+b_ocria_2 = city
+b_ocria_3 = temple
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

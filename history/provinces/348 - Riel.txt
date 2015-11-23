@@ -1,0 +1,18 @@
+# c_riel
+
+# County Title
+title = c_riel
+
+# Settlements
+max_settlements = 4
+
+b_riel = castle
+b_riel_2 = city
+b_riel_3 = temple
+b_riel_4 = castle
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

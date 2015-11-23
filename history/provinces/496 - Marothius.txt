@@ -1,0 +1,19 @@
+# c_marothius
+
+# County Title
+title = c_marothius
+
+# Settlements
+max_settlements = 5
+
+b_marothius = castle
+b_marothius_2 = city
+b_marothius_3 = temple
+b_marothius_4 = castle
+b_marothius_5 = city
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

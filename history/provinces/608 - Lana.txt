@@ -1,0 +1,19 @@
+# c_lana
+
+# County Title
+title = c_lana
+
+# Settlements
+max_settlements = 5
+
+b_lana = castle
+b_lana_2 = city
+b_lana_3 = temple
+b_lana_4 = castle
+b_lana_5 = city
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,16 @@
+# c_wyvern_keep
+
+# County Title
+title = c_wyvern_keep
+
+# Settlements
+max_settlements = 2
+
+b_wyvern_keep = castle
+b_wyvern_keep_2 = city
+
+# Misc
+culture = avvar
+religion = avvar
+
+#History

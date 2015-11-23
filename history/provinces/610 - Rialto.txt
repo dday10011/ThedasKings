@@ -1,0 +1,20 @@
+# c_rialto
+
+# County Title
+title = c_rialto
+
+# Settlements
+max_settlements = 6
+
+b_rialto = castle
+b_rialto_2 = city
+b_rialto_3 = temple
+b_rialto_4 = castle
+b_rialto_5 = city
+b_rialto_6 = temple
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

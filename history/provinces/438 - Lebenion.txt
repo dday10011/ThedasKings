@@ -1,0 +1,17 @@
+# c_lebenion
+
+# County Title
+title = c_lebenion
+
+# Settlements
+max_settlements = 3
+
+b_lebenion = castle
+b_lebenion_2 = city
+b_lebenion_3 = temple
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

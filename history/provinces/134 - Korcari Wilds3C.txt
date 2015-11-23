@@ -1,0 +1,15 @@
+# c_korcari_wilds3c
+
+# County Title
+title = c_korcari_wilds3c
+
+# Settlements
+max_settlements = 1
+
+b_korcari_wilds3c = castle
+
+# Misc
+culture = chasind
+religion = chasind
+
+#History

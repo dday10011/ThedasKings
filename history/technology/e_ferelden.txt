@@ -1,0 +1,34 @@
+#FERELDEN
+technology = {
+	titles = {
+		d_denerim
+		d_brandels_reach
+		d_lothering
+		d_oldstones
+		d_ostagar
+		d_south_reach
+		d_southron_hills
+		d_the_bannorn
+		d_the_dane_land
+		d_gwaren
+		d_brecilias_pass
+		d_seaside
+		d_highever
+		d_amaranthine
+		d_west_hill
+		d_redcliffe
+		d_edgehall
+		d_gherlens_pass
+		d_west_hills
+	}
+	7000 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+	12000 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}

@@ -1,0 +1,21 @@
+# c_orzammar
+
+# County Title
+title = c_orzammar
+
+# Settlements
+max_settlements = 7
+
+b_orzammar = castle
+#b_orzammar_2 = city
+#b_orzammar_3 = temple
+#b_orzammar_4 = castle
+#b_orzammar_5 = city
+#b_orzammar_6 = temple
+#b_orzammar_7 = castle
+
+# Misc
+culture = orzammar
+religion = our_ancestors
+
+#History

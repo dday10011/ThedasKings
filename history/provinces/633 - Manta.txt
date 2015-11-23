@@ -1,0 +1,17 @@
+# c_manta
+
+# County Title
+title = c_manta
+
+# Settlements
+max_settlements = 3
+
+b_manta = castle
+b_manta_2 = city
+b_manta_3 = temple
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,16 @@
+# c_gullersede
+
+# County Title
+title = c_gullersede
+
+# Settlements
+max_settlements = 2
+
+b_gullersede = castle
+b_gullersede_2 = city
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

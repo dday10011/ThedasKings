@@ -1,0 +1,19 @@
+# c_kahan
+
+# County Title
+title = c_kahan
+
+# Settlements
+max_settlements = 5
+
+b_kahan = castle
+b_kahan_2 = city
+b_kahan_3 = temple
+b_kahan_4 = castle
+b_kahan_5 = city
+
+# Misc
+culture = rivaini
+religion = andrastian_chantry
+
+#History

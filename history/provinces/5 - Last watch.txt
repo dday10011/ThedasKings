@@ -1,0 +1,18 @@
+# c_last_watch
+
+# County Title
+title = c_last_watch
+
+# Settlements
+max_settlements = 4
+
+b_last_watch = castle
+b_last_watch_2 = city
+b_last_watch_3 = temple
+b_last_watch_4 = castle
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

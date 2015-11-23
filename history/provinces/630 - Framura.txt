@@ -1,0 +1,19 @@
+# c_framura
+
+# County Title
+title = c_framura
+
+# Settlements
+max_settlements = 5
+
+b_framura = castle
+b_framura_2 = city
+b_framura_3 = temple
+b_framura_4 = castle
+b_framura_5 = city
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

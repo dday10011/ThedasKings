@@ -1,0 +1,17 @@
+# c_montchauvet
+
+# County Title
+title = c_montchauvet
+
+# Settlements
+max_settlements = 3
+
+b_montchauvet = castle
+b_montchauvet_2 = city
+b_montchauvet_3 = temple
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

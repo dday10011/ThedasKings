@@ -1,0 +1,18 @@
+# c_koru
+
+# County Title
+title = c_koru
+
+# Settlements
+max_settlements = 4
+
+b_koru = castle
+b_koru_2 = city
+b_koru_3 = temple
+b_koru_4 = castle
+
+# Misc
+culture = qunari
+religion = qun_religion
+
+#History

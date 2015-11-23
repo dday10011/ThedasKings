@@ -1,0 +1,18 @@
+# c_eltingberg
+
+# County Title
+title = c_eltingberg
+
+# Settlements
+max_settlements = 4
+
+b_eltingberg = castle
+b_eltingberg_2 = city
+b_eltingberg_3 = temple
+b_eltingberg_4 = castle
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,17 @@
+# c_brecilias_passage
+
+# County Title
+title = c_brecilias_passage
+
+# Settlements
+max_settlements = 3
+
+b_brecilias_passage = castle
+b_brecilias_passage_2 = city
+b_brecilias_passage_3 = temple
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

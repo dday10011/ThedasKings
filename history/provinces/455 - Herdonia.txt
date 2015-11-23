@@ -1,0 +1,18 @@
+# c_herdonia
+
+# County Title
+title = c_herdonia
+
+# Settlements
+max_settlements = 4
+
+b_herdonia = castle
+b_herdonia_2 = city
+b_herdonia_3 = temple
+b_herdonia_4 = castle
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

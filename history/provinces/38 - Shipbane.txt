@@ -1,0 +1,17 @@
+# c_shipbane
+
+# County Title
+title = c_shipbane
+
+# Settlements
+max_settlements = 3
+
+b_shipbane = castle
+b_shipbane_2 = city
+b_shipbane_3 = temple
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

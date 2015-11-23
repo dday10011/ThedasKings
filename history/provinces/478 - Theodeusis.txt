@@ -1,0 +1,17 @@
+# c_theodeusis
+
+# County Title
+title = c_theodeusis
+
+# Settlements
+max_settlements = 3
+
+b_theodeusis = castle
+b_theodeusis_2 = city
+b_theodeusis_3 = temple
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

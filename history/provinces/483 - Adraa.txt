@@ -1,0 +1,16 @@
+# c_adraa
+
+# County Title
+title = c_adraa
+
+# Settlements
+max_settlements = 2
+
+b_adraa = castle
+b_adraa_2 = city
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

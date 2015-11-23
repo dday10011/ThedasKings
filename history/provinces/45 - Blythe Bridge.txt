@@ -1,0 +1,18 @@
+# c_blythe_bridge
+
+# County Title
+title = c_blythe_bridge
+
+# Settlements
+max_settlements = 4
+
+b_blythe_bridge = castle
+b_blythe_bridge_2 = city
+b_blythe_bridge_3 = temple
+b_blythe_bridge_4 = castle
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

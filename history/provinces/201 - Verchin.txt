@@ -1,0 +1,17 @@
+# c_verchin
+
+# County Title
+title = c_verchin
+
+# Settlements
+max_settlements = 3
+
+b_verchin = castle
+b_verchin_2 = city
+b_verchin_3 = temple
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

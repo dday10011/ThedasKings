@@ -1,0 +1,648 @@
+namespace = da_racial_setup
+
+character_event = { #assing race trait from on_startup and on_yearly_pulse - for randomly generated characters
+        id = da_racial_setup.1 
+        hide_window = yes
+        is_triggered_only = yes  
+        only_rulers = yes
+    
+    trigger = {
+                capital_scope = {
+                        or = {
+                                empire = { title = e_ferelden }
+                                empire = { title = e_deep_roads }
+                                empire = { title = e_the_dales }
+                                empire = { title = e_avvars }
+                                empire = { title = e_orlais }
+                                empire = { title = e_nevarra }
+                                empire = { title = e_free_marches }
+                                empire = { title = e_antiva }
+                                empire = { title = e_rivain }
+                                empire = { title = e_tevinter_imperium }
+                                empire = { title = e_anderfels }
+                                empire = { title = e_the_qun }
+                                kingdom = { title = k_arlathan }
+                                kingdom = { title = k_korcari_wilds }
+                                kingdom = { title = k_brecilla_forest } 
+                        }
+                }
+    }	
+    
+    immediate = {
+	            if = {
+			limit = {
+                graphical_culture = elfgfx #using this as a placeholder, also to be testable in vanilla
+                not = { #trait = dwarf_race
+                                              #  trait = halfdwarf_race
+                                              #  trait = human_race
+                                                trait = elf_race
+                                              #  trait = qunari_race
+                                              #  trait = darkspawn_race}
+            }
+		}
+            add_trait = elf_race
+			}
+                if = {
+            limit = {
+                graphical_culture = qunarigfx #using this as a placeholder, also to be testable in vanilla
+                not = { trait = qunari_race }
+            }
+            add_trait = qunari_race     
+       }
+                if = {
+            limit = {
+                graphical_culture = darkspawngfx #using this as a placeholder, also to be testable in vanilla
+                not = { trait = darkspawn_race }
+            }
+            add_trait = darkspawn_race  
+       }
+                if = {
+            limit = {
+                graphical_culture = darkspawngfx #using this as a placeholder, also to be testable in vanilla
+                not = { trait = darkspawn_race }
+            }
+            add_trait = darkspawn_race
+        }
+                if = {
+            limit = {
+                                not = {
+                                        graphical_culture = dwarfgfx #using this as a placeholder, also to be testable in vanilla
+                                        graphical_culture = elfgfx
+                                        graphical_culture = qunarigfx
+                                        graphical_culture = darkspawngfx
+                                }
+                not = { trait = human_race }
+            }
+            add_trait = human_race     
+			}
+                if = {
+            limit = {
+                graphical_culture = dwarfgfx #using this as a placeholder, also to be testable in vanilla
+                not = {
+                     trait = dwarf_race
+                     trait = halfdwarf_race
+                   #  trait = human_race
+                    # trait = elf_race
+                   #  trait = qunari_race
+                    # trait = darkspawn_race}
+            }
+		}
+            add_trait = dwarf_race
+            random_list = {
+                35 = { 
+                    modifier = { 
+                        factor = 50  
+                        is_landed = yes
+                        not = {
+                             capital_holding = {
+                                 holding_type = temple
+                             }
+                        }
+                    }
+                    modifier = {
+                        factor = 50
+                        is_landed = yes
+                        capital_holding = {
+                            holding_type = city
+                        }
+                    }  
+                    add_trait = noble_caste 
+                }
+                25 = { 
+                    modifier = {
+                        factor = 25
+                        is_landed = yes
+                        capital_holding = {
+                            holding_type = castle
+                        }
+                    }  
+                    add_trait = warrior_caste 
+                }
+                15 = { 
+                    modifier = {
+                        factor = 25
+                        is_landed = yes
+                        capital_holding = {
+                            holding_type = city
+                        }
+                    }  
+                    add_trait = merchant_caste 
+                }
+                5 = {
+                    modifier = {
+                        factor = 50
+                        is_landed = yes
+                        capital_holding = {
+                            holding_type = temple
+                        }
+                    }  
+                    add_trait = smith_caste #best fitting class for shapers?
+                }
+                5 = {
+                    add_trait = artisan_caste
+                }
+                5 = {
+                    add_trait = servant_caste
+                }
+                5 = {
+                    add_trait = miner_caste
+                }
+                5 = {
+                    add_trait = casteless
+                }
+                
+            }
+       }
+	   any_realm_character = {
+	                   if = {
+            limit = {
+                graphical_culture = dwarfgfx #using this as a placeholder, also to be testable in vanilla
+                not = {
+                     trait = dwarf_race
+                     trait = halfdwarf_race
+                   #  trait = human_race
+                    # trait = elf_race
+                   #  trait = qunari_race
+                    # trait = darkspawn_race}
+            }
+		}
+            add_trait = dwarf_race
+            random_list = {
+                35 = { 
+                    modifier = { 
+                        factor = 50  
+                        is_landed = yes
+                        not = {
+                             capital_holding = {
+                                 holding_type = temple
+                             }
+                        }
+                    }
+                    modifier = {
+                        factor = 50
+                        is_landed = yes
+                        capital_holding = {
+                            holding_type = city
+                        }
+                    }  
+                    add_trait = noble_caste 
+                }
+                25 = { 
+                    modifier = {
+                        factor = 25
+                        is_landed = yes
+                        capital_holding = {
+                            holding_type = castle
+                        }
+                    }  
+                    add_trait = warrior_caste 
+                }
+                15 = { 
+                    modifier = {
+                        factor = 25
+                        is_landed = yes
+                        capital_holding = {
+                            holding_type = city
+                        }
+                    }  
+                    add_trait = merchant_caste 
+                }
+                5 = {
+                    modifier = {
+                        factor = 50
+                        is_landed = yes
+                        capital_holding = {
+                            holding_type = temple
+                        }
+                    }  
+                    add_trait = smith_caste #best fitting class for shapers?
+                }
+                5 = {
+                    add_trait = artisan_caste
+                }
+                5 = {
+                    add_trait = servant_caste
+                }
+                5 = {
+                    add_trait = miner_caste
+                }
+                5 = {
+                    add_trait = casteless
+                }
+                
+            }
+		}
+	  }
+		any_realm_character = {
+                if = {
+            limit = {
+                graphical_culture = elfgfx #using this as a placeholder, also to be testable in vanilla
+                not = { #trait = dwarf_race
+                                                #trait = halfdwarf_race
+                                                #trait = human_race
+                                                trait = elf_race
+                                               # trait = qunari_race
+                                                #trait = darkspawn_race}
+            }
+		}
+            add_trait = elf_race     
+       }
+	  }
+                any_realm_character = {
+            if = {
+			limit = {
+                graphical_culture = elfgfx #using this as a placeholder, also to be testable in vanilla
+                not = { #trait = dwarf_race
+                                              #  trait = halfdwarf_race
+                                              #  trait = human_race
+                                                trait = elf_race
+                                              #  trait = qunari_race
+                                              #  trait = darkspawn_race}
+            }
+		}
+            add_trait = elf_race
+			}
+                if = {
+            limit = {
+                graphical_culture = qunarigfx #using this as a placeholder, also to be testable in vanilla
+                not = { trait = qunari_race }
+            }
+            add_trait = qunari_race     
+       }
+                if = {
+            limit = {
+                graphical_culture = darkspawngfx #using this as a placeholder, also to be testable in vanilla
+                not = { trait = darkspawn_race }
+            }
+            add_trait = darkspawn_race  
+       }
+                if = {
+            limit = {
+                graphical_culture = darkspawngfx #using this as a placeholder, also to be testable in vanilla
+                not = { trait = darkspawn_race }
+            }
+            add_trait = darkspawn_race
+        }
+                if = {
+            limit = {
+                                not = {
+                                        graphical_culture = dwarfgfx #using this as a placeholder, also to be testable in vanilla
+                                        graphical_culture = elfgfx
+                                        graphical_culture = qunarigfx
+                                        graphical_culture = darkspawngfx
+                                }
+                not = { trait = human_race }
+            }
+            add_trait = human_race     
+			}
+		}
+	} 
+ }	       
+        
+character_event = { #assing race trait from on_birth - for newborn
+        id = da_racial_setup.2 
+        hide_window = yes
+        is_triggered_only = yes
+        
+        immediate = {
+                if = {
+                        limit = {  
+                                mother_even_if_dead = {
+                                        trait = dwarf_race
+                                }
+                                father_even_if_dead = {
+                                    trait = dwarf_race
+                            }
+                            
+                        }
+                        add_trait = dwarf_race
+                 }
+                if = {
+                        limit = {    
+                                mother_even_if_dead = {
+                                        trait = elf_race
+                                } 
+                                father_even_if_dead = {
+                                        trait = elf_race
+                                }                                
+                        }
+                        add_trait = elf_race
+                 }
+                if = {
+                        limit = {    
+                                mother_even_if_dead = {
+                                        trait = darkspawn_race
+                                }
+                            #   father_even_if_dead = {
+                              #          trait = darkspawn_race
+                                #}
+                        }
+                        add_trait = darkspawn_race
+                 }
+                if = {
+                        limit = {  
+                                mother_even_if_dead = {
+                                        trait = qunari_race
+                                }
+                        }
+                        add_trait = qunari_race
+                 }
+                if = {
+                        limit = {    
+                                mother_even_if_dead = {                                        
+                                        trait = human_race
+                                }
+                                father_even_if_dead = {                                        
+                                        trait = human_race
+                                }
+                        }
+                        add_trait = human_race
+                 }
+                 if  = {
+                      limit = {
+                          mother_even_if_dead = {
+                                  trait = elf_race
+                                  }
+                            father_even_if_dead = {
+                                trait = human_race
+                                         }
+                    }
+                        add_trait = human_race
+                        add_trait = elf_blooded
+                        set_graphical_culture = PREV
+             }
+            if = {
+                limit = {
+                    father_even_if_dead = { 
+                        trait = elf_race
+                        }
+                    mother_even_if_dead = {
+                        trait = human_race
+                        }
+                    }
+                        add_trait = human_race
+                        add_trait = elf_blooded
+                        set_graphical_culture = PREV
+
+                }
+            if = {
+                limit = {
+                    father_even_if_dead = {
+                        trait = dwarf_race
+                        }
+                    mother_even_if_dead = {
+                        trait = human_race
+                        }
+                }
+                    add_trait = halfdwarf_race
+                    set_graphical_culture = orzammar                             
+            }
+        if = {
+            limit = {
+                father_even_if_dead = {
+                trait = human_race
+                }
+                mother_even_if_dead = {
+                    trait = dwarf_race
+                    }
+            }
+                add_trait = halfdwarf_race
+                    set_graphical_culture = orzammar                             
+
+        }
+    if = {
+        limit = {
+            father_even_if_dead = {
+            trait = elf_race
+            }
+            mother_even_if_dead = {
+            trait = dwarf_race
+            }
+        }
+                add_trait = dwarf_race
+                }
+    if = {
+        limit = {
+            father_even_if_dead = {
+                trait = dwarf_race
+            }
+             mother_even_if_dead = {
+                trait = elf_race
+            }
+                }
+        add_trait = dwarf_race
+        }
+        if = {
+                limit= {
+                father_even_if_dead = {
+                OR = {
+                trait = halfdwarf_race
+                trait = elf_race
+                trait = human_race
+                trait = dwarf_race
+                }
+                }
+                mother_even_if_dead = {
+                trait = halfdwarf_race
+                }
+        }
+        add_trait = halfdwarf_race
+}
+        if = {
+                limit= {
+                mother_even_if_dead = {
+                OR = { trait = halfdwarf_race
+                           trait = elf_race
+                           trait = human_race
+                           trait = dwarf_race
+                           }
+                }
+                father_even_if_dead = {
+                trait = halfdwarf_race
+                }
+        }
+        add_trait = halfdwarf_race
+}
+        if = {
+                limit= {
+                mother_even_if_dead = {
+                trait = elf_blooded
+                }
+                father_even_if_dead = {
+                NOT = { trait = dwarf_race
+                           trait = halfdwarf_race}
+                }
+        }
+        add_trait = elf_blooded
+}
+        if = {
+                limit= {
+                father_even_if_dead = {
+                trait = elf_blooded
+                }
+                mother_even_if_dead = {
+                NOT = { trait = dwarf_race
+                           trait = halfdwarf_race }
+                }
+        }
+        add_trait = elf_blooded
+               }
+		}
+}        
+namespace = da_dwarf_caste
+
+character_event = { #assign dwarf caste - from on_birth
+    id = da_dwarf_caste.1
+    hide_window = yes
+    is_triggered_only = yes
+        
+        trigger = {
+                or = {
+                        father_even_if_dead = { OR = {trait = halfdwarf_race
+                        trait = dwarf_race }}
+                        mother_even_if_dead = { OR = {trait = halfdwarf_race
+                        trait = dwarf_race }}
+        }
+}
+    
+    immediate = {
+                if = {  
+            limit = { is_female = no }
+            if = {
+                limit = {    
+                    father_even_if_dead = {
+                       trait = noble_caste
+                    }
+                }
+                add_trait = noble_caste
+            }
+            if = {
+                limit = {    
+                    father_even_if_dead = {
+                       trait = warrior_caste
+                    }
+                }
+                add_trait = warrior_caste
+            }
+            if = {
+                limit = {    
+                    father_even_if_dead = {
+                       trait = merchant_caste
+                    }
+                }
+                add_trait = merchant_caste
+            }
+            if = {
+                limit = {    
+                    father_even_if_dead = {
+                       trait = smith_caste
+                    }
+                }
+                add_trait = smith_caste
+            }
+            if = {
+                limit = {    
+                    father_even_if_dead = {
+                       trait = artisan_caste
+                    }
+                }
+                add_trait = artisan_caste
+            }
+            if = {
+                limit = {    
+                    father_even_if_dead = {
+                       trait = miner_caste
+                    }
+                }
+                add_trait = miner_caste
+            }
+            if = {
+                limit = {    
+                    father_even_if_dead = {
+                       trait = servant_caste
+                    }
+                }
+                add_trait = servant_caste
+            }
+            if = {
+                limit = {    
+                    father_even_if_dead = {
+                       trait = casteless
+                    }
+                }
+                add_trait = casteless
+            }
+        }
+        if = {  
+            limit = { is_female = yes }
+            if = {
+                limit = {    
+                    mother_even_if_dead = {
+                       trait = noble_caste
+                    }
+                }
+                add_trait = noble_caste
+            }
+            if = {
+                limit = {    
+                    mother_even_if_dead = {
+                       trait = warrior_caste
+                    }
+                }
+                add_trait = warrior_caste
+            }
+            if = {
+                limit = {    
+                    mother_even_if_dead = {
+                       trait = merchant_caste
+                    }
+                }
+                add_trait = merchant_caste
+            }
+            if = {
+                limit = {    
+                    mother_even_if_dead = {
+                       trait = smith_caste
+                    }
+                }
+                add_trait = smith_caste
+            }
+            if = {
+                limit = {    
+                   mother_even_if_dead = {
+                       trait = artisan_caste
+                    }
+                }
+                add_trait = artisan_caste
+            }
+            if = {
+                limit = {    
+                    mother_even_if_dead = {
+                       trait = miner_caste
+                    }
+                }
+                add_trait = miner_caste
+            }
+            if = {
+                limit = {    
+                    mother_even_if_dead = {
+                       trait = servant_caste
+                    }
+                }
+                add_trait = servant_caste
+            }
+            if = {
+                limit = {    
+                    mother_even_if_dead = {
+                       trait = casteless
+                    }
+                }
+                add_trait = casteless
+            }
+        }
+    }
+}
+
+
+
+

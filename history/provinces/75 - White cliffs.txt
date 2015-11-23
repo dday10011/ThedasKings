@@ -1,0 +1,17 @@
+# c_white_cliffs
+
+# County Title
+title = c_white_cliffs
+
+# Settlements
+max_settlements = 3
+
+b_white_cliffs = castle
+b_white_cliffs_2 = city
+b_white_cliffs_3 = temple
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,17 @@
+# c_crestwood
+
+# County Title
+title = c_crestwood
+
+# Settlements
+max_settlements = 3
+
+b_crestwood = castle
+b_crestwood_2 = city
+b_crestwood_3 = temple
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,17 @@
+# c_akryreum
+
+# County Title
+title = c_akryreum
+
+# Settlements
+max_settlements = 3
+
+b_akryreum = castle
+b_akryreum_2 = city
+b_akryreum_3 = temple
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

@@ -1,0 +1,16 @@
+# c_cevennes
+
+# County Title
+title = c_cevennes
+
+# Settlements
+max_settlements = 2
+
+b_cevennes = castle
+b_cevennes_2 = city
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

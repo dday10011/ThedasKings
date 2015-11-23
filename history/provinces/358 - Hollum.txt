@@ -1,0 +1,16 @@
+# c_hollum
+
+# County Title
+title = c_hollum
+
+# Settlements
+max_settlements = 2
+
+b_hollum = castle
+b_hollum_2 = city
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,18 @@
+# c_tera
+
+# County Title
+title = c_tera
+
+# Settlements
+max_settlements = 4
+
+b_tera = castle
+b_tera_2 = city
+b_tera_3 = temple
+b_tera_4 = castle
+
+# Misc
+culture = rivaini
+religion = andrastian_chantry
+
+#History

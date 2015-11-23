@@ -1,0 +1,19 @@
+# c_weishaupt
+
+# County Title
+title = c_weishaupt
+
+# Settlements
+max_settlements = 5
+
+b_weishaupt = castle
+b_weishaupt_2 = city
+b_weishaupt_3 = temple
+b_weishaupt_4 = castle
+b_weishaupt_5 = city
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

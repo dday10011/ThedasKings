@@ -1,0 +1,18 @@
+# c_heine
+
+# County Title
+title = c_heine
+
+# Settlements
+max_settlements = 4
+
+b_heine = castle
+b_heine_2 = city
+b_heine_3 = temple
+b_heine_4 = castle
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

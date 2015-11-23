@@ -1,0 +1,18 @@
+# c_markhamc
+
+# County Title
+title = c_markhamc
+
+# Settlements
+max_settlements = 4
+
+b_markhamc = castle
+b_markhamc_2 = city
+b_markhamc_3 = temple
+b_markhamc_4 = castle
+
+# Misc
+culture = markham
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,18 @@
+# c_lapoinon
+
+# County Title
+title = c_lapoinon
+
+# Settlements
+max_settlements = 4
+
+b_lapoinon = castle
+b_lapoinon_2 = city
+b_lapoinon_3 = temple
+b_lapoinon_4 = castle
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

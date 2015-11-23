@@ -1,0 +1,18 @@
+# c_tragalos
+
+# County Title
+title = c_tragalos
+
+# Settlements
+max_settlements = 4
+
+b_tragalos = castle
+b_tragalos_2 = city
+b_tragalos_3 = temple
+b_tragalos_4 = castle
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

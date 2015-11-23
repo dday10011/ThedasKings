@@ -1,0 +1,20 @@
+# c_carestes
+
+# County Title
+title = c_carestes
+
+# Settlements
+max_settlements = 6
+
+b_carestes = castle
+b_carestes_2 = city
+b_carestes_3 = temple
+b_carestes_4 = castle
+b_carestes_5 = city
+b_carestes_6 = temple
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

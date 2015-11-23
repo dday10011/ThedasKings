@@ -1,0 +1,19 @@
+# c_laddia
+
+# County Title
+title = c_laddia
+
+# Settlements
+max_settlements = 5
+
+b_laddia = castle
+b_laddia_2 = city
+b_laddia_3 = temple
+b_laddia_4 = castle
+b_laddia_5 = city
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

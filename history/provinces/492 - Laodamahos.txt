@@ -1,0 +1,17 @@
+# c_laodamahos
+
+# County Title
+title = c_laodamahos
+
+# Settlements
+max_settlements = 3
+
+b_laodamahos = castle
+b_laodamahos_2 = city
+b_laodamahos_3 = temple
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

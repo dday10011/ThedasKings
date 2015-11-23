@@ -1,0 +1,17 @@
+# c_oriae
+
+# County Title
+title = c_oriae
+
+# Settlements
+max_settlements = 3
+
+b_oriae = castle
+b_oriae_2 = city
+b_oriae_3 = temple
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

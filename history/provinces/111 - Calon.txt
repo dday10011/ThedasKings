@@ -1,0 +1,17 @@
+# c_calon
+
+# County Title
+title = c_calon
+
+# Settlements
+max_settlements = 3
+
+b_calon = castle
+b_calon_2 = city
+b_calon_3 = temple
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

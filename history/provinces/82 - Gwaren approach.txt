@@ -1,0 +1,16 @@
+# c_gwaren_approach
+
+# County Title
+title = c_gwaren_approach
+
+# Settlements
+max_settlements = 2
+
+b_gwaren_approach = castle
+b_gwaren_approach_2 = city
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

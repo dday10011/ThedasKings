@@ -1,0 +1,18 @@
+# c_jainen
+
+# County Title
+title = c_jainen
+
+# Settlements
+max_settlements = 4
+
+b_jainen = castle
+b_jainen_2 = city
+b_jainen_3 = temple
+b_jainen_4 = castle
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

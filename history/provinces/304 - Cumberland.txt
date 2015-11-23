@@ -1,0 +1,21 @@
+# c_cumberland
+
+# County Title
+title = c_cumberland
+
+# Settlements
+max_settlements = 7
+
+b_cumberland = castle
+b_cumberland_2 = city
+b_cumberland_3 = temple
+b_cumberland_4 = castle
+b_cumberland_5 = city
+b_cumberland_6 = temple
+b_cumberland_7 = castle
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

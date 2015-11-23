@@ -1,0 +1,17 @@
+# c_winter_keepa
+
+# County Title
+title = c_winter_keepa
+
+# Settlements
+max_settlements = 3
+
+b_winter_keepa = castle
+b_winter_keepa_2 = city
+b_winter_keepa_3 = temple
+
+# Misc
+culture = avvar
+religion = avvar
+
+#History

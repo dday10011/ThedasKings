@@ -1,0 +1,16 @@
+# c_pydnegea
+
+# County Title
+title = c_pydnegea
+
+# Settlements
+max_settlements = 2
+
+b_pydnegea = castle
+b_pydnegea_2 = city
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

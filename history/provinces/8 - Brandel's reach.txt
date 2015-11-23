@@ -1,0 +1,16 @@
+# c_brandels_reach
+
+# County Title
+title = c_brandels_reach
+
+# Settlements
+max_settlements = 2
+
+b_brandels_reach = castle
+b_brandels_reach_2 = city
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

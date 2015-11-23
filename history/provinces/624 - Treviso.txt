@@ -1,0 +1,20 @@
+# c_treviso
+
+# County Title
+title = c_treviso
+
+# Settlements
+max_settlements = 6
+
+b_treviso = castle
+b_treviso_2 = city
+b_treviso_3 = temple
+b_treviso_4 = castle
+b_treviso_5 = city
+b_treviso_6 = temple
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,18 @@
+# c_perthois
+
+# County Title
+title = c_perthois
+
+# Settlements
+max_settlements = 4
+
+b_perthois = castle
+b_perthois_2 = city
+b_perthois_3 = temple
+b_perthois_4 = castle
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,17 @@
+# c_lussard
+
+# County Title
+title = c_lussard
+
+# Settlements
+max_settlements = 3
+
+b_lussard = castle
+b_lussard_2 = city
+b_lussard_3 = temple
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,17 @@
+# c_whitland
+
+# County Title
+title = c_whitland
+
+# Settlements
+max_settlements = 3
+
+b_whitland = castle
+b_whitland_2 = city
+b_whitland_3 = temple
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

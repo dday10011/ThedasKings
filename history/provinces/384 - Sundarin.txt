@@ -1,0 +1,20 @@
+# c_sundarin
+
+# County Title
+title = c_sundarin
+
+# Settlements
+max_settlements = 6
+
+b_sundarin = castle
+b_sundarin_2 = city
+b_sundarin_3 = temple
+b_sundarin_4 = castle
+b_sundarin_5 = city
+b_sundarin_6 = temple
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

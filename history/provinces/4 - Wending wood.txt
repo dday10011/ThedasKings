@@ -1,0 +1,19 @@
+# c_wending_wood
+
+# County Title
+title = c_wending_wood
+
+# Settlements
+max_settlements = 5
+
+b_wending_wood = castle
+b_wending_wood_2 = city
+b_wending_wood_3 = temple
+b_wending_wood_4 = castle
+b_wending_wood_5 = city
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

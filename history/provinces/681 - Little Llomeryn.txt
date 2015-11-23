@@ -1,0 +1,19 @@
+# c_little_llomeryn
+
+# County Title
+title = c_little_llomeryn
+
+# Settlements
+max_settlements = 5
+
+b_little_llomeryn = castle
+b_little_llomeryn_2 = city
+b_little_llomeryn_3 = temple
+b_little_llomeryn_4 = castle
+b_little_llomeryn_5 = city
+
+# Misc
+culture = antivan
+religion = pirates
+
+#History

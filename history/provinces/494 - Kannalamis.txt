@@ -1,0 +1,19 @@
+# c_kannalamis
+
+# County Title
+title = c_kannalamis
+
+# Settlements
+max_settlements = 5
+
+b_kannalamis = castle
+b_kannalamis_2 = city
+b_kannalamis_3 = temple
+b_kannalamis_4 = castle
+b_kannalamis_5 = city
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

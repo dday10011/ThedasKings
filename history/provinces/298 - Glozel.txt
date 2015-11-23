@@ -1,0 +1,17 @@
+# c_glozel
+
+# County Title
+title = c_glozel
+
+# Settlements
+max_settlements = 3
+
+b_glozel = castle
+b_glozel_2 = city
+b_glozel_3 = temple
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

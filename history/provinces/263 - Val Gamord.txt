@@ -1,0 +1,16 @@
+# c_val_gamord
+
+# County Title
+title = c_val_gamord
+
+# Settlements
+max_settlements = 2
+
+b_val_gamord = castle
+b_val_gamord_2 = city
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

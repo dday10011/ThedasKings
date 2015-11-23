@@ -1,0 +1,19 @@
+# c_nosh
+
+# County Title
+title = c_nosh
+
+# Settlements
+max_settlements = 5
+
+b_nosh = castle
+b_nosh_2 = city
+b_nosh_3 = temple
+b_nosh_4 = castle
+b_nosh_5 = city
+
+# Misc
+culture = rivaini
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,18 @@
+# c_katactus
+
+# County Title
+title = c_katactus
+
+# Settlements
+max_settlements = 4
+
+b_katactus = castle
+b_katactus_2 = city
+b_katactus_3 = temple
+b_katactus_4 = castle
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

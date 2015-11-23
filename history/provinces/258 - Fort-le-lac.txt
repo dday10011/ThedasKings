@@ -1,0 +1,16 @@
+# c_fort_le_lac
+
+# County Title
+title = c_fort_le_lac
+
+# Settlements
+max_settlements = 2
+
+b_fort_le_lac = castle
+b_fort_le_lac_2 = city
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

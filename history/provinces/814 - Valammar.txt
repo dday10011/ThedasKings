@@ -1,0 +1,21 @@
+# c_valammar
+
+# County Title
+title = c_valammar
+
+# Settlements
+max_settlements = 7
+
+b_valammar = castle
+#b_valammar_2 = city
+#b_valammar_3 = temple
+#b_valammar_4 = castle
+#b_valammar_5 = city
+#b_valammar_6 = temple
+#b_valammar_7 = castle
+
+# Misc
+culture = orzammar
+religion = our_ancestors
+
+#History

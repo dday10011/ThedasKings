@@ -1,0 +1,84 @@
+1010001 = { #Anderfels king
+name ="Wilhelm"
+dynasty=1010
+religion = "andrastian_chantry" 
+culture = "anders" 
+
+8895.1.1 ={
+        birth = yes 
+        }
+}
+1008001 = { #Antivan king
+name ="Claudio"
+dynasty=1008
+religion = "andrastian_chantry" 
+culture = "antivan" 
+8893.1.1 ={
+        birth = yes 
+        }
+}
+
+1003001 = { #Avvars king
+name ="Movran"
+dynasty=1003
+religion = "andrastian_chantry" 
+culture = "avvar" 
+8890.1.1 ={
+        birth = yes 
+        }
+}
+
+1011001 = { #Endrin
+name ="Endrin"
+dynasty=1011
+religion = "our_ancestors" 
+culture = "orzammar" 
+trait = "noble_caste"
+8865.1.1 ={
+        birth =yes 
+        }
+8930.8.1 ={
+        death=yes
+        }
+}
+
+9906001 = { #free_marches
+name ="Michel"
+dynasty=9006
+religion = "andrastian_chantry" 
+culture = "orlesian" 
+8890.1.1 ={
+        birth = yes 
+        }
+}
+
+1007001 = { #nevarran
+name ="Markus"
+dynasty=1007
+religion = "andrastian_chantry" 
+culture = "nevarran" 
+8880.1.1 ={
+        birth = yes 
+        }
+}
+
+1009001 = { #rivain
+name ="Cade"
+dynasty=1009
+religion = "andrastian_chantry" 
+culture = "rivaini" 
+8889.1.1 ={
+        birth = yes 
+        }
+}
+
+1001001 = { #tevinter
+name ="Radonis"
+dynasty=1001
+health = 10
+religion = "imperial_chantry" 
+culture = "imperial_tevinter" 
+8870.1.1 ={
+        birth = yes 
+        }
+}

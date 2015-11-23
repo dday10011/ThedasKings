@@ -1,0 +1,19 @@
+# c_favre
+
+# County Title
+title = c_favre
+
+# Settlements
+max_settlements = 5
+
+b_favre = castle
+b_favre_2 = city
+b_favre_3 = temple
+b_favre_4 = castle
+b_favre_5 = city
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

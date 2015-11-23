@@ -1,0 +1,21 @@
+# c_caridins_cross
+
+# County Title
+title = c_caridins_cross
+
+# Settlements
+max_settlements = 7
+
+b_caridins_cross = castle
+#b_caridins_cross_2 = city
+#b_caridins_cross_3 = temple
+#b_caridins_cross_4 = castle
+#b_caridins_cross_5 = city
+#b_caridins_cross_6 = temple
+#b_caridins_cross_7 = castle
+
+# Misc
+culture = orzammar
+religion = our_ancestors
+
+#History

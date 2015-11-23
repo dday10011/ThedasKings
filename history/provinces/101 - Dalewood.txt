@@ -1,0 +1,15 @@
+# c_dalewood
+
+# County Title
+title = c_dalewood
+
+# Settlements
+max_settlements = 1
+
+b_dalewood = castle
+
+# Misc
+culture = forest
+religion = forest
+
+#History

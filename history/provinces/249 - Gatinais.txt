@@ -1,0 +1,18 @@
+# c_gatinais
+
+# County Title
+title = c_gatinais
+
+# Settlements
+max_settlements = 4
+
+b_gatinais = castle
+b_gatinais_2 = city
+b_gatinais_3 = temple
+b_gatinais_4 = castle
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

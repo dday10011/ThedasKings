@@ -1,0 +1,18 @@
+# c_alaka
+
+# County Title
+title = c_alaka
+
+# Settlements
+max_settlements = 4
+
+b_alaka = castle
+b_alaka_2 = city
+b_alaka_3 = temple
+b_alaka_4 = castle
+
+# Misc
+culture = qunari
+religion = qun_religion
+
+#History

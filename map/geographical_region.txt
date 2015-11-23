@@ -1,0 +1,497 @@
+# Geographical regions
+# Regions can be declared with one or more of the following fields:
+#	duchies = { }, takes duchy title names declared in landed_titles.txt
+#	counties = { }, takes county title names declared in landed_titles.txt
+#	provinces = { }, takes province id numbers declared in /history/provinces
+#	regions = { }, a region can also include other regions, however the subregions needs to be declared before the parent region. 
+#		E.g. If the region world_europe contains the region world_europe_west then world_europe_west needs to be declared as a region before (i.e. higher up in this file) world_europe.
+
+###########################################################################
+# World Regions
+#	These groups are mutually exclusive on the same tier
+###########################################################################
+
+###########################################################################
+# Custom Regions
+###########################################################################
+
+#kingdoms without de jure empire
+
+k_felicissima_armada_reigion = { duchies = { d_llomeryn } }
+
+k_the_arbor_region = {
+	duchies = {
+		d_eastern_arbor
+		d_western_arbor
+	}
+}
+k_korcari_wilds_region = {
+	duchies = {
+		d_korcari_wilds1
+		d_korcari_wilds2
+		d_korcari_wilds3
+		d_korcari_wilds4
+	}
+}
+k_brecilia_forest_region = {
+	titles = {
+		d_north_brecilia
+		d_little_brecilia
+		d_south_brecilia
+	}
+}
+k_arlathan_region = {
+	titles = {
+		d_eastern_arlathan
+		d_southern_arlathan
+		d_western_arlathan
+	}
+}
+#Qunari lands and Seheron
+k_par_vollen_region = {
+	duchies = {
+		d_qunandar
+		d_outer_horn
+		d_par_vollen
+		d_passage_coast
+		d_watcher_islands
+	}
+}
+k_seheron_region = {
+	duchies = {
+		d_seheron
+		d_alam
+		d_boeric_arrecife
+		d_boeric_islands
+		d_foglands
+	}
+}
+#Avvar lands
+k_highlands_region = {
+	duchies = {
+		d_redhold
+		d_skyhold
+		d_stormhold
+	}
+}
+k_eastern_holds_region = {
+	duchies = {
+		d_ravens_keep
+		d_winter_keep
+		d_wyvern_keep
+	}
+}
+e_avvaars_region = {
+	regions = {
+		k_highlands_region
+		k_eastern_holds_region
+	}
+}
+#Tevinter_Imperium
+k_the_high_reaches_region = {
+	duchies = {
+		d_valarian_fields
+		d_asariel
+		d_colean_cape
+		d_the_high_reaches
+	}
+}
+k_val_dorm_region = {
+	duchies = {
+		d_val_dorm
+		d_gorsium
+		d_hellis
+	}
+}
+k_vyrantium_region = {
+	duchies = {
+		d_vyrantium
+		d_aesis
+		d_derthona
+		d_marnas_pell
+		d_pasus
+	}
+}
+k_perivantium_region = {
+	duchies = {
+		d_perivantium
+		d_eastern_silent_plains
+		d_graccuris
+		d_solas
+		d_western_silent_plains
+	}
+}
+k_neromenian_region = {
+	duchies = {
+		d_neromenian
+		d_acteinea
+		d_akyreum
+		d_carastes
+		d_marothius
+		d_qarinus
+		d_teleum
+	}
+}
+e_tevinter_imperium_region = {
+	regions = {
+		k_neromenian_region
+		k_perivantium_region
+		k_vyrantium_region
+		k_val_dorm_region
+		k_the_high_reaches_region
+	}
+}
+#Rivain
+k_rivain_region = {
+	duchies = {
+		d_dairsmuid
+		d_ayesleigh
+		d_inner_cliffs
+		d_komt_aar
+		d_middle_coast
+		d_outer_cliffs
+		d_rivaini_greenlands
+		d_rivaini_hinterlands
+		d_seere
+		d_venefication_coast
+	}
+}
+#Orlesian core
+k_val_royaux_region = {
+	duchies = {
+		d_val_royaux
+		d_arlesans
+		d_churneau
+		d_montfort
+		d_val_chevin
+	}
+}
+k_val_foret_region = {
+	duchies = {
+		d_val_foret
+		d_montbelliard
+		d_orlesian_countryside
+		d_val_firmin
+	}
+}
+k_the_western_approach_region = {
+	duchies = {
+		d_the_western_approach
+		d_val_gamord
+		d_sulfur_lakes_pass
+		d_the_abyssal_rift
+		d_the_hissing_wastes
+	}
+}
+k_nahashin_marshes_region = {
+	duchies = {
+		d_nahashin_marshes
+		d_andoral_march
+		d_alyons
+		d_nahashin_lakes
+		d_claose
+	}
+}
+k_urttmiel_plateau_region = {
+	duchies = {
+		d_urthemiel_plateau
+		d_eastern_tirashan
+		d_hunterhorn_outskirts
+		d_serault
+		d_velum
+	}
+}
+e_orlais_region = {
+	regions = {
+		k_val_royaux_region
+		k_val_foret_region
+		k_the_western_approach_region
+		k_nahashin_marshes_region
+		k_urttmiel_plateau_region
+	}
+}
+#The Dales
+k_the_heartlands_region = {
+	duchies = {
+		d_halamshiral
+		d_lydes
+		d_verchiel
+		d_montsimmard
+	}
+}
+k_the_dales_region = {
+	duchies = {
+		d_emprise_du_lion
+		d_exalted_plains
+		d_lussard
+		d_deauvin_flats
+	}
+}
+e_the_dales_region = {
+	regions = {
+		k_the_heartlands_region
+		k_the_dales_region
+	}
+}
+#extended_orlais
+orlais_with_heartlands = {
+	regions = {
+		e_orlais_region
+		k_the_heartlands_region
+	}
+}
+orlais_extended = {
+	regions = {
+		e_orlais_region
+		e_the_dales_region
+	}
+}
+orlais_extended_plus_frostback = {
+	regions = {
+		orlais_extended
+		k_eastern_holds_region
+	}
+}
+#Nevarra
+k_cumberland_region = {
+	duchies = {
+		d_cumberland
+		d_cumberland_hinterland
+		d_eastern_wildervale
+		d_fields_of_ghislain
+	}
+}
+k_nevarra_region = {
+	duchies = {
+		d_nevarra
+		d_hunterfell
+		d_nessum
+		d_trevis
+	}
+}
+k_perendale_region = {
+	duchies = {
+		d_perendale
+		d_andorals_reach
+		d_hunterhorn_approach
+		d_the_blasted_hills
+	}
+}
+e_nevarra_region = {
+	regions = {
+		k_cumberland_region
+		k_nevarra_region
+		k_perendale_region
+	}
+}
+#Free Marches Regions
+k_starkhaven_region = {
+	duchies = {
+		d_starkhaven
+		d_green_dales
+		d_minanter_hinterland
+		d_minanter_plains
+	}
+}
+k_kirkwall_region = {
+	duchies = {
+		d_kirkwall
+		d_planascene_forest
+		d_wildervale
+	}
+}
+k_eastern_marches_region = {
+	duchies = {
+		d_hercina
+		d_ansburg
+		d_markham
+		d_ostwick
+		d_wycome
+	}
+}
+k_tantervale_region = {
+	duchies = {
+		d_tantervale
+		d_hasmal
+	}
+}
+e_free_marches = {
+	regions = {
+		k_starkhaven_region
+		k_kirkwall_region
+		k_eastern_marches_region
+		k_tantervale_region
+	}
+}
+#Ferelden
+k_the_bannorn_region = {
+	duchies = {
+		d_denerim
+		d_brandels_reach
+		d_lothering
+		d_oldstones
+		d_ostagar
+		d_south_reach
+		d_southron_hills
+		d_the_bannorn
+		d_the_dane_land
+	}
+}
+k_gwaren_region = {
+	duchies = {
+		d_gwaren
+		d_brecilias_pass
+		d_seaside
+	}
+}
+k_the_coastlands_region = {
+	duchies = {
+		d_highever
+		d_amaranthine
+		d_west_hill
+	}
+}
+k_the_hinterlands_region = {
+	duchies = {
+		d_redcliffe
+		d_edgehall
+		d_gherlens_pass
+		d_west_hills
+	}
+}
+e_ferelden_region = {
+	regions = {
+		k_the_bannorn_region
+		k_gwaren_region
+		k_the_coastlands_region
+		k_the_hinterlands_region 
+	}
+}
+ferelden_plus_frostback = {
+	regions = {
+		e_ferelden_region
+		k_highlands_region
+	}
+}
+#The Deep Roads
+k_orzammar_region = {
+	duchies = {
+		d_orzammar
+		d_bowammar
+		d_kal_hirol
+	}
+}
+k_gumdar_region = {
+	duchies = {
+		d_gumdar
+		d_angarrak
+		d_kul_baras
+	}
+}
+k_hormak_region = {
+	duchies = {
+		d_hormak
+		d_revann_thaig
+		d_valdesine_thaig
+	}
+}
+k_kal_sharok_region = {
+	duchies = {
+		d_kal_sharok
+		d_darmallon
+		d_valdasine
+	}
+}
+e_deep_roads = {
+	regions = {
+		k_orzammar_region
+		k_gumdar_region
+		k_hormak_region
+		k_kal_sharok_region
+	}
+}
+#Antiva
+k_antiva_region = {
+	duchies = {
+		d_antiva
+		d_rialto
+		d_seleny
+		d_the_weyrns
+	}
+}
+k_treviso_region = {
+	duchies = {
+		d_treviso
+		d_brynnlaw
+		d_the_drylands
+	}
+}
+k_hundred_pillars_region = {
+	duchies = {
+		d_central_plains
+		d_northern_pillars
+		d_southern_pillars
+	}
+}
+e_antiva_region = {
+	regions = {
+		k_antiva_region
+		k_treviso_region
+		k_hundred_pillars_region
+	}
+}
+#Anderfels
+k_hossberg_region_region = {
+	duchies = {
+		d_hossberg
+		d_kassel
+		d_sundarin
+		d_tallo
+	}
+}
+k_nordbotton_region_region = {
+	duchies = {
+		d_nordbotton
+		d_hunterhorn_mountains
+		d_kal_sharok_approaches
+		d_weisshaupt
+	}
+}
+k_the_wandered_hills_region = {
+	duchies = {
+		d_laysh
+		d_latterfluss_basin
+		d_the_wandered_hills
+	}
+}
+k_the_donnarks_region = {
+	duchies = {
+		d_qundalon
+		d_central_donnarks
+		d_eastern_donnarks
+		d_feral_fjords
+		d_western_donnarks
+	}
+}
+e_anderfels_region = {
+	regions = {
+		k_hossberg_region_region
+		k_nordbotton_region_region
+		k_the_wandered_hills_region
+		k_the_donnarks_region
+	}
+}
+e_rivain_region = {
+	duchies = {
+		d_dairsmuid
+		d_akhebar
+		d_areo
+		d_ashkiri
+		d_ayesleigh
+		d_kahan
+		d_komt_aar
+		d_nosh
+		d_seere
+		d_udher
+	}
+}

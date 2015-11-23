@@ -1,0 +1,17 @@
+# c_martone
+
+# County Title
+title = c_martone
+
+# Settlements
+max_settlements = 3
+
+b_martone = castle
+b_martone_2 = city
+b_martone_3 = temple
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

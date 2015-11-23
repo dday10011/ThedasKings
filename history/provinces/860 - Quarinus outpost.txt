@@ -1,0 +1,21 @@
+# c_quarinus_outpost
+
+# County Title
+title = c_quarinus_outpost
+
+# Settlements
+max_settlements = 7
+
+b_quarinus_outpost = castle
+#b_quarinus_outpost_2 = city
+#b_quarinus_outpost_3 = temple
+#b_quarinus_outpost_4 = castle
+#b_quarinus_outpost_5 = city
+#b_quarinus_outpost_6 = temple
+#b_quarinus_outpost_7 = castle
+
+# Misc
+culture = kal_sharok
+religion = our_ancestors
+
+#History

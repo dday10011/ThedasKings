@@ -1,0 +1,21 @@
+# c_orthan_thaig
+
+# County Title
+title = c_orthan_thaig
+
+# Settlements
+max_settlements = 7
+
+b_orthan_thaig = castle
+#b_orthan_thaig_2 = city
+#b_orthan_thaig_3 = temple
+#b_orthan_thaig_4 = castle
+#b_orthan_thaig_5 = city
+#b_orthan_thaig_6 = temple
+#b_orthan_thaig_7 = castle
+
+# Misc
+culture = orzammar
+religion = our_ancestors
+
+#History

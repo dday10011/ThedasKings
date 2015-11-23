@@ -1,0 +1,18 @@
+# c_spochthagen
+
+# County Title
+title = c_spochthagen
+
+# Settlements
+max_settlements = 4
+
+b_spochthagen = castle
+b_spochthagen_2 = city
+b_spochthagen_3 = temple
+b_spochthagen_4 = castle
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

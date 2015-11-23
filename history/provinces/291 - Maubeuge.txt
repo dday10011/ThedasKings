@@ -1,0 +1,18 @@
+# c_maubeuge
+
+# County Title
+title = c_maubeuge
+
+# Settlements
+max_settlements = 4
+
+b_maubeuge = castle
+b_maubeuge_2 = city
+b_maubeuge_3 = temple
+b_maubeuge_4 = castle
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

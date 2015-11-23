@@ -1,0 +1,20 @@
+# c_redcliffe
+
+# County Title
+title = c_redcliffe
+
+# Settlements
+max_settlements = 6
+
+b_redcliffe = castle
+b_redcliffe_2 = city
+b_redcliffe_3 = temple
+b_redcliffe_4 = castle
+b_redcliffe_5 = city
+b_redcliffe_6 = temple
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

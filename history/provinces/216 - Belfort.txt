@@ -1,0 +1,19 @@
+# c_belfort
+
+# County Title
+title = c_belfort
+
+# Settlements
+max_settlements = 5
+
+b_belfort = castle
+b_belfort_2 = city
+b_belfort_3 = temple
+b_belfort_4 = castle
+b_belfort_5 = city
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

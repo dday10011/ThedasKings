@@ -1,0 +1,18 @@
+# c_loggerswold
+
+# County Title
+title = c_loggerswold
+
+# Settlements
+max_settlements = 4
+
+b_loggerswold = castle
+b_loggerswold_2 = city
+b_loggerswold_3 = temple
+b_loggerswold_4 = castle
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

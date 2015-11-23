@@ -1,0 +1,15 @@
+# c_sleepy_oak_covert
+
+# County Title
+title = c_sleepy_oak_covert
+
+# Settlements
+max_settlements = 1
+
+b_sleepy_oak_covert = castle
+
+# Misc
+culture = forest
+religion = forest
+
+#History

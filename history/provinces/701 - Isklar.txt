@@ -1,0 +1,19 @@
+# c_isklar
+
+# County Title
+title = c_isklar
+
+# Settlements
+max_settlements = 5
+
+b_isklar = castle
+b_isklar_2 = city
+b_isklar_3 = temple
+b_isklar_4 = castle
+b_isklar_5 = city
+
+# Misc
+culture = qunari
+religion = qun_religion
+
+#History

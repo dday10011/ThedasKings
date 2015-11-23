@@ -1,0 +1,17 @@
+# c_baeloe
+
+# County Title
+title = c_baeloe
+
+# Settlements
+max_settlements = 3
+
+b_baeloe = castle
+b_baeloe_2 = city
+b_baeloe_3 = temple
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

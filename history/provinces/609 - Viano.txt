@@ -1,0 +1,18 @@
+# c_viano
+
+# County Title
+title = c_viano
+
+# Settlements
+max_settlements = 4
+
+b_viano = castle
+b_viano_2 = city
+b_viano_3 = temple
+b_viano_4 = castle
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

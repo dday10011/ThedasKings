@@ -1,0 +1,15 @@
+# c_ashward
+
+# County Title
+title = c_ashward
+
+# Settlements
+max_settlements = 1
+
+b_ashward = castle
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

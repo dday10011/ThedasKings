@@ -1,0 +1,18 @@
+# c_sablissent
+
+# County Title
+title = c_sablissent
+
+# Settlements
+max_settlements = 4
+
+b_sablissent = castle
+b_sablissent_2 = city
+b_sablissent_3 = temple
+b_sablissent_4 = castle
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

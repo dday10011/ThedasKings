@@ -1,0 +1,19 @@
+# c_ansburgb
+
+# County Title
+title = c_ansburgb
+
+# Settlements
+max_settlements = 5
+
+b_ansburgb = castle
+b_ansburgb_2 = city
+b_ansburgb_3 = temple
+b_ansburgb_4 = castle
+b_ansburgb_5 = city
+
+# Misc
+culture = ansburg
+religion = andrastian_chantry
+
+#History

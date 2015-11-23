@@ -1,0 +1,48 @@
+#ORLAIS
+technology = {
+	titles = {
+		d_val_royaux
+		d_arlesans
+		d_churneau
+		d_montfort
+		d_val_chevin
+		d_nahashin_marshes
+		d_alyons
+		d_andoral_march
+		d_claose
+		d_nahashin_lakes
+		d_emprise_du_lion
+		d_deauvin_flats
+		d_emerald_graves
+		d_exalted_plains
+		d_lussard
+		d_halamshiral
+		d_lydes
+		d_montsimmard
+		d_verchiel
+		d_the_western_approach
+		d_sulfur_lakes_pass
+		d_the_abyssal_rift
+		d_the_hissing_wastes
+		d_val_gamord
+		d_urthemiel_plateau
+		d_eastern_tirashan
+		d_hunterhorn_outskirts
+		d_serault
+		d_velum
+		d_val_foret
+		d_montbelliard
+		d_orlesian_countryside
+		d_val_firmin
+	}
+	7000 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+	12000 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}

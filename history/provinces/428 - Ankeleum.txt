@@ -1,0 +1,19 @@
+# c_ankeleum
+
+# County Title
+title = c_ankeleum
+
+# Settlements
+max_settlements = 5
+
+b_ankeleum = castle
+b_ankeleum_2 = city
+b_ankeleum_3 = temple
+b_ankeleum_4 = castle
+b_ankeleum_5 = city
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

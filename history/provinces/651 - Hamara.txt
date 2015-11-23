@@ -1,0 +1,18 @@
+# c_hamara
+
+# County Title
+title = c_hamara
+
+# Settlements
+max_settlements = 4
+
+b_hamara = castle
+b_hamara_2 = city
+b_hamara_3 = temple
+b_hamara_4 = castle
+
+# Misc
+culture = rivaini
+religion = andrastian_chantry
+
+#History

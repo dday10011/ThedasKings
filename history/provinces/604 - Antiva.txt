@@ -1,0 +1,21 @@
+# c_antiva
+
+# County Title
+title = c_antiva
+
+# Settlements
+max_settlements = 7
+
+b_antiva = castle
+b_antiva_2 = city
+b_antiva_3 = temple
+b_antiva_4 = castle
+b_antiva_5 = city
+b_antiva_6 = temple
+b_antiva_7 = castle
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

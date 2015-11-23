@@ -1,0 +1,18 @@
+# c_seuthale
+
+# County Title
+title = c_seuthale
+
+# Settlements
+max_settlements = 4
+
+b_seuthale = castle
+b_seuthale_2 = city
+b_seuthale_3 = temple
+b_seuthale_4 = castle
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

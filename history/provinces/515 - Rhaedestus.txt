@@ -1,0 +1,17 @@
+# c_rhaedestus
+
+# County Title
+title = c_rhaedestus
+
+# Settlements
+max_settlements = 3
+
+b_rhaedestus = castle
+b_rhaedestus_2 = city
+b_rhaedestus_3 = temple
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

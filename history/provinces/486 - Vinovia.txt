@@ -1,0 +1,16 @@
+# c_vinovia
+
+# County Title
+title = c_vinovia
+
+# Settlements
+max_settlements = 2
+
+b_vinovia = castle
+b_vinovia_2 = city
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

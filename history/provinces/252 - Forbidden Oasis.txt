@@ -1,0 +1,16 @@
+# c_forbidden_oasis
+
+# County Title
+title = c_forbidden_oasis
+
+# Settlements
+max_settlements = 2
+
+b_forbidden_oasis = castle
+b_forbidden_oasis_2 = city
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

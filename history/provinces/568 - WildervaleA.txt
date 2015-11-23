@@ -1,0 +1,18 @@
+# c_wildervalea
+
+# County Title
+title = c_wildervalea
+
+# Settlements
+max_settlements = 4
+
+b_wildervalea = castle
+b_wildervalea_2 = city
+b_wildervalea_3 = temple
+b_wildervalea_4 = castle
+
+# Misc
+culture = kirkwaller
+religion = andrastian_chantry
+
+#History

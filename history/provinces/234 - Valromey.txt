@@ -1,0 +1,18 @@
+# c_valromey
+
+# County Title
+title = c_valromey
+
+# Settlements
+max_settlements = 4
+
+b_valromey = castle
+b_valromey_2 = city
+b_valromey_3 = temple
+b_valromey_4 = castle
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

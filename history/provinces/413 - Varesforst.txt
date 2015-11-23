@@ -1,0 +1,18 @@
+# c_varesforst
+
+# County Title
+title = c_varesforst
+
+# Settlements
+max_settlements = 4
+
+b_varesforst = castle
+b_varesforst_2 = city
+b_varesforst_3 = temple
+b_varesforst_4 = castle
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

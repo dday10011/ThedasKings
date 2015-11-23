@@ -1,0 +1,18 @@
+# c_dombes
+
+# County Title
+title = c_dombes
+
+# Settlements
+max_settlements = 4
+
+b_dombes = castle
+b_dombes_2 = city
+b_dombes_3 = temple
+b_dombes_4 = castle
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

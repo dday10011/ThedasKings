@@ -1,0 +1,15 @@
+# c_harfoss
+
+# County Title
+title = c_harfoss
+
+# Settlements
+max_settlements = 1
+
+b_harfoss = castle
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

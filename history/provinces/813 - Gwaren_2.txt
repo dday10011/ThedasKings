@@ -1,0 +1,21 @@
+# c_gwaren_2
+
+# County Title
+title = c_gwaren_2
+
+# Settlements
+max_settlements = 7
+
+b_gwaren_6 = castle
+#b_gwaren_7 = city
+#b_gwaren_8 = temple
+#b_gwaren_9 = castle
+#b_gwaren_10 = city
+#b_gwaren_11 = temple
+#b_gwaren_12 = castle
+
+# Misc
+culture = orzammar
+religion = our_ancestors
+
+#History

@@ -1,0 +1,18 @@
+# c_akhebar
+
+# County Title
+title = c_akhebar
+
+# Settlements
+max_settlements = 4
+
+b_akhebar = castle
+b_akhebar_2 = city
+b_akhebar_3 = temple
+b_akhebar_4 = castle
+
+# Misc
+culture = rivaini
+religion = andrastian_chantry
+
+#History

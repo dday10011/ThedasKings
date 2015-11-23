@@ -1,0 +1,157 @@
+#DWARVEN CASTE TRAITS
+#https://titanpad.com/traitdragonage
+
+noble_caste = {
+random = no
+customizer =  yes
+caste_tier = 8
+ monthly_character_prestige = 0.15
+opposites = {
+                warrior_caste
+                merchant_caste
+                smith_caste
+                servant_caste
+                miner_caste
+                artisan_caste
+                casteless
+        }
+
+}
+
+warrior_caste = {
+random = no
+customizer =  yes
+caste_tier = 7
+ monthly_character_prestige = 0.1
+opposites = {
+                noble_caste
+                warrior_caste
+                merchant_caste
+                smith_caste
+                servant_caste
+                miner_caste
+                artisan_caste
+                casteless
+        }
+
+
+}
+
+merchant_caste = {
+random = no
+customizer =  yes
+caste_tier = 6
+monthly_character_wealth = 0.3
+opposites = {
+                noble_caste
+                warrior_caste
+                smith_caste
+                servant_caste
+                miner_caste
+                artisan_caste
+                casteless
+        }
+
+
+}
+
+smith_caste = {
+
+random = no
+customizer =  yes
+caste_tier = 5
+monthly_character_wealth = 0.15
+opposites = {
+                noble_caste
+                warrior_caste
+                merchant_caste
+                servant_caste
+                miner_caste
+                artisan_caste
+                casteless
+        }
+
+
+}
+
+
+artisan_caste = {
+
+random = no
+customizer =  yes
+caste_tier = 4
+monthly_character_wealth = 0.1
+opposites = {
+                noble_caste
+                warrior_caste
+                merchant_caste
+                smith_caste
+                servant_caste
+                miner_caste
+                casteless
+        }
+
+
+}
+
+
+
+
+miner_caste = {
+
+random = no
+customizer =  yes
+caste_tier = 3
+monthly_character_wealth = 0.05
+opposites = {
+                noble_caste
+                warrior_caste
+                merchant_caste
+                smith_caste
+                servant_caste
+                artisan_caste
+                casteless
+        }
+
+
+}
+
+
+servant_caste = {
+
+random = no
+customizer =  yes
+caste_tier = 2
+opposites = {
+                noble_caste
+                warrior_caste
+                merchant_caste
+                smith_caste
+                miner_caste
+                artisan_caste
+                casteless
+        }
+
+
+}
+
+
+
+casteless = {
+
+random = no
+customizer =  yes
+caste_tier = 1
+ monthly_character_prestige = -0.15
+ cannot_inherit = yes
+opposites = {
+                noble_caste
+                warrior_caste
+                merchant_caste
+                smith_caste
+                servant_caste
+                miner_caste
+                artisan_caste
+        }
+
+}

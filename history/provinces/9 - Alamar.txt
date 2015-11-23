@@ -1,0 +1,16 @@
+# c_alamar
+
+# County Title
+title = c_alamar
+
+# Settlements
+max_settlements = 2
+
+b_alamar = castle
+b_alamar_2 = city
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

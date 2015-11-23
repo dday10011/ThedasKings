@@ -1,0 +1,15 @@
+# c_western_arborb
+
+# County Title
+title = c_western_arborb
+
+# Settlements
+max_settlements = 1
+
+b_western_arborb = castle
+
+# Misc
+culture = forest
+religion = forest
+
+#History

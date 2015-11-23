@@ -1,0 +1,19 @@
+# c_hafiz
+
+# County Title
+title = c_hafiz
+
+# Settlements
+max_settlements = 5
+
+b_hafiz = castle
+b_hafiz_2 = city
+b_hafiz_3 = temple
+b_hafiz_4 = castle
+b_hafiz_5 = city
+
+# Misc
+culture = rivaini
+religion = andrastian_chantry
+
+#History

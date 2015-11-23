@@ -1,0 +1,21 @@
+# c_kul_baras
+
+# County Title
+title = c_kul_baras
+
+# Settlements
+max_settlements = 7
+
+b_kul_baras = castle
+#b_kul_baras_2 = city
+#b_kul_baras_3 = temple
+#b_kul_baras_4 = castle
+#b_kul_baras_5 = city
+#b_kul_baras_6 = temple
+#b_kul_baras_7 = castle
+
+# Misc
+culture = darkspawn
+religion = darkspawn_old_gods
+
+#History

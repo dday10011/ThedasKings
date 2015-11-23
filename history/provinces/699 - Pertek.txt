@@ -1,0 +1,19 @@
+# c_pertek
+
+# County Title
+title = c_pertek
+
+# Settlements
+max_settlements = 5
+
+b_pertek = castle
+b_pertek_2 = city
+b_pertek_3 = temple
+b_pertek_4 = castle
+b_pertek_5 = city
+
+# Misc
+culture = qunari
+religion = qun_religion
+
+#History

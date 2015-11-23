@@ -1,0 +1,18 @@
+# c_ironbrooke
+
+# County Title
+title = c_ironbrooke
+
+# Settlements
+max_settlements = 4
+
+b_ironbrooke = castle
+b_ironbrooke_2 = city
+b_ironbrooke_3 = temple
+b_ironbrooke_4 = castle
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

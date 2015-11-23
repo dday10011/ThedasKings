@@ -1,0 +1,16 @@
+# c_winters_breathe_2
+
+# County Title
+title = c_winters_breathe_2
+
+# Settlements
+max_settlements = 2
+
+b_winters_breathe_5 = castle
+b_winters_breathe_6 = city
+
+# Misc
+culture = avvar
+religion = avvar
+
+#History

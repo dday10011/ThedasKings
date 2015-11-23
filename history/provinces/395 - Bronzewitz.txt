@@ -1,0 +1,18 @@
+# c_bronzewitz
+
+# County Title
+title = c_bronzewitz
+
+# Settlements
+max_settlements = 4
+
+b_bronzewitz = castle
+b_bronzewitz_2 = city
+b_bronzewitz_3 = temple
+b_bronzewitz_4 = castle
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

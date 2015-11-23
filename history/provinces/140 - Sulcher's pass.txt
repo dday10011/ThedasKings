@@ -1,0 +1,17 @@
+# c_sulchers_pass
+
+# County Title
+title = c_sulchers_pass
+
+# Settlements
+max_settlements = 3
+
+b_sulchers_pass = castle
+b_sulchers_pass_2 = city
+b_sulchers_pass_3 = temple
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

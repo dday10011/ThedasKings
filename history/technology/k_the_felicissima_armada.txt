@@ -1,0 +1,16 @@
+#THE FELICISSIMA ARMADA
+technology = {
+	titles = {
+		d_llomeryn
+	}
+	7000 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+	12000 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}

@@ -1,0 +1,17 @@
+# c_wildervaleb
+
+# County Title
+title = c_wildervaleb
+
+# Settlements
+max_settlements = 3
+
+b_wildervaleb = castle
+b_wildervaleb_2 = city
+b_wildervaleb_3 = temple
+
+# Misc
+culture = kirkwaller
+religion = andrastian_chantry
+
+#History

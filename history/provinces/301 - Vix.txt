@@ -1,0 +1,17 @@
+# c_vix
+
+# County Title
+title = c_vix
+
+# Settlements
+max_settlements = 3
+
+b_vix = castle
+b_vix_2 = city
+b_vix_3 = temple
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

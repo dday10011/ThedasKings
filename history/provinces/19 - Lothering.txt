@@ -1,0 +1,19 @@
+# c_lothering
+
+# County Title
+title = c_lothering
+
+# Settlements
+max_settlements = 5
+
+b_lothering = castle
+b_lothering_2 = city
+b_lothering_3 = temple
+#b_lothering_4 = castle
+#b_lothering_5 = city
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

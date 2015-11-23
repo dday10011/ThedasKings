@@ -1,0 +1,15 @@
+# c_scheieshain
+
+# County Title
+title = c_scheieshain
+
+# Settlements
+max_settlements = 1
+
+b_scheieshain = castle
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

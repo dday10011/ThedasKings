@@ -1,0 +1,19 @@
+# c_castrino
+
+# County Title
+title = c_castrino
+
+# Settlements
+max_settlements = 5
+
+b_castrino = castle
+b_castrino_2 = city
+b_castrino_3 = temple
+b_castrino_4 = castle
+b_castrino_5 = city
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

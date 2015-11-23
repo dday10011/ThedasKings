@@ -1,0 +1,18 @@
+# c_hintham
+
+# County Title
+title = c_hintham
+
+# Settlements
+max_settlements = 4
+
+b_hintham = castle
+b_hintham_2 = city
+b_hintham_3 = temple
+b_hintham_4 = castle
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

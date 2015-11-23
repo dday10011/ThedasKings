@@ -1,0 +1,16 @@
+# c_huckesscheid
+
+# County Title
+title = c_huckesscheid
+
+# Settlements
+max_settlements = 2
+
+b_huckesscheid = castle
+b_huckesscheid_2 = city
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

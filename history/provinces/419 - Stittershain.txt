@@ -1,0 +1,17 @@
+# c_stittershain
+
+# County Title
+title = c_stittershain
+
+# Settlements
+max_settlements = 3
+
+b_stittershain = castle
+b_stittershain_2 = city
+b_stittershain_3 = temple
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

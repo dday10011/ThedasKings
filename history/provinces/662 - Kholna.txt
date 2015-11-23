@@ -1,0 +1,19 @@
+# c_kholna
+
+# County Title
+title = c_kholna
+
+# Settlements
+max_settlements = 5
+
+b_kholna = castle
+b_kholna_2 = city
+b_kholna_3 = temple
+b_kholna_4 = castle
+b_kholna_5 = city
+
+# Misc
+culture = rivaini
+religion = andrastian_chantry
+
+#History

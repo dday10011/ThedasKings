@@ -1,0 +1,21 @@
+# c_angarrak
+
+# County Title
+title = c_angarrak
+
+# Settlements
+max_settlements = 7
+
+b_angarrak = castle
+#b_angarrak_2 = city
+#b_angarrak_3 = temple
+#b_angarrak_4 = castle
+#b_angarrak_5 = city
+#b_angarrak_6 = temple
+#b_angarrak_7 = castle
+
+# Misc
+culture = darkspawn
+religion = darkspawn_old_gods
+
+#History

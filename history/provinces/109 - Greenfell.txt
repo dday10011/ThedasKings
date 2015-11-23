@@ -1,0 +1,20 @@
+# c_greenfell
+
+# County Title
+title = c_greenfell
+
+# Settlements
+max_settlements = 6
+
+b_greenfell = castle
+b_greenfell_2 = city
+b_greenfell_3 = temple
+b_greenfell_4 = castle
+b_greenfell_5 = city
+b_greenfell_6 = temple
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

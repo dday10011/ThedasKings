@@ -1,0 +1,18 @@
+# c_crotenes
+
+# County Title
+title = c_crotenes
+
+# Settlements
+max_settlements = 4
+
+b_crotenes = castle
+b_crotenes_2 = city
+b_crotenes_3 = temple
+b_crotenes_4 = castle
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

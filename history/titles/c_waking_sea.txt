@@ -1,0 +1,24 @@
+# e_ferelden
+500.1.1={
+	law = agnatic_succession
+	#law = succ_gavelkind
+}
+800.1.1={
+	liege=e_ferelden
+}
+
+        8801.1.1 = { 
+		holder = 12002002
+	}
+        8828.6.12 = { 
+		holder = 12002004
+	}
+        8836.2.5 = { 
+		holder = 12002005
+	}
+        8899.1.1 = { 
+		holder = 12002006
+	}
+        8920.1.1 = { 
+		holder = 12002009
+	}

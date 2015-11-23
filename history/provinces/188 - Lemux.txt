@@ -1,0 +1,18 @@
+# c_lemux
+
+# County Title
+title = c_lemux
+
+# Settlements
+max_settlements = 4
+
+b_lemux = castle
+b_lemux_2 = city
+b_lemux_3 = temple
+b_lemux_4 = castle
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

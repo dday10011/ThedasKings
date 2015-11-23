@@ -1,0 +1,19 @@
+# c_norba
+
+# County Title
+title = c_norba
+
+# Settlements
+max_settlements = 5
+
+b_norba = castle
+b_norba_2 = city
+b_norba_3 = temple
+b_norba_4 = castle
+b_norba_5 = city
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

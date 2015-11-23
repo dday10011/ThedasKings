@@ -1,0 +1,18 @@
+# c_naso
+
+# County Title
+title = c_naso
+
+# Settlements
+max_settlements = 4
+
+b_naso = castle
+b_naso_2 = city
+b_naso_3 = temple
+b_naso_4 = castle
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

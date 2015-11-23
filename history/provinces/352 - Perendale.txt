@@ -1,0 +1,16 @@
+# c_perendale
+
+# County Title
+title = c_perendale
+
+# Settlements
+max_settlements = 2
+
+b_perendale = castle
+b_perendale_2 = city
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,21 @@
+# c_hossberg
+
+# County Title
+title = c_hossberg
+
+# Settlements
+max_settlements = 7
+
+b_hossberg = castle
+b_hossberg_2 = city
+b_hossberg_3 = temple
+b_hossberg_4 = castle
+b_hossberg_5 = city
+b_hossberg_6 = temple
+b_hossberg_7 = castle
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

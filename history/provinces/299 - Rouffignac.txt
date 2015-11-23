@@ -1,0 +1,17 @@
+# c_rouffignac
+
+# County Title
+title = c_rouffignac
+
+# Settlements
+max_settlements = 3
+
+b_rouffignac = castle
+b_rouffignac_2 = city
+b_rouffignac_3 = temple
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

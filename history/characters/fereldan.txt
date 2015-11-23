@@ -1,0 +1,2904 @@
+#KINGS, TEYRNS and ARLS###
+
+
+
+###HOUSE THEIRIN OF FERELDEN ( Dynasty IDs are placeholders )###
+1002001={ #King Vanedrin Theirin
+	name="Vanedrin"
+	dynasty=1002
+
+	religion = "andrastian_chantry" #placeholder
+	culture = "fereldan" #placeholder
+
+	8794.1.1={
+		birth=yes
+	}
+	8824.9.5={
+		death=yes #Killed at the Battle of Lothering
+	}
+}
+1002002={ #King Brandel Theirin "the Defeated" father of Moira
+	name="Brandel"
+	dynasty=1002
+
+	religion = "andrastian_chantry" #placeholder
+	culture = "fereldan" #placeholder
+
+	father=1002001 #Vanedrin
+
+	8816.1.1={
+		birth=yes
+	}
+	8880.1.1={
+		death=yes
+	}
+}
+1002003={ #Queen Moira Theirin the Rebel-Queen, mother to Maric
+	name="Moira"
+	dynasty=1002
+	female=yes
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	father=1002002 #Brandel
+
+	8842.1.1={
+		birth=yes
+	}
+	8896.1.1={
+		death=yes #Assassinated by Ceorlic and various other traitor nobles
+	}
+}
+1002004={ #King Maric Theirin the Savior!
+	name="Maric"
+	dynasty=1002
+	dna = bgcaayjagab
+
+	religion = "andrastian_chantry" #placeholder
+	culture = "fereldan" #placeholder
+
+	mother=1002003 #Rowan Theirin
+
+	8877.1.1={
+		birth=yes
+	}
+	8895.1.1={
+		add_spouse = 2002002 #Rowan Guerrin
+		}
+	8925.1.1={
+		death=yes #LOST AT SEA (Placeholder)
+	}
+}
+1002005={ #Cailan Theirin
+	name="Cailan"
+	dynasty=1002
+
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+
+	father=1002004 #Maric Theirin
+	mother=2002002 #Rowan Guerrin
+
+	8905.1.1={
+		birth=yes
+	}
+	8925.2.5={
+		add_spouse = 5002005 #ANORA
+	}
+	8930.2.5={
+		death=yes #Betrayed by Loghain and killed at Ostagar
+	}
+}
+1002006={ #Fiona, mother to Alistair
+	name="Fiona"
+	female=yes
+
+	add_trait="elf_race"
+	add_trait="mage"
+	
+	religion = "andrastian_chantry"
+	culture = "city_elf"
+	
+
+	8868.1.1={
+		birth=yes
+	}
+}
+1002007={ #Alistair!
+	name="Alistair"
+	dynasty=1002
+
+	trait="elf_blooded"
+    trait="bastard"	
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan" #Grey Warden
+
+	real_father=1002004 #Maric Theirin
+	father=2002003 #Emon Guerrin
+	mother=1002006 # Fiona
+
+	8910.1.1={
+		birth=yes
+	}
+	8929.12.12={
+		add_trait="grey_warden"	
+		
+	}
+}
+###HOUSE GUERRIN OF REDCLIFFE( Dynasty IDs are placeholders included their wifes )###
+2002001={ #Arl Rendorn Guerrin, father of Rowan
+	name="Rendorn"
+	dynasty=2002
+
+	religion = "andrastian_chantry" #placeholder
+	culture = "fereldan" #placeholder
+
+
+	8859.1.1={
+		birth=yes
+	}
+	8899.1.1={
+		death=yes #Killed during the disastrous battle at West Hill along with most of the rebel army
+	}
+}
+2002002={ #Queen Rowan Theirin née Guerrin i.e the one who married Maric.
+	name="Rowan"
+	dynasty=2002
+	female=yes
+
+	religion = "andrastian_chantry" #placeholder
+	culture = "fereldan" #placeholder
+
+	father = 2002001
+	#mother = unknown
+	8877.1.1={
+		birth=yes
+	}
+	8908.1.1={
+		death=yes #Died from an Illness, possibly the Taint
+	}
+}
+2002003={ #Arl Eamon Guerrin
+	name="Eamon"
+	dynasty=2002
+
+	religion = "andrastian_chantry" #placeholder
+	culture = "fereldan" #placeholder
+
+	father = 2002001
+
+	8879.1.1={
+		birth=yes
+	}
+	8920.1.1={
+		add_spouse = 2002004
+	}
+
+}
+2002004 = { #Isolde
+	name="Isolde"
+	female=yes
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+
+	8880.1.1={
+		birth=yes
+	}
+}
+2002005={ #Teagan Guerrin
+	name="Teagan"
+	dynasty=2002
+
+	religion = "andrastian_chantry" #placeholder
+	culture = "fereldan" #placeholder
+
+	father = 2002001
+
+	8891.1.1={
+		birth=yes
+	}
+
+}
+
+###HOUSE COUSLAND OF HIGHEVER( Dynasty IDs are placeholders )###
+3002001={ #Teyrn Ardal Cousland
+	name="Ardal"
+	dynasty=3002
+
+	religion = "andrastian_chantry" #placeholder
+	culture = "fereldan" #placeholder
+
+	8800.1.1={
+		birth=yes
+	}
+	8824.9.5={
+		death=yes #This is where it gets confusing - Ardal is supposed to die in 8:24 that makes me uncertain about Bryce whether he should be born somewhere in 8:20 or so, but that makes him very old around 9:30
+	}
+
+}
+3002002={ #Teyrn Aldenon Cousland ( placeholder cousland)
+	name="Aldenon"
+	dynasty=3002
+
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+
+	father=3002001
+
+	8822.1.1={
+		birth=yes
+	}
+	8851.1.1={
+		death=yes #Died in one of the many battles during the rebellion
+	}
+}
+3002003={ #Teyrn Athlar Cousland ( placeholder cousland)
+	name="Athlar"
+	dynasty=3002
+
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+
+	father=3002002
+
+	8840.1.1={
+		birth=yes
+	}
+	8886.1.1={
+		death=yes #Possibly in the Second Battle of Gwaren.
+	}
+}	
+3002004={ #Teyrn Bryce Cousland
+	name="Bryce"
+	dynasty=3002
+
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+
+	father=3002003
+
+	8873.1.1={
+		birth=yes #participated in battle of the white river, since there's not a lot of information, it'll be a made-up date 
+	}
+	8899.1.1={
+		add_spouse = 3002005
+	}
+	8930.1.28={
+		death=yes #Killed by Rendon Howe
+	}
+}
+3002005={ #Teyrna Eleanor (DYNASTY TBD)
+	name="Eleanor"
+	female=yes
+	
+	
+	father=26002001
+
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+
+	8875.1.1={
+		birth=yes
+	}
+	8930.1.28={
+		death=yes #Killed by Rendon Howe
+	}
+}
+3002006={ #Fergus Cousland
+	name="Fergus"
+	dynasty=3002
+
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+
+	father=3002004
+	mother=3002005
+
+	8901.1.1={
+		birth=yes
+	}
+	8918.1.1={
+		add_spouse=3002007
+	}
+}
+3002007={ #Oriana (DYNASTY TBD)
+	name="Oriana"
+	female=yes
+
+	religion = "andrastian_chantry"
+	culture = "antivan"
+
+	8902.1.1={
+		birth=yes
+	}
+	8930.1.28={
+		death=yes #Killed by Howe's Men
+	}
+}
+3002008={ #Aedan Cousland
+	name="Aedan"
+	dynasty=3002
+
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+
+	father=3002004
+	mother=3002005
+
+	8908.1.1={
+		birth=yes
+	}
+}
+3002009={ #Oren Cousland
+	name="Oren"
+	dynasty=3002
+
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+
+	father=3002006
+	mother=3002007
+
+	8924.1.1={
+		birth=yes
+	}
+	8930.1.28={
+		death=yes #Killed by Howe's Men
+	}
+}
+###HOUSE HOWE of AMARANTHINE AND VIGIL'S KEEP(?)(Dynasty IDs are placeholders)###
+4002001={ #ARL KENDRICK HOWE (Custom - to make sure Tarleton and Byron are related)
+	name="Kendrick"
+	dynasty=4002
+
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+
+	8770.1.1={
+		birth=yes
+	}
+	8843.1.1={
+		death=yes
+	}
+}
+4002002={ #ARL TARLETON HOWE - SIDED WITH ORLESIANS
+	name="Tarleton"
+	dynasty=4002
+
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	father=4002001
+
+	8788.1.1={
+		birth=yes
+	}
+	8855.1.1={ death = {
+				#Hanged by Couslands
+              death_reason = death_murder
+			  killer = 3002003
+         }
+    }
+}
+4002003={ #ARL BYRON HOWE
+	name="Byron"
+	dynasty=4002
+
+	religion = "andrastian_chantry"
+	culture = "fereldan"	
+	
+	father=4002001
+
+	8820.1.1={
+		birth=yes
+	}
+	8899.4.6={ death = {
+				death_reason = death_battle
+         }
+	}
+}
+4002004={ #ARL RENDON HOWE
+	name="Rendon"
+	dynasty=4002
+
+	add_trait="intricate_webweaver"
+	add_trait="ambitious"
+	add_trait="deceitful"
+	add_trait="patient"
+	add_trait="proud"
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+
+	father=4002003
+
+	8871.1.1={
+		birth=yes
+	}
+	8896.1.1={
+		add_spouse=4002005
+	}
+}
+4002005={ #Rendon Howe's Unnamed Wife
+	name="Elissa"
+	female=yes
+
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+
+	8873.1.1={
+		birth=yes
+	}
+}
+4002006={ #Nathaniel Howe
+	name="Nathaniel"
+	dynasty=4002
+
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+
+	father=4002004
+	mother=4002005
+
+	8899.1.1={
+		birth=yes
+	}
+}
+4002007={ #Delilah Howe
+	name="Delilah"
+	female=yes
+	dynasty=4002
+
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+
+	father=4002004
+	mother=4002005
+
+	8905.1.1={
+		birth=yes
+	}
+}
+4002008={ #Thomas Howe
+	name="Thomas"
+	dynasty=4002
+
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+
+	father=4002004
+	mother=4002005
+
+	8909.1.1={
+		birth=yes
+	}
+	8930.10.8={ death = {
+	#Died during the Civil war as said by Simon the Groundskeeper
+				death_reason = death_battle
+         }
+	}
+}
+
+###HOUSE OF OSWIN/Mac Tir###
+5002001={ #Ser Bryant of Oswin
+	name="Bryant"
+	dynasty=5002
+
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+
+	8790.1.1={
+		birth=yes
+	}
+	
+	8824.9.5={
+		death=yes #Killed at the Battle of Lothering
+	}
+}
+5002002={ #Ser Greagoir of Oswin
+	name="Greagoir"
+	dynasty=5002
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	father=5002001
+
+	8810.1.1={
+		birth=yes
+	}
+	8896.1.1={
+		death=yes #Assassinated by Ceorlic and various other traitor nobles
+	}
+}
+5002003={ #Ser Gareth of Oswin
+	name="Gareth"
+	dynasty=5002
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	father=5002002
+
+	8842.1.1={
+		birth=yes
+	}
+	8896.1.1={
+		death=yes #Assassinated by Ceorlic and various other traitor nobles
+	}
+}
+###HOUSE MAC TIR OF GWAREN###
+5002004={ #Future Teyrn Loghain Mac Tir.
+	name="Loghain"
+	dynasty=5002
+
+	religion = "andrastian_chantry" #placeholder
+	culture = "fereldan" #placeholder
+
+	father=5002003
+
+	#change to Mac Tir 6002 dynasty after battle of River Dane
+	8877.1.1={
+		birth=yes
+	}
+}
+5002005={ #Anora Mac Tir
+	name="Anora"
+	female=yes
+	dynasty=6002
+
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+
+	8902.1.1={
+		birth=yes
+	}
+}
+
+###HOUSE KENDELLS OF DEMERIM###
+7002001={ #Arl Urien Kendells
+	name="Urien"
+	dynasty=7002
+
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+
+	8795.1.1={
+		birth=yes
+	}
+	8824.9.5={
+		death=yes #Killed at the Battle of Lothering
+	}
+}
+7002002={ #Arl Vaughan Kenndells
+	name="Vaughan"
+	dynasty=7002
+
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+
+	father=7002001
+
+	8818.2.4={
+		birth=yes
+	}
+	8859.1.1={
+		death=yes
+	}
+}
+7002003={ #Arl Sighard Kendells
+	name="Sighard"
+	dynasty=7002
+
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+
+	father=7002002
+
+	8842.1.2={
+		birth=yes
+	}
+	8899.1.1={
+		death=yes #Killed during the disastrous battle at West Hill
+	}
+}
+7002004={ #Arl Urien Kendells
+	name="Urien"
+	dynasty=7002
+
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+
+	father=7002003
+
+	8883.1.1={
+		birth=yes
+	}
+	8905.1.1={
+		add_spouse = 7002005
+	}
+	8930.2.5={
+		death=yes #Died at Battle of Ostagar
+	}
+
+}
+7002005={ #Placeholder Wife of Urien
+	name="Kathra"
+	female=yes
+
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+
+	8882.1.1={
+		birth=yes
+	}
+	8930.2.5={
+		death=yes #Died at Battle of Ostagar
+	}
+}
+
+7002006={ #Vaughan Kendells
+	name="Vaughan"
+	dynasty=7002
+
+	#add_trait="elf-hater" #Placeholder
+
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+
+	father=7002004
+	mother=7002005
+
+	8908.1.1={
+		birth=yes
+	}
+}
+###HOUSE BRYLAND OF SOUTH REACH ( Half-Orlesian )###
+8002001={ #Arl Gareth Bryland
+	name="Gareth"
+	dynasty=8002
+
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+
+	8795.1.1={
+		birth=yes
+	}
+	8825.3.8={
+		death=yes #Killed at (SOME BATTLE feel free to add a proper one)
+	}
+}
+8002002={ #Arl Henric Bryland
+	name="Henric"
+	dynasty=8002
+
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	father=8002001
+
+	8815.1.1={
+		birth=yes
+	}
+	8844.3.8={
+		death=yes #Killed during the sacking of Denerim
+	}
+}
+8002003={ #Arl Cadrim Bryland
+	name="Cadrim"
+	dynasty=8002
+
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	father=8002002
+
+	8843.1.1={
+		birth=yes
+	}
+	8899.1.1={
+		death=yes #Killed during the disastrous battle at West Hill along with most of the rebel army
+	}
+}
+8002004={ #Arl Gareth Bryland
+	name="Gareth"
+	dynasty=8002
+
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	father=8002003
+
+	8862.1.1={
+		birth=yes
+	}
+	8878.1.1={
+		add_spouse = 8002005
+	}
+	8899.1.1={
+		death=yes #Killed during the disastrous battle at West Hill along with most of the rebel army alongside his father.
+	}
+}
+8002005={ #Placeholder Orlesian Wife of Gareth
+	name="Amelie"
+	female=yes
+
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+
+	8862.1.1={
+		birth=yes
+	}
+	8926.2.5={
+		death=yes #Old Age
+	}
+}
+8002006={ #Arl Leonas Bryland
+	name="Leonas"
+	dynasty=8002
+
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+
+	father=8002004
+	mother=8002005
+	
+	8879.4.3={
+		birth=yes
+	}
+	8896.1.1={
+		add_spouse = 8002007
+	}
+}
+8002007={ #Placeholder Wife of Leonas
+	name="Fionne"
+	female=yes
+
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+
+	8879.1.1={
+		birth=yes
+	}
+	8930.2.5={
+		death=yes #Battle of Ostagar
+	}
+}
+8002008={ #Placeholder son to Leonas and Fionne
+	name="Matthias"
+	dynasty=8002
+
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	father=8002006
+	mother=8002007
+
+	8897.1.1={
+		birth=yes
+	}
+}
+8002009={ #Habren Bryland
+	name="Habren"
+	female=yes
+	dynasty=8002
+
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	father=8002006
+	mother=8002007
+
+	8913.1.1={
+		birth=yes
+	}
+}
+###House Lendon of Edgehall Keep!###
+9002001={ #Arl Varel Lendon I DURING THE STEEL AGE
+	name="Varel"
+	dynasty=9002
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	8622.1.1 = { birth = yes }
+	8708.1.1 = { death = yes }
+}
+9002002={ #Placeholder for now
+	name="Line of Lendon"
+	dynasty=9002
+	
+	religion="andrastian_chantry"
+	culture="fereldan"
+	
+	father=9002001
+	occluded=yes
+	
+	8690.1.1 = { birth = yes }
+	8774.1.1 = { death = yes }
+}
+9002003={ #Arl Greagoir Lendon - lost Edgehall during Orlesian Invasion
+	name="Greagoir"
+	dynasty=9002
+	
+	religion="andrastian_chantry"
+	culture="fereldan"
+	
+	father=9002002
+	
+	8763.1.1 = { birth = yes }
+	8824.1.1 = { death = yes } #Died while defending Edgehall
+}
+902004={ #Pryce Lendon
+	name="Pryce"
+	dynasty=9002
+	
+	religion="andrastian_chantry"
+	culture="fereldan"
+	
+	father=9002003
+	
+	8784.1.1 = { birth = yes }
+	8824.1.1 = { death = yes } #Died during the Orlesian attack on Edgehall
+}
+9002005={ #Fergus Lendon
+	name="Fergus"
+	dynasty=9002
+	
+	religion="andrastian_chantry"
+	culture="fereldan"
+	
+	father=9002003
+	
+	8786.1.1 = { birth = yes }
+	8824.9.5 = { death = yes } #Died while defending King Vanedrin Theirin
+}
+9002006={ #Fereldan Loyalist Varel Lendon
+	name="Varel"
+	dynasty=8002
+	
+	religion="andrastian_chantry"
+	culture="fereldan"
+	
+	father=9002005
+	
+	8812.1.1 = { birth = yes }
+	8875.2.9 = { death = yes  } #Died in Battle
+}
+9002007={ #Fereldan Loyalist Gell Lendon - not the craven one! Turned Rebel
+	name="Gell"
+	dynasty=8002
+	
+	religion="andrastian_chantry"
+	culture="fereldan"
+	
+	father=9002006
+	
+	8852.1.1 = { birth = yes }
+	8868.1.1 = { add_spouse = 9002008 }
+	8899.1.1 = { death = yes  } #Died during the disastrous battle of West Hill
+}
+9002008={ #Placeholder wife to Rebel Gell killed by Orlesians
+	name="Sophia"
+	female=yes
+
+	religion="andrastian_chantry"
+	culture="fereldan"
+	
+	8852.1.1 = { birth = yes }
+	8883.2.3 = { death = yes } #killed by Orlesian Occupiers of Edgehall.
+}
+9002009={ #Fergus Lendon from the Tabletop RPG
+	name="Fergus"
+	dynasty=9002
+	
+	religion="andrastian_chantry"
+	culture="fereldan"
+	
+	father=9002007
+	mother=9002008
+	
+	8879.1.1 = { birth = yes }
+	8930.2.5 = { death = yes  } #Died in the Battle of Ostagar
+}
+9002010={ #Exile Gell Lendon for plotting the murder of his half-brother Fergus
+	name="Gell"
+	dynasty=9002
+	
+	add_trait=craven
+	add_trait=deceitful
+	add_trait=proud
+	
+	religion="andrastian_chantry"
+	culture="fereldan"
+	
+	father=9002007
+	
+	8882.1.1 = { birth = yes }
+}
+###HOUSE WULFF####
+10002001={ #Bann Mathuin Wulff supporter of Sophia Dryden, Bann of West Hills NOT West Hill
+	name="Mathuin"
+	dynasty=10002
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	8685.1.1 = { birth = yes }
+	8705.9.20 = { death = yes } #Died in Battle of Soldier's Peak
+}
+10002002={ #Riordan Wulff possibly no longer bann for a while during Arland Theirin's Reign, put into hiding.
+	name="Riordan"
+	dynasty=10002
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	father=10002001
+	
+	8704.1.1 = { birth = yes }
+	8768.1.1 = { death = yes }
+}
+10002003={ #Gallagher Wulff
+	name="Gallagher"
+	dynasty=10002
+	
+	religion="andrastian_chantry"
+	culture="fereldan"
+	
+	father=10002002
+	
+	8730.1.1 = { birth = yes }
+	8775.1.1 = { death = yes } #Died in battle.
+}
+10002004={ #Arl Garevel Wulff
+	name="Garevel"
+	dynasty=10002
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	father=10002003
+	
+	8770.1.1 = { birth = yes }
+	8822.4.20 = { death = yes } #Died two years before the Orlesian Invasion
+}
+10002005={ #Arl Mathuin Wulff
+	name="Mathuin"
+	dynasty=10002
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	father=10002004
+	
+	8798.1.1 = { birth = yes }
+	8824.9.5 = { death = yes } #Died in the Battle of Lothering
+}
+10002006={ #Arl Weylan Wulff
+	name="Weylan"
+	dynasty=10002
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	father=10002005
+	
+	8818.1.1 = { birth = yes }
+	8861.2.20 = { death = yes } #Died in the First Battle of Gwaren
+}
+10002007={ #Arl Riordan Wulff
+	name="Riordan"
+	dynasty=10002
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	father=10002006
+	
+	8842.1.1 = { birth = yes }
+	8896.1.1 = { death = yes } #Died along with Moira
+}
+10002008={ #Arl Gallagher Wulff considered a giant of a man. - Arl of West Hills like his Predecessors
+	name="Gallagher"
+	dynasty=10002
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	father=10002007
+	
+	8880.1.1 = { birth = yes }
+	8898.1.1 = { add_spouse = 10002009 }
+}
+10002009={ #Wife of Gallagher
+	name="Esmerelle"
+	female=yes
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	8880.1.1 = { birth = yes }
+}
+10002010={ #Mathuin Wulff
+	name="Mathuin"
+	dynasty=10002
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	father=10002008
+	mother=10002009
+	
+	8900.1.1 = { birth = yes }
+}
+10002011={ #Weylan Wulff
+	name="Weylan"
+	dynasty=10002
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	father=10002008
+	mother=10002009
+	
+	8906.1.1 = { birth = yes }
+}
+10002012={ #Kaelah Wulff
+	name="Kaelah"
+	dynasty=10002
+	female=yes
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	father=10002008
+	mother=10002009
+	
+	8910.1.1 = { birth = yes }
+}
+10002013={ #Izot Wulff eloped with an Avvar man, later kidnapped by Avvar.
+	name="Izot"
+	dynasty=10002
+	female=yes
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	father=10002008
+	mother=10002009
+	
+	8913.1.1 = { birth = yes }
+}
+10002014={ #Berchan Wulff
+	name="Berchan"
+	dynasty=10002
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	father=10002008
+	mother=10002009
+	
+	8919.1.1 = { birth = yes }
+}
+
+
+###HOUSE DRYDEN OF SOLDIER'S PEAK###
+11002001={ #Arl Aldenon Dryden - Theirin Wife
+	name="Aldenon"
+	dynasty=11002
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	8613.1.1 = { birth = yes }
+	8638.1.1 = { add_spouse = 11002002 }
+	8677.1.5 = { death = yes } #Old Age
+}
+11002002={ #Wife of Aldenon - Theirin Wife
+	name="Adria"
+	female=yes
+	dynasty=1002
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	8613.1.1 = { birth = yes }
+	8680.2.20 = { death = yes } #Old Age
+}
+11002003={ #Arl Donovan Dryden
+	name="Donovan"
+	dynasty=11002
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	father=11002001
+	mother=11002002
+	
+	8641.1.1 = { birth = yes }
+	8670.1.1 = { add_spouse = 11002004 }
+	8702.3.5 = { death = yes } #Old Age
+}
+11002004={ #Wife of Aldenon
+	name="Maeve"
+	female=yes
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	8640.1.1 = { birth = yes }
+	8701.4.20 = { death = yes } #Old Age
+}
+11002005={ #Sophia Dryden - Cousin to Arland Theirin
+	name="Sophia"
+	female=yes
+	dynasty=11002
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	father=11002003
+	mother=11002004
+	
+	8673.1.1 = { birth = yes }
+	8705.9.20 = { death = yes } #Died in Battle of Soldier's Peak
+}
+###DRYDENS WHO FLED TO ANTIVA AND TOOK ON THE NAME DEROCHER###
+11002006={ #Toben Dryden, younger brother of Sophia - Fled to Antiva changed lastname to Derocher, descendants of Toben will be in the Antivan character file#
+	name="Toben"
+	dynasty=11002
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	father=11002003
+	mother=11002004
+	
+	8679.1.1 = { birth = yes }
+	8705.9.24 = { 
+			dynasty=86002 #Derocher - Fled to Antiva
+	}
+	8707.1.1 = {
+		culture = "antivan"
+	}
+	8751.1.1 = { death = yes }
+}
+11002007={ ##Gareth Dryden
+	name="Gareth"
+	dynasty=11002
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	mother=11002005
+	
+	8699.1.1 = { birth = yes }
+	8705.9.24 = { 
+			dynasty=86002 #placeholder
+			#guardian=1005 #placeholder
+	}
+	8717.1.1 = {
+		culture = "antivan"
+	}
+	8779.5.5 = { death = yes }
+}
+11002008={ #Descendants of Gareth, Not Toben!
+	name="Donovan"
+	dynasty=86002 #Derocher
+	
+	religion="andrastian_chantry"
+	culture="fereldan"
+	
+	father=11002007
+	
+	8720.1.1 = { birth = yes }
+	8784.1.1 = { death = yes }
+}
+11002009={ #Silvie's Father
+	name="Toben"
+	dynasty=86002 #Derocher
+	
+	religion="andrastian_chantry"
+	culture="fereldan"
+	
+	father=11002008
+	
+	8752.1.1 = { birth = yes }
+	8799.1.1 = { death = yes } #TBD
+}
+###DEROCHER WHO RETURNED TO FERELDEN AND RECLAIMED THE DRYDEN NAME###
+11002010={ #Silvie Derocher - Found old documents of Toben, went back to ferelden, reclaiming the Dryden name.
+	name="Silvie"
+	female=yes
+	dynasty=86002
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	father=11002009
+	
+	8769.1.1 = { birth = yes }
+	8815.2.20 = { 
+			dynasty=11002 #Dryden - Returned to Ferelden
+	}
+	8817.1.1 = { death = yes }
+}
+11002011={ #Aldenon Dryden
+	name="Aldenon"
+	dynasty=11002
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	mother=11002010
+	
+	8815.3.20 = { birth = yes }
+	8872.1.1 = { death = yes }
+}
+11002012={ #Gareth Dryden
+	name="Gareth"
+	dynasty=11002
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	father=11002011
+	
+	8860.1.1 = { birth = yes }
+	8886.1.1 = { add_spouse = 11002013 }
+	8930.2.5 = { death=yes } #Died at Battle of Ostagar
+}
+
+11002013={ #Wife to Gareth
+	name="Goldanna"
+	female=yes
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	
+	8860.1.1 = { birth = yes }
+	8930.2.5 = { death = yes  } #Battle of Ostagar
+}
+11002014={ #Mikhael Dryden
+	name="Mikhael"
+	dynasty=11002
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	father=11002012
+	mother=11002013
+	
+	8888.1.1 = { birth = yes }
+}
+11002015={ #Levi Dryden
+	name="Levi"
+	dynasty=11002
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	father=11002012
+	mother=11002013
+	
+	8901.1.1 = { birth = yes }
+}
+11002016={ #Harwen Dryden
+	name="Harwen"
+	dynasty=11002
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	father=11002012
+	mother=11002013
+	
+	8906.1.1 = { birth = yes }
+}
+11002017={ #Elissa Dryden
+	name="Elissa"
+	female=yes
+	dynasty=11002
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	father=11002012
+	mother=11002013
+	
+	8910.1.1 = { birth = yes }
+}
+
+
+### CANONICAL BANN DYNASTIES###
+
+###HOUSE EREMON OF THE WAKING SEA (BANN OF WAKING SEA)###
+12002001={
+        name="Irminric"
+        dynasty=12002
+       
+        add_trait=tough_soldier
+       
+        religion = "andrastian_chantry"
+        culture = "fereldan"
+       
+        8730.1.1 = { birth = yes }
+        8801.1.1 = { death = yes }
+}
+12002002={
+        name="Eamon"
+        dynasty=12002
+       
+        add_trait=skilled_tactician
+       
+        father=12002001
+       
+        religion = "andrastian_chantry"
+        culture = "fereldan"
+       
+        8769.1.1 = { birth = yes }
+        8790.1.1 = { add_spouse = 12002003 }
+        8828.6.12 = { death = {
+                        death_reason = death_battle
+                }
+        }
+}
+12002003={
+        name="Anora"
+        female=yes
+       
+        add_trait=fair
+        add_trait=tough_soldier
+       
+        religion = "andrastian_chantry"
+        culture = "fereldan"
+       
+        8770.1.1 = { birth = yes }
+        8823.1.20 = { death = {
+                        death_reason = death_battle
+                }
+        }
+}
+12002004={
+        name="Irminric"
+        dynasty=12002
+       
+        add_trait=skilled_tactician
+        add_trait=fair
+       
+        father=12002002
+        mother=12002003
+       
+        religion = "andrastian_chantry"
+        culture = "fereldan"
+       
+        8799.1.1 = { birth = yes }
+        8836.2.5 = { death = {
+                        death_reason = death_battle
+                }
+        }
+}
+12002005={
+        name="Ceorlic" #NOT THE ONE WHO ASSASSINATED MOIRA
+        dynasty=12002
+       
+        add_trait=tough_soldier
+       
+        father=12002004
+       
+        religion = "andrastian_chantry"
+        culture = "fereldan"
+       
+        8828.1.1 = { birth = yes }
+        8899.1.1 = { death = {
+                        #killed at the disastrous battle of west hill
+                        death_reason = death_battle
+                }
+        }
+}
+12002006={
+        name="Henric"
+        dynasty=12002
+       
+        add_trait=skilled_tactician
+        add_trait=strong
+       
+        father=12002005
+       
+        religion = "andrastian_chantry"
+        culture = "fereldan"
+       
+        8865.1.1 = { birth = yes }
+        8889.1.1 = { add_spouse=12002007 }
+        8920.1.1 = { death = {
+                        #died during the siege of Denerim
+                        death_reason = death_battle
+                }
+        }
+}
+12002007={
+        name="Bethany"
+        female=yes
+       
+        add_trait=fair
+       
+        religion = "andrastian_chantry"
+        culture = "fereldan"
+       
+        8867.1.1 = { birth = yes }
+        8920.1.2 = { add_trait=depressed }
+        8920.12.15 = { death = {
+                        death_reason = death_trait
+                }
+        }
+}
+12002008={
+        name="Irminric"
+        dynasty=12002
+       
+        add_trait=tough_soldier
+        add_trait=strong
+        add_trait=content
+       
+        father=12002006
+        mother=12002007
+       
+        religion = "andrastian_chantry"
+        culture = "fereldan"
+       
+        8891.1.1 = { birth = yes }
+}
+12002009={
+        name="Alfstanna"
+        female=yes
+        dynasty=12002
+       
+        add_trait=grey_eminence
+        add_trait=fair
+        add_trait=kind
+       
+        father=12002006
+        mother=12002007
+       
+        religion = "andrastian_chantry"
+        culture = "fereldan"
+       
+        8899.1.1 = { birth = yes }
+}
+
+
+###House Friseal of Southern Bannorn - dynasty 13002
+13002001={
+        name="Colbert" #(Placeholder)
+        dynasty=13002
+       
+        add_trait=flamboyant_schemer
+        add_trait=deceitful
+       
+        religion = "andrastian_chantry"
+        culture = "fereldan"
+       
+        8799.1.1 = { birth = yes }
+        8853.1.1 = { death = yes }
+}
+13002002={
+        name="Colbert" #(Placeholder)
+        dynasty=13002
+       
+        add_trait=tough_soldier
+        add_trait=deceitful
+       
+        father=13002001
+       
+        religion = "andrastian_chantry"
+        culture = "fereldan"
+       
+        8831.1.1 = { birth = yes }
+        8865.1.1 = { death = {
+                        death_reason = death_battle
+                }
+        }
+}
+13002003={
+        name="Ceorlic" #Bann Ceorlic - Killer of Moira
+        dynasty=13002
+       
+        add_trait=intricate_webweaver
+        add_trait=deceitful
+       
+        father=13002002
+       
+        religion = "andrastian_chantry"
+        culture = "fereldan"
+       
+        8858.1.1 = { birth = yes }
+        8920.1.1 = { death = {
+                #Executed by Maric Theirin
+                        death_reason = death_murder
+                        killer=1002004
+                }
+        }
+}
+13002004={
+        name="Ceorlic" #Bann Ceorlic's Son
+        dynasty=13002
+       
+        add_trait=flamboyant_schemer
+        add_trait=proud
+       
+        father=13002003
+       
+        religion = "andrastian_chantry"
+        culture = "fereldan"
+       
+        8886.1.1 = { birth = yes }
+}
+
+###House Burke of the Feravel plains  - dynasty 23002 #Non-canon dynasty
+21002001={ #
+name =  Eddelbrek #canon
+dynasty =23002
+female = yes
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8877.1.1 ={
+        birth = yes #non canon
+}
+8941.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+###House Oswin of Oswin/bann Loren's land/Caer Oswin  - dynasty 23002 #Canonical dynasty most probably (Caer Oswin would be named after the founder most probably).
+23002001={ #
+name =  Loren #canon
+dynasty =23002
+female = yes
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8897.1.1 ={
+        birth = yes #non canon
+}
+8971.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+###House Camran of Amaranthine - dynasty 24002 #non canon name, gaelic family name
+24002001={ #Quest NPC in Awakening, supported Arl Howe
+name = Esmerelle  #canon
+dynasty =24002
+female = yes
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8889.1.1 ={
+        birth = yes #non canon
+}
+8964.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+###House Lutair of West Hill - dynasty 25002 #non canon name, gaelic family name
+25002001={ #Nothing known about him else his name and title
+name = Franderel  #canon
+dynasty =25002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8891.1.1 ={
+        birth = yes #non canon
+}
+8954.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+###House Mac Eanraig of the Storm Coast - dynasty 26002 #canon name
+26002001={ #known as the Storm Giant he was the father of Eleanor Cousland
+name = Fearchar #canon
+dynasty =26002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8850.1.1 ={
+        birth = yes #non canon
+}
+8925.1.1 ={
+        death = yes #non canon
+}
+
+}  
+
+26002002={ #current Bann, non cannon, Fearchar's son
+name = Walder #non canon
+dynasty =26002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8890.1.1 ={
+        birth = yes #non canon
+}
+8966.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+###House Andarson of White River - dynasty 34002 #non canon name
+34002001={ #Nothing known about him else his name and title
+name =  Reginalda #canon
+dynasty =34002
+female = yes
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8892.1.1 ={
+        birth = yes #non canon
+}
+8968.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+###House Mac Phaidein of Dragon's Peak - dynasty 36002 #non canon name
+36002001={ #Nothing known about him else his name and title
+name =  Sighard #canon
+dynasty =36002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8896.1.1 ={
+        birth = yes #non canon
+}
+8975.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### Canon characters with no known land:
+
+
+###NEAR EDGEHALL!!!!###
+###House Matasan of "Nowhere" (your job ngppgn) - dynasty 30002 #gaelic family name
+30002001={ #Located "nearby" Edgehall
+name =  Kail #canon
+dynasty =30002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8882.1.1 ={
+        birth = yes #non canon
+}
+8967.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+
+###House Talmach of "Nowhere" (your job ngppgn) - dynasty 31002 #gaelic family name
+31002001={ #Located "nearby" Edgehall
+name =  Lanya #canon
+dynasty =31002
+female = yes
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8905.1.1 ={
+        birth = yes #non canon
+}
+8981.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+###House Ualas of "Nowhere" (your job ngppgn) - dynasty 32002 #gaelic family name
+32002001={ #Located "nearby" Edgehall
+name =  Parth #canon
+dynasty =32002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8902.1.1 ={
+        birth = yes #non canon
+}
+8981.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+
+###House Beordan of "Nowhere" - dynasty 22002  #non canon dynasty
+22002001={ #located nearby Edgehall
+name = Bryton  #canon
+dynasty =22002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8898.1.1 ={
+        birth = yes #non canon
+}
+8980.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+###House Mac Asgain of "Nowhere" (your job ngppgn) - dynasty 27002 #gaelic family name
+27002001={ #Nothing known about him else his name and title
+name =  Grainne #canon
+dynasty = 27002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8903.1.1 ={
+        birth = yes #non canon
+}
+8978.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+
+
+###House Mac Rath of "Nowhere" (your job ngppgn) - dynasty 28002 #gaelic family name
+28002001={ #Nothing known about him else his name and title
+name =  Ferrenly #canon
+dynasty =28002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8902.1.1 ={
+        birth = yes #non canon
+}
+8977.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+
+###House Gallach of "Nowhere" (your job ngppgn) - dynasty 29002 #gaelic family name
+29002001={ #Nothing known about him else his name and title
+name =  Oswald # made up
+dynasty =29002
+female = yes
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8897.1.1 ={
+        birth = yes #non canon
+}
+8971.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+
+
+###House Baranti of "Nowhere" (your job ngppgn) - dynasty 33002 #canon name
+33002001={ #Nothing known about him else his name and title
+name =  Nicola #canon
+dynasty =33002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8892.1.1 ={
+        birth = yes #non canon
+}
+8968.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+
+###House Dunaid of "Nowhere" (your job ngppgn) - dynasty 35002 #non canon name
+35002001={ #Nothing known about him else his name and title
+name =  Rodolf #canon
+dynasty =35002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8886.1.1 ={
+        birth = yes #non canon
+}
+8965.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+
+
+###House Mac Rob of "Nowhere" - dynasty 37002 #non canon name
+37002001={ #Nothing known about him else his name and title
+name =  Telmen #canon
+dynasty =37002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8902.1.1 ={
+        birth = yes #non canon
+}
+8979.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+###House Krole of "Nowhere" - dynasty 38002 #canon name
+38002001={ #Nothing known about him else his name and title
+name =  Valdur #canon
+dynasty =38002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8889.1.1 ={
+        birth = yes #non canon
+}
+8979.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+###House Rosach of "Nowhere" - dynasty 39002 #non canon name
+39002001={ #Nothing known about him else his name and title
+name =  Tremaine #canon
+dynasty =39002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8894.1.1 ={
+        birth = yes #non canon
+}
+8969.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+###House Sutharlan of "Nowhere" - dynasty 40002 #non canon name
+40002001={ #Nothing known about him else his name and title
+name =  Trumhall #canon
+dynasty =40002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8902.1.1 ={
+        birth = yes #non canon
+}
+8977.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+###House Màrr of "Nowhere" - dynasty 41002 #non canon name
+41002001={ #Nothing known about him else his name and title
+name = Darby #canon
+dynasty =41002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8904.1.1 ={
+        birth = yes #non canon
+}
+8979.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+###House Bhàsa of "Nowhere" - dynasty 42002 #non canon name
+42002001={ #Nothing known about him else his name and title
+name = Donall #canon
+dynasty =42002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8904.1.1 ={
+        birth = yes #non canon
+}
+8979.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+###House Creag of "Nowhere" - dynasty 43002 #non canon name
+43002001={ #Nothing known about him else his name and title
+name = Perrin #canon
+dynasty =43002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8895.1.1 ={
+        birth = yes #non canon
+}
+8969.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+###House Gunnach of "Nowhere" - dynasty 44002 #non canon name
+44002001={ #Nothing known about him else his name and title
+name = Bronach #canon
+dynasty =44002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8907.1.1 ={
+        birth = yes #non canon
+}
+8982.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+###(CUSTOM) HOUSE STEELBARK - ARLING###
+14002001={ 
+	name="Brynden"
+	dynasty=14002
+	
+	add_trait = "tough_soldier"
+	add_trait = "chaste"
+	add_trait = "kind"
+	add_trait = "temperate"
+	add_trait = "content"
+	add_trait = "brave"
+	add_trait = "scarred"
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	8861.1.1 = { birth = yes }
+	8896.1.1 = { add_spouse = 14002002 }
+	8909.1.1 = { death = {
+              death_reason = death_battle
+         }
+    }
+}
+14002002={ 
+	name="Miranda"
+	female=yes
+	
+	add_trait = "charismatic_negotiator"
+	add_trait = "fair"
+	add_trait = "quick"
+	add_trait = "scholar"
+	add_trait = "chaste"
+	add_trait = "diligent"
+	add_trait = "charitable"
+	add_trait = "kind"
+	add_trait = "honest"
+	add_trait = "content"
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	8862.1.1 = { birth = yes }
+	8909.8.5 = { add_trait="ill" }
+	8910.1.1 = { death = {
+              death_reason = death_trait
+         }
+    }
+}
+14002003={ #Aeden Steelbark
+	name="Aeden"
+	dynasty=14002
+	
+	add_trait = "brilliant_strategist"
+	add_trait = "strong"
+	add_trait = "strategist"
+	add_trait = "hunter"
+	add_trait = "proud"
+	add_trait = "wroth"
+	add_trait = "kind"
+	add_trait = "diligent"
+	add_trait = "chaste"
+	add_trait = "brave"
+	add_trait = "just"
+	
+	father=14002001
+	mother=14002002
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	8898.1.1 = { birth = yes }
+	8916.1.1 = { add_spouse = 14002004 }
+}
+14002004={
+	name="Lynessa"
+	female=yes
+	
+	add_trait = "mastermind_theologian"
+	add_trait = "fair"
+	add_trait = "quick"
+	add_trait = "scholar"
+	add_trait = "chaste"
+	add_trait = "temperate"
+	add_trait = "kind"
+	add_trait = "honest"
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	8899.1.1 = { birth = yes }
+}
+14002005={
+	name="Edmure" #Steelbark Bastard
+	dynasty=14002
+	
+	add_trait="bastard"
+	add_trait="tough_soldier"
+	add_trait="fair"
+	add_trait="chaste"
+	add_trait="proud"
+	add_trait="patient"
+	add_trait="kind"
+	add_trait="envious"
+	add_trait="deceitful"
+	add_trait="ambitious"
+	add_trait="zealous"
+	
+	
+	father=14002003
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	8921.1.1 = { birth = yes }
+}
+14002006={
+	name="Logan"
+	dynasty=14002
+	
+	#add_trait="skilled_tactician"
+	add_trait="quick"
+	add_trait="strong"
+	add_trait="proud"
+	add_trait="ambitious"
+	add_trait="just"
+	add_trait="kind"
+	add_trait="brave"
+	
+	
+	father=14002003
+	mother=14002004
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	8923.1.1 = { birth = yes }
+}
+14002007={
+	name="Rowan"
+	female=yes
+	dynasty=14002
+
+	#add_trait="skilled_tactician"
+	add_trait="strong"
+	add_trait="fair"
+	add_trait="proud"
+	add_trait="gregarious"
+	add_trait="chaste"
+	add_trait="diligent"
+	add_trait="temperate"
+	
+	father=14002003
+	mother=14002004
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	8925.1.1 = { birth = yes }
+}
+14002008={
+	name="Miranda"
+	female=yes
+	dynasty=14002
+	
+	#add_trait="grey_eminence"
+	add_trait="genius"
+	add_trait="humble"
+	add_trait="chaste"
+	add_trait="diligent"
+	add_trait="temperate"
+	add_trait="cynical"
+	add_trait="paranoid"
+	
+	father=14002003
+	mother=14002004
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	8927.1.1 = { birth = yes }
+}
+14002009={
+	name="Brynden"
+	dynasty=14002
+	
+	#add_trait="midas_touched"
+	add_trait="proud"
+	add_trait="chaste"
+	add_trait="diligent"
+	add_trait="just"
+	add_trait="zealous"
+	
+	father=14002003
+	mother=14002004
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	8928.1.1 = { birth = yes }
+}
+14002010={
+	name="Cahir"
+	dynasty=14002
+	
+	#add_trait="brilliant_strategist"
+	add_trait="strong"
+	
+	father=14002003
+	mother=14002004
+	
+	religion = "andrastian_chantry"
+	culture = "fereldan"
+	
+	8930.1.1 = { birth = yes }
+}
+
+
+### (CUSTOM)House Mac Beatha of "Nowhere" - dynasty 45002 #non canon name
+45002001={ #Nothing known about him else his name and title
+name = Baltair #custom
+dynasty =45002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8897.1.1 ={
+        birth = yes #non canon
+}
+8972.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Mac Cuinn of "Nowhere" - dynasty 46002 #non canon name
+46002001={ #Nothing known about him else his name and title
+name = Iomar #custom
+dynasty =44002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8897.1.1 ={
+        birth = yes #non canon
+}
+8972.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Mac Ealar of "Nowhere" - dynasty 47002 #non canon name
+47002001={ #Nothing known about him else his name and title
+name = Quinn #custom
+dynasty =47002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8894.1.1 ={
+        birth = yes #non canon
+}
+8969.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Mac Ealar of "Nowhere" - dynasty 48002 #non canon name
+48002001={ #Nothing known about him else his name and title
+name = Terrence #custom
+dynasty =48002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8889.1.1 ={
+        birth = yes #non canon
+}
+8964.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Todt of "Nowhere" - dynasty 49002 #non canon name
+49002001={ 
+name = Galen #custom
+dynasty =49002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8891.1.1 ={
+        birth = yes #non canon
+}
+8966.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Ruadh of "Nowhere" - dynasty 50002 #non canon name
+50002001={ 
+name = Peadar #custom
+dynasty =50002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8899.1.1 ={
+        birth = yes #non canon
+}
+8974.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Roid of "Nowhere" - dynasty 51002 #non canon name
+51002001={ 
+name = Ulf #custom
+dynasty =51002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8899.1.1 ={
+        birth = yes #non canon
+}
+8974.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Salmond of "Nowhere" - dynasty 52002 #non canon name
+52002001={ 
+name = Kalan #custom
+dynasty =52002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8909.1.1 ={
+        birth = yes #non canon
+}
+8984.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Morganach of "Nowhere" - dynasty 53002 #non canon name
+53002001={ 
+name = Keegan #custom
+dynasty =53002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8902.1.1 ={
+        birth = yes #non canon
+}
+8977.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Mawr of "Nowhere" - dynasty 54002 #non canon name
+54002001={ 
+name = Kendon #custom
+dynasty =54002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8904.1.1 ={
+        birth = yes #non canon
+}
+8979.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Guinne of "Nowhere" - dynasty 55002 #non canon name
+55002001={ 
+name = Edana #custom
+dynasty =55002
+female = yes
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8888.1.1 ={
+        birth = yes #non canon
+}
+8966.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Càidh of "Nowhere" - dynasty 56002 #non canon name
+56002001={ 
+name = Lana #custom
+dynasty =56002
+female = yes
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8908.1.1 ={
+        birth = yes #non canon
+}
+8986.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Breac of "Nowhere" - dynasty 57002 #non canon name
+57002001={ 
+name = Onora #custom
+dynasty =57002
+female = yes
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8907.1.1 ={
+        birth = yes #non canon
+}
+8985.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Caimbeul of "Nowhere" - dynasty 58002 #non canon name
+58002001={ 
+name = Odran #custom
+dynasty =58002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8901.1.1 ={
+        birth = yes #non canon
+}
+8979.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Baran of "Nowhere" - dynasty 59002 #non canon name
+59002001={ 
+name = Gaelan #custom
+dynasty =59002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8906.1.1 ={
+        birth = yes #non canon
+}
+8982.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Bochanan of "Nowhere" - dynasty 60002 #non canon name
+60002001={ 
+name = Galvin #custom
+dynasty =60002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8911.1.1 ={
+        birth = yes #non canon
+}
+8988.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Gallagher of "Nowhere" - dynasty 61002 #non canon name
+61002001={ 
+name = Dace #custom
+dynasty =61002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8903.1.1 ={
+        birth = yes #non canon
+}
+8977.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Arasgain of "Nowhere" - dynasty 62002 #non canon name
+62002001={ 
+name = Daegan #custom
+dynasty =62002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8878.1.1 ={
+        birth = yes #non canon
+}
+8955.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Mac a' Lìos of "Nowhere" - dynasty 63002 #non canon name
+63002001={ 
+name = Taggart #custom
+dynasty =63002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8885.1.1 ={
+        birth = yes #non canon
+}
+8964.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Mac Garadh of "Nowhere" - dynasty 64002 #non canon name
+64002001={ 
+name = Hogan #custom
+dynasty =64002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8893.1.1 ={
+        birth = yes #non canon
+}
+8971.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Ròs of "Nowhere" - dynasty 65002 #non canon name
+65002001={ 
+name = Barry #custom
+dynasty =65002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8897.1.1 ={
+        birth = yes #non canon
+}
+8974.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Glas of "Nowhere" - dynasty 66002 #non canon name
+66002001={ 
+name = Malvin #custom
+dynasty =66002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8891.1.1 ={
+        birth = yes #non canon
+}
+8969.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Gòrdan of "Nowhere" - dynasty 67002 #non canon name
+67002001={ 
+name = Mannis #custom
+dynasty =67002
+female = yes
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8881.1.1 ={
+        birth = yes #non canon
+}
+8959.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Lios of "Nowhere" - dynasty 68002 #non canon name
+68002001={ 
+name = Padruig #custom
+dynasty =68002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8888.1.1 ={
+        birth = yes #non canon
+}
+8967.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Mac Caog of "Nowhere" - dynasty 69002 #non canon name
+69002001={ 
+name = Orren #custom
+dynasty =69002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8884.1.1 ={
+        birth = yes #non canon
+}
+8961.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Mac Colla of "Nowhere" - dynasty 70002 #non canon name
+70002001={ 
+name = Tomas #custom
+dynasty =70002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8897.1.1 ={
+        birth = yes #non canon
+}
+8975.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Mac Figeinn of "Nowhere" - dynasty 71002 #non canon name
+71002001={ 
+name = Tynan #custom
+dynasty =71002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8884.1.1 ={
+        birth = yes #non canon
+}
+8961.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Mac Leòir of "Nowhere" - dynasty 72002 #non canon name
+72002001={ 
+name = Daeg #custom
+dynasty =72002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8899.1.1 ={
+        birth = yes #non canon
+}
+8974.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Mac Mhata of "Nowhere" - dynasty 73002 #non canon name
+73002001={ 
+name = Daran #custom
+dynasty =73002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8896.1.1 ={
+        birth = yes #non canon
+}
+8972.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Neis of "Nowhere" - dynasty 74002 #non canon name
+74002001={ 
+name = Coilin #custom
+dynasty =74002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8904.1.1 ={
+        birth = yes #non canon
+}
+8978.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Paorach of "Nowhere" - dynasty 75002 #non canon name
+75002001={ 
+name = Craig #custom
+dynasty =75002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8885.1.1 ={
+        birth = yes #non canon
+}
+8961.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House MacIll Aodhagain of "Nowhere" - dynasty 76002 #non canon name
+76002001={ 
+name = Curney #custom
+dynasty =76002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8898.1.1 ={
+        birth = yes #non canon
+}
+8973.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Munna of "Nowhere" - dynasty 77002 #non canon name
+77002001={ 
+name = Iseabal #custom
+dynasty =77002
+female = yes
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8907.1.1 ={
+        birth = yes #non canon
+}
+8983.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Mac Usbaig of "Nowhere" - dynasty 78002 #non canon name
+78002001={ 
+name = Ronal #custom
+dynasty =78002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8910.1.1 ={
+        birth = yes #non canon
+}
+8987.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House O'Cain of "Nowhere" - dynasty 79002 #non canon name
+79002001={ 
+name = Rourke #custom
+dynasty =79002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8901.1.1 ={
+        birth = yes #non canon
+}
+8977.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House O'Luing of "Nowhere" - dynasty 80002 #non canon name
+80002001={ 
+name = Ruailidh #custom
+dynasty =80002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8893.1.1 ={
+        birth = yes #non canon
+}
+8969.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Moireach of "Nowhere" - dynasty 81002 #non canon name
+81002001={ 
+name = Eachann #custom
+dynasty =81002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8898.1.1 ={
+        birth = yes #non canon
+}
+8976.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Moireach of "Nowhere" - dynasty 82002 #non canon name
+82002001={ 
+name = Kennard #custom
+dynasty =82002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8879.1.1 ={
+        birth = yes #non canon
+}
+8953.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Preas of "Nowhere" - dynasty 83002 #non canon name
+83002001={ 
+name = Kian #custom
+dynasty =83002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8865.1.1 ={
+        birth = yes #non canon
+}
+8944.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Siosal of "Nowhere" - dynasty 84002 #non canon name
+84002001={ 
+name = Conroy #custom
+dynasty =84002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8900.1.1 ={
+        birth = yes #non canon
+}
+8977.1.1 ={
+        death = yes #non canon
+}
+
+}
+
+### (CUSTOM)House Gòrdan of "Nowhere" - dynasty 85002 #non canon name
+85002001={ 
+name = Coyle #custom
+dynasty =85002
+
+religion = "andrastian_chantry"
+culture = "fereldan"
+
+8909.1.1 ={
+        birth = yes #non canon
+}
+8986.1.1 ={
+        death = yes #non canon
+}
+
+}

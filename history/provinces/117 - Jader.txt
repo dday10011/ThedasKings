@@ -1,0 +1,19 @@
+# c_jader
+
+# County Title
+title = c_jader
+
+# Settlements
+max_settlements = 5
+
+b_jader = castle
+b_jader_2 = city
+b_jader_3 = temple
+b_jader_4 = castle
+b_jader_5 = city
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

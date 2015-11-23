@@ -1,0 +1,17 @@
+# c_oldehove
+
+# County Title
+title = c_oldehove
+
+# Settlements
+max_settlements = 3
+
+b_oldehove = castle
+b_oldehove_2 = city
+b_oldehove_3 = temple
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

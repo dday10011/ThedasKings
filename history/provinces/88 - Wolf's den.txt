@@ -1,0 +1,15 @@
+# c_wolfs_den
+
+# County Title
+title = c_wolfs_den
+
+# Settlements
+max_settlements = 1
+
+b_wolfs_den = castle
+
+# Misc
+culture = forest
+religion = forest
+
+#History

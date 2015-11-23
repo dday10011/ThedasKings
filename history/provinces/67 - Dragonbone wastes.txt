@@ -1,0 +1,16 @@
+# c_dragonbone_wastes
+
+# County Title
+title = c_dragonbone_wastes
+
+# Settlements
+max_settlements = 2
+
+b_dragonbone_wastes = castle
+b_dragonbone_wastes_2 = city
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

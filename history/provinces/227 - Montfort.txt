@@ -1,0 +1,20 @@
+# c_montfort
+
+# County Title
+title = c_montfort
+
+# Settlements
+max_settlements = 6
+
+b_montfort = castle
+b_montfort_2 = city
+b_montfort_3 = temple
+b_montfort_4 = castle
+b_montfort_5 = city
+b_montfort_6 = temple
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

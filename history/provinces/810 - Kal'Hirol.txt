@@ -1,0 +1,21 @@
+# c_kalhirol
+
+# County Title
+title = c_kalhirol
+
+# Settlements
+max_settlements = 7
+
+b_kalhirol = castle
+#b_kalhirol_2 = city
+#b_kalhirol_3 = temple
+#b_kalhirol_4 = castle
+#b_kalhirol_5 = city
+#b_kalhirol_6 = temple
+#b_kalhirol_7 = castle
+
+# Misc
+culture = orzammar
+religion = our_ancestors
+
+#History

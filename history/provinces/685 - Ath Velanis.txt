@@ -1,0 +1,18 @@
+# c_ath_velanis
+
+# County Title
+title = c_ath_velanis
+
+# Settlements
+max_settlements = 4
+
+b_ath_velanis = castle
+b_ath_velanis_2 = city
+b_ath_velanis_3 = temple
+b_ath_velanis_4 = castle
+
+# Misc
+culture = qunari
+religion = qun_religion
+
+#History

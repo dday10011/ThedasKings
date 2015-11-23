@@ -1,0 +1,17 @@
+# c_trabant
+
+# County Title
+title = c_trabant
+
+# Settlements
+max_settlements = 3
+
+b_trabant = castle
+b_trabant_2 = city
+b_trabant_3 = temple
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

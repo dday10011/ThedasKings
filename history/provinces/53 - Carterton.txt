@@ -1,0 +1,19 @@
+# c_carterton
+
+# County Title
+title = c_carterton
+
+# Settlements
+max_settlements = 5
+
+b_carterton = castle
+b_carterton_2 = city
+b_carterton_3 = temple
+b_carterton_4 = castle
+b_carterton_5 = city
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

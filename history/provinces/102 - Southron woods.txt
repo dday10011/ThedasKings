@@ -1,0 +1,15 @@
+# c_southron_woods
+
+# County Title
+title = c_southron_woods
+
+# Settlements
+max_settlements = 1
+
+b_southron_woods = castle
+
+# Misc
+culture = forest
+religion = forest
+
+#History

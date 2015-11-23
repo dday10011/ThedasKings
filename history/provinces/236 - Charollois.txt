@@ -1,0 +1,19 @@
+# c_charollois
+
+# County Title
+title = c_charollois
+
+# Settlements
+max_settlements = 5
+
+b_charollois = castle
+b_charollois_2 = city
+b_charollois_3 = temple
+b_charollois_4 = castle
+b_charollois_5 = city
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

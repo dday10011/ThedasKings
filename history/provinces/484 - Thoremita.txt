@@ -1,0 +1,17 @@
+# c_thoremita
+
+# County Title
+title = c_thoremita
+
+# Settlements
+max_settlements = 3
+
+b_thoremita = castle
+b_thoremita_2 = city
+b_thoremita_3 = temple
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

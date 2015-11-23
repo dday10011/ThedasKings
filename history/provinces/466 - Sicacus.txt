@@ -1,0 +1,17 @@
+# c_sicacus
+
+# County Title
+title = c_sicacus
+
+# Settlements
+max_settlements = 3
+
+b_sicacus = castle
+b_sicacus_2 = city
+b_sicacus_3 = temple
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

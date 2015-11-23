@@ -1,0 +1,15 @@
+# c_majestic_covert
+
+# County Title
+title = c_majestic_covert
+
+# Settlements
+max_settlements = 1
+
+b_majestic_covert = castle
+
+# Misc
+culture = forest
+religion = forest
+
+#History

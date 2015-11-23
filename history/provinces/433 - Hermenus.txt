@@ -1,0 +1,18 @@
+# c_hermenus
+
+# County Title
+title = c_hermenus
+
+# Settlements
+max_settlements = 4
+
+b_hermenus = castle
+b_hermenus_2 = city
+b_hermenus_3 = temple
+b_hermenus_4 = castle
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

@@ -1,0 +1,19 @@
+# c_fatah
+
+# County Title
+title = c_fatah
+
+# Settlements
+max_settlements = 5
+
+b_fatah = castle
+b_fatah_2 = city
+b_fatah_3 = temple
+b_fatah_4 = castle
+b_fatah_5 = city
+
+# Misc
+culture = rivaini
+religion = andrastian_chantry
+
+#History

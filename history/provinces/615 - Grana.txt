@@ -1,0 +1,18 @@
+# c_grana
+
+# County Title
+title = c_grana
+
+# Settlements
+max_settlements = 4
+
+b_grana = castle
+b_grana_2 = city
+b_grana_3 = temple
+b_grana_4 = castle
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

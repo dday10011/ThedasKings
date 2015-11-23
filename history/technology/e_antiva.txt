@@ -1,0 +1,24 @@
+#ANTIVA
+technology = {
+	titles = {
+		d_antiva
+		d_rialto
+		d_seleny
+		d_the_weyrns
+		d_versone
+		d_marcaria
+		d_treviso
+		d_brynnlaw
+		d_the_drylands
+	}
+	7000 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+	12000 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}

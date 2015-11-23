@@ -1,0 +1,17 @@
+# c_montlaures
+
+# County Title
+title = c_montlaures
+
+# Settlements
+max_settlements = 3
+
+b_montlaures = castle
+b_montlaures_2 = city
+b_montlaures_3 = temple
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

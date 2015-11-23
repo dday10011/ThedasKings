@@ -1,0 +1,18 @@
+# c_mantonesos
+
+# County Title
+title = c_mantonesos
+
+# Settlements
+max_settlements = 4
+
+b_mantonesos = castle
+b_mantonesos_2 = city
+b_mantonesos_3 = temple
+b_mantonesos_4 = castle
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

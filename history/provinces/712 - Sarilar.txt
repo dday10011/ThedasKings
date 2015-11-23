@@ -1,0 +1,19 @@
+# c_sarilar
+
+# County Title
+title = c_sarilar
+
+# Settlements
+max_settlements = 5
+
+b_sarilar = castle
+b_sarilar_2 = city
+b_sarilar_3 = temple
+b_sarilar_4 = castle
+b_sarilar_5 = city
+
+# Misc
+culture = qunari
+religion = qun_religion
+
+#History

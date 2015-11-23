@@ -1,0 +1,17 @@
+# c_castor_keep
+
+# County Title
+title = c_castor_keep
+
+# Settlements
+max_settlements = 3
+
+b_castor_keep = castle
+b_castor_keep_2 = city
+b_castor_keep_3 = temple
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

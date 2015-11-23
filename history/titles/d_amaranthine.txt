@@ -1,0 +1,17 @@
+500.1.1={
+	#law = true_cognatic_succession
+	#law = succ_gavelkind
+}
+800.1.1={
+	liege=k_the_coastlands
+}
+
+	8843.1.1={
+		holder=4002002
+	}
+	8873.1.1={
+		holder=4002003
+	}
+	8899.4.6={
+		holder=4002004
+	}

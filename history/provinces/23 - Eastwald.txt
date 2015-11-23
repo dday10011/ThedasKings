@@ -1,0 +1,17 @@
+# c_eastwald
+
+# County Title
+title = c_eastwald
+
+# Settlements
+max_settlements = 3
+
+b_eastwald = castle
+b_eastwald_2 = city
+b_eastwald_3 = temple
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

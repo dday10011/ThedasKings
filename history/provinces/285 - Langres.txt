@@ -1,0 +1,18 @@
+# c_langres
+
+# County Title
+title = c_langres
+
+# Settlements
+max_settlements = 4
+
+b_langres = castle
+b_langres_2 = city
+b_langres_3 = temple
+b_langres_4 = castle
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

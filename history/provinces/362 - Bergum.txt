@@ -1,0 +1,15 @@
+# c_bergum
+
+# County Title
+title = c_bergum
+
+# Settlements
+max_settlements = 1
+
+b_bergum = castle
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

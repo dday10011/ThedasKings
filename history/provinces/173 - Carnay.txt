@@ -1,0 +1,18 @@
+# c_carnay
+
+# County Title
+title = c_carnay
+
+# Settlements
+max_settlements = 4
+
+b_carnay = castle
+b_carnay_2 = city
+b_carnay_3 = temple
+b_carnay_4 = castle
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

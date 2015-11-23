@@ -1,0 +1,18 @@
+# c_terband
+
+# County Title
+title = c_terband
+
+# Settlements
+max_settlements = 4
+
+b_terband = castle
+b_terband_2 = city
+b_terband_3 = temple
+b_terband_4 = castle
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,17 @@
+# c_harpers_ford
+
+# County Title
+title = c_harpers_ford
+
+# Settlements
+max_settlements = 3
+
+b_harpers_ford = castle
+b_harpers_ford_2 = city
+b_harpers_ford_3 = temple
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

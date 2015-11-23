@@ -1,0 +1,15 @@
+# c_sputler
+
+# County Title
+title = c_sputler
+
+# Settlements
+max_settlements = 1
+
+b_sputler = castle
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

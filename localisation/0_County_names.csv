@@ -1,0 +1,1769 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+c_aayen;Aayen;Aayen;Aayen;;Aayen;;;;;;;;;x
+c_aayen_adj;Aayenian;;aayener;;;;;;;;;;;x
+c_abandoned_thaig;Abandoned thaig;Abandoned thaig;Abandoned thaig;;Abandoned thaig;;;;;;;;;x
+c_abandoned_thaig_adj;Abandoned thaigian;;Abandoned thaiger;;;;;;;;;;;x
+c_abandoned_thaig_1;Abandoned thaig 1;Abandoned thaig 1;Abandoned thaig 1;;Abandoned thaig 1;;;;;;;;;x
+c_abandoned_thaig_1_adj;Abandoned thaig 1ian;;Abandoned thaig 1er;;;;;;;;;;;x
+c_abandoned_thaig_10;Abandoned thaig 10;Abandoned thaig 10;Abandoned thaig 10;;Abandoned thaig 10;;;;;;;;;x
+c_abandoned_thaig_10_adj;Abandoned thaig 10ian;;Abandoned thaig 10er;;;;;;;;;;;x
+c_abandoned_thaig_11;Abandoned thaig 11;Abandoned thaig 11;Abandoned thaig 11;;Abandoned thaig 11;;;;;;;;;x
+c_abandoned_thaig_11_adj;Abandoned thaig 11ian;;Abandoned thaig 11er;;;;;;;;;;;x
+c_abandoned_thaig_12;Abandoned thaig 12;Abandoned thaig 12;Abandoned thaig 12;;Abandoned thaig 12;;;;;;;;;x
+c_abandoned_thaig_12_adj;Abandoned thaig 12ian;;Abandoned thaig 12er;;;;;;;;;;;x
+c_abandoned_thaig_13;Abandoned thaig 13;Abandoned thaig 13;Abandoned thaig 13;;Abandoned thaig 13;;;;;;;;;x
+c_abandoned_thaig_13_adj;Abandoned thaig 13ian;;Abandoned thaig 13er;;;;;;;;;;;x
+c_abandoned_thaig_14;Abandoned thaig 14;Abandoned thaig 14;Abandoned thaig 14;;Abandoned thaig 14;;;;;;;;;x
+c_abandoned_thaig_14_adj;Abandoned thaig 14ian;;Abandoned thaig 14er;;;;;;;;;;;x
+c_abandoned_thaig_15;Abandoned thaig 15;Abandoned thaig 15;Abandoned thaig 15;;Abandoned thaig 15;;;;;;;;;x
+c_abandoned_thaig_15_adj;Abandoned thaig 15ian;;Abandoned thaig 15er;;;;;;;;;;;x
+c_abandoned_thaig_16;Abandoned thaig 16;Abandoned thaig 16;Abandoned thaig 16;;Abandoned thaig 16;;;;;;;;;x
+c_abandoned_thaig_16_adj;Abandoned thaig 16ian;;Abandoned thaig 16er;;;;;;;;;;;x
+c_abandoned_thaig_17;Abandoned thaig 17;Abandoned thaig 17;Abandoned thaig 17;;Abandoned thaig 17;;;;;;;;;x
+c_abandoned_thaig_17_adj;Abandoned thaig 17ian;;Abandoned thaig 17er;;;;;;;;;;;x
+c_abandoned_thaig_18;Abandoned thaig 18;Abandoned thaig 18;Abandoned thaig 18;;Abandoned thaig 18;;;;;;;;;x
+c_abandoned_thaig_18_adj;Abandoned thaig 18ian;;Abandoned thaig 18er;;;;;;;;;;;x
+c_abandoned_thaig_19;Abandoned thaig 19;Abandoned thaig 19;Abandoned thaig 19;;Abandoned thaig 19;;;;;;;;;x
+c_abandoned_thaig_19_adj;Abandoned thaig 19ian;;Abandoned thaig 19er;;;;;;;;;;;x
+c_abandoned_thaig_2;Abandoned thaig 2;Abandoned thaig 2;Abandoned thaig 2;;Abandoned thaig 2;;;;;;;;;x
+c_abandoned_thaig_2_adj;Abandoned thaig 2ian;;Abandoned thaig 2er;;;;;;;;;;;x
+c_abandoned_thaig_20;Abandoned thaig 20;Abandoned thaig 20;Abandoned thaig 20;;Abandoned thaig 20;;;;;;;;;x
+c_abandoned_thaig_20_adj;Abandoned thaig 20ian;;Abandoned thaig 20er;;;;;;;;;;;x
+c_abandoned_thaig_21;Abandoned thaig 21;Abandoned thaig 21;Abandoned thaig 21;;Abandoned thaig 21;;;;;;;;;x
+c_abandoned_thaig_21_adj;Abandoned thaig 21ian;;Abandoned thaig 21er;;;;;;;;;;;x
+c_abandoned_thaig_22;Abandoned thaig 22;Abandoned thaig 22;Abandoned thaig 22;;Abandoned thaig 22;;;;;;;;;x
+c_abandoned_thaig_22_adj;Abandoned thaig 22ian;;Abandoned thaig 22er;;;;;;;;;;;x
+c_abandoned_thaig_23;Abandoned thaig 23;Abandoned thaig 23;Abandoned thaig 23;;Abandoned thaig 23;;;;;;;;;x
+c_abandoned_thaig_23_adj;Abandoned thaig 23ian;;Abandoned thaig 23er;;;;;;;;;;;x
+c_abandoned_thaig_24;Abandoned thaig 24;Abandoned thaig 24;Abandoned thaig 24;;Abandoned thaig 24;;;;;;;;;x
+c_abandoned_thaig_24_adj;Abandoned thaig 24ian;;Abandoned thaig 24er;;;;;;;;;;;x
+c_abandoned_thaig_25;Abandoned thaig 25;Abandoned thaig 25;Abandoned thaig 25;;Abandoned thaig 25;;;;;;;;;x
+c_abandoned_thaig_25_adj;Abandoned thaig 25ian;;Abandoned thaig 25er;;;;;;;;;;;x
+c_abandoned_thaig_26;Abandoned thaig 26;Abandoned thaig 26;Abandoned thaig 26;;Abandoned thaig 26;;;;;;;;;x
+c_abandoned_thaig_26_adj;Abandoned thaig 26ian;;Abandoned thaig 26er;;;;;;;;;;;x
+c_abandoned_thaig_27;Abandoned thaig 27;Abandoned thaig 27;Abandoned thaig 27;;Abandoned thaig 27;;;;;;;;;x
+c_abandoned_thaig_27_adj;Abandoned thaig 27ian;;Abandoned thaig 27er;;;;;;;;;;;x
+c_abandoned_thaig_28;Abandoned thaig 28;Abandoned thaig 28;Abandoned thaig 28;;Abandoned thaig 28;;;;;;;;;x
+c_abandoned_thaig_28_adj;Abandoned thaig 28ian;;Abandoned thaig 28er;;;;;;;;;;;x
+c_abandoned_thaig_29;Abandoned thaig 29;Abandoned thaig 29;Abandoned thaig 29;;Abandoned thaig 29;;;;;;;;;x
+c_abandoned_thaig_29_adj;Abandoned thaig 29ian;;Abandoned thaig 29er;;;;;;;;;;;x
+c_abandoned_thaig_3;Abandoned thaig 3;Abandoned thaig 3;Abandoned thaig 3;;Abandoned thaig 3;;;;;;;;;x
+c_abandoned_thaig_3_adj;Abandoned thaig 3ian;;Abandoned thaig 3er;;;;;;;;;;;x
+c_abandoned_thaig_30;Abandoned thaig 30;Abandoned thaig 30;Abandoned thaig 30;;Abandoned thaig 30;;;;;;;;;x
+c_abandoned_thaig_30_adj;Abandoned thaig 30ian;;Abandoned thaig 30er;;;;;;;;;;;x
+c_abandoned_thaig_31;Abandoned thaig 31;Abandoned thaig 31;Abandoned thaig 31;;Abandoned thaig 31;;;;;;;;;x
+c_abandoned_thaig_31_adj;Abandoned thaig 31ian;;Abandoned thaig 31er;;;;;;;;;;;x
+c_abandoned_thaig_32;Abandoned thaig 32;Abandoned thaig 32;Abandoned thaig 32;;Abandoned thaig 32;;;;;;;;;x
+c_abandoned_thaig_32_adj;Abandoned thaig 32ian;;Abandoned thaig 32er;;;;;;;;;;;x
+c_abandoned_thaig_33;Abandoned thaig 33;Abandoned thaig 33;Abandoned thaig 33;;Abandoned thaig 33;;;;;;;;;x
+c_abandoned_thaig_33_adj;Abandoned thaig 33ian;;Abandoned thaig 33er;;;;;;;;;;;x
+c_abandoned_thaig_34;Abandoned thaig 34;Abandoned thaig 34;Abandoned thaig 34;;Abandoned thaig 34;;;;;;;;;x
+c_abandoned_thaig_34_adj;Abandoned thaig 34ian;;Abandoned thaig 34er;;;;;;;;;;;x
+c_abandoned_thaig_35;Abandoned thaig 35;Abandoned thaig 35;Abandoned thaig 35;;Abandoned thaig 35;;;;;;;;;x
+c_abandoned_thaig_35_adj;Abandoned thaig 35ian;;Abandoned thaig 35er;;;;;;;;;;;x
+c_abandoned_thaig_4;Abandoned thaig 4;Abandoned thaig 4;Abandoned thaig 4;;Abandoned thaig 4;;;;;;;;;x
+c_abandoned_thaig_4_adj;Abandoned thaig 4ian;;Abandoned thaig 4er;;;;;;;;;;;x
+c_abandoned_thaig_5;Abandoned thaig 5;Abandoned thaig 5;Abandoned thaig 5;;Abandoned thaig 5;;;;;;;;;x
+c_abandoned_thaig_5_adj;Abandoned thaig 5ian;;Abandoned thaig 5er;;;;;;;;;;;x
+c_abandoned_thaig_6;Abandoned thaig 6;Abandoned thaig 6;Abandoned thaig 6;;Abandoned thaig 6;;;;;;;;;x
+c_abandoned_thaig_6_adj;Abandoned thaig 6ian;;Abandoned thaig 6er;;;;;;;;;;;x
+c_abandoned_thaig_7;Abandoned thaig 7;Abandoned thaig 7;Abandoned thaig 7;;Abandoned thaig 7;;;;;;;;;x
+c_abandoned_thaig_7_adj;Abandoned thaig 7ian;;Abandoned thaig 7er;;;;;;;;;;;x
+c_abandoned_thaig_8;Abandoned thaig 8;Abandoned thaig 8;Abandoned thaig 8;;Abandoned thaig 8;;;;;;;;;x
+c_abandoned_thaig_8_adj;Abandoned thaig 8ian;;Abandoned thaig 8er;;;;;;;;;;;x
+c_abandoned_thaig_9;Abandoned thaig 9;Abandoned thaig 9;Abandoned thaig 9;;Abandoned thaig 9;;;;;;;;;x
+c_abandoned_thaig_9_adj;Abandoned thaig 9ian;;Abandoned thaig 9er;;;;;;;;;;;x
+c_absdale;Absdale;Absdale;Absdale;;Absdale;;;;;;;;;x
+c_absdale_adj;Absdalean;;absdaler;;;;;;;;;;;x
+c_abyssal_rift;Abyssal Rift;Abyssal Rift;Abyssal Rift;;Abyssal Rift;;;;;;;;;x
+c_abyssal_rift_adj;Abyssal Riftian;;Abyssal Rifter;;;;;;;;;;;x
+c_acarlar;Acarlar;Acarlar;Acarlar;;Acarlar;;;;;;;;;x
+c_acarlar_adj;Acarlarian;;acarlarer;;;;;;;;;;;x
+c_aceusis;Aceusis;Aceusis;Aceusis;;Aceusis;;;;;;;;;x
+c_aceusis_adj;Aceusisian;;aceusiser;;;;;;;;;;;x
+c_achios;Achios;Achios;Achios;;Achios;;;;;;;;;x
+c_achios_adj;Achiosian;;achioser;;;;;;;;;;;x
+c_acteinea;Acteinea;Acteinea;Acteinea;;Acteinea;;;;;;;;;x
+c_acteinea_adj;Acteinean;;acteiner;;;;;;;;;;;x
+c_adana;Adana;Adana;Adana;;Adana;;;;;;;;;x
+c_adana_adj;Adanan;;adaner;;;;;;;;;;;x
+c_adraa;Adraa;Adraa;Adraa;;Adraa;;;;;;;;;x
+c_adraa_adj;Adraan;;adrer;;;;;;;;;;;x
+c_aeduncan_thaig;Aeduncan thaig;Aeduncan thaig;Aeduncan thaig;;Aeduncan thaig;;;;;;;;;x
+c_aeduncan_thaig_adj;Aeduncan thaigian;;Aeduncan thaiger;;;;;;;;;;;x
+c_aesis;Aesis;Aesis;Aesis;;Aesis;;;;;;;;;x
+c_aesis_adj;Aesisian;;aesiser;;;;;;;;;;;x
+c_afsaana;Afsaana;Afsaana;Afsaana;;Afsaana;;;;;;;;;x
+c_afsaana_adj;Afsaanan;;afsaaner;;;;;;;;;;;x
+c_afsin;Afsin;Afsin;Afsin;;Afsin;;;;;;;;;x
+c_afsin_adj;Afsinian;;afsiner;;;;;;;;;;;x
+c_agrineusis;Agrineusis;Agrineusis;Agrineusis;;Agrineusis;;;;;;;;;x
+c_agrineusis_adj;Agrineusisian;;agrineusiser;;;;;;;;;;;x
+c_ahlat;Ahlat;Ahlat;Ahlat;;Ahlat;;;;;;;;;x
+c_ahlat_adj;Ahlatian;;ahlater;;;;;;;;;;;x
+c_akbez;Akbez;Akbez;Akbez;;Akbez;;;;;;;;;x
+c_akbez_adj;Akbezian;;akbezer;;;;;;;;;;;x
+c_akhaaz;Akhaaz;Akhaaz;Akhaaz;;Akhaaz;;;;;;;;;x
+c_akhaaz_adj;Akhaazian;;akhaazer;;;;;;;;;;;x
+c_akhebar;Akhebar;Akhebar;Akhebar;;Akhebar;;;;;;;;;x
+c_akhebar_adj;Akhebarian;;akhebarer;;;;;;;;;;;x
+c_akryreum;Akryreum;Akryreum;Akryreum;;Akryreum;;;;;;;;;x
+c_akryreum_adj;Akryreumian;;akryreumer;;;;;;;;;;;x
+c_alaka;Alaka;Alaka;Alaka;;Alaka;;;;;;;;;x
+c_alaka_adj;Alakan;;alaker;;;;;;;;;;;x
+c_alam;Alam;Alam;Alam;;Alam;;;;;;;;;x
+c_alam_adj;Alamian;;alamer;;;;;;;;;;;x
+c_alamar;Alamar;Alamar;Alamar;;Alamar;;;;;;;;;x
+c_alamar_adj;Alamarian;;alamarer;;;;;;;;;;;x
+c_alcegrant;Alcegrant;Alcegrant;Alcegrant;;Alcegrant;;;;;;;;;x
+c_alcegrant_adj;Alcegrantian;;alcegranter;;;;;;;;;;;x
+c_alesia;Alesia;Alesia;Alesia;;Alesia;;;;;;;;;x
+c_alesia_adj;Alesian;;aleser;;;;;;;;;;;x
+c_alyons;Alyons;Alyons;Alyons;;Alyons;;;;;;;;;x
+c_alyons_adj;Alyonsian;;alyonser;;;;;;;;;;;x
+c_amaranthine;Amaranthine;Amaranthine;Amaranthine;;Amaranthine;;;;;;;;;x
+c_amaranthine_adj;Amaranthinean;;amaranthiner;;;;;;;;;;;x
+c_amiternum;Amiternum;Amiternum;Amiternum;;Amiternum;;;;;;;;;x
+c_amiternum_adj;Amiternumian;;amiternumer;;;;;;;;;;;x
+c_andorals_reach;Andoral's Reach;Andoral's Reach;Andoral's Reach;;Andoral's Reach;;;;;;;;;x
+c_andorals_reach_adj;Andoral's Reachian;;Andoral's Reacher;;;;;;;;;;;x
+c_angarrak;Angarrak;Angarrak;Angarrak;;Angarrak;;;;;;;;;x
+c_angarrak_adj;Angarrakian;;angarraker;;;;;;;;;;;x
+c_ankeleum;Ankeleum;Ankeleum;Ankeleum;;Ankeleum;;;;;;;;;x
+c_ankeleum_adj;Ankeleumian;;ankeleumer;;;;;;;;;;;x
+c_anridin;Anridin;Anridin;Anridin;;Anridin;;;;;;;;;x
+c_anridin_adj;Anridinian;;anridiner;;;;;;;;;;;x
+c_ansburg;Ansburg;Ansburg;Ansburg;;Ansburg;;;;;;;;;x
+c_ansburg_adj;Ansburgian;;ansburger;;;;;;;;;;;x
+c_ansburga;AnsburgA;AnsburgA;AnsburgA;;AnsburgA;;;;;;;;;x
+c_ansburga_adj;AnsburgAian;;ansburger;;;;;;;;;;;x
+c_ansburgb;AnsburgB;AnsburgB;AnsburgB;;AnsburgB;;;;;;;;;x
+c_ansburgb_adj;AnsburgBian;;ansburgber;;;;;;;;;;;x
+c_ansburgc;AnsburgC;AnsburgC;AnsburgC;;AnsburgC;;;;;;;;;x
+c_ansburgc_adj;AnsburgCian;;ansburgcer;;;;;;;;;;;x
+c_antegria;Antegria;Antegria;Antegria;;Antegria;;;;;;;;;x
+c_antegria_adj;Antegrian;;antegrer;;;;;;;;;;;x
+c_antiva;Antiva;Antiva;Antiva;;Antiva;;;;;;;;;x
+c_antiva_adj;Antivan;;antiver;;;;;;;;;;;x
+c_aphatrae;Aphatrae;Aphatrae;Aphatrae;;Aphatrae;;;;;;;;;x
+c_aphatrae_adj;Aphatraean;;aphatrer;;;;;;;;;;;x
+c_araban;Araban;Araban;Araban;;Araban;;;;;;;;;x
+c_araban_adj;Arabanian;;arabaner;;;;;;;;;;;x
+c_arcadia;Arcadia;Arcadia;Arcadia;;Arcadia;;;;;;;;;x
+c_arcadia_adj;Arcadian;;arcader;;;;;;;;;;;x
+c_archambon;Archambon;Archambon;Archambon;;Archambon;;;;;;;;;x
+c_archambon_adj;Archambonian;;archamboner;;;;;;;;;;;x
+c_ardahan;Ardahan;Ardahan;Ardahan;;Ardahan;;;;;;;;;x
+c_ardahan_adj;Ardahanian;;ardahaner;;;;;;;;;;;x
+c_areo;Areo;Areo;Areo;;Areo;;;;;;;;;x
+c_areo_adj;Arian;;arer;;;;;;;;;;;x
+c_argai;Argai;Argai;Argai;;Argai;;;;;;;;;x
+c_argai_adj;Argian;;arger;;;;;;;;;;;x
+c_aritas;Aritas;Aritas;Aritas;;Aritas;;;;;;;;;x
+c_aritas_adj;Aritasian;;aritaser;;;;;;;;;;;x
+c_arlesans;Arlesans;Arlesans;Arlesans;;Arlesans;;;;;;;;;x
+c_arlesans_adj;Arlesansian;;arlesanser;;;;;;;;;;;x
+c_armutalan;Armutalan;Armutalan;Armutalan;;Armutalan;;;;;;;;;x
+c_armutalan_adj;Armutalanian;;armutalaner;;;;;;;;;;;x
+c_arnee;Arnee;Arnee;Arnee;;Arnee;;;;;;;;;x
+c_arnee_adj;Arneean;;arner;;;;;;;;;;;x
+c_arpajon;Arpajon;Arpajon;Arpajon;;Arpajon;;;;;;;;;x
+c_arpajon_adj;Arpajonian;;arpajoner;;;;;;;;;;;x
+c_arpinum;Arpinum;Arpinum;Arpinum;;Arpinum;;;;;;;;;x
+c_arpinum_adj;Arpinumian;;arpinumer;;;;;;;;;;;x
+c_arsin;Arsin;Arsin;Arsin;;Arsin;;;;;;;;;x
+c_arsin_adj;Arsinian;;arsiner;;;;;;;;;;;x
+c_artenac;Artenac;Artenac;Artenac;;Artenac;;;;;;;;;x
+c_artenac_adj;Artenacian;;artenacer;;;;;;;;;;;x
+c_artvin;Artvin;Artvin;Artvin;;Artvin;;;;;;;;;x
+c_artvin_adj;Artvinian;;artviner;;;;;;;;;;;x
+c_asariel;Asariel;Asariel;Asariel;;Asariel;;;;;;;;;x
+c_asariel_adj;Asarielian;;asarieler;;;;;;;;;;;x
+c_aseman;Aseman;Aseman;Aseman;;Aseman;;;;;;;;;x
+c_aseman_adj;Asemanian;;asemaner;;;;;;;;;;;x
+c_aseman_2;Aseman;Aseman;Aseman;;Aseman;;;;;;;;;x
+c_aseman_2_adj;Asemanian;;asemaner;;;;;;;;;;;x
+c_ashkiri;Ashkiri;Ashkiri;Ashkiri;;Ashkiri;;;;;;;;;x
+c_ashkiri_adj;Ashkirian;;ashkirer;;;;;;;;;;;x
+c_ashward;Ashward;Ashward;Ashward;;Ashward;;;;;;;;;x
+c_ashward_adj;Ashwardian;;ashwarder;;;;;;;;;;;x
+c_askerhammar;Askerhammar;Askerhammar;Askerhammar;;Askerhammar;;;;;;;;;x
+c_askerhammar_adj;Askerhammarian;;askerhammarer;;;;;;;;;;;x
+c_assalam;Assalam;Assalam;Assalam;;Assalam;;;;;;;;;x
+c_assalam_adj;Assalamian;;assalamer;;;;;;;;;;;x
+c_assen;Assen;Assen;Assen;;Assen;;;;;;;;;x
+c_assen_adj;Assenian;;assener;;;;;;;;;;;x
+c_assum;Assum;Assum;Assum;;Assum;;;;;;;;;x
+c_assum_adj;Assumian;;assumer;;;;;;;;;;;x
+c_asten;Asten;Asten;Asten;;Asten;;;;;;;;;x
+c_asten_adj;Astenian;;astener;;;;;;;;;;;x
+c_ataken;Ataken;Ataken;Ataken;;Ataken;;;;;;;;;x
+c_ataken_adj;Atakenian;;atakener;;;;;;;;;;;x
+c_ath_velanis;Ath Velanis;Ath Velanis;Ath Velanis;;Ath Velanis;;;;;;;;;x
+c_ath_velanis_adj;Ath Velanisian;;Ath Velaniser;;;;;;;;;;;x
+c_ayesleigh;Ayesleigh;Ayesleigh;Ayesleigh;;Ayesleigh;;;;;;;;;x
+c_ayesleigh_adj;Ayesleighian;;ayesleigher;;;;;;;;;;;x
+c_ayteiros;Ayteiros;Ayteiros;Ayteiros;;Ayteiros;;;;;;;;;x
+c_ayteiros_adj;Ayteirosian;;ayteiroser;;;;;;;;;;;x
+c_baeloe;Baeloe;Baeloe;Baeloe;;Baeloe;;;;;;;;;x
+c_baeloe_adj;Baeloean;;baeler;;;;;;;;;;;x
+c_bahem;Bahem;Bahem;Bahem;;Bahem;;;;;;;;;x
+c_bahem_adj;Bahemian;;bahemer;;;;;;;;;;;x
+c_bar_le_duc;Bar-le-Duc;Bar-le-Duc;Bar-le-Duc;;Bar-le-Duc;;;;;;;;;x
+c_bar_le_duc_adj;Bar-le-Ducian;;bar-le-ducer;;;;;;;;;;;x
+c_barnflair;Barnflair;Barnflair;Barnflair;;Barnflair;;;;;;;;;x
+c_barnflair_adj;Barnflairian;;barnflairer;;;;;;;;;;;x
+c_barrowtown_by_the_sea;Barrowtown-by-the-sea;Barrowtown-by-the-sea;Barrowtown-by-the-sea;;Barrowtown-by-the-sea;;;;;;;;;x
+c_barrowtown_by_the_sea_adj;Barrowtown-by-the-sean;;barrowtown-by-the-ser;;;;;;;;;;;x
+c_bastion;Bastion;Bastion;Bastion;;Bastion;;;;;;;;;x
+c_bastion_adj;Bastionian;;bastioner;;;;;;;;;;;x
+c_bayard;Bayard;Bayard;Bayard;;Bayard;;;;;;;;;x
+c_bayard_adj;Bayardian;;bayarder;;;;;;;;;;;x
+c_bears_grove;Bears Grove;Bears Grove;Bears Grove;;Bears Grove;;;;;;;;;x
+c_bears_grove_adj;Bears Grovean;;Bears Grover;;;;;;;;;;;x
+c_beaujolais;Beaujolais;Beaujolais;Beaujolais;;Beaujolais;;;;;;;;;x
+c_beaujolais_adj;Beaujolaisian;;beaujolaiser;;;;;;;;;;;x
+c_beaune;Beaune;Beaune;Beaune;;Beaune;;;;;;;;;x
+c_beaune_adj;Beaunean;;beauner;;;;;;;;;;;x
+c_belfeld;Belfeld;Belfeld;Belfeld;;Belfeld;;;;;;;;;x
+c_belfeld_adj;Belfeldian;;belfelder;;;;;;;;;;;x
+c_belfort;Belfort;Belfort;Belfort;;Belfort;;;;;;;;;x
+c_belfort_adj;Belfortian;;belforter;;;;;;;;;;;x
+c_bellwood;Bellwood;Bellwood;Bellwood;;Bellwood;;;;;;;;;x
+c_bellwood_adj;Bellwoodian;;bellwooder;;;;;;;;;;;x
+c_berenstead;Berenstead;Berenstead;Berenstead;;Berenstead;;;;;;;;;x
+c_berenstead_adj;Berensteadian;;berensteader;;;;;;;;;;;x
+c_bergum;Bergum;Bergum;Bergum;;Bergum;;;;;;;;;x
+c_bergum_adj;Bergumian;;bergumer;;;;;;;;;;;x
+c_besos;Besos;Besos;Besos;;Besos;;;;;;;;;x
+c_besos_adj;Besosian;;besoser;;;;;;;;;;;x
+c_blackmarsh;Blackmarsh;Blackmarsh;Blackmarsh;;Blackmarsh;;;;;;;;;x
+c_blackmarsh_adj;Blackmarshian;;blackmarsher;;;;;;;;;;;x
+c_blacktree_hill;Blacktree hill;Blacktree hill;Blacktree hill;;Blacktree hill;;;;;;;;;x
+c_blacktree_hill_adj;Blacktree hillian;;Blacktree hiller;;;;;;;;;;;x
+c_blaisois;Blaisois;Blaisois;Blaisois;;Blaisois;;;;;;;;;x
+c_blaisois_adj;Blaisoisian;;blaisoiser;;;;;;;;;;;x
+c_blaricum;Blaricum;Blaricum;Blaricum;;Blaricum;;;;;;;;;x
+c_blaricum_adj;Blaricumian;;blaricumer;;;;;;;;;;;x
+c_blougast;Blougast;Blougast;Blougast;;Blougast;;;;;;;;;x
+c_blougast_adj;Blougastian;;blougaster;;;;;;;;;;;x
+c_blythe_bridge;Blythe Bridge;Blythe Bridge;Blythe Bridge;;Blythe Bridge;;;;;;;;;x
+c_blythe_bridge_adj;Blythe Bridgean;;Blythe Bridger;;;;;;;;;;;x
+c_boisbelle;Boisbelle;Boisbelle;Boisbelle;;Boisbelle;;;;;;;;;x
+c_boisbelle_adj;Boisbellean;;boisbeller;;;;;;;;;;;x
+c_boischaut;Boischaut;Boischaut;Boischaut;;Boischaut;;;;;;;;;x
+c_boischaut_adj;Boischautian;;boischauter;;;;;;;;;;;x
+c_bordelon;Bordelon;Bordelon;Bordelon;;Bordelon;;;;;;;;;x
+c_bordelon_adj;Bordelonian;;bordeloner;;;;;;;;;;;x
+c_bowammar;Bowammar;Bowammar;Bowammar;;Bowammar;;;;;;;;;x
+c_bowammar_adj;Bowammarian;;bowammarer;;;;;;;;;;;x
+c_brandels_reach;Brandel's reach;Brandel's reach;Brandel's reach;;Brandel's reach;;;;;;;;;x
+c_brandels_reach_adj;Brandel's reachian;;Brandel's reacher;;;;;;;;;;;x
+c_breakdown_keep;Breakdown Keep;Breakdown Keep;Breakdown Keep;;Breakdown Keep;;;;;;;;;x
+c_breakdown_keep_adj;Breakdown Keepian;;Breakdown Keeper;;;;;;;;;;;x
+c_brecil_shores;Brecil shores;Brecil shores;Brecil shores;;Brecil shores;;;;;;;;;x
+c_brecil_shores_adj;Brecil shoresian;;Brecil shoreser;;;;;;;;;;;x
+c_brecil_sources;Brecil sources;Brecil sources;Brecil sources;;Brecil sources;;;;;;;;;x
+c_brecil_sources_adj;Brecil sourcesian;;Brecil sourceser;;;;;;;;;;;x
+c_brecilias_passage;Brecilia's Passage;Brecilia's Passage;Brecilia's Passage;;Brecilia's Passage;;;;;;;;;x
+c_brecilias_passage_adj;Brecilia's Passagean;;Brecilia's Passager;;;;;;;;;;;x
+c_brekberg;Brekberg;Brekberg;Brekberg;;Brekberg;;;;;;;;;x
+c_brekberg_adj;Brekbergian;;brekberger;;;;;;;;;;;x
+c_brivadois;Brivadois;Brivadois;Brivadois;;Brivadois;;;;;;;;;x
+c_brivadois_adj;Brivadoisian;;brivadoiser;;;;;;;;;;;x
+c_bronzewitz;Bronzewitz;Bronzewitz;Bronzewitz;;Bronzewitz;;;;;;;;;x
+c_bronzewitz_adj;Bronzewitzian;;bronzewitzer;;;;;;;;;;;x
+c_brown_tortoise_wilds;Brown Tortoise Wilds;Brown Tortoise Wilds;Brown Tortoise Wilds;;Brown Tortoise Wilds;;;;;;;;;x
+c_brown_tortoise_wilds_adj;Brown Tortoise Wildsian;;Brown Tortoise Wildser;;;;;;;;;;;x
+c_brynnlaw;Brynnlaw;Brynnlaw;Brynnlaw;;Brynnlaw;;;;;;;;;x
+c_brynnlaw_adj;Brynnlawian;;brynnlawer;;;;;;;;;;;x
+c_bugey;Bugey;Bugey;Bugey;;Bugey;;;;;;;;;x
+c_bugey_adj;Bugeian;;bugeer;;;;;;;;;;;x
+c_burrenbek;Burrenbek;Burrenbek;Burrenbek;;Burrenbek;;;;;;;;;x
+c_burrenbek_adj;Burrenbekian;;burrenbeker;;;;;;;;;;;x
+c_bywater;Bywater;Bywater;Bywater;;Bywater;;;;;;;;;x
+c_bywater_adj;Bywaterian;;bywaterer;;;;;;;;;;;x
+c_cadash_thaig;Cadash thaig;Cadash thaig;Cadash thaig;;Cadash thaig;;;;;;;;;x
+c_cadash_thaig_adj;Cadash thaigian;;Cadash thaiger;;;;;;;;;;;x
+c_calon;Calon;Calon;Calon;;Calon;;;;;;;;;x
+c_calon_adj;Calonian;;caloner;;;;;;;;;;;x
+c_calvanico;Calvanico;Calvanico;Calvanico;;Calvanico;;;;;;;;;x
+c_calvanico_adj;Calvanician;;calvanicer;;;;;;;;;;;x
+c_camaro;Camaro;Camaro;Camaro;;Camaro;;;;;;;;;x
+c_camaro_adj;Camarian;;camarer;;;;;;;;;;;x
+c_caminata;Caminata;Caminata;Caminata;;Caminata;;;;;;;;;x
+c_caminata_adj;Caminatan;;caminater;;;;;;;;;;;x
+c_camulodunum;Camulodunum;Camulodunum;Camulodunum;;Camulodunum;;;;;;;;;x
+c_camulodunum_adj;Camulodunumian;;camulodunumer;;;;;;;;;;;x
+c_caneva;Caneva;Caneva;Caneva;;Caneva;;;;;;;;;x
+c_caneva_adj;Canevan;;canever;;;;;;;;;;;x
+c_cannocks_chase;Cannock's chase;Cannock's chase;Cannock's chase;;Cannock's chase;;;;;;;;;x
+c_cannocks_chase_adj;Cannock's chasean;;Cannock's chaser;;;;;;;;;;;x
+c_capsa;Capsa;Capsa;Capsa;;Capsa;;;;;;;;;x
+c_capsa_adj;Capsan;;capser;;;;;;;;;;;x
+c_carestes;Carestes;Carestes;Carestes;;Carestes;;;;;;;;;x
+c_carestes_adj;Carestesian;;caresteser;;;;;;;;;;;x
+c_caridins_cross;Caridin's Cross;Caridin's Cross;Caridin's Cross;;Caridin's Cross;;;;;;;;;x
+c_caridins_cross_adj;Caridin's Crossian;;Caridin's Crosser;;;;;;;;;;;x
+c_carnay;Carnay;Carnay;Carnay;;Carnay;;;;;;;;;x
+c_carnay_adj;Carnaian;;carnaer;;;;;;;;;;;x
+c_carrac;Carrac;Carrac;Carrac;;Carrac;;;;;;;;;x
+c_carrac_adj;Carracian;;carracer;;;;;;;;;;;x
+c_carterton;Carterton;Carterton;Carterton;;Carterton;;;;;;;;;x
+c_carterton_adj;Cartertonian;;cartertoner;;;;;;;;;;;x
+c_casoria;Casoria;Casoria;Casoria;;Casoria;;;;;;;;;x
+c_casoria_adj;Casorian;;casorer;;;;;;;;;;;x
+c_castor_keep;Castor Keep;Castor Keep;Castor Keep;;Castor Keep;;;;;;;;;x
+c_castor_keep_adj;Castor Keepian;;Castor Keeper;;;;;;;;;;;x
+c_castres;Castres;Castres;Castres;;Castres;;;;;;;;;x
+c_castres_adj;Castresian;;castreser;;;;;;;;;;;x
+c_castrino;Castrino;Castrino;Castrino;;Castrino;;;;;;;;;x
+c_castrino_adj;Castrinian;;castriner;;;;;;;;;;;x
+c_caudium;Caudium;Caudium;Caudium;;Caudium;;;;;;;;;x
+c_caudium_adj;Caudiumian;;caudiumer;;;;;;;;;;;x
+c_cebropeion;Cebropeion;Cebropeion;Cebropeion;;Cebropeion;;;;;;;;;x
+c_cebropeion_adj;Cebropeionian;;cebropeioner;;;;;;;;;;;x
+c_cerdagne;Cerdagne;Cerdagne;Cerdagne;;Cerdagne;;;;;;;;;x
+c_cerdagne_adj;Cerdagnean;;cerdagner;;;;;;;;;;;x
+c_cevennes;Cévennes;Cévennes;Cévennes;;Cévennes;;;;;;;;;x
+c_cevennes_adj;Cévennesian;;cévenneser;;;;;;;;;;;x
+c_chablais;Chablais;Chablais;Chablais;;Chablais;;;;;;;;;x
+c_chablais_adj;Chablaisian;;chablaiser;;;;;;;;;;;x
+c_chaliyen;Chaliyen;Chaliyen;Chaliyen;;Chaliyen;;;;;;;;;x
+c_chaliyen_adj;Chaliyenian;;chaliyener;;;;;;;;;;;x
+c_chalons;Chalons;Chalons;Chalons;;Chalons;;;;;;;;;x
+c_chalons_adj;Chalonsian;;chalonser;;;;;;;;;;;x
+c_charollois;Charollois;Charollois;Charollois;;Charollois;;;;;;;;;x
+c_charollois_adj;Charolloisian;;charolloiser;;;;;;;;;;;x
+c_chevac;Chevac;Chevac;Chevac;;Chevac;;;;;;;;;x
+c_chevac_adj;Chevacian;;chevacer;;;;;;;;;;;x
+c_churneau;Churneau;Churneau;Churneau;;Churneau;;;;;;;;;x
+c_churneau_adj;Churnian;;churner;;;;;;;;;;;x
+c_claose;Claose;Claose;Claose;;Claose;;;;;;;;;x
+c_claose_adj;Claosean;;claoser;;;;;;;;;;;x
+c_colmar;Colmar;Colmar;Colmar;;Colmar;;;;;;;;;x
+c_colmar_adj;Colmarian;;colmarer;;;;;;;;;;;x
+c_colwyn;Colwyn;Colwyn;Colwyn;;Colwyn;;;;;;;;;x
+c_colwyn_adj;Colwynian;;colwyner;;;;;;;;;;;x
+c_comano;Comano;Comano;Comano;;Comano;;;;;;;;;x
+c_comano_adj;Comanian;;comaner;;;;;;;;;;;x
+c_combrailles;Combrailles;Combrailles;Combrailles;;Combrailles;;;;;;;;;x
+c_combrailles_adj;Combraillesian;;combrailleser;;;;;;;;;;;x
+c_cona;Cona;Cona;Cona;;Cona;;;;;;;;;x
+c_cona_adj;Conan;;coner;;;;;;;;;;;x
+c_conflent;Conflent;Conflent;Conflent;;Conflent;;;;;;;;;x
+c_conflent_adj;Conflentian;;conflenter;;;;;;;;;;;x
+c_corinthspire;Corinthspire;Corinthspire;Corinthspire;;Corinthspire;;;;;;;;;x
+c_corinthspire_adj;Corinthspirean;;corinthspirer;;;;;;;;;;;x
+c_corva;Corva;Corva;Corva;;Corva;;;;;;;;;x
+c_corva_adj;Corvan;;corver;;;;;;;;;;;x
+c_corwyn;Corwyn;Corwyn;Corwyn;;Corwyn;;;;;;;;;x
+c_corwyn_adj;Corwynian;;corwyner;;;;;;;;;;;x
+c_cothen;Cothen;Cothen;Cothen;;Cothen;;;;;;;;;x
+c_cothen_adj;Cothenian;;cothener;;;;;;;;;;;x
+c_couserans;Couserans;Couserans;Couserans;;Couserans;;;;;;;;;x
+c_couserans_adj;Couseransian;;couseranser;;;;;;;;;;;x
+c_creaators_rest;Creaators' rest;Creaators' rest;Creaators' rest;;Creaators' rest;;;;;;;;;x
+c_creaators_rest_adj;Creaators' restian;;Creaators' rester;;;;;;;;;;;x
+c_crestwood;Crestwood;Crestwood;Crestwood;;Crestwood;;;;;;;;;x
+c_crestwood_adj;Crestwoodian;;crestwooder;;;;;;;;;;;x
+c_crotenes;Crotenes;Crotenes;Crotenes;;Crotenes;;;;;;;;;x
+c_crotenes_adj;Crotenesian;;croteneser;;;;;;;;;;;x
+c_croton;Croton;Croton;Croton;;Croton;;;;;;;;;x
+c_croton_adj;Crotonian;;crotoner;;;;;;;;;;;x
+c_cuiry;Cuiry;Cuiry;Cuiry;;Cuiry;;;;;;;;;x
+c_cuiry_adj;Cuirian;;cuirer;;;;;;;;;;;x
+c_cumberford;Cumberford;Cumberford;Cumberford;;Cumberford;;;;;;;;;x
+c_cumberford_adj;Cumberfordian;;cumberforder;;;;;;;;;;;x
+c_cumberland;Cumberland;Cumberland;Cumberland;;Cumberland;;;;;;;;;x
+c_cumberland_adj;Cumberlandian;;cumberlander;;;;;;;;;;;x
+c_cumeron;Cumeron;Cumeron;Cumeron;;Cumeron;;;;;;;;;x
+c_cumeron_adj;Cumeronian;;cumeroner;;;;;;;;;;;x
+c_dairsmuid;Dairsmuid;Dairsmuid;Dairsmuid;;Dairsmuid;;;;;;;;;x
+c_dairsmuid_adj;Dairsmuidian;;dairsmuider;;;;;;;;;;;x
+c_dalaman;Dalaman;Dalaman;Dalaman;;Dalaman;;;;;;;;;x
+c_dalaman_adj;Dalamanian;;dalamaner;;;;;;;;;;;x
+c_dales_end;Dales end;Dales end;Dales end;;Dales end;;;;;;;;;x
+c_dales_end_adj;Dales endian;;Dales ender;;;;;;;;;;;x
+c_dalewood;Dalewood;Dalewood;Dalewood;;Dalewood;;;;;;;;;x
+c_dalewood_adj;Dalewoodian;;dalewooder;;;;;;;;;;;x
+c_danevale;Danevale;Danevale;Danevale;;Danevale;;;;;;;;;x
+c_danevale_adj;Danevalean;;danevaler;;;;;;;;;;;x
+c_darmallon;Darmallon;Darmallon;Darmallon;;Darmallon;;;;;;;;;x
+c_darmallon_adj;Darmallonian;;darmalloner;;;;;;;;;;;x
+c_daudna;Daudna;Daudna;Daudna;;Daudna;;;;;;;;;x
+c_daudna_adj;Daudnan;;daudner;;;;;;;;;;;x
+c_deep_forest;Deep forest;Deep forest;Deep forest;;Deep forest;;;;;;;;;x
+c_deep_forest_adj;Deep forestian;;Deep forester;;;;;;;;;;;x
+c_deep_road_1;Deep road 1;Deep road 1;Deep road 1;;Deep road 1;;;;;;;;;x
+c_deep_road_1_adj;Deep road 1ian;;Deep road 1er;;;;;;;;;;;x
+c_deep_road_10;Deep road 10;Deep road 10;Deep road 10;;Deep road 10;;;;;;;;;x
+c_deep_road_10_adj;Deep road 10ian;;Deep road 10er;;;;;;;;;;;x
+c_deep_road_11;Deep road 11;Deep road 11;Deep road 11;;Deep road 11;;;;;;;;;x
+c_deep_road_11_adj;Deep road 11ian;;Deep road 11er;;;;;;;;;;;x
+c_deep_road_12;Deep road 12;Deep road 12;Deep road 12;;Deep road 12;;;;;;;;;x
+c_deep_road_12_adj;Deep road 12ian;;Deep road 12er;;;;;;;;;;;x
+c_deep_road_13;Deep road 13;Deep road 13;Deep road 13;;Deep road 13;;;;;;;;;x
+c_deep_road_13_adj;Deep road 13ian;;Deep road 13er;;;;;;;;;;;x
+c_deep_road_14;Deep road 14;Deep road 14;Deep road 14;;Deep road 14;;;;;;;;;x
+c_deep_road_14_adj;Deep road 14ian;;Deep road 14er;;;;;;;;;;;x
+c_deep_road_15;Deep road 15;Deep road 15;Deep road 15;;Deep road 15;;;;;;;;;x
+c_deep_road_15_adj;Deep road 15ian;;Deep road 15er;;;;;;;;;;;x
+c_deep_road_16;Deep road 16;Deep road 16;Deep road 16;;Deep road 16;;;;;;;;;x
+c_deep_road_16_adj;Deep road 16ian;;Deep road 16er;;;;;;;;;;;x
+c_deep_road_17;Deep road 17;Deep road 17;Deep road 17;;Deep road 17;;;;;;;;;x
+c_deep_road_17_adj;Deep road 17ian;;Deep road 17er;;;;;;;;;;;x
+c_deep_road_18;Deep road 18;Deep road 18;Deep road 18;;Deep road 18;;;;;;;;;x
+c_deep_road_18_adj;Deep road 18ian;;Deep road 18er;;;;;;;;;;;x
+c_deep_road_19;Deep road 19;Deep road 19;Deep road 19;;Deep road 19;;;;;;;;;x
+c_deep_road_19_adj;Deep road 19ian;;Deep road 19er;;;;;;;;;;;x
+c_deep_road_2;Deep road 2;Deep road 2;Deep road 2;;Deep road 2;;;;;;;;;x
+c_deep_road_2_adj;Deep road 2ian;;Deep road 2er;;;;;;;;;;;x
+c_deep_road_20;Deep road 20;Deep road 20;Deep road 20;;Deep road 20;;;;;;;;;x
+c_deep_road_20_adj;Deep road 20ian;;Deep road 20er;;;;;;;;;;;x
+c_deep_road_21;Deep road 21;Deep road 21;Deep road 21;;Deep road 21;;;;;;;;;x
+c_deep_road_21_adj;Deep road 21ian;;Deep road 21er;;;;;;;;;;;x
+c_deep_road_22;Deep road 22;Deep road 22;Deep road 22;;Deep road 22;;;;;;;;;x
+c_deep_road_22_adj;Deep road 22ian;;Deep road 22er;;;;;;;;;;;x
+c_deep_road_23;Deep road 23;Deep road 23;Deep road 23;;Deep road 23;;;;;;;;;x
+c_deep_road_23_adj;Deep road 23ian;;Deep road 23er;;;;;;;;;;;x
+c_deep_road_24;Deep road 24;Deep road 24;Deep road 24;;Deep road 24;;;;;;;;;x
+c_deep_road_24_adj;Deep road 24ian;;Deep road 24er;;;;;;;;;;;x
+c_deep_road_25;Deep road 25;Deep road 25;Deep road 25;;Deep road 25;;;;;;;;;x
+c_deep_road_25_adj;Deep road 25ian;;Deep road 25er;;;;;;;;;;;x
+c_deep_road_26;Deep road 26;Deep road 26;Deep road 26;;Deep road 26;;;;;;;;;x
+c_deep_road_26_adj;Deep road 26ian;;Deep road 26er;;;;;;;;;;;x
+c_deep_road_27;Deep road 27;Deep road 27;Deep road 27;;Deep road 27;;;;;;;;;x
+c_deep_road_27_adj;Deep road 27ian;;Deep road 27er;;;;;;;;;;;x
+c_deep_road_28;Deep road 28;Deep road 28;Deep road 28;;Deep road 28;;;;;;;;;x
+c_deep_road_28_adj;Deep road 28ian;;Deep road 28er;;;;;;;;;;;x
+c_deep_road_29;Deep road 29;Deep road 29;Deep road 29;;Deep road 29;;;;;;;;;x
+c_deep_road_29_adj;Deep road 29ian;;Deep road 29er;;;;;;;;;;;x
+c_deep_road_3;Deep road 3;Deep road 3;Deep road 3;;Deep road 3;;;;;;;;;x
+c_deep_road_3_adj;Deep road 3ian;;Deep road 3er;;;;;;;;;;;x
+c_deep_road_30;Deep road 30;Deep road 30;Deep road 30;;Deep road 30;;;;;;;;;x
+c_deep_road_30_adj;Deep road 30ian;;Deep road 30er;;;;;;;;;;;x
+c_deep_road_31;Deep road 31;Deep road 31;Deep road 31;;Deep road 31;;;;;;;;;x
+c_deep_road_31_adj;Deep road 31ian;;Deep road 31er;;;;;;;;;;;x
+c_deep_road_32;Deep road 32;Deep road 32;Deep road 32;;Deep road 32;;;;;;;;;x
+c_deep_road_32_adj;Deep road 32ian;;Deep road 32er;;;;;;;;;;;x
+c_deep_road_33;Deep road 33;Deep road 33;Deep road 33;;Deep road 33;;;;;;;;;x
+c_deep_road_33_adj;Deep road 33ian;;Deep road 33er;;;;;;;;;;;x
+c_deep_road_34;Deep road 34;Deep road 34;Deep road 34;;Deep road 34;;;;;;;;;x
+c_deep_road_34_adj;Deep road 34ian;;Deep road 34er;;;;;;;;;;;x
+c_deep_road_35;Deep road 35;Deep road 35;Deep road 35;;Deep road 35;;;;;;;;;x
+c_deep_road_35_adj;Deep road 35ian;;Deep road 35er;;;;;;;;;;;x
+c_deep_road_36;Deep road 36;Deep road 36;Deep road 36;;Deep road 36;;;;;;;;;x
+c_deep_road_36_adj;Deep road 36ian;;Deep road 36er;;;;;;;;;;;x
+c_deep_road_37;Deep road 37;Deep road 37;Deep road 37;;Deep road 37;;;;;;;;;x
+c_deep_road_37_adj;Deep road 37ian;;Deep road 37er;;;;;;;;;;;x
+c_deep_road_38;Deep road 38;Deep road 38;Deep road 38;;Deep road 38;;;;;;;;;x
+c_deep_road_38_adj;Deep road 38ian;;Deep road 38er;;;;;;;;;;;x
+c_deep_road_39;Deep road 39;Deep road 39;Deep road 39;;Deep road 39;;;;;;;;;x
+c_deep_road_39_adj;Deep road 39ian;;Deep road 39er;;;;;;;;;;;x
+c_deep_road_4;Deep road 4;Deep road 4;Deep road 4;;Deep road 4;;;;;;;;;x
+c_deep_road_4_adj;Deep road 4ian;;Deep road 4er;;;;;;;;;;;x
+c_deep_road_40;Deep road 40;Deep road 40;Deep road 40;;Deep road 40;;;;;;;;;x
+c_deep_road_40_adj;Deep road 40ian;;Deep road 40er;;;;;;;;;;;x
+c_deep_road_41;Deep road 41;Deep road 41;Deep road 41;;Deep road 41;;;;;;;;;x
+c_deep_road_41_adj;Deep road 41ian;;Deep road 41er;;;;;;;;;;;x
+c_deep_road_42;Deep road 42;Deep road 42;Deep road 42;;Deep road 42;;;;;;;;;x
+c_deep_road_42_adj;Deep road 42ian;;Deep road 42er;;;;;;;;;;;x
+c_deep_road_43;Deep road 43;Deep road 43;Deep road 43;;Deep road 43;;;;;;;;;x
+c_deep_road_43_adj;Deep road 43ian;;Deep road 43er;;;;;;;;;;;x
+c_deep_road_44;Deep road 44;Deep road 44;Deep road 44;;Deep road 44;;;;;;;;;x
+c_deep_road_44_adj;Deep road 44ian;;Deep road 44er;;;;;;;;;;;x
+c_deep_road_45;Deep road 45;Deep road 45;Deep road 45;;Deep road 45;;;;;;;;;x
+c_deep_road_45_adj;Deep road 45ian;;Deep road 45er;;;;;;;;;;;x
+c_deep_road_46;Deep road 46;Deep road 46;Deep road 46;;Deep road 46;;;;;;;;;x
+c_deep_road_46_adj;Deep road 46ian;;Deep road 46er;;;;;;;;;;;x
+c_deep_road_47;Deep road 47;Deep road 47;Deep road 47;;Deep road 47;;;;;;;;;x
+c_deep_road_47_adj;Deep road 47ian;;Deep road 47er;;;;;;;;;;;x
+c_deep_road_48;Deep road 48;Deep road 48;Deep road 48;;Deep road 48;;;;;;;;;x
+c_deep_road_48_adj;Deep road 48ian;;Deep road 48er;;;;;;;;;;;x
+c_deep_road_49;Deep road 49;Deep road 49;Deep road 49;;Deep road 49;;;;;;;;;x
+c_deep_road_49_adj;Deep road 49ian;;Deep road 49er;;;;;;;;;;;x
+c_deep_road_5;Deep road 5;Deep road 5;Deep road 5;;Deep road 5;;;;;;;;;x
+c_deep_road_5_adj;Deep road 5ian;;Deep road 5er;;;;;;;;;;;x
+c_deep_road_50;Deep road 50;Deep road 50;Deep road 50;;Deep road 50;;;;;;;;;x
+c_deep_road_50_adj;Deep road 50ian;;Deep road 50er;;;;;;;;;;;x
+c_deep_road_51;Deep road 51;Deep road 51;Deep road 51;;Deep road 51;;;;;;;;;x
+c_deep_road_51_adj;Deep road 51ian;;Deep road 51er;;;;;;;;;;;x
+c_deep_road_52;Deep road 52;Deep road 52;Deep road 52;;Deep road 52;;;;;;;;;x
+c_deep_road_52_adj;Deep road 52ian;;Deep road 52er;;;;;;;;;;;x
+c_deep_road_53;Deep road 53;Deep road 53;Deep road 53;;Deep road 53;;;;;;;;;x
+c_deep_road_53_adj;Deep road 53ian;;Deep road 53er;;;;;;;;;;;x
+c_deep_road_54;Deep road 54;Deep road 54;Deep road 54;;Deep road 54;;;;;;;;;x
+c_deep_road_54_adj;Deep road 54ian;;Deep road 54er;;;;;;;;;;;x
+c_deep_road_55;Deep road 55;Deep road 55;Deep road 55;;Deep road 55;;;;;;;;;x
+c_deep_road_55_adj;Deep road 55ian;;Deep road 55er;;;;;;;;;;;x
+c_deep_road_55_2;Deep road 55;Deep road 55;Deep road 55;;Deep road 55;;;;;;;;;x
+c_deep_road_55_2_adj;Deep road 55ian;;Deep road 55er;;;;;;;;;;;x
+c_deep_road_56;Deep road 56;Deep road 56;Deep road 56;;Deep road 56;;;;;;;;;x
+c_deep_road_56_adj;Deep road 56ian;;Deep road 56er;;;;;;;;;;;x
+c_deep_road_57;Deep road 57;Deep road 57;Deep road 57;;Deep road 57;;;;;;;;;x
+c_deep_road_57_adj;Deep road 57ian;;Deep road 57er;;;;;;;;;;;x
+c_deep_road_58;Deep road 58;Deep road 58;Deep road 58;;Deep road 58;;;;;;;;;x
+c_deep_road_58_adj;Deep road 58ian;;Deep road 58er;;;;;;;;;;;x
+c_deep_road_59;Deep road 59;Deep road 59;Deep road 59;;Deep road 59;;;;;;;;;x
+c_deep_road_59_adj;Deep road 59ian;;Deep road 59er;;;;;;;;;;;x
+c_deep_road_6;Deep road 6;Deep road 6;Deep road 6;;Deep road 6;;;;;;;;;x
+c_deep_road_6_adj;Deep road 6ian;;Deep road 6er;;;;;;;;;;;x
+c_deep_road_60;Deep road 60;Deep road 60;Deep road 60;;Deep road 60;;;;;;;;;x
+c_deep_road_60_adj;Deep road 60ian;;Deep road 60er;;;;;;;;;;;x
+c_deep_road_61;Deep road 61;Deep road 61;Deep road 61;;Deep road 61;;;;;;;;;x
+c_deep_road_61_adj;Deep road 61ian;;Deep road 61er;;;;;;;;;;;x
+c_deep_road_62;Deep road 62;Deep road 62;Deep road 62;;Deep road 62;;;;;;;;;x
+c_deep_road_62_adj;Deep road 62ian;;Deep road 62er;;;;;;;;;;;x
+c_deep_road_63;Deep road 63;Deep road 63;Deep road 63;;Deep road 63;;;;;;;;;x
+c_deep_road_63_adj;Deep road 63ian;;Deep road 63er;;;;;;;;;;;x
+c_deep_road_64;Deep road 64;Deep road 64;Deep road 64;;Deep road 64;;;;;;;;;x
+c_deep_road_64_adj;Deep road 64ian;;Deep road 64er;;;;;;;;;;;x
+c_deep_road_65;Deep road 65;Deep road 65;Deep road 65;;Deep road 65;;;;;;;;;x
+c_deep_road_65_adj;Deep road 65ian;;Deep road 65er;;;;;;;;;;;x
+c_deep_road_66;Deep road 66;Deep road 66;Deep road 66;;Deep road 66;;;;;;;;;x
+c_deep_road_66_adj;Deep road 66ian;;Deep road 66er;;;;;;;;;;;x
+c_deep_road_67;Deep road 67;Deep road 67;Deep road 67;;Deep road 67;;;;;;;;;x
+c_deep_road_67_adj;Deep road 67ian;;Deep road 67er;;;;;;;;;;;x
+c_deep_road_68;Deep road 68;Deep road 68;Deep road 68;;Deep road 68;;;;;;;;;x
+c_deep_road_68_adj;Deep road 68ian;;Deep road 68er;;;;;;;;;;;x
+c_deep_road_69;Deep road 69;Deep road 69;Deep road 69;;Deep road 69;;;;;;;;;x
+c_deep_road_69_adj;Deep road 69ian;;Deep road 69er;;;;;;;;;;;x
+c_deep_road_7;Deep road 7;Deep road 7;Deep road 7;;Deep road 7;;;;;;;;;x
+c_deep_road_7_adj;Deep road 7ian;;Deep road 7er;;;;;;;;;;;x
+c_deep_road_70;Deep road 70;Deep road 70;Deep road 70;;Deep road 70;;;;;;;;;x
+c_deep_road_70_adj;Deep road 70ian;;Deep road 70er;;;;;;;;;;;x
+c_deep_road_71;Deep road 71;Deep road 71;Deep road 71;;Deep road 71;;;;;;;;;x
+c_deep_road_71_adj;Deep road 71ian;;Deep road 71er;;;;;;;;;;;x
+c_deep_road_72;Deep road 72;Deep road 72;Deep road 72;;Deep road 72;;;;;;;;;x
+c_deep_road_72_adj;Deep road 72ian;;Deep road 72er;;;;;;;;;;;x
+c_deep_road_73;Deep road 73;Deep road 73;Deep road 73;;Deep road 73;;;;;;;;;x
+c_deep_road_73_adj;Deep road 73ian;;Deep road 73er;;;;;;;;;;;x
+c_deep_road_74;Deep road 74;Deep road 74;Deep road 74;;Deep road 74;;;;;;;;;x
+c_deep_road_74_adj;Deep road 74ian;;Deep road 74er;;;;;;;;;;;x
+c_deep_road_75;Deep road 75;Deep road 75;Deep road 75;;Deep road 75;;;;;;;;;x
+c_deep_road_75_adj;Deep road 75ian;;Deep road 75er;;;;;;;;;;;x
+c_deep_road_76;Deep road 76;Deep road 76;Deep road 76;;Deep road 76;;;;;;;;;x
+c_deep_road_76_adj;Deep road 76ian;;Deep road 76er;;;;;;;;;;;x
+c_deep_road_77;Deep road 77;Deep road 77;Deep road 77;;Deep road 77;;;;;;;;;x
+c_deep_road_77_adj;Deep road 77ian;;Deep road 77er;;;;;;;;;;;x
+c_deep_road_78;Deep road 78;Deep road 78;Deep road 78;;Deep road 78;;;;;;;;;x
+c_deep_road_78_adj;Deep road 78ian;;Deep road 78er;;;;;;;;;;;x
+c_deep_road_79;Deep road 79;Deep road 79;Deep road 79;;Deep road 79;;;;;;;;;x
+c_deep_road_79_adj;Deep road 79ian;;Deep road 79er;;;;;;;;;;;x
+c_deep_road_8;Deep road 8;Deep road 8;Deep road 8;;Deep road 8;;;;;;;;;x
+c_deep_road_8_adj;Deep road 8ian;;Deep road 8er;;;;;;;;;;;x
+c_deep_road_80;Deep road 80;Deep road 80;Deep road 80;;Deep road 80;;;;;;;;;x
+c_deep_road_80_adj;Deep road 80ian;;Deep road 80er;;;;;;;;;;;x
+c_deep_road_81;Deep road 81;Deep road 81;Deep road 81;;Deep road 81;;;;;;;;;x
+c_deep_road_81_adj;Deep road 81ian;;Deep road 81er;;;;;;;;;;;x
+c_deep_road_82;Deep road 82;Deep road 82;Deep road 82;;Deep road 82;;;;;;;;;x
+c_deep_road_82_adj;Deep road 82ian;;Deep road 82er;;;;;;;;;;;x
+c_deep_road_83;Deep road 83;Deep road 83;Deep road 83;;Deep road 83;;;;;;;;;x
+c_deep_road_83_adj;Deep road 83ian;;Deep road 83er;;;;;;;;;;;x
+c_deep_road_84;Deep road 84;Deep road 84;Deep road 84;;Deep road 84;;;;;;;;;x
+c_deep_road_84_adj;Deep road 84ian;;Deep road 84er;;;;;;;;;;;x
+c_deep_road_85;Deep road 85;Deep road 85;Deep road 85;;Deep road 85;;;;;;;;;x
+c_deep_road_85_adj;Deep road 85ian;;Deep road 85er;;;;;;;;;;;x
+c_deep_road_86;Deep road 86;Deep road 86;Deep road 86;;Deep road 86;;;;;;;;;x
+c_deep_road_86_adj;Deep road 86ian;;Deep road 86er;;;;;;;;;;;x
+c_deep_road_87;Deep road 87;Deep road 87;Deep road 87;;Deep road 87;;;;;;;;;x
+c_deep_road_87_adj;Deep road 87ian;;Deep road 87er;;;;;;;;;;;x
+c_deep_road_88;Deep road 88;Deep road 88;Deep road 88;;Deep road 88;;;;;;;;;x
+c_deep_road_88_adj;Deep road 88ian;;Deep road 88er;;;;;;;;;;;x
+c_deep_road_89;Deep road 89;Deep road 89;Deep road 89;;Deep road 89;;;;;;;;;x
+c_deep_road_89_adj;Deep road 89ian;;Deep road 89er;;;;;;;;;;;x
+c_deep_road_9;Deep road 9;Deep road 9;Deep road 9;;Deep road 9;;;;;;;;;x
+c_deep_road_9_adj;Deep road 9ian;;Deep road 9er;;;;;;;;;;;x
+c_deep_road_90;Deep road 90;Deep road 90;Deep road 90;;Deep road 90;;;;;;;;;x
+c_deep_road_90_adj;Deep road 90ian;;Deep road 90er;;;;;;;;;;;x
+c_deep_road_91;Deep road 91;Deep road 91;Deep road 91;;Deep road 91;;;;;;;;;x
+c_deep_road_91_adj;Deep road 91ian;;Deep road 91er;;;;;;;;;;;x
+c_deep_road_92;Deep road 92;Deep road 92;Deep road 92;;Deep road 92;;;;;;;;;x
+c_deep_road_92_adj;Deep road 92ian;;Deep road 92er;;;;;;;;;;;x
+c_deep_road_93;Deep road 93;Deep road 93;Deep road 93;;Deep road 93;;;;;;;;;x
+c_deep_road_93_adj;Deep road 93ian;;Deep road 93er;;;;;;;;;;;x
+c_denerim;Denerim;Denerim;Denerim;;Denerim;;;;;;;;;x
+c_denerim_adj;Denerimian;;denerimer;;;;;;;;;;;x
+c_derthona;Derthona;Derthona;Derthona;;Derthona;;;;;;;;;x
+c_derthona_adj;Derthonan;;derthoner;;;;;;;;;;;x
+c_desolations_end;Desolation's End;Desolation's End;Desolation's End;;Desolation's End;;;;;;;;;x
+c_desolations_end_adj;Desolation's Endian;;Desolation's Ender;;;;;;;;;;;x
+c_diever;Diever;Diever;Diever;;Diever;;;;;;;;;x
+c_diever_adj;Dieverian;;dieverer;;;;;;;;;;;x
+c_dinar;Dinar;Dinar;Dinar;;Dinar;;;;;;;;;x
+c_dinar_adj;Dinarian;;dinarer;;;;;;;;;;;x
+c_dinther;Dinther;Dinther;Dinther;;Dinther;;;;;;;;;x
+c_dinther_adj;Dintherian;;dintherer;;;;;;;;;;;x
+c_diois;Diois;Diois;Diois;;Diois;;;;;;;;;x
+c_diois_adj;Dioisian;;dioiser;;;;;;;;;;;x
+c_dombes;Dombes;Dombes;Dombes;;Dombes;;;;;;;;;x
+c_dombes_adj;Dombesian;;dombeser;;;;;;;;;;;x
+c_domfrontais;Domfrontais;Domfrontais;Domfrontais;;Domfrontais;;;;;;;;;x
+c_domfrontais_adj;Domfrontaisian;;domfrontaiser;;;;;;;;;;;x
+c_dragonbone_wastes;Dragonbone wastes;Dragonbone wastes;Dragonbone wastes;;Dragonbone wastes;;;;;;;;;x
+c_dragonbone_wastes_adj;Dragonbone wastesian;;Dragonbone wasteser;;;;;;;;;;;x
+c_dragons_fall;Dragon's Fall;Dragon's Fall;Dragon's Fall;;Dragon's Fall;;;;;;;;;x
+c_dragons_fall_adj;Dragon's Fallian;;Dragon's Faller;;;;;;;;;;;x
+c_dragons_peak;Dragon's Peak;Dragon's Peak;Dragon's Peak;;Dragon's Peak;;;;;;;;;x
+c_dragons_peak_adj;Dragon's Peakian;;Dragon's Peaker;;;;;;;;;;;x
+c_dragons_plain;Dragon's Plain;Dragon's Plain;Dragon's Plain;;Dragon's Plain;;;;;;;;;x
+c_dragons_plain_adj;Dragon's Plainian;;Dragon's Plainer;;;;;;;;;;;x
+c_drakon_shore;Drakon shore;Drakon shore;Drakon shore;;Drakon shore;;;;;;;;;x
+c_drakon_shore_adj;Drakon shorean;;Drakon shorer;;;;;;;;;;;x
+c_drapia;Drapia;Drapia;Drapia;;Drapia;;;;;;;;;x
+c_drapia_adj;Drapian;;draper;;;;;;;;;;;x
+c_drostenede;Drostenede;Drostenede;Drostenede;;Drostenede;;;;;;;;;x
+c_drostenede_adj;Drostenedean;;drosteneder;;;;;;;;;;;x
+c_druhen;Druhen;Druhen;Druhen;;Druhen;;;;;;;;;x
+c_druhen_adj;Druhenian;;druhener;;;;;;;;;;;x
+c_dumitor;Dumitor;Dumitor;Dumitor;;Dumitor;;;;;;;;;x
+c_dumitor_adj;Dumitorian;;dumitorer;;;;;;;;;;;x
+c_duragan;Duragan;Duragan;Duragan;;Duragan;;;;;;;;;x
+c_duragan_adj;Duraganian;;duraganer;;;;;;;;;;;x
+c_durendyn;Durendyn;Durendyn;Durendyn;;Durendyn;;;;;;;;;x
+c_durendyn_adj;Durendynian;;durendyner;;;;;;;;;;;x
+c_eagum;Eagum;Eagum;Eagum;;Eagum;;;;;;;;;x
+c_eagum_adj;Eagumian;;eagumer;;;;;;;;;;;x
+c_east_harbor;East Harbor;East Harbor;East Harbor;;East Harbor;;;;;;;;;x
+c_east_harbor_adj;East Harborian;;East Harborer;;;;;;;;;;;x
+c_eastern_arbor;Eastern Arbor;Eastern Arbor;Eastern Arbor;;Eastern Arbor;;;;;;;;;x
+c_eastern_arbor_adj;Eastern Arborian;;Eastern Arborer;;;;;;;;;;;x
+c_eastern_arbora;Eastern ArborA;Eastern ArborA;Eastern ArborA;;Eastern ArborA;;;;;;;;;x
+c_eastern_arbora_adj;Eastern ArborAian;;Eastern ArborAer;;;;;;;;;;;x
+c_eastern_arborb;Eastern ArborB;Eastern ArborB;Eastern ArborB;;Eastern ArborB;;;;;;;;;x
+c_eastern_arborb_adj;Eastern ArborBian;;Eastern ArborBer;;;;;;;;;;;x
+c_eastern_arborc;Eastern ArborC;Eastern ArborC;Eastern ArborC;;Eastern ArborC;;;;;;;;;x
+c_eastern_arborc_adj;Eastern ArborCian;;Eastern ArborCer;;;;;;;;;;;x
+c_eastern_arbord;Eastern ArborD;Eastern ArborD;Eastern ArborD;;Eastern ArborD;;;;;;;;;x
+c_eastern_arbord_adj;Eastern ArborDian;;Eastern ArborDer;;;;;;;;;;;x
+c_eastern_tirashan;Eastern tirashan;Eastern tirashan;Eastern tirashan;;Eastern tirashan;;;;;;;;;x
+c_eastern_tirashan_adj;Eastern tirashanian;;Eastern tirashaner;;;;;;;;;;;x
+c_eastwald;Eastwald;Eastwald;Eastwald;;Eastwald;;;;;;;;;x
+c_eastwald_adj;Eastwaldian;;eastwalder;;;;;;;;;;;x
+c_ebbau;Ebbau;Ebbau;Ebbau;;Ebbau;;;;;;;;;x
+c_ebbau_adj;Ebbian;;ebber;;;;;;;;;;;x
+c_edens;Edens;Edens;Edens;;Edens;;;;;;;;;x
+c_edens_adj;Edensian;;edenser;;;;;;;;;;;x
+c_edgehall;Edgehall;Edgehall;Edgehall;;Edgehall;;;;;;;;;x
+c_edgehall_adj;Edgehallian;;edgehaller;;;;;;;;;;;x
+c_egnatia;Egnatia;Egnatia;Egnatia;;Egnatia;;;;;;;;;x
+c_egnatia_adj;Egnatian;;egnater;;;;;;;;;;;x
+c_elens;Elens;Elens;Elens;;Elens;;;;;;;;;x
+c_elens_adj;Elensian;;elenser;;;;;;;;;;;x
+c_elibe;Elibe;Elibe;Elibe;;Elibe;;;;;;;;;x
+c_elibe_adj;Elibean;;eliber;;;;;;;;;;;x
+c_elicos;Elicos;Elicos;Elicos;;Elicos;;;;;;;;;x
+c_elicos_adj;Elicosian;;elicoser;;;;;;;;;;;x
+c_eltingberg;Eltingberg;Eltingberg;Eltingberg;;Eltingberg;;;;;;;;;x
+c_eltingberg_adj;Eltingbergian;;eltingberger;;;;;;;;;;;x
+c_emdale;Emdale;Emdale;Emdale;;Emdale;;;;;;;;;x
+c_emdale_adj;Emdalean;;emdaler;;;;;;;;;;;x
+c_emerald_groves;Emerald Groves;Emerald Groves;Emerald Groves;;Emerald Groves;;;;;;;;;x
+c_emerald_groves_adj;Emerald Grovesian;;Emerald Groveser;;;;;;;;;;;x
+c_empagoria;Empagoria;Empagoria;Empagoria;;Empagoria;;;;;;;;;x
+c_empagoria_adj;Empagorian;;empagorer;;;;;;;;;;;x
+c_emprise_du_lion;Emprise du lion;Emprise du lion;Emprise du lion;;Emprise du lion;;;;;;;;;x
+c_emprise_du_lion_adj;Emprise du lionian;;Emprise du lioner;;;;;;;;;;;x
+c_ensigwik;Ensigwik;Ensigwik;Ensigwik;;Ensigwik;;;;;;;;;x
+c_ensigwik_adj;Ensigwikian;;ensigwiker;;;;;;;;;;;x
+c_erbaa;Erbaa;Erbaa;Erbaa;;Erbaa;;;;;;;;;x
+c_erbaa_adj;Erbaan;;erber;;;;;;;;;;;x
+c_erethonnos;Erethonnos;Erethonnos;Erethonnos;;Erethonnos;;;;;;;;;x
+c_erethonnos_adj;Erethonnosian;;erethonnoser;;;;;;;;;;;x
+c_eroin;Eroin;Eroin;Eroin;;Eroin;;;;;;;;;x
+c_eroin_adj;Eroinian;;eroiner;;;;;;;;;;;x
+c_estwatch;Estwatch;Estwatch;Estwatch;;Estwatch;;;;;;;;;x
+c_estwatch_adj;Estwatchian;;estwatcher;;;;;;;;;;;x
+c_exaled_plains;Exaled plains;Exaled plains;Exaled plains;;Exaled plains;;;;;;;;;x
+c_exaled_plains_adj;Exaled plainsian;;Exaled plainser;;;;;;;;;;;x
+c_ezoire;Ezoire;Ezoire;Ezoire;;Ezoire;;;;;;;;;x
+c_ezoire_adj;Ezoirean;;ezoirer;;;;;;;;;;;x
+c_faint_grove;Faint Grove;Faint Grove;Faint Grove;;Faint Grove;;;;;;;;;x
+c_faint_grove_adj;Faint Grovean;;Faint Grover;;;;;;;;;;;x
+c_fairfield;Fairfield;Fairfield;Fairfield;;Fairfield;;;;;;;;;x
+c_fairfield_adj;Fairfieldian;;fairfielder;;;;;;;;;;;x
+c_fairford;Fairford;Fairford;Fairford;;Fairford;;;;;;;;;x
+c_fairford_adj;Fairfordian;;fairforder;;;;;;;;;;;x
+c_fangelac;Fangelac;Fangelac;Fangelac;;Fangelac;;;;;;;;;x
+c_fangelac_adj;Fangelacian;;fangelacer;;;;;;;;;;;x
+c_fatah;Fatah;Fatah;Fatah;;Fatah;;;;;;;;;x
+c_fatah_adj;Fatahian;;fataher;;;;;;;;;;;x
+c_favre;Favre;Favre;Favre;;Favre;;;;;;;;;x
+c_favre_adj;Favrean;;favrer;;;;;;;;;;;x
+c_feravel_plains;Feravel plains;Feravel plains;Feravel plains;;Feravel plains;;;;;;;;;x
+c_feravel_plains_adj;Feravel plainsian;;Feravel plainser;;;;;;;;;;;x
+c_finsund;Finsund;Finsund;Finsund;;Finsund;;;;;;;;;x
+c_finsund_adj;Finsundian;;finsunder;;;;;;;;;;;x
+c_floresta;Floresta;Floresta;Floresta;;Floresta;;;;;;;;;x
+c_floresta_adj;Florestan;;florester;;;;;;;;;;;x
+c_forbidden_oasis;Forbidden Oasis;Forbidden Oasis;Forbidden Oasis;;Forbidden Oasis;;;;;;;;;x
+c_forbidden_oasis_adj;Forbidden Oasisian;;Forbidden Oasiser;;;;;;;;;;;x
+c_forcalquier;Forcalquier;Forcalquier;Forcalquier;;Forcalquier;;;;;;;;;x
+c_forcalquier_adj;Forcalquierian;;forcalquierer;;;;;;;;;;;x
+c_forest_deep;Forest deep;Forest deep;Forest deep;;Forest deep;;;;;;;;;x
+c_forest_deep_adj;Forest deepian;;Forest deeper;;;;;;;;;;;x
+c_forest_heart;Forest heart;Forest heart;Forest heart;;Forest heart;;;;;;;;;x
+c_forest_heart_adj;Forest heartian;;Forest hearter;;;;;;;;;;;x
+c_forest_heart_2;Forest heart;Forest heart;Forest heart;;Forest heart;;;;;;;;;x
+c_forest_heart_2_adj;Forest heartian;;Forest hearter;;;;;;;;;;;x
+c_forest_peak;Forest peak;Forest peak;Forest peak;;Forest peak;;;;;;;;;x
+c_forest_peak_adj;Forest peakian;;Forest peaker;;;;;;;;;;;x
+c_forino;Forino;Forino;Forino;;Forino;;;;;;;;;x
+c_forino_adj;Forinian;;foriner;;;;;;;;;;;x
+c_fort_le_lac;Fort-le-lac;Fort-le-lac;Fort-le-lac;;Fort-le-lac;;;;;;;;;x
+c_fort_le_lac_adj;Fort-le-lacian;;fort-le-lacer;;;;;;;;;;;x
+c_framura;Framura;Framura;Framura;;Framura;;;;;;;;;x
+c_framura_adj;Framuran;;framurer;;;;;;;;;;;x
+c_friens;Friens;Friens;Friens;;Friens;;;;;;;;;x
+c_friens_adj;Friensian;;frienser;;;;;;;;;;;x
+c_gamlehall;Gamlehall;Gamlehall;Gamlehall;;Gamlehall;;;;;;;;;x
+c_gamlehall_adj;Gamlehallian;;gamlehaller;;;;;;;;;;;x
+c_garotte;Garotte;Garotte;Garotte;;Garotte;;;;;;;;;x
+c_garotte_adj;Garottean;;garotter;;;;;;;;;;;x
+c_gatinais;Gatinais;Gatinais;Gatinais;;Gatinais;;;;;;;;;x
+c_gatinais_adj;Gatinaisian;;gatinaiser;;;;;;;;;;;x
+c_geia;Geia;Geia;Geia;;Geia;;;;;;;;;x
+c_geia_adj;Geian;;ger;;;;;;;;;;;x
+c_gelligaer;Gelligaer;Gelligaer;Gelligaer;;Gelligaer;;;;;;;;;x
+c_gelligaer_adj;Gelligaerian;;gelligaerer;;;;;;;;;;;x
+c_geuesberg;Geuesberg;Geuesberg;Geuesberg;;Geuesberg;;;;;;;;;x
+c_geuesberg_adj;Geuesbergian;;geuesberger;;;;;;;;;;;x
+c_ghislain;Ghislain;Ghislain;Ghislain;;Ghislain;;;;;;;;;x
+c_ghislain_adj;Ghislainian;;ghislainer;;;;;;;;;;;x
+c_gilsstedten;Gilsstedten;Gilsstedten;Gilsstedten;;Gilsstedten;;;;;;;;;x
+c_gilsstedten_adj;Gilsstedtenian;;gilsstedtener;;;;;;;;;;;x
+c_gleiders;Gleiders;Gleiders;Gleiders;;Gleiders;;;;;;;;;x
+c_gleiders_adj;Gleidersian;;gleiderser;;;;;;;;;;;x
+c_glozel;Glozel;Glozel;Glozel;;Glozel;;;;;;;;;x
+c_glozel_adj;Glozelian;;glozeler;;;;;;;;;;;x
+c_glynneath;Glynneath;Glynneath;Glynneath;;Glynneath;;;;;;;;;x
+c_glynneath_adj;Glynneathian;;glynneather;;;;;;;;;;;x
+c_golden_wastes;Golden Wastes;Golden Wastes;Golden Wastes;;Golden Wastes;;;;;;;;;x
+c_golden_wastes_adj;Golden Wastesian;;Golden Wasteser;;;;;;;;;;;x
+c_gorge;Gorge;Gorge;Gorge;;Gorge;;;;;;;;;x
+c_gorge_adj;Gorgean;;gorger;;;;;;;;;;;x
+c_gorsium;Gorsium;Gorsium;Gorsium;;Gorsium;;;;;;;;;x
+c_gorsium_adj;Gorsiumian;;gorsiumer;;;;;;;;;;;x
+c_gould_grove;Gould Grove;Gould Grove;Gould Grove;;Gould Grove;;;;;;;;;x
+c_gould_grove_adj;Gould Grovean;;Gould Grover;;;;;;;;;;;x
+c_graccuris;Graccuris;Graccuris;Graccuris;;Graccuris;;;;;;;;;x
+c_graccuris_adj;Graccurisian;;graccuriser;;;;;;;;;;;x
+c_grana;Grana;Grana;Grana;;Grana;;;;;;;;;x
+c_grana_adj;Granan;;graner;;;;;;;;;;;x
+c_great_mill;Great Mill;Great Mill;Great Mill;;Great Mill;;;;;;;;;x
+c_great_mill_adj;Great Millian;;Great Miller;;;;;;;;;;;x
+c_green_dales;Green Dales;Green Dales;Green Dales;;Green Dales;;;;;;;;;x
+c_green_dales_adj;Green Dalesian;;Green Daleser;;;;;;;;;;;x
+c_green_dalesa;Green DalesA;Green DalesA;Green DalesA;;Green DalesA;;;;;;;;;x
+c_green_dalesa_adj;Green DalesAian;;Green DalesAer;;;;;;;;;;;x
+c_green_dalesb;Green DalesB;Green DalesB;Green DalesB;;Green DalesB;;;;;;;;;x
+c_green_dalesb_adj;Green DalesBian;;Green DalesBer;;;;;;;;;;;x
+c_green_dalesc;Green DalesC;Green DalesC;Green DalesC;;Green DalesC;;;;;;;;;x
+c_green_dalesc_adj;Green DalesCian;;Green DalesCer;;;;;;;;;;;x
+c_green_dalesd;Green DalesD;Green DalesD;Green DalesD;;Green DalesD;;;;;;;;;x
+c_green_dalesd_adj;Green DalesDian;;Green DalesDer;;;;;;;;;;;x
+c_greenfell;Greenfell;Greenfell;Greenfell;;Greenfell;;;;;;;;;x
+c_greenfell_adj;Greenfellian;;greenfeller;;;;;;;;;;;x
+c_greenwood_passage;Greenwood passage;Greenwood passage;Greenwood passage;;Greenwood passage;;;;;;;;;x
+c_greenwood_passage_adj;Greenwood passagean;;Greenwood passager;;;;;;;;;;;x
+c_grekenhorn;Grekenhorn;Grekenhorn;Grekenhorn;;Grekenhorn;;;;;;;;;x
+c_grekenhorn_adj;Grekenhornian;;grekenhorner;;;;;;;;;;;x
+c_gresford;Gresford;Gresford;Gresford;;Gresford;;;;;;;;;x
+c_gresford_adj;Gresfordian;;gresforder;;;;;;;;;;;x
+c_gresivaudan;Gresivaudan;Gresivaudan;Gresivaudan;;Gresivaudan;;;;;;;;;x
+c_gresivaudan_adj;Gresivaudanian;;gresivaudaner;;;;;;;;;;;x
+c_gresivaudan_2;Gresivaudan;Gresivaudan;Gresivaudan;;Gresivaudan;;;;;;;;;x
+c_gresivaudan_2_adj;Gresivaudanian;;gresivaudaner;;;;;;;;;;;x
+c_grosbois;Grosbois;Grosbois;Grosbois;;Grosbois;;;;;;;;;x
+c_grosbois_adj;Grosboisian;;grosboiser;;;;;;;;;;;x
+c_gullersede;Gullersede;Gullersede;Gullersede;;Gullersede;;;;;;;;;x
+c_gullersede_adj;Gullersedean;;gullerseder;;;;;;;;;;;x
+c_gumdar;Gumdar;Gumdar;Gumdar;;Gumdar;;;;;;;;;x
+c_gumdar_adj;Gumdarian;;gumdarer;;;;;;;;;;;x
+c_gurk;Gurk;Gurk;Gurk;;Gurk;;;;;;;;;x
+c_gurk_adj;Gurkian;;gurker;;;;;;;;;;;x
+c_gwaren;Gwaren;Gwaren;Gwaren;;Gwaren;;;;;;;;;x
+c_gwaren_adj;Gwarenian;;gwarener;;;;;;;;;;;x
+c_gwaren_2;Gwaren;Gwaren;Gwaren;;Gwaren;;;;;;;;;x
+c_gwaren_2_adj;Gwarenian;;gwarener;;;;;;;;;;;x
+c_gwaren_approach;Gwaren approach;Gwaren approach;Gwaren approach;;Gwaren approach;;;;;;;;;x
+c_gwaren_approach_adj;Gwaren approachian;;Gwaren approacher;;;;;;;;;;;x
+c_haath;Haath;Haath;Haath;;Haath;;;;;;;;;x
+c_haath_adj;Haathian;;haather;;;;;;;;;;;x
+c_hafiz;Hafiz;Hafiz;Hafiz;;Hafiz;;;;;;;;;x
+c_hafiz_adj;Hafizian;;hafizer;;;;;;;;;;;x
+c_halamshiral;Halamshiral;Halamshiral;Halamshiral;;Halamshiral;;;;;;;;;x
+c_halamshiral_adj;Halamshiralian;;halamshiraler;;;;;;;;;;;x
+c_halenberg;Halenberg;Halenberg;Halenberg;;Halenberg;;;;;;;;;x
+c_halenberg_adj;Halenbergian;;halenberger;;;;;;;;;;;x
+c_haler;Haler;Haler;Haler;;Haler;;;;;;;;;x
+c_haler_adj;Halerian;;halerer;;;;;;;;;;;x
+c_halinion;Halinion;Halinion;Halinion;;Halinion;;;;;;;;;x
+c_halinion_adj;Halinionian;;halinioner;;;;;;;;;;;x
+c_halynthos;Halynthos;Halynthos;Halynthos;;Halynthos;;;;;;;;;x
+c_halynthos_adj;Halynthosian;;halynthoser;;;;;;;;;;;x
+c_hamara;Hamara;Hamara;Hamara;;Hamara;;;;;;;;;x
+c_hamara_adj;Hamaran;;hamarer;;;;;;;;;;;x
+c_harfoss;Harfoss;Harfoss;Harfoss;;Harfoss;;;;;;;;;x
+c_harfoss_adj;Harfossian;;harfosser;;;;;;;;;;;x
+c_harpers_ford;Harper's ford;Harper's ford;Harper's ford;;Harper's ford;;;;;;;;;x
+c_harpers_ford_adj;Harper's fordian;;Harper's forder;;;;;;;;;;;x
+c_hasmal;Hasmal;Hasmal;Hasmal;;Hasmal;;;;;;;;;x
+c_hasmal_adj;Hasmalian;;hasmaler;;;;;;;;;;;x
+c_hasmala;HasmalA;HasmalA;HasmalA;;HasmalA;;;;;;;;;x
+c_hasmala_adj;HasmalAian;;hasmaler;;;;;;;;;;;x
+c_hasmalb;HasmalB;HasmalB;HasmalB;;HasmalB;;;;;;;;;x
+c_hasmalb_adj;HasmalBian;;hasmalber;;;;;;;;;;;x
+c_hasmalc;HasmalC;HasmalC;HasmalC;;HasmalC;;;;;;;;;x
+c_hasmalc_adj;HasmalCian;;hasmalcer;;;;;;;;;;;x
+c_haven;Haven;Haven;Haven;;Haven;;;;;;;;;x
+c_haven_adj;Havenian;;havener;;;;;;;;;;;x
+c_heidrun_thaig;Heidrun thaig;Heidrun thaig;Heidrun thaig;;Heidrun thaig;;;;;;;;;x
+c_heidrun_thaig_adj;Heidrun thaigian;;Heidrun thaiger;;;;;;;;;;;x
+c_heigi;Heigi;Heigi;Heigi;;Heigi;;;;;;;;;x
+c_heigi_adj;Heigian;;heiger;;;;;;;;;;;x
+c_heine;Heine;Heine;Heine;;Heine;;;;;;;;;x
+c_heine_adj;Heinean;;heiner;;;;;;;;;;;x
+c_hellis;Hellis;Hellis;Hellis;;Hellis;;;;;;;;;x
+c_hellis_adj;Hellisian;;helliser;;;;;;;;;;;x
+c_hercina;Hercina;Hercina;Hercina;;Hercina;;;;;;;;;x
+c_hercina_adj;Hercinan;;herciner;;;;;;;;;;;x
+c_hercinaa;HercinaA;HercinaA;HercinaA;;HercinaA;;;;;;;;;x
+c_hercinaa_adj;HercinaAian;;herciner;;;;;;;;;;;x
+c_hercinab;HercinaB;HercinaB;HercinaB;;HercinaB;;;;;;;;;x
+c_hercinab_adj;HercinaBian;;hercinaber;;;;;;;;;;;x
+c_hercinac;HercinaC;HercinaC;HercinaC;;HercinaC;;;;;;;;;x
+c_hercinac_adj;HercinaCian;;hercinacer;;;;;;;;;;;x
+c_herdonia;Herdonia;Herdonia;Herdonia;;Herdonia;;;;;;;;;x
+c_herdonia_adj;Herdonian;;herdoner;;;;;;;;;;;x
+c_hermenus;Hermenus;Hermenus;Hermenus;;Hermenus;;;;;;;;;x
+c_hermenus_adj;Hermenusian;;hermenuser;;;;;;;;;;;x
+c_highever;Highever;Highever;Highever;;Highever;;;;;;;;;x
+c_highever_adj;Higheverian;;higheverer;;;;;;;;;;;x
+c_hillion;Hillion;Hillion;Hillion;;Hillion;;;;;;;;;x
+c_hillion_adj;Hillionian;;hillioner;;;;;;;;;;;x
+c_hintham;Hintham;Hintham;Hintham;;Hintham;;;;;;;;;x
+c_hintham_adj;Hinthamian;;hinthamer;;;;;;;;;;;x
+c_hissing_wastes;Hissing Wastes;Hissing Wastes;Hissing Wastes;;Hissing Wastes;;;;;;;;;x
+c_hissing_wastes_adj;Hissing Wastesian;;Hissing Wasteser;;;;;;;;;;;x
+c_hizan;Hizan;Hizan;Hizan;;Hizan;;;;;;;;;x
+c_hizan_adj;Hizanian;;hizaner;;;;;;;;;;;x
+c_hollum;Hollum;Hollum;Hollum;;Hollum;;;;;;;;;x
+c_hollum_adj;Hollumian;;hollumer;;;;;;;;;;;x
+c_holsted;Holsted;Holsted;Holsted;;Holsted;;;;;;;;;x
+c_holsted_adj;Holstedian;;holsteder;;;;;;;;;;;x
+c_holt;Holt;Holt;Holt;;Holt;;;;;;;;;x
+c_holt_adj;Holtian;;holter;;;;;;;;;;;x
+c_honnleath;Honnleath;Honnleath;Honnleath;;Honnleath;;;;;;;;;x
+c_honnleath_adj;Honnleathian;;honnleather;;;;;;;;;;;x
+c_horephyrian;Horephyrian;Horephyrian;Horephyrian;;Horephyrian;;;;;;;;;x
+c_horephyrian_adj;Horephyrianian;;horephyrianer;;;;;;;;;;;x
+c_hormak;Hormak;Hormak;Hormak;;Hormak;;;;;;;;;x
+c_hormak_adj;Hormakian;;hormaker;;;;;;;;;;;x
+c_hossberg;Hossberg;Hossberg;Hossberg;;Hossberg;;;;;;;;;x
+c_hossberg_adj;Hossbergian;;hossberger;;;;;;;;;;;x
+c_hounds_head;Hounds head;Hounds head;Hounds head;;Hounds head;;;;;;;;;x
+c_hounds_head_adj;Hounds headian;;Hounds header;;;;;;;;;;;x
+c_huckesscheid;Huckesscheid;Huckesscheid;Huckesscheid;;Huckesscheid;;;;;;;;;x
+c_huckesscheid_adj;Huckesscheidian;;huckesscheider;;;;;;;;;;;x
+c_hulsberg;Hulsberg;Hulsberg;Hulsberg;;Hulsberg;;;;;;;;;x
+c_hulsberg_adj;Hulsbergian;;hulsberger;;;;;;;;;;;x
+c_hum;Hum;Hum;Hum;;Hum;;;;;;;;;x
+c_hum_adj;Humian;;humer;;;;;;;;;;;x
+c_hunterfell;Hunterfell;Hunterfell;Hunterfell;;Hunterfell;;;;;;;;;x
+c_hunterfell_adj;Hunterfellian;;hunterfeller;;;;;;;;;;;x
+c_hurepoix;Hurepoix;Hurepoix;Hurepoix;;Hurepoix;;;;;;;;;x
+c_hurepoix_adj;Hurepoixian;;hurepoixer;;;;;;;;;;;x
+c_idin;Idiñ;Idiñ;Idiñ;;Idiñ;;;;;;;;;x
+c_idin_adj;Idiñian;;idiñer;;;;;;;;;;;x
+c_illya;Illya;Illya;Illya;;Illya;;;;;;;;;x
+c_illya_adj;Illyan;;iller;;;;;;;;;;;x
+c_imbreos;Imbreos;Imbreos;Imbreos;;Imbreos;;;;;;;;;x
+c_imbreos_adj;Imbreosian;;imbreoser;;;;;;;;;;;x
+c_imbrine;Imbrine;Imbrine;Imbrine;;Imbrine;;;;;;;;;x
+c_imbrine_adj;Imbrinean;;imbriner;;;;;;;;;;;x
+c_imthihan;Imthihan;Imthihan;Imthihan;;Imthihan;;;;;;;;;x
+c_imthihan_adj;Imthihanian;;imthihaner;;;;;;;;;;;x
+c_irelswerder;Irelswerder;Irelswerder;Irelswerder;;Irelswerder;;;;;;;;;x
+c_irelswerder_adj;Irelswerderian;;irelswerderer;;;;;;;;;;;x
+c_ironbrooke;Ironbrooke;Ironbrooke;Ironbrooke;;Ironbrooke;;;;;;;;;x
+c_ironbrooke_adj;Ironbrookean;;ironbrooker;;;;;;;;;;;x
+c_isklar;Isklar;Isklar;Isklar;;Isklar;;;;;;;;;x
+c_isklar_adj;Isklarian;;isklarer;;;;;;;;;;;x
+c_istrana;Istrana;Istrana;Istrana;;Istrana;;;;;;;;;x
+c_istrana_adj;Istranan;;istraner;;;;;;;;;;;x
+c_jader;Jader;Jader;Jader;;Jader;;;;;;;;;x
+c_jader_adj;Jaderian;;jaderer;;;;;;;;;;;x
+c_jainen;Jainen;Jainen;Jainen;;Jainen;;;;;;;;;x
+c_jainen_adj;Jainenian;;jainener;;;;;;;;;;;x
+c_jaugessteden;Jaugessteden;Jaugessteden;Jaugessteden;;Jaugessteden;;;;;;;;;x
+c_jaugessteden_adj;Jaugesstedenian;;jaugesstedener;;;;;;;;;;;x
+c_jolie;Jolie;Jolie;Jolie;;Jolie;;;;;;;;;x
+c_jolie_adj;Joliean;;joler;;;;;;;;;;;x
+c_kabala;Kabala;Kabala;Kabala;;Kabala;;;;;;;;;x
+c_kabala_adj;Kabalan;;kabaler;;;;;;;;;;;x
+c_kahan;Kahan;Kahan;Kahan;;Kahan;;;;;;;;;x
+c_kahan_adj;Kahanian;;kahaner;;;;;;;;;;;x
+c_kahta;Kahta;Kahta;Kahta;;Kahta;;;;;;;;;x
+c_kahta_adj;Kahtan;;kahter;;;;;;;;;;;x
+c_kal_sharok;Kal-Sharok;Kal-Sharok;Kal-Sharok;;Kal-Sharok;;;;;;;;;x
+c_kal_sharok_adj;Kal-Sharokian;;kal-sharoker;;;;;;;;;;;x
+c_kalbarosh;Kal'Barosh;Kal'Barosh;Kal'Barosh;;Kal'Barosh;;;;;;;;;x
+c_kalbarosh_adj;Kal'Baroshian;;kal'barosher;;;;;;;;;;;x
+c_kale;Kale;Kale;Kale;;Kale;;;;;;;;;x
+c_kale_adj;Kalean;;kaler;;;;;;;;;;;x
+c_kalhirol;Kal'Hirol;Kal'Hirol;Kal'Hirol;;Kal'Hirol;;;;;;;;;x
+c_kalhirol_adj;Kal'Hirolian;;kal'hiroler;;;;;;;;;;;x
+c_kaman;Kaman;Kaman;Kaman;;Kaman;;;;;;;;;x
+c_kaman_adj;Kamanian;;kamaner;;;;;;;;;;;x
+c_kamous;Kamous;Kamous;Kamous;;Kamous;;;;;;;;;x
+c_kamous_adj;Kamousian;;kamouser;;;;;;;;;;;x
+c_kannalamis;Kannalamis;Kannalamis;Kannalamis;;Kannalamis;;;;;;;;;x
+c_kannalamis_adj;Kannalamisian;;kannalamiser;;;;;;;;;;;x
+c_karakoban;Karakoban;Karakoban;Karakoban;;Karakoban;;;;;;;;;x
+c_karakoban_adj;Karakobanian;;karakobaner;;;;;;;;;;;x
+c_karatas;Karatas;Karatas;Karatas;;Karatas;;;;;;;;;x
+c_karatas_adj;Karatasian;;karataser;;;;;;;;;;;x
+c_kassel;Kassel;Kassel;Kassel;;Kassel;;;;;;;;;x
+c_kassel_adj;Kasselian;;kasseler;;;;;;;;;;;x
+c_katactus;Katactus;Katactus;Katactus;;Katactus;;;;;;;;;x
+c_katactus_adj;Katactusian;;katactuser;;;;;;;;;;;x
+c_kavak;Kavak;Kavak;Kavak;;Kavak;;;;;;;;;x
+c_kavak_adj;Kavakian;;kavaker;;;;;;;;;;;x
+c_kepysos;Kepysos;Kepysos;Kepysos;;Kepysos;;;;;;;;;x
+c_kepysos_adj;Kepysosian;;kepysoser;;;;;;;;;;;x
+c_khainen;Khainen;Khainen;Khainen;;Khainen;;;;;;;;;x
+c_khainen_adj;Khainenian;;khainener;;;;;;;;;;;x
+c_kholna;Kholna;Kholna;Kholna;;Kholna;;;;;;;;;x
+c_kholna_adj;Kholnan;;kholner;;;;;;;;;;;x
+c_khunda;Khunda;Khunda;Khunda;;Khunda;;;;;;;;;x
+c_khunda_adj;Khundan;;khunder;;;;;;;;;;;x
+c_killarney;Killarney;Killarney;Killarney;;Killarney;;;;;;;;;x
+c_killarney_adj;Killarneian;;killarneer;;;;;;;;;;;x
+c_kimmoy;Kimmoy;Kimmoy;Kimmoy;;Kimmoy;;;;;;;;;x
+c_kimmoy_adj;Kimmoian;;kimmoer;;;;;;;;;;;x
+c_kinlock_hold;Kinlock hold;Kinlock hold;Kinlock hold;;Kinlock hold;;;;;;;;;x
+c_kinlock_hold_adj;Kinlock holdian;;Kinlock holder;;;;;;;;;;;x
+c_kirkwall;Kirkwall;Kirkwall;Kirkwall;;Kirkwall;;;;;;;;;x
+c_kirkwall_adj;Kirkwallian;;kirkwaller;;;;;;;;;;;x
+c_kirkwalla;KirkwallA;KirkwallA;KirkwallA;;KirkwallA;;;;;;;;;x
+c_kirkwalla_adj;KirkwallAian;;kirkwaller;;;;;;;;;;;x
+c_kirkwallb;KirkwallB;KirkwallB;KirkwallB;;KirkwallB;;;;;;;;;x
+c_kirkwallb_adj;KirkwallBian;;kirkwallber;;;;;;;;;;;x
+c_kirkwallc;KirkwallC;KirkwallC;KirkwallC;;KirkwallC;;;;;;;;;x
+c_kirkwallc_adj;KirkwallCian;;kirkwallcer;;;;;;;;;;;x
+c_kirkwalld;KirkwallD;KirkwallD;KirkwallD;;KirkwallD;;;;;;;;;x
+c_kirkwalld_adj;KirkwallDian;;kirkwallder;;;;;;;;;;;x
+c_kirkwalle;KirkwallE;KirkwallE;KirkwallE;;KirkwallE;;;;;;;;;x
+c_kirkwalle_adj;KirkwallEian;;kirkwaller;;;;;;;;;;;x
+c_kladoth_woods;kladoth Woods;kladoth Woods;kladoth Woods;;kladoth Woods;;;;;;;;;x
+c_kladoth_woods_adj;kladoth Woodsian;;kladoth Woodser;;;;;;;;;;;x
+c_knotwood_hill;Knotwood hill;Knotwood hill;Knotwood hill;;Knotwood hill;;;;;;;;;x
+c_knotwood_hill_adj;Knotwood hillian;;Knotwood hiller;;;;;;;;;;;x
+c_kokaali;Kokaali;Kokaali;Kokaali;;Kokaali;;;;;;;;;x
+c_kokaali_adj;Kokaalian;;kokaaler;;;;;;;;;;;x
+c_komt_aar;Komt-aar;Komt-aar;Komt-aar;;Komt-aar;;;;;;;;;x
+c_komt_aar_adj;Komt-aarian;;komt-aarer;;;;;;;;;;;x
+c_korcari_wilds1a;Korcari Wilds1A;Korcari Wilds1A;Korcari Wilds1A;;Korcari Wilds1A;;;;;;;;;x
+c_korcari_wilds1a_adj;Korcari Wilds1Aian;;Korcari Wilds1Aer;;;;;;;;;;;x
+c_korcari_wilds1b;Korcari Wilds1B;Korcari Wilds1B;Korcari Wilds1B;;Korcari Wilds1B;;;;;;;;;x
+c_korcari_wilds1b_adj;Korcari Wilds1Bian;;Korcari Wilds1Ber;;;;;;;;;;;x
+c_korcari_wilds1c;Korcari Wilds1C;Korcari Wilds1C;Korcari Wilds1C;;Korcari Wilds1C;;;;;;;;;x
+c_korcari_wilds1c_adj;Korcari Wilds1Cian;;Korcari Wilds1Cer;;;;;;;;;;;x
+c_korcari_wilds1d;Korcari Wilds1D;Korcari Wilds1D;Korcari Wilds1D;;Korcari Wilds1D;;;;;;;;;x
+c_korcari_wilds1d_adj;Korcari Wilds1Dian;;Korcari Wilds1Der;;;;;;;;;;;x
+c_korcari_wilds2a;Korcari Wilds2A;Korcari Wilds2A;Korcari Wilds2A;;Korcari Wilds2A;;;;;;;;;x
+c_korcari_wilds2a_adj;Korcari Wilds2Aian;;Korcari Wilds2Aer;;;;;;;;;;;x
+c_korcari_wilds2b;Korcari Wilds2B;Korcari Wilds2B;Korcari Wilds2B;;Korcari Wilds2B;;;;;;;;;x
+c_korcari_wilds2b_adj;Korcari Wilds2Bian;;Korcari Wilds2Ber;;;;;;;;;;;x
+c_korcari_wilds2c;Korcari Wilds2C;Korcari Wilds2C;Korcari Wilds2C;;Korcari Wilds2C;;;;;;;;;x
+c_korcari_wilds2c_adj;Korcari Wilds2Cian;;Korcari Wilds2Cer;;;;;;;;;;;x
+c_korcari_wilds2d;Korcari Wilds2D;Korcari Wilds2D;Korcari Wilds2D;;Korcari Wilds2D;;;;;;;;;x
+c_korcari_wilds2d_adj;Korcari Wilds2Dian;;Korcari Wilds2Der;;;;;;;;;;;x
+c_korcari_wilds3a;Korcari Wilds3A;Korcari Wilds3A;Korcari Wilds3A;;Korcari Wilds3A;;;;;;;;;x
+c_korcari_wilds3a_adj;Korcari Wilds3Aian;;Korcari Wilds3Aer;;;;;;;;;;;x
+c_korcari_wilds3b;Korcari Wilds3B;Korcari Wilds3B;Korcari Wilds3B;;Korcari Wilds3B;;;;;;;;;x
+c_korcari_wilds3b_adj;Korcari Wilds3Bian;;Korcari Wilds3Ber;;;;;;;;;;;x
+c_korcari_wilds3c;Korcari Wilds3C;Korcari Wilds3C;Korcari Wilds3C;;Korcari Wilds3C;;;;;;;;;x
+c_korcari_wilds3c_adj;Korcari Wilds3Cian;;Korcari Wilds3Cer;;;;;;;;;;;x
+c_korcari_wilds3d;Korcari Wilds3D;Korcari Wilds3D;Korcari Wilds3D;;Korcari Wilds3D;;;;;;;;;x
+c_korcari_wilds3d_adj;Korcari Wilds3Dian;;Korcari Wilds3Der;;;;;;;;;;;x
+c_korcari_wilds4a;Korcari Wilds4A;Korcari Wilds4A;Korcari Wilds4A;;Korcari Wilds4A;;;;;;;;;x
+c_korcari_wilds4a_adj;Korcari Wilds4Aian;;Korcari Wilds4Aer;;;;;;;;;;;x
+c_korcari_wilds4b;Korcari Wilds4B;Korcari Wilds4B;Korcari Wilds4B;;Korcari Wilds4B;;;;;;;;;x
+c_korcari_wilds4b_adj;Korcari Wilds4Bian;;Korcari Wilds4Ber;;;;;;;;;;;x
+c_korcari_wilds4c;Korcari Wilds4C;Korcari Wilds4C;Korcari Wilds4C;;Korcari Wilds4C;;;;;;;;;x
+c_korcari_wilds4c_adj;Korcari Wilds4Cian;;Korcari Wilds4Cer;;;;;;;;;;;x
+c_korcari_wilds4d;Korcari Wilds4D;Korcari Wilds4D;Korcari Wilds4D;;Korcari Wilds4D;;;;;;;;;x
+c_korcari_wilds4d_adj;Korcari Wilds4Dian;;Korcari Wilds4Der;;;;;;;;;;;x
+c_korhan;Korhan;Korhan;Korhan;;Korhan;;;;;;;;;x
+c_korhan_adj;Korhanian;;korhaner;;;;;;;;;;;x
+c_koru;Koru;Koru;Koru;;Koru;;;;;;;;;x
+c_koru_adj;Korian;;korer;;;;;;;;;;;x
+c_kul_baras;Kul Baras;Kul Baras;Kul Baras;;Kul Baras;;;;;;;;;x
+c_kul_baras_adj;Kul Barasian;;Kul Baraser;;;;;;;;;;;x
+c_kurtalan;Kurtalan;Kurtalan;Kurtalan;;Kurtalan;;;;;;;;;x
+c_kurtalan_adj;Kurtalanian;;kurtalaner;;;;;;;;;;;x
+c_laddia;Laddia;Laddia;Laddia;;Laddia;;;;;;;;;x
+c_laddia_adj;Laddian;;ladder;;;;;;;;;;;x
+c_laenwold;Laenwold;Laenwold;Laenwold;;Laenwold;;;;;;;;;x
+c_laenwold_adj;Laenwoldian;;laenwolder;;;;;;;;;;;x
+c_laidlaw;Laidlaw;Laidlaw;Laidlaw;;Laidlaw;;;;;;;;;x
+c_laidlaw_adj;Laidlawian;;laidlawer;;;;;;;;;;;x
+c_lana;Lana;Lana;Lana;;Lana;;;;;;;;;x
+c_lana_adj;Lanan;;laner;;;;;;;;;;;x
+c_lancre;Lancre;Lancre;Lancre;;Lancre;;;;;;;;;x
+c_lancre_adj;Lancrean;;lancrer;;;;;;;;;;;x
+c_lands_end;Land's end;Land's end;Land's end;;Land's end;;;;;;;;;x
+c_lands_end_adj;Land's endian;;Land's ender;;;;;;;;;;;x
+c_langehalsen;Langehalsen;Langehalsen;Langehalsen;;Langehalsen;;;;;;;;;x
+c_langehalsen_adj;Langehalsenian;;langehalsener;;;;;;;;;;;x
+c_langres;Langres;Langres;Langres;;Langres;;;;;;;;;x
+c_langres_adj;Langresian;;langreser;;;;;;;;;;;x
+c_laodamahos;Laodamahos;Laodamahos;Laodamahos;;Laodamahos;;;;;;;;;x
+c_laodamahos_adj;Laodamahosian;;laodamahoser;;;;;;;;;;;x
+c_lapoinon;Lapoinon;Lapoinon;Lapoinon;;Lapoinon;;;;;;;;;x
+c_lapoinon_adj;Lapoinonian;;lapoinoner;;;;;;;;;;;x
+c_lasouche;Lasouche;Lasouche;Lasouche;;Lasouche;;;;;;;;;x
+c_lasouche_adj;Lasouchean;;lasoucher;;;;;;;;;;;x
+c_last_watch;Last watch;Last watch;Last watch;;Last watch;;;;;;;;;x
+c_last_watch_adj;Last watchian;;Last watcher;;;;;;;;;;;x
+c_lathum;Lathum;Lathum;Lathum;;Lathum;;;;;;;;;x
+c_lathum_adj;Lathumian;;lathumer;;;;;;;;;;;x
+c_launcet;Launcet;Launcet;Launcet;;Launcet;;;;;;;;;x
+c_launcet_adj;Launcetian;;launceter;;;;;;;;;;;x
+c_lauro;Lauro;Lauro;Lauro;;Lauro;;;;;;;;;x
+c_lauro_adj;Laurian;;laurer;;;;;;;;;;;x
+c_laus;Laus;Laus;Laus;;Laus;;;;;;;;;x
+c_laus_adj;Lausian;;lauser;;;;;;;;;;;x
+c_laysh;Laysh;Laysh;Laysh;;Laysh;;;;;;;;;x
+c_laysh_adj;Layshian;;laysher;;;;;;;;;;;x
+c_lebenion;Lebenion;Lebenion;Lebenion;;Lebenion;;;;;;;;;x
+c_lebenion_adj;Lebenionian;;lebenioner;;;;;;;;;;;x
+c_lemux;Lemux;Lemux;Lemux;;Lemux;;;;;;;;;x
+c_lemux_adj;Lemuxian;;lemuxer;;;;;;;;;;;x
+c_lieuvin;Lieuvin;Lieuvin;Lieuvin;;Lieuvin;;;;;;;;;x
+c_lieuvin_adj;Lieuvinian;;lieuviner;;;;;;;;;;;x
+c_likha;Likha;Likha;Likha;;Likha;;;;;;;;;x
+c_likha_adj;Likhan;;likher;;;;;;;;;;;x
+c_limite;Limite;Limite;Limite;;Limite;;;;;;;;;x
+c_limite_adj;Limitean;;limiter;;;;;;;;;;;x
+c_limmock_valley;Limmock valley;Limmock valley;Limmock valley;;Limmock valley;;;;;;;;;x
+c_limmock_valley_adj;Limmock valleian;;Limmock valleer;;;;;;;;;;;x
+c_linhammar;Linhammar;Linhammar;Linhammar;;Linhammar;;;;;;;;;x
+c_linhammar_adj;Linhammarian;;linhammarer;;;;;;;;;;;x
+c_lith;Lith;Lith;Lith;;Lith;;;;;;;;;x
+c_lith_adj;Lithian;;lither;;;;;;;;;;;x
+c_little_llomeryn;Little Llomeryn;Little Llomeryn;Little Llomeryn;;Little Llomeryn;;;;;;;;;x
+c_little_llomeryn_adj;Little Llomerynian;;Little Llomeryner;;;;;;;;;;;x
+c_livradois;Livradois;Livradois;Livradois;;Livradois;;;;;;;;;x
+c_livradois_adj;Livradoisian;;livradoiser;;;;;;;;;;;x
+c_llomeryn;Llomeryn;Llomeryn;Llomeryn;;Llomeryn;;;;;;;;;x
+c_llomeryn_adj;Llomerynian;;llomeryner;;;;;;;;;;;x
+c_loggerswold;Loggerswold;Loggerswold;Loggerswold;;Loggerswold;;;;;;;;;x
+c_loggerswold_adj;Loggerswoldian;;loggerswolder;;;;;;;;;;;x
+c_loilinen;Loilinen;Loilinen;Loilinen;;Loilinen;;;;;;;;;x
+c_loilinen_adj;Loilinenian;;loilinener;;;;;;;;;;;x
+c_lostwithel;Lostwithel;Lostwithel;Lostwithel;;Lostwithel;;;;;;;;;x
+c_lostwithel_adj;Lostwithelian;;lostwitheler;;;;;;;;;;;x
+c_lothering;Lothering;Lothering;Lothering;;Lothering;;;;;;;;;x
+c_lothering_adj;Lotheringian;;lotheringer;;;;;;;;;;;x
+c_lowerstead;Lowerstead;Lowerstead;Lowerstead;;Lowerstead;;;;;;;;;x
+c_lowerstead_adj;Lowersteadian;;lowersteader;;;;;;;;;;;x
+c_lowmount;Lowmount;Lowmount;Lowmount;;Lowmount;;;;;;;;;x
+c_lowmount_adj;Lowmountian;;lowmounter;;;;;;;;;;;x
+c_ludelburg;Ludelburg;Ludelburg;Ludelburg;;Ludelburg;;;;;;;;;x
+c_ludelburg_adj;Ludelburgian;;ludelburger;;;;;;;;;;;x
+c_lugo;Lugo;Lugo;Lugo;;Lugo;;;;;;;;;x
+c_lugo_adj;Lugian;;luger;;;;;;;;;;;x
+c_lussard;Lussard;Lussard;Lussard;;Lussard;;;;;;;;;x
+c_lussard_adj;Lussardian;;lussarder;;;;;;;;;;;x
+c_lydes;Lydes;Lydes;Lydes;;Lydes;;;;;;;;;x
+c_lydes_adj;Lydesian;;lydeser;;;;;;;;;;;x
+c_maconnais;Maconnais;Maconnais;Maconnais;;Maconnais;;;;;;;;;x
+c_maconnais_adj;Maconnaisian;;maconnaiser;;;;;;;;;;;x
+c_majestic_covert;Majestic Covert;Majestic Covert;Majestic Covert;;Majestic Covert;;;;;;;;;x
+c_majestic_covert_adj;Majestic Covertian;;Majestic Coverter;;;;;;;;;;;x
+c_malcellin;Malcellin;Malcellin;Malcellin;;Malcellin;;;;;;;;;x
+c_malcellin_adj;Malcellinian;;malcelliner;;;;;;;;;;;x
+c_malouin;Malouin;Malouin;Malouin;;Malouin;;;;;;;;;x
+c_malouin_adj;Malouinian;;malouiner;;;;;;;;;;;x
+c_manstad;Manstad;Manstad;Manstad;;Manstad;;;;;;;;;x
+c_manstad_adj;Manstadian;;manstader;;;;;;;;;;;x
+c_manta;Manta;Manta;Manta;;Manta;;;;;;;;;x
+c_manta_adj;Mantan;;manter;;;;;;;;;;;x
+c_mantonesos;Mantonesos;Mantonesos;Mantonesos;;Mantonesos;;;;;;;;;x
+c_mantonesos_adj;Mantonesosian;;mantonesoser;;;;;;;;;;;x
+c_marais;Marais;Marais;Marais;;Marais;;;;;;;;;x
+c_marais_adj;Maraisian;;maraiser;;;;;;;;;;;x
+c_marcaria;Marcaria;Marcaria;Marcaria;;Marcaria;;;;;;;;;x
+c_marcaria_adj;Marcarian;;marcarer;;;;;;;;;;;x
+c_markham;Markham;Markham;Markham;;Markham;;;;;;;;;x
+c_markham_adj;Markhamian;;markhamer;;;;;;;;;;;x
+c_markhama;MarkhamA;MarkhamA;MarkhamA;;MarkhamA;;;;;;;;;x
+c_markhama_adj;MarkhamAian;;markhamer;;;;;;;;;;;x
+c_markhamb;MarkhamB;MarkhamB;MarkhamB;;MarkhamB;;;;;;;;;x
+c_markhamb_adj;MarkhamBian;;markhamber;;;;;;;;;;;x
+c_markhamc;MarkhamC;MarkhamC;MarkhamC;;MarkhamC;;;;;;;;;x
+c_markhamc_adj;MarkhamCian;;markhamcer;;;;;;;;;;;x
+c_markhamd;MarkhamD;MarkhamD;MarkhamD;;MarkhamD;;;;;;;;;x
+c_markhamd_adj;MarkhamDian;;markhamder;;;;;;;;;;;x
+c_marnas_pell;Marnas Pell;Marnas Pell;Marnas Pell;;Marnas Pell;;;;;;;;;x
+c_marnas_pell_adj;Marnas Pellian;;Marnas Peller;;;;;;;;;;;x
+c_marothius;Marothius;Marothius;Marothius;;Marothius;;;;;;;;;x
+c_marothius_adj;Marothiusian;;marothiuser;;;;;;;;;;;x
+c_martone;Martone;Martone;Martone;;Martone;;;;;;;;;x
+c_martone_adj;Martonean;;martoner;;;;;;;;;;;x
+c_maubeuge;Maubeuge;Maubeuge;Maubeuge;;Maubeuge;;;;;;;;;x
+c_maubeuge_adj;Maubeugean;;maubeuger;;;;;;;;;;;x
+c_medon;Medon;Medon;Medon;;Medon;;;;;;;;;x
+c_medon_adj;Medonian;;medoner;;;;;;;;;;;x
+c_mellun;Mellun;Mellun;Mellun;;Mellun;;;;;;;;;x
+c_mellun_adj;Mellunian;;melluner;;;;;;;;;;;x
+c_minanter_hinterland;Minanter hinterland;Minanter hinterland;Minanter hinterland;;Minanter hinterland;;;;;;;;;x
+c_minanter_hinterland_adj;Minanter hinterlandian;;Minanter hinterlander;;;;;;;;;;;x
+c_minanter_hinterlanda;Minanter hinterlandA;Minanter hinterlandA;Minanter hinterlandA;;Minanter hinterlandA;;;;;;;;;x
+c_minanter_hinterlanda_adj;Minanter hinterlandAian;;Minanter hinterlandAer;;;;;;;;;;;x
+c_minanter_hinterlandb;Minanter hinterlandB;Minanter hinterlandB;Minanter hinterlandB;;Minanter hinterlandB;;;;;;;;;x
+c_minanter_hinterlandb_adj;Minanter hinterlandBian;;Minanter hinterlandBer;;;;;;;;;;;x
+c_minanter_hinterlandc;Minanter hinterlandC;Minanter hinterlandC;Minanter hinterlandC;;Minanter hinterlandC;;;;;;;;;x
+c_minanter_hinterlandc_adj;Minanter hinterlandCian;;Minanter hinterlandCer;;;;;;;;;;;x
+c_minanter_plains;Minanter plains;Minanter plains;Minanter plains;;Minanter plains;;;;;;;;;x
+c_minanter_plains_adj;Minanter plainsian;;Minanter plainser;;;;;;;;;;;x
+c_minanter_plainsa;Minanter plainsA;Minanter plainsA;Minanter plainsA;;Minanter plainsA;;;;;;;;;x
+c_minanter_plainsa_adj;Minanter plainsAian;;Minanter plainsAer;;;;;;;;;;;x
+c_minanter_plainsb;Minanter plainsB;Minanter plainsB;Minanter plainsB;;Minanter plainsB;;;;;;;;;x
+c_minanter_plainsb_adj;Minanter plainsBian;;Minanter plainsBer;;;;;;;;;;;x
+c_minanter_plainsc;Minanter plainsC;Minanter plainsC;Minanter plainsC;;Minanter plainsC;;;;;;;;;x
+c_minanter_plainsc_adj;Minanter plainsCian;;Minanter plainsCer;;;;;;;;;;;x
+c_minis;Minis;Minis;Minis;;Minis;;;;;;;;;x
+c_minis_adj;Minisian;;miniser;;;;;;;;;;;x
+c_minrathous;Minrathous;Minrathous;Minrathous;;Minrathous;;;;;;;;;x
+c_minrathous_adj;Minrathousian;;minrathouser;;;;;;;;;;;x
+c_minrathous_embassy;Minrathous embassy;Minrathous embassy;Minrathous embassy;;Minrathous embassy;;;;;;;;;x
+c_minrathous_embassy_adj;Minrathous embassian;;Minrathous embasser;;;;;;;;;;;x
+c_moenum;Moenum;Moenum;Moenum;;Moenum;;;;;;;;;x
+c_moenum_adj;Moenumian;;moenumer;;;;;;;;;;;x
+c_montbelliard;Montbelliard;Montbelliard;Montbelliard;;Montbelliard;;;;;;;;;x
+c_montbelliard_adj;Montbelliardian;;montbelliarder;;;;;;;;;;;x
+c_montchauvet;Montchauvet;Montchauvet;Montchauvet;;Montchauvet;;;;;;;;;x
+c_montchauvet_adj;Montchauvetian;;montchauveter;;;;;;;;;;;x
+c_montesilvano;Montesilvano;Montesilvano;Montesilvano;;Montesilvano;;;;;;;;;x
+c_montesilvano_adj;Montesilvanian;;montesilvaner;;;;;;;;;;;x
+c_montfort;Montfort;Montfort;Montfort;;Montfort;;;;;;;;;x
+c_montfort_adj;Montfortian;;montforter;;;;;;;;;;;x
+c_montlaures;Montlaures;Montlaures;Montlaures;;Montlaures;;;;;;;;;x
+c_montlaures_adj;Montlauresian;;montlaureser;;;;;;;;;;;x
+c_montsimmard;Montsimmard;Montsimmard;Montsimmard;;Montsimmard;;;;;;;;;x
+c_montsimmard_adj;Montsimmardian;;montsimmarder;;;;;;;;;;;x
+c_morrac;Morrac;Morrac;Morrac;;Morrac;;;;;;;;;x
+c_morrac_adj;Morracian;;morracer;;;;;;;;;;;x
+c_morreau;Morreau;Morreau;Morreau;;Morreau;;;;;;;;;x
+c_morreau_adj;Morrian;;morrer;;;;;;;;;;;x
+c_mourier;Mourier;Mourier;Mourier;;Mourier;;;;;;;;;x
+c_mourier_adj;Mourierian;;mourierer;;;;;;;;;;;x
+c_myracus;Myracus;Myracus;Myracus;;Myracus;;;;;;;;;x
+c_myracus_adj;Myracusian;;myracuser;;;;;;;;;;;x
+c_naam;Naam;Naam;Naam;;Naam;;;;;;;;;x
+c_naam_adj;Naamian;;naamer;;;;;;;;;;;x
+c_nahilan;Nahilan;Nahilan;Nahilan;;Nahilan;;;;;;;;;x
+c_nahilan_adj;Nahilanian;;nahilaner;;;;;;;;;;;x
+c_nahim;Nahim;Nahim;Nahim;;Nahim;;;;;;;;;x
+c_nahim_adj;Nahimian;;nahimer;;;;;;;;;;;x
+c_naso;Naso;Naso;Naso;;Naso;;;;;;;;;x
+c_naso_adj;Nasian;;naser;;;;;;;;;;;x
+c_nateia;Nateia;Nateia;Nateia;;Nateia;;;;;;;;;x
+c_nateia_adj;Nateian;;nater;;;;;;;;;;;x
+c_neapeselis;Neapeselis;Neapeselis;Neapeselis;;Neapeselis;;;;;;;;;x
+c_neapeselis_adj;Neapeselisian;;neapeseliser;;;;;;;;;;;x
+c_neir;Neir;Neir;Neir;;Neir;;;;;;;;;x
+c_neir_adj;Neirian;;neirer;;;;;;;;;;;x
+c_neres;Neres;Neres;Neres;;Neres;;;;;;;;;x
+c_neres_adj;Neresian;;nereser;;;;;;;;;;;x
+c_neromenian;Neromenian;Neromenian;Neromenian;;Neromenian;;;;;;;;;x
+c_neromenian_adj;Neromenianian;;neromenianer;;;;;;;;;;;x
+c_neromenian_outpost;Neromenian outpost;Neromenian outpost;Neromenian outpost;;Neromenian outpost;;;;;;;;;x
+c_neromenian_outpost_adj;Neromenian outpostian;;Neromenian outposter;;;;;;;;;;;x
+c_nessum;Nessum;Nessum;Nessum;;Nessum;;;;;;;;;x
+c_nessum_adj;Nessumian;;nessumer;;;;;;;;;;;x
+c_nevarra;Nevarra;Nevarra;Nevarra;;Nevarra;;;;;;;;;x
+c_nevarra_adj;Nevarran;;nevarrer;;;;;;;;;;;x
+c_nevassa;Nevassa;Nevassa;Nevassa;;Nevassa;;;;;;;;;x
+c_nevassa_adj;Nevassan;;nevasser;;;;;;;;;;;x
+c_nirestias;Nirestias;Nirestias;Nirestias;;Nirestias;;;;;;;;;x
+c_nirestias_adj;Nirestiasian;;nirestiaser;;;;;;;;;;;x
+c_nisse;Nisse;Nisse;Nisse;;Nisse;;;;;;;;;x
+c_nisse_adj;Nissean;;nisser;;;;;;;;;;;x
+c_norba;Norba;Norba;Norba;;Norba;;;;;;;;;x
+c_norba_adj;Norban;;norber;;;;;;;;;;;x
+c_nordbottom;Nordbottom;Nordbottom;Nordbottom;;Nordbottom;;;;;;;;;x
+c_nordbottom_adj;Nordbottomian;;nordbottomer;;;;;;;;;;;x
+c_nosh;Nosh;Nosh;Nosh;;Nosh;;;;;;;;;x
+c_nosh_adj;Noshian;;nosher;;;;;;;;;;;x
+c_novodunum;Novodunum;Novodunum;Novodunum;;Novodunum;;;;;;;;;x
+c_novodunum_adj;Novodunumian;;novodunumer;;;;;;;;;;;x
+c_noyon;Noyon;Noyon;Noyon;;Noyon;;;;;;;;;x
+c_noyon_adj;Noyonian;;noyoner;;;;;;;;;;;x
+c_nuth;Nuth;Nuth;Nuth;;Nuth;;;;;;;;;x
+c_nuth_adj;Nuthian;;nuther;;;;;;;;;;;x
+c_oaktree_woods;Oaktree woods;Oaktree woods;Oaktree woods;;Oaktree woods;;;;;;;;;x
+c_oaktree_woods_adj;Oaktree woodsian;;Oaktree woodser;;;;;;;;;;;x
+c_ocria;Ocria;Ocria;Ocria;;Ocria;;;;;;;;;x
+c_ocria_adj;Ocrian;;ocrer;;;;;;;;;;;x
+c_octodurus;Octodurus;Octodurus;Octodurus;;Octodurus;;;;;;;;;x
+c_octodurus_adj;Octodurusian;;octoduruser;;;;;;;;;;;x
+c_odenhorn;Odenhorn;Odenhorn;Odenhorn;;Odenhorn;;;;;;;;;x
+c_odenhorn_adj;Odenhornian;;odenhorner;;;;;;;;;;;x
+c_old_oak_forest;Old Oak Forest;Old Oak Forest;Old Oak Forest;;Old Oak Forest;;;;;;;;;x
+c_old_oak_forest_adj;Old Oak Forestian;;Old Oak Forester;;;;;;;;;;;x
+c_oldehove;Oldehove;Oldehove;Oldehove;;Oldehove;;;;;;;;;x
+c_oldehove_adj;Oldehovean;;oldehover;;;;;;;;;;;x
+c_olevano;Olevano;Olevano;Olevano;;Olevano;;;;;;;;;x
+c_olevano_adj;Olevanian;;olevaner;;;;;;;;;;;x
+c_olsis;Olsis;Olsis;Olsis;;Olsis;;;;;;;;;x
+c_olsis_adj;Olsisian;;olsiser;;;;;;;;;;;x
+c_onterre;Onterre;Onterre;Onterre;;Onterre;;;;;;;;;x
+c_onterre_adj;Onterrean;;onterrer;;;;;;;;;;;x
+c_orani;Orani;Orani;Orani;;Orani;;;;;;;;;x
+c_orani_adj;Oranian;;oraner;;;;;;;;;;;x
+c_oretano;Oretano;Oretano;Oretano;;Oretano;;;;;;;;;x
+c_oretano_adj;Oretanian;;oretaner;;;;;;;;;;;x
+c_oriae;Oriae;Oriae;Oriae;;Oriae;;;;;;;;;x
+c_oriae_adj;Oriaean;;orer;;;;;;;;;;;x
+c_ortaklar;Ortaklar;Ortaklar;Ortaklar;;Ortaklar;;;;;;;;;x
+c_ortaklar_adj;Ortaklarian;;ortaklarer;;;;;;;;;;;x
+c_orthan_thaig;Orthan thaig;Orthan thaig;Orthan thaig;;Orthan thaig;;;;;;;;;x
+c_orthan_thaig_adj;Orthan thaigian;;Orthan thaiger;;;;;;;;;;;x
+c_orzammar;Orzammar;Orzammar;Orzammar;;Orzammar;;;;;;;;;x
+c_orzammar_adj;Orzammarian;;orzammarer;;;;;;;;;;;x
+c_ostagar;Ostagar;Ostagar;Ostagar;;Ostagar;;;;;;;;;x
+c_ostagar_adj;Ostagarian;;ostagarer;;;;;;;;;;;x
+c_ostwick;Ostwick;Ostwick;Ostwick;;Ostwick;;;;;;;;;x
+c_ostwick_adj;Ostwickian;;ostwicker;;;;;;;;;;;x
+c_ostwicka;OstwickA;OstwickA;OstwickA;;OstwickA;;;;;;;;;x
+c_ostwicka_adj;OstwickAian;;ostwicker;;;;;;;;;;;x
+c_ostwickb;OstwickB;OstwickB;OstwickB;;OstwickB;;;;;;;;;x
+c_ostwickb_adj;OstwickBian;;ostwickber;;;;;;;;;;;x
+c_ostwickc;OstwickC;OstwickC;OstwickC;;OstwickC;;;;;;;;;x
+c_ostwickc_adj;OstwickCian;;ostwickcer;;;;;;;;;;;x
+c_oswin;Oswin;Oswin;Oswin;;Oswin;;;;;;;;;x
+c_oswin_adj;Oswinian;;oswiner;;;;;;;;;;;x
+c_par_vollen;Par Vollen;Par Vollen;Par Vollen;;Par Vollen;;;;;;;;;x
+c_par_vollen_adj;Par Vollenian;;Par Vollener;;;;;;;;;;;x
+c_parendos;Parendos;Parendos;Parendos;;Parendos;;;;;;;;;x
+c_parendos_adj;Parendosian;;parendoser;;;;;;;;;;;x
+c_pareto;Pareto;Pareto;Pareto;;Pareto;;;;;;;;;x
+c_pareto_adj;Paretian;;pareter;;;;;;;;;;;x
+c_passage_wood;Passage wood;Passage wood;Passage wood;;Passage wood;;;;;;;;;x
+c_passage_wood_adj;Passage woodian;;Passage wooder;;;;;;;;;;;x
+c_pasus;Pasus;Pasus;Pasus;;Pasus;;;;;;;;;x
+c_pasus_adj;Pasusian;;pasuser;;;;;;;;;;;x
+c_patridrus;Patridrus;Patridrus;Patridrus;;Patridrus;;;;;;;;;x
+c_patridrus_adj;Patridrusian;;patridruser;;;;;;;;;;;x
+c_pencoed;Pencoed;Pencoed;Pencoed;;Pencoed;;;;;;;;;x
+c_pencoed_adj;Pencoedian;;pencoeder;;;;;;;;;;;x
+c_perendale;Perendale;Perendale;Perendale;;Perendale;;;;;;;;;x
+c_perendale_adj;Perendalean;;perendaler;;;;;;;;;;;x
+c_perivantium;Perivantium;Perivantium;Perivantium;;Perivantium;;;;;;;;;x
+c_perivantium_adj;Perivantiumian;;perivantiumer;;;;;;;;;;;x
+c_pertek;Pertek;Pertek;Pertek;;Pertek;;;;;;;;;x
+c_pertek_adj;Pertekian;;perteker;;;;;;;;;;;x
+c_perthois;Perthois;Perthois;Perthois;;Perthois;;;;;;;;;x
+c_perthois_adj;Perthoisian;;perthoiser;;;;;;;;;;;x
+c_petit_foret;Petit Foret;Petit Foret;Petit Foret;;Petit Foret;;;;;;;;;x
+c_petit_foret_adj;Petit Foretian;;Petit Foreter;;;;;;;;;;;x
+c_petsilene;Petsilene;Petsilene;Petsilene;;Petsilene;;;;;;;;;x
+c_petsilene_adj;Petsilenean;;petsilener;;;;;;;;;;;x
+c_phaninth;Phaninth;Phaninth;Phaninth;;Phaninth;;;;;;;;;x
+c_phaninth_adj;Phaninthian;;phaninther;;;;;;;;;;;x
+c_phileselis;Phileselis;Phileselis;Phileselis;;Phileselis;;;;;;;;;x
+c_phileselis_adj;Phileselisian;;phileseliser;;;;;;;;;;;x
+c_pierremande;Pierremande;Pierremande;Pierremande;;Pierremande;;;;;;;;;x
+c_pierremande_adj;Pierremandean;;pierremander;;;;;;;;;;;x
+c_piershil;Piershil;Piershil;Piershil;;Piershil;;;;;;;;;x
+c_piershil_adj;Piershilian;;piershiler;;;;;;;;;;;x
+c_pinarhisar;Pinarhisar;Pinarhisar;Pinarhisar;;Pinarhisar;;;;;;;;;x
+c_pinarhisar_adj;Pinarhisarian;;pinarhisarer;;;;;;;;;;;x
+c_planascene_forest;Planascene forest;Planascene forest;Planascene forest;;Planascene forest;;;;;;;;;x
+c_planascene_forest_adj;Planascene forestian;;Planascene forester;;;;;;;;;;;x
+c_planascene_foresta;Planascene forestA;Planascene forestA;Planascene forestA;;Planascene forestA;;;;;;;;;x
+c_planascene_foresta_adj;Planascene forestAian;;Planascene forestAer;;;;;;;;;;;x
+c_planascene_forestb;Planascene forestB;Planascene forestB;Planascene forestB;;Planascene forestB;;;;;;;;;x
+c_planascene_forestb_adj;Planascene forestBian;;Planascene forestBer;;;;;;;;;;;x
+c_planascene_forestc;Planascene forestC;Planascene forestC;Planascene forestC;;Planascene forestC;;;;;;;;;x
+c_planascene_forestc_adj;Planascene forestCian;;Planascene forestCer;;;;;;;;;;;x
+c_pleasant_row_orchard;Pleasant Row Orchard;Pleasant Row Orchard;Pleasant Row Orchard;;Pleasant Row Orchard;;;;;;;;;x
+c_pleasant_row_orchard_adj;Pleasant Row Orchardian;;Pleasant Row Orcharder;;;;;;;;;;;x
+c_prehls;Prehls;Prehls;Prehls;;Prehls;;;;;;;;;x
+c_prehls_adj;Prehlsian;;prehlser;;;;;;;;;;;x
+c_prienegion;Prienegion;Prienegion;Prienegion;;Prienegion;;;;;;;;;x
+c_prienegion_adj;Prienegionian;;prienegioner;;;;;;;;;;;x
+c_priveal_thaig;Priveal thaig;Priveal thaig;Priveal thaig;;Priveal thaig;;;;;;;;;x
+c_priveal_thaig_adj;Priveal thaigian;;Priveal thaiger;;;;;;;;;;;x
+c_pydnegea;Pydnegea;Pydnegea;Pydnegea;;Pydnegea;;;;;;;;;x
+c_pydnegea_adj;Pydnegean;;pydneger;;;;;;;;;;;x
+c_qarinus;Qarinus;Qarinus;Qarinus;;Qarinus;;;;;;;;;x
+c_qarinus_adj;Qarinusian;;qarinuser;;;;;;;;;;;x
+c_quarinus_outpost;Quarinus outpost;Quarinus outpost;Quarinus outpost;;Quarinus outpost;;;;;;;;;x
+c_quarinus_outpost_adj;Quarinus outpostian;;Quarinus outposter;;;;;;;;;;;x
+c_quercy;Quercy;Quercy;Quercy;;Quercy;;;;;;;;;x
+c_quercy_adj;Quercian;;quercer;;;;;;;;;;;x
+c_quiet_plain;Quiet Plain;Quiet Plain;Quiet Plain;;Quiet Plain;;;;;;;;;x
+c_quiet_plain_adj;Quiet Plainian;;Quiet Plainer;;;;;;;;;;;x
+c_qunandar;Qunandar;Qunandar;Qunandar;;Qunandar;;;;;;;;;x
+c_qunandar_adj;Qunandarian;;qunandarer;;;;;;;;;;;x
+c_qundalon;Qundalon;Qundalon;Qundalon;;Qundalon;;;;;;;;;x
+c_qundalon_adj;Qundalonian;;qundaloner;;;;;;;;;;;x
+c_rahey;Rahey;Rahey;Rahey;;Rahey;;;;;;;;;x
+c_rahey_adj;Raheian;;raheer;;;;;;;;;;;x
+c_ranesfere;Ranesfere;Ranesfere;Ranesfere;;Ranesfere;;;;;;;;;x
+c_ranesfere_adj;Ranesferean;;ranesferer;;;;;;;;;;;x
+c_ravens_keep;Raven's keep;Raven's keep;Raven's keep;;Raven's keep;;;;;;;;;x
+c_ravens_keep_adj;Raven's keepian;;Raven's keeper;;;;;;;;;;;x
+c_ravens_keepb;Raven's keepB;Raven's keepB;Raven's keepB;;Raven's keepB;;;;;;;;;x
+c_ravens_keepb_adj;Raven's keepBian;;Raven's keepBer;;;;;;;;;;;x
+c_ravens_keepc;Raven's keepC;Raven's keepC;Raven's keepC;;Raven's keepC;;;;;;;;;x
+c_ravens_keepc_adj;Raven's keepCian;;Raven's keepCer;;;;;;;;;;;x
+c_ravensway;Ravensway;Ravensway;Ravensway;;Ravensway;;;;;;;;;x
+c_ravensway_adj;Ravenswaian;;ravenswaer;;;;;;;;;;;x
+c_reagal_snail_woods;Reagal Snail Woods;Reagal Snail Woods;Reagal Snail Woods;;Reagal Snail Woods;;;;;;;;;x
+c_reagal_snail_woods_adj;Reagal Snail Woodsian;;Reagal Snail Woodser;;;;;;;;;;;x
+c_redcliffe;Redcliffe;Redcliffe;Redcliffe;;Redcliffe;;;;;;;;;x
+c_redcliffe_adj;Redcliffean;;redcliffer;;;;;;;;;;;x
+c_redhold;Redhold;Redhold;Redhold;;Redhold;;;;;;;;;x
+c_redhold_adj;Redholdian;;redholder;;;;;;;;;;;x
+c_redwood_mountain_grove;Redwood Mountain Grove;Redwood Mountain Grove;Redwood Mountain Grove;;Redwood Mountain Grove;;;;;;;;;x
+c_redwood_mountain_grove_adj;Redwood Mountain Grovean;;Redwood Mountain Grover;;;;;;;;;;;x
+c_revann_thaig;Revann thaig;Revann thaig;Revann thaig;;Revann thaig;;;;;;;;;x
+c_revann_thaig_adj;Revann thaigian;;Revann thaiger;;;;;;;;;;;x
+c_revermont;Revermont;Revermont;Revermont;;Revermont;;;;;;;;;x
+c_revermont_adj;Revermontian;;revermonter;;;;;;;;;;;x
+c_rhaedestus;Rhaedestus;Rhaedestus;Rhaedestus;;Rhaedestus;;;;;;;;;x
+c_rhaedestus_adj;Rhaedestusian;;rhaedestuser;;;;;;;;;;;x
+c_rheden;Rheden;Rheden;Rheden;;Rheden;;;;;;;;;x
+c_rheden_adj;Rhedenian;;rhedener;;;;;;;;;;;x
+c_rhegodosia;Rhegodosia;Rhegodosia;Rhegodosia;;Rhegodosia;;;;;;;;;x
+c_rhegodosia_adj;Rhegodosian;;rhegodoser;;;;;;;;;;;x
+c_rhyl;Rhyl;Rhyl;Rhyl;;Rhyl;;;;;;;;;x
+c_rhyl_adj;Rhylian;;rhyler;;;;;;;;;;;x
+c_rialto;Rialto;Rialto;Rialto;;Rialto;;;;;;;;;x
+c_rialto_adj;Rialtian;;rialter;;;;;;;;;;;x
+c_riel;Riel;Riel;Riel;;Riel;;;;;;;;;x
+c_riel_adj;Rielian;;rieler;;;;;;;;;;;x
+c_rigel;Rigel;Rigel;Rigel;;Rigel;;;;;;;;;x
+c_rigel_adj;Rigelian;;rigeler;;;;;;;;;;;x
+c_riverbench;Riverbench;Riverbench;Riverbench;;Riverbench;;;;;;;;;x
+c_riverbench_adj;Riverbenchian;;riverbencher;;;;;;;;;;;x
+c_rivertree;Rivertree;Rivertree;Rivertree;;Rivertree;;;;;;;;;x
+c_rivertree_adj;Rivertreean;;rivertrer;;;;;;;;;;;x
+c_roanne;Roanne;Roanne;Roanne;;Roanne;;;;;;;;;x
+c_roanne_adj;Roannean;;roanner;;;;;;;;;;;x
+c_rookewood;Rookewood;Rookewood;Rookewood;;Rookewood;;;;;;;;;x
+c_rookewood_adj;Rookewoodian;;rookewooder;;;;;;;;;;;x
+c_rooth;Rooth;Rooth;Rooth;;Rooth;;;;;;;;;x
+c_rooth_adj;Roothian;;roother;;;;;;;;;;;x
+c_rossleigh;Rossleigh;Rossleigh;Rossleigh;;Rossleigh;;;;;;;;;x
+c_rossleigh_adj;Rossleighian;;rossleigher;;;;;;;;;;;x
+c_rossum;Rossum;Rossum;Rossum;;Rossum;;;;;;;;;x
+c_rossum_adj;Rossumian;;rossumer;;;;;;;;;;;x
+c_rouergue;Rouergue;Rouergue;Rouergue;;Rouergue;;;;;;;;;x
+c_rouergue_adj;Rouerguean;;rouerger;;;;;;;;;;;x
+c_rouffignac;Rouffignac;Rouffignac;Rouffignac;;Rouffignac;;;;;;;;;x
+c_rouffignac_adj;Rouffignacian;;rouffignacer;;;;;;;;;;;x
+c_rougemontier;Rougemontier;Rougemontier;Rougemontier;;Rougemontier;;;;;;;;;x
+c_rougemontier_adj;Rougemontierian;;rougemontierer;;;;;;;;;;;x
+c_ruristhal;Ruristhal;Ruristhal;Ruristhal;;Ruristhal;;;;;;;;;x
+c_ruristhal_adj;Ruristhalian;;ruristhaler;;;;;;;;;;;x
+c_ryswold_valley;Ryswold valley;Ryswold valley;Ryswold valley;;Ryswold valley;;;;;;;;;x
+c_ryswold_valley_adj;Ryswold valleian;;Ryswold valleer;;;;;;;;;;;x
+c_sablissent;Sablissent;Sablissent;Sablissent;;Sablissent;;;;;;;;;x
+c_sablissent_adj;Sablissentian;;sablissenter;;;;;;;;;;;x
+c_sahrnia;Sahrnia;Sahrnia;Sahrnia;;Sahrnia;;;;;;;;;x
+c_sahrnia_adj;Sahrnian;;sahrner;;;;;;;;;;;x
+c_saintonge;Saintonge;Saintonge;Saintonge;;Saintonge;;;;;;;;;x
+c_saintonge_adj;Saintongean;;saintonger;;;;;;;;;;;x
+c_salares;Salares;Salares;Salares;;Salares;;;;;;;;;x
+c_salares_adj;Salaresian;;salareser;;;;;;;;;;;x
+c_salle;Salle;Salle;Salle;;Salle;;;;;;;;;x
+c_salle_adj;Sallean;;saller;;;;;;;;;;;x
+c_salmont;Salmont;Salmont;Salmont;;Salmont;;;;;;;;;x
+c_salmont_adj;Salmontian;;salmonter;;;;;;;;;;;x
+c_salympia;Salympia;Salympia;Salympia;;Salympia;;;;;;;;;x
+c_salympia_adj;Salympian;;salymper;;;;;;;;;;;x
+c_sancerois;Sancerois;Sancerois;Sancerois;;Sancerois;;;;;;;;;x
+c_sancerois_adj;Sanceroisian;;sanceroiser;;;;;;;;;;;x
+c_sandstone;Sandstone;Sandstone;Sandstone;;Sandstone;;;;;;;;;x
+c_sandstone_adj;Sandstonean;;sandstoner;;;;;;;;;;;x
+c_santerre;Santerre;Santerre;Santerre;;Santerre;;;;;;;;;x
+c_santerre_adj;Santerrean;;santerrer;;;;;;;;;;;x
+c_sarilar;Sarilar;Sarilar;Sarilar;;Sarilar;;;;;;;;;x
+c_sarilar_adj;Sarilarian;;sarilarer;;;;;;;;;;;x
+c_scheieshain;Scheieshain;Scheieshain;Scheieshain;;Scheieshain;;;;;;;;;x
+c_scheieshain_adj;Scheieshainian;;scheieshainer;;;;;;;;;;;x
+c_schleigstal;Schleigstal;Schleigstal;Schleigstal;;Schleigstal;;;;;;;;;x
+c_schleigstal_adj;Schleigstalian;;schleigstaler;;;;;;;;;;;x
+c_scidrasus;Scidrasus;Scidrasus;Scidrasus;;Scidrasus;;;;;;;;;x
+c_scidrasus_adj;Scidrasusian;;scidrasuser;;;;;;;;;;;x
+c_seaside;Seaside;Seaside;Seaside;;Seaside;;;;;;;;;x
+c_seaside_adj;Seasidean;;seasider;;;;;;;;;;;x
+c_seere;Seere;Seere;Seere;;Seere;;;;;;;;;x
+c_seere_adj;Seerean;;seerer;;;;;;;;;;;x
+c_seheron;Seheron;Seheron;Seheron;;Seheron;;;;;;;;;x
+c_seheron_adj;Seheronian;;seheroner;;;;;;;;;;;x
+c_seleny;Seleny;Seleny;Seleny;;Seleny;;;;;;;;;x
+c_seleny_adj;Selenian;;selener;;;;;;;;;;;x
+c_semeusis;Semeusis;Semeusis;Semeusis;;Semeusis;;;;;;;;;x
+c_semeusis_adj;Semeusisian;;semeusiser;;;;;;;;;;;x
+c_senlis;Senlis;Senlis;Senlis;;Senlis;;;;;;;;;x
+c_senlis_adj;Senlisian;;senliser;;;;;;;;;;;x
+c_serault;Serault;Serault;Serault;;Serault;;;;;;;;;x
+c_serault_adj;Seraultian;;seraulter;;;;;;;;;;;x
+c_serina;Serina;Serina;Serina;;Serina;;;;;;;;;x
+c_serina_adj;Serinan;;seriner;;;;;;;;;;;x
+c_serrant;Serrant;Serrant;Serrant;;Serrant;;;;;;;;;x
+c_serrant_adj;Serrantian;;serranter;;;;;;;;;;;x
+c_seuthale;Seuthale;Seuthale;Seuthale;;Seuthale;;;;;;;;;x
+c_seuthale_adj;Seuthalean;;seuthaler;;;;;;;;;;;x
+c_seuthesos;Seuthesos;Seuthesos;Seuthesos;;Seuthesos;;;;;;;;;x
+c_seuthesos_adj;Seuthesosian;;seuthesoser;;;;;;;;;;;x
+c_shallot;Shallot;Shallot;Shallot;;Shallot;;;;;;;;;x
+c_shallot_adj;Shallotian;;shalloter;;;;;;;;;;;x
+c_sharokovar;Sharokovar;Sharokovar;Sharokovar;;Sharokovar;;;;;;;;;x
+c_sharokovar_adj;Sharokovarian;;sharokovarer;;;;;;;;;;;x
+c_shipbane;Shipbane;Shipbane;Shipbane;;Shipbane;;;;;;;;;x
+c_shipbane_adj;Shipbanean;;shipbaner;;;;;;;;;;;x
+c_sicacus;Sicacus;Sicacus;Sicacus;;Sicacus;;;;;;;;;x
+c_sicacus_adj;Sicacusian;;sicacuser;;;;;;;;;;;x
+c_silesse;Silesse;Silesse;Silesse;;Silesse;;;;;;;;;x
+c_silesse_adj;Silessean;;silesser;;;;;;;;;;;x
+c_silvan_gardens;Silvan gardens;Silvan gardens;Silvan gardens;;Silvan gardens;;;;;;;;;x
+c_silvan_gardens_adj;Silvan gardensian;;Silvan gardenser;;;;;;;;;;;x
+c_silvan_haven;Silvan haven;Silvan haven;Silvan haven;;Silvan haven;;;;;;;;;x
+c_silvan_haven_adj;Silvan havenian;;Silvan havener;;;;;;;;;;;x
+c_silvans_rest;Silvan's rest;Silvan's rest;Silvan's rest;;Silvan's rest;;;;;;;;;x
+c_silvans_rest_adj;Silvan's restian;;Silvan's rester;;;;;;;;;;;x
+c_silvercrest;Silvercrest;Silvercrest;Silvercrest;;Silvercrest;;;;;;;;;x
+c_silvercrest_adj;Silvercrestian;;silvercrester;;;;;;;;;;;x
+c_skal;Skal;Skal;Skal;;Skal;;;;;;;;;x
+c_skal_adj;Skalian;;skaler;;;;;;;;;;;x
+c_skyhold;Skyhold;Skyhold;Skyhold;;Skyhold;;;;;;;;;x
+c_skyhold_adj;Skyholdian;;skyholder;;;;;;;;;;;x
+c_skyholda;SkyholdA;SkyholdA;SkyholdA;;SkyholdA;;;;;;;;;x
+c_skyholda_adj;SkyholdAian;;skyholder;;;;;;;;;;;x
+c_skyholdb;SkyholdB;SkyholdB;SkyholdB;;SkyholdB;;;;;;;;;x
+c_skyholdb_adj;SkyholdBian;;skyholdber;;;;;;;;;;;x
+c_skyholdc;SkyholdC;SkyholdC;SkyholdC;;SkyholdC;;;;;;;;;x
+c_skyholdc_adj;SkyholdCian;;skyholdcer;;;;;;;;;;;x
+c_skyholdd;SkyholdD;SkyholdD;SkyholdD;;SkyholdD;;;;;;;;;x
+c_skyholdd_adj;SkyholdDian;;skyholdder;;;;;;;;;;;x
+c_sleen;Sleen;Sleen;Sleen;;Sleen;;;;;;;;;x
+c_sleen_adj;Sleenian;;sleener;;;;;;;;;;;x
+c_sleepy_oak_covert;Sleepy Oak Covert;Sleepy Oak Covert;Sleepy Oak Covert;;Sleepy Oak Covert;;;;;;;;;x
+c_sleepy_oak_covert_adj;Sleepy Oak Covertian;;Sleepy Oak Coverter;;;;;;;;;;;x
+c_solas;Solas;Solas;Solas;;Solas;;;;;;;;;x
+c_solas_adj;Solasian;;solaser;;;;;;;;;;;x
+c_soliere;Soliere;Soliere;Soliere;;Soliere;;;;;;;;;x
+c_soliere_adj;Solierean;;solierer;;;;;;;;;;;x
+c_sothmere;Sothmere;Sothmere;Sothmere;;Sothmere;;;;;;;;;x
+c_sothmere_adj;Sothmerean;;sothmerer;;;;;;;;;;;x
+c_south_reach;South reach;South reach;South reach;;South reach;;;;;;;;;x
+c_south_reach_adj;South reachian;;South reacher;;;;;;;;;;;x
+c_southern_bannorn;Southern Bannorn;Southern Bannorn;Southern Bannorn;;Southern Bannorn;;;;;;;;;x
+c_southern_bannorn_adj;Southern Bannornian;;Southern Bannorner;;;;;;;;;;;x
+c_southern_point;Southern point;Southern point;Southern point;;Southern point;;;;;;;;;x
+c_southern_point_adj;Southern pointian;;Southern pointer;;;;;;;;;;;x
+c_southron_hold;Southron hold;Southron hold;Southron hold;;Southron hold;;;;;;;;;x
+c_southron_hold_adj;Southron holdian;;Southron holder;;;;;;;;;;;x
+c_southron_plains;Southron plains;Southron plains;Southron plains;;Southron plains;;;;;;;;;x
+c_southron_plains_adj;Southron plainsian;;Southron plainser;;;;;;;;;;;x
+c_southron_woods;Southron woods;Southron woods;Southron woods;;Southron woods;;;;;;;;;x
+c_southron_woods_adj;Southron woodsian;;Southron woodser;;;;;;;;;;;x
+c_spistelfeld;Spistelfeld;Spistelfeld;Spistelfeld;;Spistelfeld;;;;;;;;;x
+c_spistelfeld_adj;Spistelfeldian;;spistelfelder;;;;;;;;;;;x
+c_spochthagen;Spochthagen;Spochthagen;Spochthagen;;Spochthagen;;;;;;;;;x
+c_spochthagen_adj;Spochthagenian;;spochthagener;;;;;;;;;;;x
+c_sprannhatten;Sprannhatten;Sprannhatten;Sprannhatten;;Sprannhatten;;;;;;;;;x
+c_sprannhatten_adj;Sprannhattenian;;sprannhattener;;;;;;;;;;;x
+c_sputler;Sputler;Sputler;Sputler;;Sputler;;;;;;;;;x
+c_sputler_adj;Sputlerian;;sputlerer;;;;;;;;;;;x
+c_starkhaven;Starkhaven;Starkhaven;Starkhaven;;Starkhaven;;;;;;;;;x
+c_starkhaven_adj;Starkhavenian;;starkhavener;;;;;;;;;;;x
+c_starkhavena;StarkhavenA;StarkhavenA;StarkhavenA;;StarkhavenA;;;;;;;;;x
+c_starkhavena_adj;StarkhavenAian;;starkhavener;;;;;;;;;;;x
+c_starkhavenb;StarkhavenB;StarkhavenB;StarkhavenB;;StarkhavenB;;;;;;;;;x
+c_starkhavenb_adj;StarkhavenBian;;starkhavenber;;;;;;;;;;;x
+c_starkhavenc;StarkhavenC;StarkhavenC;StarkhavenC;;StarkhavenC;;;;;;;;;x
+c_starkhavenc_adj;StarkhavenCian;;starkhavencer;;;;;;;;;;;x
+c_starkhavend;StarkhavenD;StarkhavenD;StarkhavenD;;StarkhavenD;;;;;;;;;x
+c_starkhavend_adj;StarkhavenDian;;starkhavender;;;;;;;;;;;x
+c_starkhavene;StarkhavenE;StarkhavenE;StarkhavenE;;StarkhavenE;;;;;;;;;x
+c_starkhavene_adj;StarkhavenEian;;starkhavener;;;;;;;;;;;x
+c_stittershain;Stittershain;Stittershain;Stittershain;;Stittershain;;;;;;;;;x
+c_stittershain_adj;Stittershainian;;stittershainer;;;;;;;;;;;x
+c_stomgard;Stomgard;Stomgard;Stomgard;;Stomgard;;;;;;;;;x
+c_stomgard_adj;Stomgardian;;stomgarder;;;;;;;;;;;x
+c_stormhold;Stormhold;Stormhold;Stormhold;;Stormhold;;;;;;;;;x
+c_stormhold_adj;Stormholdian;;stormholder;;;;;;;;;;;x
+c_stormhold_2;Stormhold;Stormhold;Stormhold;;Stormhold;;;;;;;;;x
+c_stormhold_2_adj;Stormholdian;;stormholder;;;;;;;;;;;x
+c_stormhold_3;Stormhold;Stormhold;Stormhold;;Stormhold;;;;;;;;;x
+c_stormhold_3_adj;Stormholdian;;stormholder;;;;;;;;;;;x
+c_stratbach;Stratbach;Stratbach;Stratbach;;Stratbach;;;;;;;;;x
+c_stratbach_adj;Stratbachian;;stratbacher;;;;;;;;;;;x
+c_suderblugis;Suderblugis;Suderblugis;Suderblugis;;Suderblugis;;;;;;;;;x
+c_suderblugis_adj;Suderblugisian;;suderblugiser;;;;;;;;;;;x
+c_sulchers_pass;Sulcher's pass;Sulcher's pass;Sulcher's pass;;Sulcher's pass;;;;;;;;;x
+c_sulchers_pass_adj;Sulcher's passian;;Sulcher's passer;;;;;;;;;;;x
+c_sundarin;Sundarin;Sundarin;Sundarin;;Sundarin;;;;;;;;;x
+c_sundarin_adj;Sundarinian;;sundariner;;;;;;;;;;;x
+c_talgarth;Talgarth;Talgarth;Talgarth;;Talgarth;;;;;;;;;x
+c_talgarth_adj;Talgarthian;;talgarther;;;;;;;;;;;x
+c_tallo;Tallo;Tallo;Tallo;;Tallo;;;;;;;;;x
+c_tallo_adj;Tallian;;taller;;;;;;;;;;;x
+c_talvan;Talvan;Talvan;Talvan;;Talvan;;;;;;;;;x
+c_talvan_adj;Talvanian;;talvaner;;;;;;;;;;;x
+c_tantervale;Tantervale;Tantervale;Tantervale;;Tantervale;;;;;;;;;x
+c_tantervale_adj;Tantervalean;;tantervaler;;;;;;;;;;;x
+c_tantervaleb;TantervaleB;TantervaleB;TantervaleB;;TantervaleB;;;;;;;;;x
+c_tantervaleb_adj;TantervaleBian;;tantervaleber;;;;;;;;;;;x
+c_tantervalec;TantervaleC;TantervaleC;TantervaleC;;TantervaleC;;;;;;;;;x
+c_tantervalec_adj;TantervaleCian;;tantervalecer;;;;;;;;;;;x
+c_tantervaled;TantervaleD;TantervaleD;TantervaleD;;TantervaleD;;;;;;;;;x
+c_tantervaled_adj;TantervaleDian;;tantervaleder;;;;;;;;;;;x
+c_tantervalee;TantervaleE;TantervaleE;TantervaleE;;TantervaleE;;;;;;;;;x
+c_tantervalee_adj;TantervaleEian;;tantervaler;;;;;;;;;;;x
+c_tantervalef;TantervaleF;TantervaleF;TantervaleF;;TantervaleF;;;;;;;;;x
+c_tantervalef_adj;TantervaleFian;;tantervalefer;;;;;;;;;;;x
+c_tarascon;Tarascon;Tarascon;Tarascon;;Tarascon;;;;;;;;;x
+c_tarascon_adj;Tarasconian;;tarasconer;;;;;;;;;;;x
+c_teleum;Teleum;Teleum;Teleum;;Teleum;;;;;;;;;x
+c_teleum_adj;Teleumian;;teleumer;;;;;;;;;;;x
+c_tera;Tera;Tera;Tera;;Tera;;;;;;;;;x
+c_tera_adj;Teran;;terer;;;;;;;;;;;x
+c_terband;Terband;Terband;Terband;;Terband;;;;;;;;;x
+c_terband_adj;Terbandian;;terbander;;;;;;;;;;;x
+c_teyrns_fall;Teyrn's fall;Teyrn's fall;Teyrn's fall;;Teyrn's fall;;;;;;;;;x
+c_teyrns_fall_adj;Teyrn's fallian;;Teyrn's faller;;;;;;;;;;;x
+c_teyrns_moot;Teyrn's moot;Teyrn's moot;Teyrn's moot;;Teyrn's moot;;;;;;;;;x
+c_teyrns_moot_adj;Teyrn's mootian;;Teyrn's mooter;;;;;;;;;;;x
+c_teyrns_wood;Teyrn's wood;Teyrn's wood;Teyrn's wood;;Teyrn's wood;;;;;;;;;x
+c_teyrns_wood_adj;Teyrn's woodian;;Teyrn's wooder;;;;;;;;;;;x
+c_the_long_woods;The Long Woods;The Long Woods;The Long Woods;;The Long Woods;;;;;;;;;x
+c_the_long_woods_adj;The Long Woodsian;;The Long Woodser;;;;;;;;;;;x
+c_the_stormcoast;The Stormcoast;The Stormcoast;The Stormcoast;;The Stormcoast;;;;;;;;;x
+c_the_stormcoast_adj;The Stormcoastian;;The Stormcoaster;;;;;;;;;;;x
+c_theirinfall_redoubt;Theirinfall Redoubt;Theirinfall Redoubt;Theirinfall Redoubt;;Theirinfall Redoubt;;;;;;;;;x
+c_theirinfall_redoubt_adj;Theirinfall Redoubtian;;Theirinfall Redoubter;;;;;;;;;;;x
+c_theodeusis;Theodeusis;Theodeusis;Theodeusis;;Theodeusis;;;;;;;;;x
+c_theodeusis_adj;Theodeusisian;;theodeusiser;;;;;;;;;;;x
+c_thespyras;Thespyras;Thespyras;Thespyras;;Thespyras;;;;;;;;;x
+c_thespyras_adj;Thespyrasian;;thespyraser;;;;;;;;;;;x
+c_thoremita;Thoremita;Thoremita;Thoremita;;Thoremita;;;;;;;;;x
+c_thoremita_adj;Thoremitan;;thoremiter;;;;;;;;;;;x
+c_tisos;Tisos;Tisos;Tisos;;Tisos;;;;;;;;;x
+c_tisos_adj;Tisosian;;tisoser;;;;;;;;;;;x
+c_titzerfurt;Titzerfurt;Titzerfurt;Titzerfurt;;Titzerfurt;;;;;;;;;x
+c_titzerfurt_adj;Titzerfurtian;;titzerfurter;;;;;;;;;;;x
+c_torrecuso;Torrecuso;Torrecuso;Torrecuso;;Torrecuso;;;;;;;;;x
+c_torrecuso_adj;Torrecusian;;torrecuser;;;;;;;;;;;x
+c_towers_fall;Tower's fall;Tower's fall;Tower's fall;;Tower's fall;;;;;;;;;x
+c_towers_fall_adj;Tower's fallian;;Tower's faller;;;;;;;;;;;x
+c_trabant;Trabant;Trabant;Trabant;;Trabant;;;;;;;;;x
+c_trabant_adj;Trabantian;;trabanter;;;;;;;;;;;x
+c_tracia;Tracia;Tracia;Tracia;;Tracia;;;;;;;;;x
+c_tracia_adj;Tracian;;tracer;;;;;;;;;;;x
+c_tragalos;Tragalos;Tragalos;Tragalos;;Tragalos;;;;;;;;;x
+c_tragalos_adj;Tragalosian;;tragaloser;;;;;;;;;;;x
+c_trees_of_mystery;Trees of Mystery;Trees of Mystery;Trees of Mystery;;Trees of Mystery;;;;;;;;;x
+c_trees_of_mystery_adj;Trees of Mysterian;;Trees of Mysterer;;;;;;;;;;;x
+c_tremosine;Tremosine;Tremosine;Tremosine;;Tremosine;;;;;;;;;x
+c_tremosine_adj;Tremosinean;;tremosiner;;;;;;;;;;;x
+c_trennis;Trennis;Trennis;Trennis;;Trennis;;;;;;;;;x
+c_trennis_adj;Trennisian;;trenniser;;;;;;;;;;;x
+c_trevis;Trevis;Trevis;Trevis;;Trevis;;;;;;;;;x
+c_trevis_adj;Trevisian;;treviser;;;;;;;;;;;x
+c_treviso;Treviso;Treviso;Treviso;;Treviso;;;;;;;;;x
+c_treviso_adj;Trevisian;;treviser;;;;;;;;;;;x
+c_triewenikon;Triewenikon;Triewenikon;Triewenikon;;Triewenikon;;;;;;;;;x
+c_triewenikon_adj;Triewenikonian;;triewenikoner;;;;;;;;;;;x
+c_trinia;Trinia;Trinia;Trinia;;Trinia;;;;;;;;;x
+c_trinia_adj;Trinian;;triner;;;;;;;;;;;x
+c_trontano;Trontano;Trontano;Trontano;;Trontano;;;;;;;;;x
+c_trontano_adj;Trontanian;;trontaner;;;;;;;;;;;x
+c_tumhara;Tumhara;Tumhara;Tumhara;;Tumhara;;;;;;;;;x
+c_tumhara_adj;Tumharan;;tumharer;;;;;;;;;;;x
+c_turach_reach;Turach Reach;Turach Reach;Turach Reach;;Turach Reach;;;;;;;;;x
+c_turach_reach_adj;Turach Reachian;;Turach Reacher;;;;;;;;;;;x
+c_twin_groves;Twin Groves;Twin Groves;Twin Groves;;Twin Groves;;;;;;;;;x
+c_twin_groves_adj;Twin Grovesian;;Twin Groveser;;;;;;;;;;;x
+c_uddeland;Uddeland;Uddeland;Uddeland;;Uddeland;;;;;;;;;x
+c_uddeland_adj;Uddelandian;;uddelander;;;;;;;;;;;x
+c_uddeland_2;Uddeland;Uddeland;Uddeland;;Uddeland;;;;;;;;;x
+c_uddeland_2_adj;Uddelandian;;uddelander;;;;;;;;;;;x
+c_uden;Uden;Uden;Uden;;Uden;;;;;;;;;x
+c_uden_adj;Udenian;;udener;;;;;;;;;;;x
+c_udher;Udher;Udher;Udher;;Udher;;;;;;;;;x
+c_udher_adj;Udherian;;udherer;;;;;;;;;;;x
+c_ugernum;Ugernum;Ugernum;Ugernum;;Ugernum;;;;;;;;;x
+c_ugernum_adj;Ugernumian;;ugernumer;;;;;;;;;;;x
+c_uluder;Uluder;Uluder;Uluder;;Uluder;;;;;;;;;x
+c_uluder_adj;Uluderian;;uluderer;;;;;;;;;;;x
+c_upperstead;Upperstead;Upperstead;Upperstead;;Upperstead;;;;;;;;;x
+c_upperstead_adj;Uppersteadian;;uppersteader;;;;;;;;;;;x
+c_urthemiel_steps;Urthemiel steps;Urthemiel steps;Urthemiel steps;;Urthemiel steps;;;;;;;;;x
+c_urthemiel_steps_adj;Urthemiel stepsian;;Urthemiel stepser;;;;;;;;;;;x
+c_val_chevans;Val Chevans;Val Chevans;Val Chevans;;Val Chevans;;;;;;;;;x
+c_val_chevans_adj;Val Chevansian;;Val Chevanser;;;;;;;;;;;x
+c_val_chevin;Val Chevin;Val Chevin;Val Chevin;;Val Chevin;;;;;;;;;x
+c_val_chevin_adj;Val Chevinian;;Val Cheviner;;;;;;;;;;;x
+c_val_colline;Val Colline;Val Colline;Val Colline;;Val Colline;;;;;;;;;x
+c_val_colline_adj;Val Collinean;;Val Colliner;;;;;;;;;;;x
+c_val_dorm;Val Dorm;Val Dorm;Val Dorm;;Val Dorm;;;;;;;;;x
+c_val_dorm_adj;Val Dormian;;Val Dormer;;;;;;;;;;;x
+c_val_falasie;Val Falasie;Val Falasie;Val Falasie;;Val Falasie;;;;;;;;;x
+c_val_falasie_adj;Val Falasiean;;Val Falaser;;;;;;;;;;;x
+c_val_firmin;Val Firmin;Val Firmin;Val Firmin;;Val Firmin;;;;;;;;;x
+c_val_firmin_adj;Val Firminian;;Val Firminer;;;;;;;;;;;x
+c_val_fontaine;Val Fontaine;Val Fontaine;Val Fontaine;;Val Fontaine;;;;;;;;;x
+c_val_fontaine_adj;Val Fontainean;;Val Fontainer;;;;;;;;;;;x
+c_val_foret;Val Foret;Val Foret;Val Foret;;Val Foret;;;;;;;;;x
+c_val_foret_adj;Val Foretian;;Val Foreter;;;;;;;;;;;x
+c_val_gamord;Val Gamord;Val Gamord;Val Gamord;;Val Gamord;;;;;;;;;x
+c_val_gamord_adj;Val Gamordian;;Val Gamorder;;;;;;;;;;;x
+c_val_henar;Val Henar;Val Henar;Val Henar;;Val Henar;;;;;;;;;x
+c_val_henar_adj;Val Henarian;;Val Henarer;;;;;;;;;;;x
+c_val_montaigne;Val Montaigne;Val Montaigne;Val Montaigne;;Val Montaigne;;;;;;;;;x
+c_val_montaigne_adj;Val Montaignean;;Val Montaigner;;;;;;;;;;;x
+c_val_royaux;Val Royaux;Val Royaux;Val Royaux;;Val Royaux;;;;;;;;;x
+c_val_royaux_adj;Val Royauxian;;Val Royauxer;;;;;;;;;;;x
+c_valammar;Valammar;Valammar;Valammar;;Valammar;;;;;;;;;x
+c_valammar_adj;Valammarian;;valammarer;;;;;;;;;;;x
+c_valdasine_thaig;Valdasine thaig;Valdasine thaig;Valdasine thaig;;Valdasine thaig;;;;;;;;;x
+c_valdasine_thaig_adj;Valdasine thaigian;;Valdasine thaiger;;;;;;;;;;;x
+c_valdesine_thaig;Valdesine thaig;Valdesine thaig;Valdesine thaig;;Valdesine thaig;;;;;;;;;x
+c_valdesine_thaig_adj;Valdesine thaigian;;Valdesine thaiger;;;;;;;;;;;x
+c_valence;Valence;Valence;Valence;;Valence;;;;;;;;;x
+c_valence_adj;Valencean;;valencer;;;;;;;;;;;x
+c_valni;Valni;Valni;Valni;;Valni;;;;;;;;;x
+c_valni_adj;Valnian;;valner;;;;;;;;;;;x
+c_valognes;Valognes;Valognes;Valognes;;Valognes;;;;;;;;;x
+c_valognes_adj;Valognesian;;valogneser;;;;;;;;;;;x
+c_valromey;Valromey;Valromey;Valromey;;Valromey;;;;;;;;;x
+c_valromey_adj;Valromeian;;valromeer;;;;;;;;;;;x
+c_varen;Varen;Varen;Varen;;Varen;;;;;;;;;x
+c_varen_adj;Varenian;;varener;;;;;;;;;;;x
+c_varesforst;Varesforst;Varesforst;Varesforst;;Varesforst;;;;;;;;;x
+c_varesforst_adj;Varesforstian;;varesforster;;;;;;;;;;;x
+c_veghel;Veghel;Veghel;Veghel;;Veghel;;;;;;;;;x
+c_veghel_adj;Veghelian;;vegheler;;;;;;;;;;;x
+c_velay;Velay;Velay;Velay;;Velay;;;;;;;;;x
+c_velay_adj;Velaian;;velaer;;;;;;;;;;;x
+c_velum;Velum;Velum;Velum;;Velum;;;;;;;;;x
+c_velum_adj;Velumian;;velumer;;;;;;;;;;;x
+c_vennesstad;Vennesstad;Vennesstad;Vennesstad;;Vennesstad;;;;;;;;;x
+c_vennesstad_adj;Vennesstadian;;vennesstader;;;;;;;;;;;x
+c_verchiel;Verchiel;Verchiel;Verchiel;;Verchiel;;;;;;;;;x
+c_verchiel_adj;Verchielian;;verchieler;;;;;;;;;;;x
+c_verchin;Verchin;Verchin;Verchin;;Verchin;;;;;;;;;x
+c_verchin_adj;Verchinian;;verchiner;;;;;;;;;;;x
+c_versone;Versone;Versone;Versone;;Versone;;;;;;;;;x
+c_versone_adj;Versonean;;versoner;;;;;;;;;;;x
+c_versunna;Versunna;Versunna;Versunna;;Versunna;;;;;;;;;x
+c_versunna_adj;Versunnan;;versunner;;;;;;;;;;;x
+c_viano;Viano;Viano;Viano;;Viano;;;;;;;;;x
+c_viano_adj;Vianian;;vianer;;;;;;;;;;;x
+c_vigils_keep;Vigil's keep;Vigil's keep;Vigil's keep;;Vigil's keep;;;;;;;;;x
+c_vigils_keep_adj;Vigil's keepian;;Vigil's keeper;;;;;;;;;;;x
+c_vime;Vime;Vime;Vime;;Vime;;;;;;;;;x
+c_vime_adj;Vimean;;vimer;;;;;;;;;;;x
+c_vinovia;Vinovia;Vinovia;Vinovia;;Vinovia;;;;;;;;;x
+c_vinovia_adj;Vinovian;;vinover;;;;;;;;;;;x
+c_violent_timberland;Violent Timberland;Violent Timberland;Violent Timberland;;Violent Timberland;;;;;;;;;x
+c_violent_timberland_adj;Violent Timberlandian;;Violent Timberlander;;;;;;;;;;;x
+c_vivarais;Vivarais;Vivarais;Vivarais;;Vivarais;;;;;;;;;x
+c_vivarais_adj;Vivaraisian;;vivaraiser;;;;;;;;;;;x
+c_vivinter;Vivinter;Vivinter;Vivinter;;Vivinter;;;;;;;;;x
+c_vivinter_adj;Vivinterian;;vivinterer;;;;;;;;;;;x
+c_vix;Vix;Vix;Vix;;Vix;;;;;;;;;x
+c_vix_adj;Vixian;;vixer;;;;;;;;;;;x
+c_vyrantium;Vyrantium;Vyrantium;Vyrantium;;Vyrantium;;;;;;;;;x
+c_vyrantium_adj;Vyrantiumian;;vyrantiumer;;;;;;;;;;;x
+c_waking_sea;Waking Sea;Waking Sea;Waking Sea;;Waking Sea;;;;;;;;;x
+c_waking_sea_adj;Waking Sean;;Waking Ser;;;;;;;;;;;x
+c_weienstein;Weienstein;Weienstein;Weienstein;;Weienstein;;;;;;;;;x
+c_weienstein_adj;Weiensteinian;;weiensteiner;;;;;;;;;;;x
+c_weirstead;Weirstead;Weirstead;Weirstead;;Weirstead;;;;;;;;;x
+c_weirstead_adj;Weirsteadian;;weirsteader;;;;;;;;;;;x
+c_weishaupt;Weishaupt;Weishaupt;Weishaupt;;Weishaupt;;;;;;;;;x
+c_weishaupt_adj;Weishauptian;;weishaupter;;;;;;;;;;;x
+c_wending_wood;Wending wood;Wending wood;Wending wood;;Wending wood;;;;;;;;;x
+c_wending_wood_adj;Wending woodian;;Wending wooder;;;;;;;;;;;x
+c_west_hill;West hill;West hill;West hill;;West hill;;;;;;;;;x
+c_west_hill_adj;West hillian;;West hiller;;;;;;;;;;;x
+c_west_hills;West Hills;West Hills;West Hills;;West Hills;;;;;;;;;x
+c_west_hills_adj;West Hillsian;;West Hillser;;;;;;;;;;;x
+c_western_arbor;Western Arbor;Western Arbor;Western Arbor;;Western Arbor;;;;;;;;;x
+c_western_arbor_adj;Western Arborian;;Western Arborer;;;;;;;;;;;x
+c_western_arbora;Western ArborA;Western ArborA;Western ArborA;;Western ArborA;;;;;;;;;x
+c_western_arbora_adj;Western ArborAian;;Western ArborAer;;;;;;;;;;;x
+c_western_arborb;Western ArborB;Western ArborB;Western ArborB;;Western ArborB;;;;;;;;;x
+c_western_arborb_adj;Western ArborBian;;Western ArborBer;;;;;;;;;;;x
+c_western_arborc;Western ArborC;Western ArborC;Western ArborC;;Western ArborC;;;;;;;;;x
+c_western_arborc_adj;Western ArborCian;;Western ArborCer;;;;;;;;;;;x
+c_white_bay;White bay;White bay;White bay;;White bay;;;;;;;;;x
+c_white_bay_adj;White baian;;White baer;;;;;;;;;;;x
+c_white_cliffs;White cliffs;White cliffs;White cliffs;;White cliffs;;;;;;;;;x
+c_white_cliffs_adj;White cliffsian;;White cliffser;;;;;;;;;;;x
+c_white_river;White river;White river;White river;;White river;;;;;;;;;x
+c_white_river_adj;White riverian;;White riverer;;;;;;;;;;;x
+c_whitland;Whitland;Whitland;Whitland;;Whitland;;;;;;;;;x
+c_whitland_adj;Whitlandian;;whitlander;;;;;;;;;;;x
+c_wildervale;Wildervale;Wildervale;Wildervale;;Wildervale;;;;;;;;;x
+c_wildervale_adj;Wildervalean;;wildervaler;;;;;;;;;;;x
+c_wildervalea;WildervaleA;WildervaleA;WildervaleA;;WildervaleA;;;;;;;;;x
+c_wildervalea_adj;WildervaleAian;;wildervaler;;;;;;;;;;;x
+c_wildervaleb;WildervaleB;WildervaleB;WildervaleB;;WildervaleB;;;;;;;;;x
+c_wildervaleb_adj;WildervaleBian;;wildervaleber;;;;;;;;;;;x
+c_wildervalec;WildervaleC;WildervaleC;WildervaleC;;WildervaleC;;;;;;;;;x
+c_wildervalec_adj;WildervaleCian;;wildervalecer;;;;;;;;;;;x
+c_wildervaled;WildervaleD;WildervaleD;WildervaleD;;WildervaleD;;;;;;;;;x
+c_wildervaled_adj;WildervaleDian;;wildervaleder;;;;;;;;;;;x
+c_winter_keep;Winter keep;Winter keep;Winter keep;;Winter keep;;;;;;;;;x
+c_winter_keep_adj;Winter keepian;;Winter keeper;;;;;;;;;;;x
+c_winter_keepa;Winter keepA;Winter keepA;Winter keepA;;Winter keepA;;;;;;;;;x
+c_winter_keepa_adj;Winter keepAian;;Winter keepAer;;;;;;;;;;;x
+c_winter_keepb;Winter keepB;Winter keepB;Winter keepB;;Winter keepB;;;;;;;;;x
+c_winter_keepb_adj;Winter keepBian;;Winter keepBer;;;;;;;;;;;x
+c_winter_keepc;Winter keepC;Winter keepC;Winter keepC;;Winter keepC;;;;;;;;;x
+c_winter_keepc_adj;Winter keepCian;;Winter keepCer;;;;;;;;;;;x
+c_winter_keepd;Winter keepD;Winter keepD;Winter keepD;;Winter keepD;;;;;;;;;x
+c_winter_keepd_adj;Winter keepDian;;Winter keepDer;;;;;;;;;;;x
+c_winters_breathe;Winter's breathe;Winter's breathe;Winter's breathe;;Winter's breathe;;;;;;;;;x
+c_winters_breathe_adj;Winter's breathean;;Winter's breather;;;;;;;;;;;x
+c_winters_breathe_2;Winter's breathe;Winter's breathe;Winter's breathe;;Winter's breathe;;;;;;;;;x
+c_winters_breathe_2_adj;Winter's breathean;;Winter's breather;;;;;;;;;;;x
+c_wolfs_den;Wolf's den;Wolf's den;Wolf's den;;Wolf's den;;;;;;;;;x
+c_wolfs_den_adj;Wolf's denian;;Wolf's dener;;;;;;;;;;;x
+c_wolfs_head;Wolf's head;Wolf's head;Wolf's head;;Wolf's head;;;;;;;;;x
+c_wolfs_head_adj;Wolf's headian;;Wolf's header;;;;;;;;;;;x
+c_wutherford;Wutherford;Wutherford;Wutherford;;Wutherford;;;;;;;;;x
+c_wutherford_adj;Wutherfordian;;wutherforder;;;;;;;;;;;x
+c_wycome;Wycome;Wycome;Wycome;;Wycome;;;;;;;;;x
+c_wycome_adj;Wycomean;;wycomer;;;;;;;;;;;x
+c_wycomea;WycomeA;WycomeA;WycomeA;;WycomeA;;;;;;;;;x
+c_wycomea_adj;WycomeAian;;wycomer;;;;;;;;;;;x
+c_wycomeb;WycomeB;WycomeB;WycomeB;;WycomeB;;;;;;;;;x
+c_wycomeb_adj;WycomeBian;;wycomeber;;;;;;;;;;;x
+c_wycomec;WycomeC;WycomeC;WycomeC;;WycomeC;;;;;;;;;x
+c_wycomec_adj;WycomeCian;;wycomecer;;;;;;;;;;;x
+c_wycomed;WycomeD;WycomeD;WycomeD;;WycomeD;;;;;;;;;x
+c_wycomed_adj;WycomeDian;;wycomeder;;;;;;;;;;;x
+c_wyvern_keep;Wyvern keep;Wyvern keep;Wyvern keep;;Wyvern keep;;;;;;;;;x
+c_wyvern_keep_adj;Wyvern keepian;;Wyvern keeper;;;;;;;;;;;x
+c_ylenn_basin;Ylenn Basin;Ylenn Basin;Ylenn Basin;;Ylenn Basin;;;;;;;;;x
+c_ylenn_basin_adj;Ylenn Basinian;;Ylenn Basiner;;;;;;;;;;;x
+c_yunak;Yunak;Yunak;Yunak;;Yunak;;;;;;;;;x
+c_yunak_adj;Yunakian;;yunaker;;;;;;;;;;;x
+c_zakrytos;Zakrytos;Zakrytos;Zakrytos;;Zakrytos;;;;;;;;;x
+c_zakrytos_adj;Zakrytosian;;zakrytoser;;;;;;;;;;;x

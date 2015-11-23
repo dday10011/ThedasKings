@@ -1,0 +1,21 @@
+# c_bowammar
+
+# County Title
+title = c_bowammar
+
+# Settlements
+max_settlements = 7
+
+b_bowammar = castle
+#b_bowammar_2 = city
+#b_bowammar_3 = temple
+#b_bowammar_4 = castle
+#b_bowammar_5 = city
+#b_bowammar_6 = temple
+#b_bowammar_7 = castle
+
+# Misc
+culture = orzammar
+religion = our_ancestors
+
+#History

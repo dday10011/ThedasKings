@@ -1,0 +1,16 @@
+# c_salares
+
+# County Title
+title = c_salares
+
+# Settlements
+max_settlements = 2
+
+b_salares = castle
+b_salares_2 = city
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

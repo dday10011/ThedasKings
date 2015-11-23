@@ -1,0 +1,15 @@
+# c_sprannhatten
+
+# County Title
+title = c_sprannhatten
+
+# Settlements
+max_settlements = 1
+
+b_sprannhatten = castle
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

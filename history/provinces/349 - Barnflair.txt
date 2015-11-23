@@ -1,0 +1,18 @@
+# c_barnflair
+
+# County Title
+title = c_barnflair
+
+# Settlements
+max_settlements = 4
+
+b_barnflair = castle
+b_barnflair_2 = city
+b_barnflair_3 = temple
+b_barnflair_4 = castle
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

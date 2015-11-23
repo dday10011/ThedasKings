@@ -1,0 +1,18 @@
+# c_ashkiri
+
+# County Title
+title = c_ashkiri
+
+# Settlements
+max_settlements = 4
+
+b_ashkiri = castle
+b_ashkiri_2 = city
+b_ashkiri_3 = temple
+b_ashkiri_4 = castle
+
+# Misc
+culture = rivaini
+religion = andrastian_chantry
+
+#History

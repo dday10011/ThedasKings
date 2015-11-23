@@ -1,0 +1,18 @@
+# c_acteinea
+
+# County Title
+title = c_acteinea
+
+# Settlements
+max_settlements = 4
+
+b_acteinea = castle
+b_acteinea_2 = city
+b_acteinea_3 = temple
+b_acteinea_4 = castle
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

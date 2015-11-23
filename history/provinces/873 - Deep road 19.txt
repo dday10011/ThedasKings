@@ -1,0 +1,15 @@
+# c_deep_road_19
+
+# County Title
+title = c_deep_road_19
+
+# Settlements
+max_settlements = 1
+
+b_deep_road_19 = castle
+
+# Misc
+culture = kal_sharok
+religion = our_ancestors
+
+#History

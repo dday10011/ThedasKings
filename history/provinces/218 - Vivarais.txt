@@ -1,0 +1,20 @@
+# c_vivarais
+
+# County Title
+title = c_vivarais
+
+# Settlements
+max_settlements = 6
+
+b_vivarais = castle
+b_vivarais_2 = city
+b_vivarais_3 = temple
+b_vivarais_4 = castle
+b_vivarais_5 = city
+b_vivarais_6 = temple
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

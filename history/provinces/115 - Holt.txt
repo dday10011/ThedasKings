@@ -1,0 +1,17 @@
+# c_holt
+
+# County Title
+title = c_holt
+
+# Settlements
+max_settlements = 3
+
+b_holt = castle
+b_holt_2 = city
+b_holt_3 = temple
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

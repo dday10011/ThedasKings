@@ -1,0 +1,20 @@
+# c_komt_aar
+
+# County Title
+title = c_komt_aar
+
+# Settlements
+max_settlements = 6
+
+b_komt_aar = castle
+b_komt_aar_2 = city
+b_komt_aar_3 = temple
+b_komt_aar_4 = castle
+b_komt_aar_5 = city
+b_komt_aar_6 = temple
+
+# Misc
+culture = rivaini
+religion = andrastian_chantry
+
+#History

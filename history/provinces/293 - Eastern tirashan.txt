@@ -1,0 +1,18 @@
+# c_eastern_tirashan
+
+# County Title
+title = c_eastern_tirashan
+
+# Settlements
+max_settlements = 4
+
+b_eastern_tirashan = castle
+b_eastern_tirashan_2 = city
+b_eastern_tirashan_3 = temple
+b_eastern_tirashan_4 = castle
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

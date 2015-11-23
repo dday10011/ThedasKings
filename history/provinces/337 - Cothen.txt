@@ -1,0 +1,18 @@
+# c_cothen
+
+# County Title
+title = c_cothen
+
+# Settlements
+max_settlements = 4
+
+b_cothen = castle
+b_cothen_2 = city
+b_cothen_3 = temple
+b_cothen_4 = castle
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

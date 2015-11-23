@@ -1,0 +1,31 @@
+#ANDERFELS
+technology = {
+	titles = {
+		d_hossberg
+		d_kassel
+		d_sundarin
+		d_tallo
+		d_nordbotton
+		d_hunterhorn_mountains
+		d_kal_sharok_approaches
+		d_weisshaupt
+		d_qundalon
+		d_central_donnarks
+		d_eastern_donnarks
+		d_feral_fjords
+		d_western_donnarks
+		d_laysh
+		d_latterfluss_basin
+		d_the_wandered_hills
+	}
+	7000 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+	12000 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}

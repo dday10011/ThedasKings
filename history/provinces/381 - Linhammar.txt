@@ -1,0 +1,15 @@
+# c_linhammar
+
+# County Title
+title = c_linhammar
+
+# Settlements
+max_settlements = 1
+
+b_linhammar = castle
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

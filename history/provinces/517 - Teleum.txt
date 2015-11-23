@@ -1,0 +1,16 @@
+# c_teleum
+
+# County Title
+title = c_teleum
+
+# Settlements
+max_settlements = 2
+
+b_teleum = castle
+b_teleum_2 = city
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

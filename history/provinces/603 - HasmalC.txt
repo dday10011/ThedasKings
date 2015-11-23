@@ -1,0 +1,18 @@
+# c_hasmalc
+
+# County Title
+title = c_hasmalc
+
+# Settlements
+max_settlements = 4
+
+b_hasmalc = castle
+b_hasmalc_2 = city
+b_hasmalc_3 = temple
+b_hasmalc_4 = castle
+
+# Misc
+culture = hasmal
+religion = andrastian_chantry
+
+#History

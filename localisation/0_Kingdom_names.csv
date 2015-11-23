@@ -1,0 +1,89 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+k_antiva;Antiva;Antiva;Antiva;;Antiva;;;;;;;;;x
+k_antiva_adj;Antivan;;antiver;;;;;;;;;;;x
+k_arlathan;Arlathan;Arlathan;Arlathan;;Arlathan;;;;;;;;;x
+k_arlathan_adj;Arlathanian;;arlathaner;;;;;;;;;;;x
+k_brecilia_forest;Brecilia Forest;Brecilia Forest;Brecilia Forest;;Brecilia Forest;;;;;;;;;x
+k_brecilia_forest_adj;Brecilia Forestian;;Brecilia Forester;;;;;;;;;;;x
+k_cumberland;Cumberland;Cumberland;Cumberland;;Cumberland;;;;;;;;;x
+k_cumberland_adj;Cumberlandian;;cumberlander;;;;;;;;;;;x
+k_eastern_holds;Eastern Holds;Eastern Holds;Eastern Holds;;Eastern Holds;;;;;;;;;x
+k_eastern_holds_adj;Eastern Holdsian;;Eastern Holdser;;;;;;;;;;;x
+k_eastern_marches;Eastern Marches;Eastern Marches;Eastern Marches;;Eastern Marches;;;;;;;;;x
+k_eastern_marches_adj;Eastern Marchesian;;Eastern Marcheser;;;;;;;;;;;x
+k_gumdar;Gumdar;Gumdar;Gumdar;;Gumdar;;;;;;;;;x
+k_gumdar_adj;Gumdarian;;gumdarer;;;;;;;;;;;x
+k_gwaren;Gwaren;Gwaren;Gwaren;;Gwaren;;;;;;;;;x
+k_gwaren_adj;Gwarenian;;gwarener;;;;;;;;;;;x
+k_higlands;Higlands;Higlands;Higlands;;Higlands;;;;;;;;;x
+k_higlands_adj;Higlandsian;;higlandser;;;;;;;;;;;x
+k_hormak;Hormak;Hormak;Hormak;;Hormak;;;;;;;;;x
+k_hormak_adj;Hormakian;;hormaker;;;;;;;;;;;x
+k_hossberg;Hossberg;Hossberg;Hossberg;;Hossberg;;;;;;;;;x
+k_hossberg_adj;Hossbergian;;hossberger;;;;;;;;;;;x
+k_hundred_pillars;Hundred Pillars;Hundred Pillars;Hundred Pillars;;Hundred Pillars;;;;;;;;;x
+k_hundred_pillars_adj;Hundred Pillarsian;;Hundred Pillarser;;;;;;;;;;;x
+k_kal_sharok;Kal-Sharok;Kal-Sharok;Kal-Sharok;;Kal-Sharok;;;;;;;;;x
+k_kal_sharok_adj;Kal-Sharokian;;kal-sharoker;;;;;;;;;;;x
+k_kirkwall;Kirkwall;Kirkwall;Kirkwall;;Kirkwall;;;;;;;;;x
+k_kirkwall_adj;Kirkwallian;;kirkwaller;;;;;;;;;;;x
+k_korcari_wilds;Korcari Wilds;Korcari Wilds;Korcari Wilds;;Korcari Wilds;;;;;;;;;x
+k_korcari_wilds_adj;Korcari Wildsian;;Korcari Wildser;;;;;;;;;;;x
+k_nahashin_marshes;Nahashin Marshes;Nahashin Marshes;Nahashin Marshes;;Nahashin Marshes;;;;;;;;;x
+k_nahashin_marshes_adj;Nahashin Marshesian;;Nahashin Marsheser;;;;;;;;;;;x
+k_neromenian;Neromenian;Neromenian;Neromenian;;Neromenian;;;;;;;;;x
+k_neromenian_adj;Neromenianian;;neromenianer;;;;;;;;;;;x
+k_nevarra;Nevarra;Nevarra;Nevarra;;Nevarra;;;;;;;;;x
+k_nevarra_adj;Nevarran;;nevarrer;;;;;;;;;;;x
+k_nordbotton;Nordbotton;Nordbotton;Nordbotton;;Nordbotton;;;;;;;;;x
+k_nordbotton_adj;Nordbottonian;;nordbottoner;;;;;;;;;;;x
+k_orzammar;Orzammar;Orzammar;Orzammar;;Orzammar;;;;;;;;;x
+k_orzammar_adj;Orzammarian;;orzammarer;;;;;;;;;;;x
+k_par_vollen;Par Vollen;Par Vollen;Par Vollen;;Par Vollen;;;;;;;;;x
+k_par_vollen_adj;Par Vollenian;;Par Vollener;;;;;;;;;;;x
+k_perendale;Perendale;Perendale;Perendale;;Perendale;;;;;;;;;x
+k_perendale_adj;Perendalean;;perendaler;;;;;;;;;;;x
+k_perivantium;Perivantium;Perivantium;Perivantium;;Perivantium;;;;;;;;;x
+k_perivantium_adj;Perivantiumian;;perivantiumer;;;;;;;;;;;x
+k_rivain;Rivain;Rivain;Rivain;;Rivain;;;;;;;;;x
+k_rivain_adj;Rivainian;;rivainer;;;;;;;;;;;x
+k_seheron;Seheron;Seheron;Seheron;;Seheron;;;;;;;;;x
+k_seheron_adj;Seheronian;;seheroner;;;;;;;;;;;x
+k_starkhaven;Starkhaven;Starkhaven;Starkhaven;;Starkhaven;;;;;;;;;x
+k_starkhaven_adj;Starkhavenian;;starkhavener;;;;;;;;;;;x
+k_tantervale;Tantervale;Tantervale;Tantervale;;Tantervale;;;;;;;;;x
+k_tantervale_adj;Tantervalean;;tantervaler;;;;;;;;;;;x
+k_the_arbor;The Arbor;The Arbor;The Arbor;;The Arbor;;;;;;;;;x
+k_the_arbor_adj;The Arborian;;The Arborer;;;;;;;;;;;x
+k_the_bannorn;The Bannorn;The Bannorn;The Bannorn;;The Bannorn;;;;;;;;;x
+k_the_bannorn_adj;The Bannornian;;The Bannorner;;;;;;;;;;;x
+k_the_coastlands;The Coastlands;The Coastlands;The Coastlands;;The Coastlands;;;;;;;;;x
+k_the_coastlands_adj;The Coastlandsian;;The Coastlandser;;;;;;;;;;;x
+k_the_dales;The Dales;The Dales;The Dales;;The Dales;;;;;;;;;x
+k_the_dales_adj;The Dalesian;;The Daleser;;;;;;;;;;;x
+k_the_donnarks;The Donnarks;The Donnarks;The Donnarks;;The Donnarks;;;;;;;;;x
+k_the_donnarks_adj;The Donnarksian;;The Donnarkser;;;;;;;;;;;x
+k_the_felicissima_armada;The Felicissima Armada;The Felicissima Armada;The Felicissima Armada;;The Felicissima Armada;;;;;;;;;x
+k_the_felicissima_armada_adj;The Felicissima Armadan;;The Felicissima Armader;;;;;;;;;;;x
+k_the_heartlands;The Heartlands;The Heartlands;The Heartlands;;The Heartlands;;;;;;;;;x
+k_the_heartlands_adj;The Heartlandsian;;The Heartlandser;;;;;;;;;;;x
+k_the_high_reaches;The High Reaches;The High Reaches;The High Reaches;;The High Reaches;;;;;;;;;x
+k_the_high_reaches_adj;The High Reachesian;;The High Reacheser;;;;;;;;;;;x
+k_the_hinterlands;The Hinterlands;The Hinterlands;The Hinterlands;;The Hinterlands;;;;;;;;;x
+k_the_hinterlands_adj;The Hinterlandsian;;The Hinterlandser;;;;;;;;;;;x
+k_the_wandered_hills;The Wandered Hills;The Wandered Hills;The Wandered Hills;;The Wandered Hills;;;;;;;;;x
+k_the_wandered_hills_adj;The Wandered Hillsian;;The Wandered Hillser;;;;;;;;;;;x
+k_the_western_approach;The Western Approach;The Western Approach;The Western Approach;;The Western Approach;;;;;;;;;x
+k_the_western_approach_adj;The Western Approachian;;The Western Approacher;;;;;;;;;;;x
+k_treviso;Treviso;Treviso;Treviso;;Treviso;;;;;;;;;x
+k_treviso_adj;Trevisian;;treviser;;;;;;;;;;;x
+k_urthemiel_plateau;Urthemiel Plateau;Urthemiel Plateau;Urthemiel Plateau;;Urthemiel Plateau;;;;;;;;;x
+k_urthemiel_plateau_adj;Urthemiel Platian;;Urthemiel Plater;;;;;;;;;;;x
+k_val_dorm;Val Dorm;Val Dorm;Val Dorm;;Val Dorm;;;;;;;;;x
+k_val_dorm_adj;Val Dormian;;Val Dormer;;;;;;;;;;;x
+k_val_foret;Val Foret;Val Foret;Val Foret;;Val Foret;;;;;;;;;x
+k_val_foret_adj;Val Foretian;;Val Foreter;;;;;;;;;;;x
+k_val_royaux;Val Royaux;Val Royaux;Val Royaux;;Val Royaux;;;;;;;;;x
+k_val_royaux_adj;Val Royauxian;;Val Royauxer;;;;;;;;;;;x
+k_vyrantium;Vyrantium;Vyrantium;Vyrantium;;Vyrantium;;;;;;;;;x
+k_vyrantium_adj;Vyrantiumian;;vyrantiumer;;;;;;;;;;;x

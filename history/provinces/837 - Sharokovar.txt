@@ -1,0 +1,21 @@
+# c_sharokovar
+
+# County Title
+title = c_sharokovar
+
+# Settlements
+max_settlements = 7
+
+b_sharokovar = castle
+#b_sharokovar_2 = city
+#b_sharokovar_3 = temple
+#b_sharokovar_4 = castle
+#b_sharokovar_5 = city
+#b_sharokovar_6 = temple
+#b_sharokovar_7 = castle
+
+# Misc
+culture = kal_sharok
+religion = our_ancestors
+
+#History

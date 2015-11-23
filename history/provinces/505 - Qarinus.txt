@@ -1,0 +1,20 @@
+# c_qarinus
+
+# County Title
+title = c_qarinus
+
+# Settlements
+max_settlements = 6
+
+b_qarinus = castle
+b_qarinus_2 = city
+b_qarinus_3 = temple
+b_qarinus_4 = castle
+b_qarinus_5 = city
+b_qarinus_6 = temple
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

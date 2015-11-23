@@ -1,0 +1,17 @@
+# c_exaled_plains
+
+# County Title
+title = c_exaled_plains
+
+# Settlements
+max_settlements = 3
+
+b_exaled_plains = castle
+b_exaled_plains_2 = city
+b_exaled_plains_3 = temple
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

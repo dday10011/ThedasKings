@@ -1,0 +1,18 @@
+# c_titzerfurt
+
+# County Title
+title = c_titzerfurt
+
+# Settlements
+max_settlements = 4
+
+b_titzerfurt = castle
+b_titzerfurt_2 = city
+b_titzerfurt_3 = temple
+b_titzerfurt_4 = castle
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

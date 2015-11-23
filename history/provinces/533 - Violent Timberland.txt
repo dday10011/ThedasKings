@@ -1,0 +1,15 @@
+# c_violent_timberland
+
+# County Title
+title = c_violent_timberland
+
+# Settlements
+max_settlements = 1
+
+b_violent_timberland = castle
+
+# Misc
+culture = forest
+religion = forest
+
+#History

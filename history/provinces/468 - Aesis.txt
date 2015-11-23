@@ -1,0 +1,18 @@
+# c_aesis
+
+# County Title
+title = c_aesis
+
+# Settlements
+max_settlements = 4
+
+b_aesis = castle
+b_aesis_2 = city
+b_aesis_3 = temple
+b_aesis_4 = castle
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

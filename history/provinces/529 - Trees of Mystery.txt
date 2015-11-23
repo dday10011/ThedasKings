@@ -1,0 +1,15 @@
+# c_trees_of_mystery
+
+# County Title
+title = c_trees_of_mystery
+
+# Settlements
+max_settlements = 1
+
+b_trees_of_mystery = castle
+
+# Misc
+culture = forest
+religion = forest
+
+#History

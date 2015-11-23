@@ -1,0 +1,15 @@
+# c_ravensway
+
+# County Title
+title = c_ravensway
+
+# Settlements
+max_settlements = 1
+
+b_ravensway = castle
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,15 @@
+# c_rooth
+
+# County Title
+title = c_rooth
+
+# Settlements
+max_settlements = 1
+
+b_rooth = castle
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

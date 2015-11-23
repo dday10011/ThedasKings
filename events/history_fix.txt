@@ -1,0 +1,92 @@
+namespace = history_fix
+
+character_event = {
+	id = history_fix.1
+	is_triggered_only = yes
+	hide_window = yes
+	ai = no
+	
+	immediate = {
+		any_independent_ruler = {
+			limit = {
+				not = { religion_group = unsettled }
+				not = { religion = avvar }
+				not = { religion = chasind }
+				not = { empire = { title = e_ferelden } }
+				not = { 
+					any_demesne_title = {
+						is_landless_type_title = yes
+					}
+				}
+			}
+			if = {
+				limit = {
+					capital_scope = {
+						duchy = {
+							capital_scope = {
+								province = PREVPREV
+							}
+						}
+					}
+				}
+				capital_scope = {
+					duchy = {
+						activate_title = { title = THIS status = yes }
+						grant_title = PREVPREV
+						any_independent_ruler = {
+							limit = {
+								capital_scope = {
+									duchy = {
+										title = PREVPREVPREV
+									}
+								}
+							}
+							set_defacto_liege = PREVPREVPREV
+						}
+					}
+				}	
+			}
+		}
+		any_independent_ruler = {
+			limit = {
+				not = { religion_group = unsettled }
+				not = { religion = avvar }
+				not = { religion = chasind }
+				not = { capital_scope = { empire = { title = e_ferelden } } }
+				not = { capital_scope = { empire = { title = e_free_marches } } }
+				not = { 
+					any_demesne_title = {
+						is_landless_type_title = yes
+					}
+				}
+			}
+			if = {
+				limit = {
+					capital_scope = {
+						empire = {
+							capital_scope = {
+								province = PREVPREV
+							}
+						}
+					}
+				}
+				capital_scope = {
+					empire = {
+						activate_title = { title = THIS status = yes }
+						grant_title = PREVPREV
+						any_independent_ruler = {
+							limit = {
+								capital_scope = {
+									empire = {
+										title = PREVPREVPREV
+									}
+								}
+							}
+							set_defacto_liege = PREVPREVPREV
+						}
+					}
+				}	
+			}
+		}
+	}
+}

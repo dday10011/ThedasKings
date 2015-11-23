@@ -1,0 +1,19 @@
+# c_arsin
+
+# County Title
+title = c_arsin
+
+# Settlements
+max_settlements = 5
+
+b_arsin = castle
+b_arsin_2 = city
+b_arsin_3 = temple
+b_arsin_4 = castle
+b_arsin_5 = city
+
+# Misc
+culture = qunari
+religion = qun_religion
+
+#History

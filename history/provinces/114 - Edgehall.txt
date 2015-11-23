@@ -1,0 +1,17 @@
+# c_edgehall
+
+# County Title
+title = c_edgehall
+
+# Settlements
+max_settlements = 3
+
+b_edgehall = castle
+b_edgehall_2 = city
+b_edgehall_3 = temple
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

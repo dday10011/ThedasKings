@@ -1,0 +1,18 @@
+# c_cannocks_chase
+
+# County Title
+title = c_cannocks_chase
+
+# Settlements
+max_settlements = 4
+
+b_cannocks_chase = castle
+b_cannocks_chase_2 = city
+b_cannocks_chase_3 = temple
+#b_cannocks_chase_4 = castle
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

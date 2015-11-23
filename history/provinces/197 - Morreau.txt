@@ -1,0 +1,17 @@
+# c_morreau
+
+# County Title
+title = c_morreau
+
+# Settlements
+max_settlements = 3
+
+b_morreau = castle
+b_morreau_2 = city
+b_morreau_3 = temple
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

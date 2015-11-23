@@ -1,0 +1,20 @@
+# c_sancerois
+
+# County Title
+title = c_sancerois
+
+# Settlements
+max_settlements = 6
+
+b_sancerois = castle
+b_sancerois_2 = city
+b_sancerois_3 = temple
+b_sancerois_4 = castle
+b_sancerois_5 = city
+b_sancerois_6 = temple
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,19 @@
+# c_caminata
+
+# County Title
+title = c_caminata
+
+# Settlements
+max_settlements = 5
+
+b_caminata = castle
+b_caminata_2 = city
+b_caminata_3 = temple
+b_caminata_4 = castle
+b_caminata_5 = city
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

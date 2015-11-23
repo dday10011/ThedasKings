@@ -1,0 +1,19 @@
+#KORCARI WILDS
+technology = {
+	titles = {
+		d_korcari_wilds1
+		d_korcari_wilds2
+		d_korcari_wilds3
+		d_korcari_wilds4
+	}
+	7000 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+	12000 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}

@@ -1,0 +1,15 @@
+# c_rivertree
+
+# County Title
+title = c_rivertree
+
+# Settlements
+max_settlements = 1
+
+b_rivertree = castle
+
+# Misc
+culture = forest
+religion = forest
+
+#History

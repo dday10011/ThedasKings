@@ -1,0 +1,18 @@
+# c_rossleigh
+
+# County Title
+title = c_rossleigh
+
+# Settlements
+max_settlements = 4
+
+b_rossleigh = castle
+b_rossleigh_2 = city
+b_rossleigh_3 = temple
+b_rossleigh_4 = castle
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

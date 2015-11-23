@@ -1,0 +1,18 @@
+# c_rahey
+
+# County Title
+title = c_rahey
+
+# Settlements
+max_settlements = 4
+
+b_rahey = castle
+b_rahey_2 = city
+b_rahey_3 = temple
+b_rahey_4 = castle
+
+# Misc
+culture = rivaini
+religion = andrastian_chantry
+
+#History

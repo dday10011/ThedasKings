@@ -1,0 +1,18 @@
+# c_green_dalesa
+
+# County Title
+title = c_green_dalesa
+
+# Settlements
+max_settlements = 4
+
+b_green_dalesa = castle
+b_green_dalesa_2 = city
+b_green_dalesa_3 = temple
+b_green_dalesa_4 = castle
+
+# Misc
+culture = starkhaven
+religion = andrastian_chantry
+
+#History

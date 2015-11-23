@@ -1,0 +1,18 @@
+# c_nateia
+
+# County Title
+title = c_nateia
+
+# Settlements
+max_settlements = 4
+
+b_nateia = castle
+b_nateia_2 = city
+b_nateia_3 = temple
+b_nateia_4 = castle
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

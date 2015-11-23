@@ -1,0 +1,17 @@
+# c_limite
+
+# County Title
+title = c_limite
+
+# Settlements
+max_settlements = 3
+
+b_limite = castle
+b_limite_2 = city
+b_limite_3 = temple
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

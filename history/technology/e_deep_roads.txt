@@ -1,0 +1,27 @@
+#DEEP ROADS
+technology = {
+	titles = {
+		d_orzammar
+		d_bowammar
+		d_kal_hirol
+		d_gumdar
+		d_angarrak
+		d_kul_baras
+		d_hormak
+		d_revann_thaig
+		d_valdesine_thaig
+		d_kal_sharok
+		d_darmallon
+		d_valdasine
+	}
+	7000 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+	12000 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}

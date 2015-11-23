@@ -1,0 +1,19 @@
+# c_colwyn
+
+# County Title
+title = c_colwyn
+
+# Settlements
+max_settlements = 5
+
+b_colwyn = castle
+b_colwyn_2 = city
+b_colwyn_3 = temple
+b_colwyn_4 = castle
+b_colwyn_5 = city
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,15 @@
+# c_antegria
+
+# County Title
+title = c_antegria
+
+# Settlements
+max_settlements = 1
+
+b_antegria = castle
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

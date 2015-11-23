@@ -1,0 +1,19 @@
+# c_nahim
+
+# County Title
+title = c_nahim
+
+# Settlements
+max_settlements = 5
+
+b_nahim = castle
+b_nahim_2 = city
+b_nahim_3 = temple
+b_nahim_4 = castle
+b_nahim_5 = city
+
+# Misc
+culture = rivaini
+religion = andrastian_chantry
+
+#History

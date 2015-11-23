@@ -1,0 +1,15 @@
+# c_kladoth_woods
+
+# County Title
+title = c_kladoth_woods
+
+# Settlements
+max_settlements = 1
+
+b_kladoth_woods = castle
+
+# Misc
+culture = forest
+religion = forest
+
+#History

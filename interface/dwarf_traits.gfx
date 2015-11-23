@@ -1,0 +1,58 @@
+spriteTypes = {
+        spriteType = {
+                name = "GFX_trait_noble_caste"
+                texturefile = "gfx/traits/noble_caste.tga"
+                noOfFrames = 1
+                norefcount = yes
+                effectFile = "gfx/FX/buttonstate.lua"
+        }
+                spriteType = {
+                name = "GFX_trait_warrior_caste"
+                texturefile = "gfx/traits/warrior_caste.tga"
+                noOfFrames = 1
+                norefcount = yes
+                effectFile = "gfx/FX/buttonstate.lua"
+        }
+                spriteType = {
+                name = "GFX_trait_merchant_caste"
+                texturefile = "gfx/traits/merchant_caste.tga"
+                noOfFrames = 1
+                norefcount = yes
+                effectFile = "gfx/FX/buttonstate.lua"
+        }
+                spriteType = {
+                name = "GFX_trait_smith_caste"
+                texturefile = "gfx/traits/smith_caste.tga"
+                noOfFrames = 1
+                norefcount = yes
+                effectFile = "gfx/FX/buttonstate.lua"
+        }
+                spriteType = {
+                name = "GFX_trait_artisan_caste"
+                texturefile = "gfx/traits/artisan_caste.tga"
+                noOfFrames = 1
+                norefcount = yes
+                effectFile = "gfx/FX/buttonstate.lua"
+        }
+                spriteType = {
+                name = "GFX_trait_servant_caste"
+                texturefile = "gfx/traits/servant_caste.tga"
+                noOfFrames = 1
+                norefcount = yes
+                effectFile = "gfx/FX/buttonstate.lua"
+        }
+                spriteType = {
+                name = "GFX_trait_miner_caste"
+                texturefile = "gfx/traits/miner_caste.tga"
+                noOfFrames = 1
+                norefcount = yes
+                effectFile = "gfx/FX/buttonstate.lua"
+        }
+                spriteType = {
+                name = "GFX_trait_casteless"
+                texturefile = "gfx/traits/casteless.tga"
+                noOfFrames = 1
+                norefcount = yes
+                effectFile = "gfx/FX/buttonstate.lua"
+        }
+}

@@ -1,0 +1,16 @@
+# c_haler
+
+# County Title
+title = c_haler
+
+# Settlements
+max_settlements = 2
+
+b_haler = castle
+b_haler_2 = city
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

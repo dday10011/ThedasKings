@@ -1,0 +1,18 @@
+# c_blaricum
+
+# County Title
+title = c_blaricum
+
+# Settlements
+max_settlements = 4
+
+b_blaricum = castle
+b_blaricum_2 = city
+b_blaricum_3 = temple
+b_blaricum_4 = castle
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

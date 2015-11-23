@@ -1,0 +1,16 @@
+# c_redhold
+
+# County Title
+title = c_redhold
+
+# Settlements
+max_settlements = 2
+
+b_redhold = castle
+b_redhold_2 = city
+
+# Misc
+culture = avvar
+religion = avvar
+
+#History

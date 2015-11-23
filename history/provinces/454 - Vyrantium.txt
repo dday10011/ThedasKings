@@ -1,0 +1,21 @@
+# c_vyrantium
+
+# County Title
+title = c_vyrantium
+
+# Settlements
+max_settlements = 7
+
+b_vyrantium = castle
+b_vyrantium_2 = city
+b_vyrantium_3 = temple
+b_vyrantium_4 = castle
+b_vyrantium_5 = city
+b_vyrantium_6 = temple
+b_vyrantium_7 = castle
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

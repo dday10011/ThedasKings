@@ -1,0 +1,17 @@
+# c_killarney
+
+# County Title
+title = c_killarney
+
+# Settlements
+max_settlements = 3
+
+b_killarney = castle
+b_killarney_2 = city
+b_killarney_3 = temple
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

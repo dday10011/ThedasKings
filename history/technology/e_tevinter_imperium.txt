@@ -1,0 +1,39 @@
+#TEVINTER IMPERIUM
+technology = {
+	titles = {
+		d_valarian_fields
+		d_asariel
+		d_colean_cape
+		d_the_high_reaches
+		d_neromenian
+		d_acteinea
+		d_akyreum
+		d_carastes
+		d_marothius
+		d_qarinus
+		d_teleum
+		d_perivantium
+		d_eastern_silent_plains
+		d_graccuris
+		d_solas
+		d_western_silent_plains
+		d_val_dorm
+		d_gorsium
+		d_hellis
+		d_vyrantium
+		d_aesis
+		d_derthona
+		d_marnas_pell
+		d_pasus
+	}
+	7000 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+	12000 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}

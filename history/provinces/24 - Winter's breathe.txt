@@ -1,0 +1,18 @@
+# c_winters_breathe
+
+# County Title
+title = c_winters_breathe
+
+# Settlements
+max_settlements = 4
+
+b_winters_breathe = castle
+b_winters_breathe_2 = city
+b_winters_breathe_3 = temple
+b_winters_breathe_4 = castle
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

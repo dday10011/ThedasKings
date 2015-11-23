@@ -1,0 +1,16 @@
+# c_uden
+
+# County Title
+title = c_uden
+
+# Settlements
+max_settlements = 2
+
+b_uden = castle
+b_uden_2 = city
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

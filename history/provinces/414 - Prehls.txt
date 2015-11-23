@@ -1,0 +1,19 @@
+# c_prehls
+
+# County Title
+title = c_prehls
+
+# Settlements
+max_settlements = 5
+
+b_prehls = castle
+b_prehls_2 = city
+b_prehls_3 = temple
+b_prehls_4 = castle
+b_prehls_5 = city
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

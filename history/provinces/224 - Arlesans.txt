@@ -1,0 +1,19 @@
+# c_arlesans
+
+# County Title
+title = c_arlesans
+
+# Settlements
+max_settlements = 5
+
+b_arlesans = castle
+b_arlesans_2 = city
+b_arlesans_3 = temple
+b_arlesans_4 = castle
+b_arlesans_5 = city
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

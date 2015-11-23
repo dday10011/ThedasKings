@@ -1,0 +1,15 @@
+# c_heigi
+
+# County Title
+title = c_heigi
+
+# Settlements
+max_settlements = 1
+
+b_heigi = castle
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

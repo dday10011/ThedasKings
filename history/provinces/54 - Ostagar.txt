@@ -1,0 +1,17 @@
+# c_ostagar
+
+# County Title
+title = c_ostagar
+
+# Settlements
+max_settlements = 3
+
+b_ostagar = castle
+b_ostagar_2 = city
+b_ostagar_3 = temple
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

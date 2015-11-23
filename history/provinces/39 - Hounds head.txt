@@ -1,0 +1,17 @@
+# c_hounds_head
+
+# County Title
+title = c_hounds_head
+
+# Settlements
+max_settlements = 3
+
+b_hounds_head = castle
+b_hounds_head_2 = city
+b_hounds_head_3 = temple
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

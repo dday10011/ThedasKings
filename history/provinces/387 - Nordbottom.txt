@@ -1,0 +1,20 @@
+# c_nordbottom
+
+# County Title
+title = c_nordbottom
+
+# Settlements
+max_settlements = 6
+
+b_nordbottom = castle
+b_nordbottom_2 = city
+b_nordbottom_3 = temple
+b_nordbottom_4 = castle
+b_nordbottom_5 = city
+b_nordbottom_6 = temple
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

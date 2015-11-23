@@ -1,0 +1,17 @@
+# c_brecil_sources
+
+# County Title
+title = c_brecil_sources
+
+# Settlements
+max_settlements = 3
+
+b_brecil_sources = castle
+b_brecil_sources_2 = city
+b_brecil_sources_3 = temple
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

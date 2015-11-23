@@ -1,0 +1,19 @@
+# c_green_dales
+
+# County Title
+title = c_green_dales
+
+# Settlements
+max_settlements = 5
+
+b_green_dales = castle
+b_green_dales_2 = city
+b_green_dales_3 = temple
+b_green_dales_4 = castle
+b_green_dales_5 = city
+
+# Misc
+culture = starkhaven
+religion = andrastian_chantry
+
+#History

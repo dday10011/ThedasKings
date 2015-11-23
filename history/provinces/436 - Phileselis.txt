@@ -1,0 +1,17 @@
+# c_phileselis
+
+# County Title
+title = c_phileselis
+
+# Settlements
+max_settlements = 3
+
+b_phileselis = castle
+b_phileselis_2 = city
+b_phileselis_3 = temple
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

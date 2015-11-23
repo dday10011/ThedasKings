@@ -1,0 +1,17 @@
+# c_cumeron
+
+# County Title
+title = c_cumeron
+
+# Settlements
+max_settlements = 3
+
+b_cumeron = castle
+b_cumeron_2 = city
+b_cumeron_3 = temple
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

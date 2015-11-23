@@ -1,0 +1,19 @@
+# c_estwatch
+
+# County Title
+title = c_estwatch
+
+# Settlements
+max_settlements = 5
+
+b_estwatch = castle
+b_estwatch_2 = city
+b_estwatch_3 = temple
+b_estwatch_4 = castle
+b_estwatch_5 = city
+
+# Misc
+culture = antivan
+religion = pirates
+
+#History

@@ -1,0 +1,19 @@
+# c_aseman
+
+# County Title
+title = c_aseman
+
+# Settlements
+max_settlements = 5
+
+b_aseman = castle
+b_aseman_2 = city
+b_aseman_3 = temple
+b_aseman_4 = castle
+b_aseman_5 = city
+
+# Misc
+culture = rivaini
+religion = andrastian_chantry
+
+#History

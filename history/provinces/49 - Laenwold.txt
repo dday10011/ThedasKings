@@ -1,0 +1,18 @@
+# c_laenwold
+
+# County Title
+title = c_laenwold
+
+# Settlements
+max_settlements = 4
+
+b_laenwold = castle
+b_laenwold_2 = city
+b_laenwold_3 = temple
+b_laenwold_4 = castle
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

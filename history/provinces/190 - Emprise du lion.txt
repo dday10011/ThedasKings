@@ -1,0 +1,18 @@
+# c_emprise_du_lion
+
+# County Title
+title = c_emprise_du_lion
+
+# Settlements
+max_settlements = 4
+
+b_emprise_du_lion = castle
+b_emprise_du_lion_2 = city
+b_emprise_du_lion_3 = temple
+b_emprise_du_lion_4 = castle
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

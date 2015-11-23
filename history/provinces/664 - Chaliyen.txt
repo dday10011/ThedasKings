@@ -1,0 +1,19 @@
+# c_chaliyen
+
+# County Title
+title = c_chaliyen
+
+# Settlements
+max_settlements = 5
+
+b_chaliyen = castle
+b_chaliyen_2 = city
+b_chaliyen_3 = temple
+b_chaliyen_4 = castle
+b_chaliyen_5 = city
+
+# Misc
+culture = rivaini
+religion = andrastian_chantry
+
+#History

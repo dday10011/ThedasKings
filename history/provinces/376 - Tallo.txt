@@ -1,0 +1,21 @@
+# c_tallo
+
+# County Title
+title = c_tallo
+
+# Settlements
+max_settlements = 7
+
+b_tallo = castle
+b_tallo_2 = city
+b_tallo_3 = temple
+b_tallo_4 = castle
+b_tallo_5 = city
+b_tallo_6 = temple
+b_tallo_7 = castle
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

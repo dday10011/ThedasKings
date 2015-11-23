@@ -1,0 +1,18 @@
+# c_val_henar
+
+# County Title
+title = c_val_henar
+
+# Settlements
+max_settlements = 4
+
+b_val_henar = castle
+b_val_henar_2 = city
+b_val_henar_3 = temple
+b_val_henar_4 = castle
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

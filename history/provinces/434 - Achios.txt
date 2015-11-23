@@ -1,0 +1,18 @@
+# c_achios
+
+# County Title
+title = c_achios
+
+# Settlements
+max_settlements = 4
+
+b_achios = castle
+b_achios_2 = city
+b_achios_3 = temple
+b_achios_4 = castle
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

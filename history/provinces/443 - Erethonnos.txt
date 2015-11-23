@@ -1,0 +1,18 @@
+# c_erethonnos
+
+# County Title
+title = c_erethonnos
+
+# Settlements
+max_settlements = 4
+
+b_erethonnos = castle
+b_erethonnos_2 = city
+b_erethonnos_3 = temple
+b_erethonnos_4 = castle
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

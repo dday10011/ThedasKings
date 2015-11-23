@@ -1,0 +1,17 @@
+# c_elibe
+
+# County Title
+title = c_elibe
+
+# Settlements
+max_settlements = 3
+
+b_elibe = castle
+b_elibe_2 = city
+b_elibe_3 = temple
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

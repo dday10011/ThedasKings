@@ -1,0 +1,17 @@
+# c_geuesberg
+
+# County Title
+title = c_geuesberg
+
+# Settlements
+max_settlements = 3
+
+b_geuesberg = castle
+b_geuesberg_2 = city
+b_geuesberg_3 = temple
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

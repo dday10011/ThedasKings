@@ -1,0 +1,21 @@
+# c_hormak
+
+# County Title
+title = c_hormak
+
+# Settlements
+max_settlements = 7
+
+b_hormak = castle
+#b_hormak_2 = city
+#b_hormak_3 = temple
+#b_hormak_4 = castle
+#b_hormak_5 = city
+#b_hormak_6 = temple
+#b_hormak_7 = castle
+
+# Misc
+culture = darkspawn
+religion = darkspawn_old_gods
+
+#History

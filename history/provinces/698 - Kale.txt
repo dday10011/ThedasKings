@@ -1,0 +1,19 @@
+# c_kale
+
+# County Title
+title = c_kale
+
+# Settlements
+max_settlements = 5
+
+b_kale = castle
+b_kale_2 = city
+b_kale_3 = temple
+b_kale_4 = castle
+b_kale_5 = city
+
+# Misc
+culture = qunari
+religion = qun_religion
+
+#History

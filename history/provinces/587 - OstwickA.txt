@@ -1,0 +1,17 @@
+# c_ostwicka
+
+# County Title
+title = c_ostwicka
+
+# Settlements
+max_settlements = 3
+
+b_ostwicka = castle
+b_ostwicka_2 = city
+b_ostwicka_3 = temple
+
+# Misc
+culture = ostwick
+religion = andrastian_chantry
+
+#History

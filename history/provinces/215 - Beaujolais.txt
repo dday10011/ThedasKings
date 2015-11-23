@@ -1,0 +1,20 @@
+# c_beaujolais
+
+# County Title
+title = c_beaujolais
+
+# Settlements
+max_settlements = 6
+
+b_beaujolais = castle
+b_beaujolais_2 = city
+b_beaujolais_3 = temple
+b_beaujolais_4 = castle
+b_beaujolais_5 = city
+b_beaujolais_6 = temple
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,17 @@
+# c_vivinter
+
+# County Title
+title = c_vivinter
+
+# Settlements
+max_settlements = 3
+
+b_vivinter = castle
+b_vivinter_2 = city
+b_vivinter_3 = temple
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

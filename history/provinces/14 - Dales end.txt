@@ -1,0 +1,17 @@
+# c_dales_end
+
+# County Title
+title = c_dales_end
+
+# Settlements
+max_settlements = 3
+
+b_dales_end = castle
+b_dales_end_2 = city
+b_dales_end_3 = temple
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

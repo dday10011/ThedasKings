@@ -1,0 +1,17 @@
+# c_oretano
+
+# County Title
+title = c_oretano
+
+# Settlements
+max_settlements = 3
+
+b_oretano = castle
+b_oretano_2 = city
+b_oretano_3 = temple
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

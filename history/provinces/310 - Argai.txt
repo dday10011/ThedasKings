@@ -1,0 +1,20 @@
+# c_argai
+
+# County Title
+title = c_argai
+
+# Settlements
+max_settlements = 6
+
+b_argai = castle
+b_argai_2 = city
+b_argai_3 = temple
+b_argai_4 = castle
+b_argai_5 = city
+b_argai_6 = temple
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

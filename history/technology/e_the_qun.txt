@@ -1,0 +1,25 @@
+#THE QUN
+technology = {
+	titles = {
+		d_seheron
+		d_alam
+		d_boeric_arrecife
+		d_boeric_islands
+		d_foglands
+		d_qunandar
+		d_outer_horn
+		d_par_vollen
+		d_passage_coast
+		d_watcher_islands
+	}
+	7000 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+	12000 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}

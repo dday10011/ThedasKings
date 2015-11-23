@@ -1,0 +1,21 @@
+# c_denerim
+
+# County Title
+title = c_denerim
+
+# Settlements
+max_settlements = 7
+
+b_denerim = castle
+b_denerim_2 = city
+b_denerim_3 = temple
+b_denerim_4 = castle
+b_denerim_5 = city
+b_denerim_6 = temple
+b_denerim_7 = castle
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,18 @@
+# c_nevarra
+
+# County Title
+title = c_nevarra
+
+# Settlements
+max_settlements = 4
+
+b_nevarra = castle
+b_nevarra_2 = city
+b_nevarra_3 = temple
+b_nevarra_4 = castle
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

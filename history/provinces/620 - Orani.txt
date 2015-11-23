@@ -1,0 +1,18 @@
+# c_orani
+
+# County Title
+title = c_orani
+
+# Settlements
+max_settlements = 4
+
+b_orani = castle
+b_orani_2 = city
+b_orani_3 = temple
+b_orani_4 = castle
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

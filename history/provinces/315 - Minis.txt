@@ -1,0 +1,19 @@
+# c_minis
+
+# County Title
+title = c_minis
+
+# Settlements
+max_settlements = 5
+
+b_minis = castle
+b_minis_2 = city
+b_minis_3 = temple
+b_minis_4 = castle
+b_minis_5 = city
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

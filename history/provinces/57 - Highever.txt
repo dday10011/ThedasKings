@@ -1,0 +1,19 @@
+# c_highever
+
+# County Title
+title = c_highever
+
+# Settlements
+max_settlements = 5
+
+b_highever = castle
+b_highever_2 = city
+b_highever_3 = temple
+b_highever_4 = castle
+b_highever_5 = city
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

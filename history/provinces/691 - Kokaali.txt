@@ -1,0 +1,19 @@
+# c_kokaali
+
+# County Title
+title = c_kokaali
+
+# Settlements
+max_settlements = 5
+
+b_kokaali = castle
+b_kokaali_2 = city
+b_kokaali_3 = temple
+b_kokaali_4 = castle
+b_kokaali_5 = city
+
+# Misc
+culture = qunari
+religion = qun_religion
+
+#History

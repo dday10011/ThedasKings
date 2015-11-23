@@ -1,0 +1,18 @@
+# c_camaro
+
+# County Title
+title = c_camaro
+
+# Settlements
+max_settlements = 4
+
+b_camaro = castle
+b_camaro_2 = city
+b_camaro_3 = temple
+b_camaro_4 = castle
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

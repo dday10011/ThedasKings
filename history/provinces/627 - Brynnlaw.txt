@@ -1,0 +1,19 @@
+# c_brynnlaw
+
+# County Title
+title = c_brynnlaw
+
+# Settlements
+max_settlements = 5
+
+b_brynnlaw = castle
+b_brynnlaw_2 = city
+b_brynnlaw_3 = temple
+b_brynnlaw_4 = castle
+b_brynnlaw_5 = city
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

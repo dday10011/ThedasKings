@@ -1,0 +1,15 @@
+# c_deep_road_23
+
+# County Title
+title = c_deep_road_23
+
+# Settlements
+max_settlements = 1
+
+b_deep_road_23 = castle
+
+# Misc
+culture = darkspawn
+religion = darkspawn_old_gods
+
+#History

@@ -1,0 +1,16 @@
+# c_gilsstedten
+
+# County Title
+title = c_gilsstedten
+
+# Settlements
+max_settlements = 2
+
+b_gilsstedten = castle
+b_gilsstedten_2 = city
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,20 @@
+# c_montsimmard
+
+# County Title
+title = c_montsimmard
+
+# Settlements
+max_settlements = 6
+
+b_montsimmard = castle
+b_montsimmard_2 = city
+b_montsimmard_3 = temple
+b_montsimmard_4 = castle
+b_montsimmard_5 = city
+b_montsimmard_6 = temple
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

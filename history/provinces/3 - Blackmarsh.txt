@@ -1,0 +1,18 @@
+# c_blackmarsh
+
+# County Title
+title = c_blackmarsh
+
+# Settlements
+max_settlements = 4
+
+b_blackmarsh = castle
+b_blackmarsh_2 = city
+b_blackmarsh_3 = temple
+b_blackmarsh_4 = castle
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,16 @@
+# c_halenberg
+
+# County Title
+title = c_halenberg
+
+# Settlements
+max_settlements = 2
+
+b_halenberg = castle
+b_halenberg_2 = city
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

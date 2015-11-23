@@ -1,0 +1,18 @@
+# c_caneva
+
+# County Title
+title = c_caneva
+
+# Settlements
+max_settlements = 4
+
+b_caneva = castle
+b_caneva_2 = city
+b_caneva_3 = temple
+b_caneva_4 = castle
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

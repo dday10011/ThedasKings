@@ -1,0 +1,15 @@
+# c_revann_thaig
+
+# County Title
+title = c_revann_thaig
+
+# Settlements
+max_settlements = 1
+
+b_revann_thaig = castle
+
+# Misc
+culture = darkspawn
+religion = darkspawn_old_gods
+
+#History

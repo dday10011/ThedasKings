@@ -1,0 +1,19 @@
+# c_maconnais
+
+# County Title
+title = c_maconnais
+
+# Settlements
+max_settlements = 5
+
+b_maconnais = castle
+b_maconnais_2 = city
+b_maconnais_3 = temple
+b_maconnais_4 = castle
+b_maconnais_5 = city
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

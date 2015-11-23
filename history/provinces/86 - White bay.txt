@@ -1,0 +1,16 @@
+# c_white_bay
+
+# County Title
+title = c_white_bay
+
+# Settlements
+max_settlements = 2
+
+b_white_bay = castle
+b_white_bay_2 = city
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

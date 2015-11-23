@@ -1,0 +1,466 @@
+# Settlement decisions are possible vs _all_ settlements and are shown in the Settlement Diplomacy View, not the Intrigue View. The taker is in the FROM scope.
+#
+# filter = [capital/owned/vassal_owned/sub_realm_owned/realm_owned/dynasty_owned/all]
+# ai_target_filter = [capital/owned/vassal_owned/sub_realm_owned/realm_owned/dynasty_owned/all] (which settlements for which the AI evaluates the decision.)
+#	owned: all settlements owned by the AI
+#	vassal_owned: all settlements owned by direct vassal rulers of the AI's employer
+#	sub_realm_owned: all settlements below the AI's employer
+#	realm_owned: all settlements in the same top realm as the AI
+#	dynasty_owned: all settlements owned by members of the same dynasty
+#	all: all settlements (Avoid if possible. VERY CPU-HEAVY!)
+#	
+
+settlement_decisions = {
+
+	convert_tribal_to_castle = {
+		filter = owned
+		ai_target_filter = owned
+		is_high_prio = yes
+		
+		from_potential = {
+			is_feudal = yes
+		}
+		
+		potential = {
+			holding_type = tribal
+			holder_scope = {
+				character = FROM
+			}
+		}
+		allow = {
+			location = {
+				religion = FROM
+			}
+		}
+		effect = {
+			convert_to = CASTLE
+			refill_holding_levy = yes
+			
+			hidden_tooltip = {
+				if = {
+					limit = {
+						is_capital = yes
+						dejure_liege_title = {
+							location = {
+								num_of_empty_holdings = 2
+							}
+							NOT = {
+								any_direct_de_jure_vassal_title = {
+									holding_type = city
+								}
+							}
+						}
+					}
+					location = {
+						build_holding = {
+							type = city
+						}
+					}
+				}
+				
+				if = {
+					limit = {
+						is_capital = yes
+						dejure_liege_title = {
+							location = {
+								num_of_empty_holdings = 2
+							}
+							NOT = {
+								any_direct_de_jure_vassal_title = {
+									holding_type = temple
+								}
+							}
+						}
+					}
+					location = {
+						build_holding = {
+							type = temple
+						}
+					}
+				}
+			}
+		}
+		
+		revoke_allowed = {
+			always = no
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	convert_tribal_to_city = {
+		filter = owned
+		ai_target_filter = owned
+		is_high_prio = yes
+		
+		from_potential = {
+			is_republic = yes
+		}
+		
+		potential = {
+			holding_type = tribal
+			holder_scope = {
+				character = FROM
+			}
+		}
+		allow = {
+			location = {
+				religion = FROM
+			}
+		}
+		effect = {
+			convert_to = CITY
+			refill_holding_levy = yes
+			
+			hidden_tooltip = {
+				if = {
+					limit = {
+						is_capital = yes
+						dejure_liege_title = {
+							location = {
+								num_of_empty_holdings = 2
+							}
+							NOT = {
+								any_direct_de_jure_vassal_title = {
+									holding_type = castle
+								}
+							}
+						}
+					}
+					location = {
+						build_holding = {
+							type = castle
+						}
+					}
+				}
+				
+				if = {
+					limit = {
+						is_capital = yes
+						dejure_liege_title = {
+							location = {
+								num_of_empty_holdings = 2
+							}
+							NOT = {
+								any_direct_de_jure_vassal_title = {
+									holding_type = temple
+								}
+							}
+						}
+					}
+					location = {
+						build_holding = {
+							type = temple
+						}
+					}
+				}
+			}
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 1 # On average ca 1 year before taken
+		}
+	}
+	
+	make_primary = {
+		filter = owned
+		ai_target_filter = owned
+		
+		potential = {
+			is_capital = no
+			holder_scope = {
+				character = FROM
+			}
+			dejure_liege_title = {
+				holder_scope = {
+					character = FROM
+				}
+			}
+		}
+		allow = {
+			FROM = {
+				OR = {
+					AND = {
+						is_merchant_republic = no
+						is_nomadic = no
+					}
+					capital_scope = {
+						NOT = { province = PREVPREV }
+					}
+				}
+			}
+		}
+		effect = {
+			make_capital_holding = yes
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 1
+			
+			modifier = { # Not if this settlement is not allowed
+				factor = 0
+				NOT = { is_allowed_holding_type = FROM }
+			}
+			
+			modifier = { # Not if existing capital is preferred
+				factor = 0
+				defacto_liege_title = {
+					is_preferred_holding_type = FROM
+				}
+			}
+			
+			modifier = { # Not if this settlement is not preferred and another settlement is
+				factor = 0
+				NOT = { is_preferred_holding_type = FROM }
+				defacto_liege_title = {
+					any_direct_de_jure_vassal_title = {
+						holder = FROM
+						is_preferred_holding_type = FROM
+					}
+				}
+			}
+		}
+	}
+	
+	revoke_primary = {
+		filter = owned
+		ai_target_filter = owned
+		
+		from_potential = {
+			is_nomadic = yes
+			has_dlc = "Horse Lords"
+		}
+		
+		potential = {
+			is_capital = yes
+			holder_scope = {
+				character = FROM
+				capital_holding = {
+					NOT = {
+						title = PREVPREV
+					}
+				}
+			}
+			capital_scope = {
+				has_empty_holding = yes
+			}
+			NOT = { holding_type = nomad }
+		}
+		effect = {
+			revoke_capital_holding = yes
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	pillage_settlement = {
+		filter = owned
+		ai_target_filter = owned
+		is_high_prio = yes
+		
+		from_potential = {
+			is_nomadic = yes
+			has_dlc = "Horse Lords"
+		}
+		
+		potential = {
+			NOT = { holding_type = nomad }
+			has_siege = no
+			controlled_by = FROM
+		}
+		allow = {
+			location = {
+				NOT = { has_province_modifier = recently_burnt_the_land }
+				OR = {
+					owner = { character = FROM }
+					NOT = { has_province_modifier = recently_burnt_the_land_not_owner }
+				}
+			}
+			OR = {
+				owner = {
+					character = FROM
+				}
+				num_of_buildings = 4
+			}
+			OR = {
+				FROM = {
+					independent = yes
+					
+					custom_tooltip = { 
+						text = TT_NOT_SAME_REALM
+						hidden_tooltip = {
+							FROM = {
+								top_liege = {
+									PREVPREV = {
+										holder_scope = {
+											top_liege = {
+												NOT = { character = PREVPREVPREV }
+											}
+										} 
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			if = {
+				limit = { NOT = { holding_type = tribal } }
+				FROM = {
+					if = {
+						limit = {
+							location = {
+								owner = {
+									character = FROM
+								}
+							}
+						}
+						wealth = 50
+					}
+					if = {
+						limit = {
+							NOT = {
+								location = {
+									owner = {
+										character = FROM
+									}
+								}
+							}
+						}
+						wealth = 10
+					}
+					random_list = {
+						10 = { military_techpoints = 10 }
+						10 = { economy_techpoints = 10 }
+						10 = { culture_techpoints = 10 }
+					}
+				}
+			}
+			if = {
+				limit = { holding_type = tribal }
+				FROM = {
+					if = {
+						limit = {
+							owner = {
+								character = FROM
+							}
+						}
+						wealth = 25
+					}
+					if = {
+						limit = {
+							NOT = {
+								owner = {
+									character = FROM
+								}
+							}
+						}
+						wealth = 5
+					}
+					random_list = {
+						10 = { military_techpoints = 2 }
+						10 = { economy_techpoints = 2 }
+						10 = { culture_techpoints = 2 }
+					}
+				}
+			}
+
+			location = {
+				if = {
+					limit = { 
+						any_province_holding = {
+							NOT = { holding_type = nomad }
+						}
+					}
+					if = {
+						limit = { 
+							owner = { 
+								character = FROM
+							}
+						}
+						add_province_modifier = {
+							modifier = burnt_the_land
+							years = 8
+							stacking = yes
+						}
+						add_province_modifier = {
+							modifier = recently_burnt_the_land
+							months = 6
+						}
+					}
+					if = {
+						limit = {
+							NOT = {
+								owner = { 
+									character = FROM
+								}
+							}
+						}
+						add_province_modifier = {
+							modifier = recently_burnt_the_land_not_owner
+							years = 10
+						}
+					}
+				}
+			}
+
+			custom_tooltip = {
+				text = "PILLAGE_DESTROY_BUILDINGS"
+				hidden_tooltip = {
+					if = {
+						limit = { 
+							owner = { 
+								character = FROM
+							}
+						}
+						destroy_random_building = THIS
+						destroy_random_building = THIS
+					}
+					if = {
+						limit = {
+							NOT = {
+								owner = { 
+									character = FROM
+								}
+							}
+						}
+						destroy_random_building = THIS
+					}
+				}
+			}
+			if = {
+				limit = {
+					NOT = { has_any_building = yes }
+					owner = {
+						character = FROM
+					}
+				}
+				destroy_settlement = THIS
+			}
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 1
+			
+			modifier = { # Only for tribal holdings
+				factor = 0
+				NOT = { holding_type = tribal }
+			}
+		}
+	}
+}	
+#change government stuff removed

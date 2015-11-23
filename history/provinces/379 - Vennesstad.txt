@@ -1,0 +1,17 @@
+# c_vennesstad
+
+# County Title
+title = c_vennesstad
+
+# Settlements
+max_settlements = 3
+
+b_vennesstad = castle
+b_vennesstad_2 = city
+b_vennesstad_3 = temple
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

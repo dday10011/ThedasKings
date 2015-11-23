@@ -1,0 +1,18 @@
+#ARLATHAN
+technology = {
+	titles = {
+		d_eastern_arlathan
+		d_southern_arlathan
+		d_western_arlathan
+	}
+	7000 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+	12000 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}

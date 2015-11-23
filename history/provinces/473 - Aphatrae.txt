@@ -1,0 +1,18 @@
+# c_aphatrae
+
+# County Title
+title = c_aphatrae
+
+# Settlements
+max_settlements = 4
+
+b_aphatrae = castle
+b_aphatrae_2 = city
+b_aphatrae_3 = temple
+b_aphatrae_4 = castle
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

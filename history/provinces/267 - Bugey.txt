@@ -1,0 +1,16 @@
+# c_bugey
+
+# County Title
+title = c_bugey
+
+# Settlements
+max_settlements = 2
+
+b_bugey = castle
+b_bugey_2 = city
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

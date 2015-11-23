@@ -1,0 +1,17 @@
+# c_perivantium
+
+# County Title
+title = c_perivantium
+
+# Settlements
+max_settlements = 3
+
+b_perivantium = castle
+b_perivantium_2 = city
+b_perivantium_3 = temple
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

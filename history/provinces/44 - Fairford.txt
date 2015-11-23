@@ -1,0 +1,17 @@
+# c_fairford
+
+# County Title
+title = c_fairford
+
+# Settlements
+max_settlements = 3
+
+b_fairford = castle
+b_fairford_2 = city
+b_fairford_3 = temple
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

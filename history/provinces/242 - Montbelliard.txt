@@ -1,0 +1,19 @@
+# c_montbelliard
+
+# County Title
+title = c_montbelliard
+
+# Settlements
+max_settlements = 5
+
+b_montbelliard = castle
+b_montbelliard_2 = city
+b_montbelliard_3 = temple
+b_montbelliard_4 = castle
+b_montbelliard_5 = city
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

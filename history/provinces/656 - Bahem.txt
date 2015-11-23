@@ -1,0 +1,19 @@
+# c_bahem
+
+# County Title
+title = c_bahem
+
+# Settlements
+max_settlements = 5
+
+b_bahem = castle
+b_bahem_2 = city
+b_bahem_3 = temple
+b_bahem_4 = castle
+b_bahem_5 = city
+
+# Misc
+culture = rivaini
+religion = andrastian_chantry
+
+#History

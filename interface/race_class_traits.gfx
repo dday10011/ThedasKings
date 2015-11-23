@@ -1,0 +1,58 @@
+spriteTypes = {
+        spriteType = {
+                name = "GFX_trait_human_race"
+                texturefile = "gfx/traits/human_race.tga"
+                noOfFrames = 1
+                norefcount = yes
+                effectFile = "gfx/FX/buttonstate.lua"
+        }
+        spriteType = {
+                name = "GFX_trait_elf_race"
+                texturefile = "gfx/traits/elf_race.tga"
+                noOfFrames = 1
+                norefcount = yes
+                effectFile = "gfx/FX/buttonstate.lua"
+        }
+        spriteType = {
+                name = "GFX_trait_dwarf_race"
+                texturefile = "gfx/traits/dwarf_race.tga"
+                noOfFrames = 1
+                norefcount = yes
+                effectFile = "gfx/FX/buttonstate.lua"
+        }
+        spriteType = {
+                name = "GFX_trait_qunari_race"
+                texturefile = "gfx/traits/qunari_race.tga"
+                noOfFrames = 1
+                norefcount = yes
+                effectFile = "gfx/FX/buttonstate.lua"
+        }
+        spriteType = {
+                name = "GFX_trait_darkspawn_race"
+                texturefile = "gfx/traits/darkspawn_race.tga"
+                noOfFrames = 1
+                norefcount = yes
+                effectFile = "gfx/FX/buttonstate.lua"
+        }
+        spriteType = {
+                name = "GFX_trait_mage"
+                texturefile = "gfx/traits/mage.tga"
+                noOfFrames = 1
+                norefcount = yes
+                effectFile = "gfx/FX/buttonstate.lua"
+        }
+		        spriteType = {
+                name = "GFX_trait_halfdwarf_race"
+                texturefile = "gfx/traits/halfdwarf_race.dds"
+                noOfFrames = 1
+                norefcount = yes
+                effectFile = "gfx/FX/buttonstate.lua"
+        }
+		        spriteType = {
+                name = "GFX_trait_elf_blooded"
+                texturefile = "gfx/traits/elf_blooded.dds"
+                noOfFrames = 1
+                norefcount = yes
+                effectFile = "gfx/FX/buttonstate.lua"
+        }
+}

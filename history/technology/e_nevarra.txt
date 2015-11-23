@@ -1,0 +1,27 @@
+#NEVARRA
+technology = {
+	titles = {
+		d_cumberland
+		d_fields_of_ghislain
+		d_heigi
+		d_laddia
+		d_nevarra
+		d_hunterfell
+		d_nessum
+		d_trevis
+		d_perendale
+		d_andorals_reach
+		d_serrant
+		d_the_blasted_hills
+	}
+	7000 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+	12000 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}

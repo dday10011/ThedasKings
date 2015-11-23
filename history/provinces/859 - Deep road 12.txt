@@ -1,0 +1,21 @@
+# c_deep_road_12
+
+# County Title
+title = c_deep_road_12
+
+# Settlements
+max_settlements = 7
+
+b_deep_road_12 = castle
+#b_deep_road_12_2 = city
+#b_deep_road_12_3 = temple
+#b_deep_road_12_4 = castle
+#b_deep_road_12_5 = city
+#b_deep_road_12_6 = temple
+#b_deep_road_12_7 = castle
+
+# Misc
+culture = kal_sharok
+religion = our_ancestors
+
+#History

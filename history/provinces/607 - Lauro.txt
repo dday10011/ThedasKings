@@ -1,0 +1,19 @@
+# c_lauro
+
+# County Title
+title = c_lauro
+
+# Settlements
+max_settlements = 5
+
+b_lauro = castle
+b_lauro_2 = city
+b_lauro_3 = temple
+b_lauro_4 = castle
+b_lauro_5 = city
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

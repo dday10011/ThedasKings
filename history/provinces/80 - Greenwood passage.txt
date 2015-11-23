@@ -1,0 +1,18 @@
+# c_greenwood_passage
+
+# County Title
+title = c_greenwood_passage
+
+# Settlements
+max_settlements = 4
+
+b_greenwood_passage = castle
+b_greenwood_passage_2 = city
+b_greenwood_passage_3 = temple
+b_greenwood_passage_4 = castle
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

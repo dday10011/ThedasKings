@@ -1,0 +1,17 @@
+# c_weirstead
+
+# County Title
+title = c_weirstead
+
+# Settlements
+max_settlements = 3
+
+b_weirstead = castle
+b_weirstead_2 = city
+b_weirstead_3 = temple
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,17 @@
+# c_petsilene
+
+# County Title
+title = c_petsilene
+
+# Settlements
+max_settlements = 3
+
+b_petsilene = castle
+b_petsilene_2 = city
+b_petsilene_3 = temple
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

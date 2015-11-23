@@ -1,0 +1,17 @@
+# c_agrineusis
+
+# County Title
+title = c_agrineusis
+
+# Settlements
+max_settlements = 3
+
+b_agrineusis = castle
+b_agrineusis_2 = city
+b_agrineusis_3 = temple
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

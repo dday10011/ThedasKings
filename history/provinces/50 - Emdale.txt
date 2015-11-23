@@ -1,0 +1,18 @@
+# c_emdale
+
+# County Title
+title = c_emdale
+
+# Settlements
+max_settlements = 4
+
+b_emdale = castle
+b_emdale_2 = city
+b_emdale_3 = temple
+b_emdale_4 = castle
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

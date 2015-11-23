@@ -1,0 +1,19 @@
+# c_talvan
+
+# County Title
+title = c_talvan
+
+# Settlements
+max_settlements = 5
+
+b_talvan = castle
+b_talvan_2 = city
+b_talvan_3 = temple
+b_talvan_4 = castle
+b_talvan_5 = city
+
+# Misc
+culture = qunari
+religion = qun_religion
+
+#History

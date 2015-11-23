@@ -1,0 +1,19 @@
+# c_scidrasus
+
+# County Title
+title = c_scidrasus
+
+# Settlements
+max_settlements = 5
+
+b_scidrasus = castle
+b_scidrasus_2 = city
+b_scidrasus_3 = temple
+b_scidrasus_4 = castle
+b_scidrasus_5 = city
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

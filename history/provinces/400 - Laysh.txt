@@ -1,0 +1,19 @@
+# c_laysh
+
+# County Title
+title = c_laysh
+
+# Settlements
+max_settlements = 5
+
+b_laysh = castle
+b_laysh_2 = city
+b_laysh_3 = temple
+b_laysh_4 = castle
+b_laysh_5 = city
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

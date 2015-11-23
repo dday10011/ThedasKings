@@ -1,0 +1,20 @@
+# c_rouergue
+
+# County Title
+title = c_rouergue
+
+# Settlements
+max_settlements = 6
+
+b_rouergue = castle
+b_rouergue_2 = city
+b_rouergue_3 = temple
+b_rouergue_4 = castle
+b_rouergue_5 = city
+b_rouergue_6 = temple
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

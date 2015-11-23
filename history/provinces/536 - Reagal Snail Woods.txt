@@ -1,0 +1,15 @@
+# c_reagal_snail_woods
+
+# County Title
+title = c_reagal_snail_woods
+
+# Settlements
+max_settlements = 1
+
+b_reagal_snail_woods = castle
+
+# Misc
+culture = forest
+religion = forest
+
+#History

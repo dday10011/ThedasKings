@@ -1,0 +1,16 @@
+# c_skyholdb
+
+# County Title
+title = c_skyholdb
+
+# Settlements
+max_settlements = 2
+
+b_skyholdb = castle
+b_skyholdb_2 = city
+
+# Misc
+culture = avvar
+religion = avvar
+
+#History

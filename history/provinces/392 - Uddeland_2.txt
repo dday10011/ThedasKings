@@ -1,0 +1,17 @@
+# c_uddeland_2
+
+# County Title
+title = c_uddeland_2
+
+# Settlements
+max_settlements = 3
+
+b_uddeland_6 = castle
+b_uddeland_7 = city
+b_uddeland_8 = temple
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

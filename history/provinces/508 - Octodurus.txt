@@ -1,0 +1,17 @@
+# c_octodurus
+
+# County Title
+title = c_octodurus
+
+# Settlements
+max_settlements = 3
+
+b_octodurus = castle
+b_octodurus_2 = city
+b_octodurus_3 = temple
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

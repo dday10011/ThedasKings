@@ -1,0 +1,18 @@
+# c_neapeselis
+
+# County Title
+title = c_neapeselis
+
+# Settlements
+max_settlements = 4
+
+b_neapeselis = castle
+b_neapeselis_2 = city
+b_neapeselis_3 = temple
+b_neapeselis_4 = castle
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

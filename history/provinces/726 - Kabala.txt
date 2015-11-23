@@ -1,0 +1,19 @@
+# c_kabala
+
+# County Title
+title = c_kabala
+
+# Settlements
+max_settlements = 5
+
+b_kabala = castle
+b_kabala_2 = city
+b_kabala_3 = temple
+b_kabala_4 = castle
+b_kabala_5 = city
+
+# Misc
+culture = qunari
+religion = qun_religion
+
+#History

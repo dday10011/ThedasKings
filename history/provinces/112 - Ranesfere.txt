@@ -1,0 +1,19 @@
+# c_ranesfere
+
+# County Title
+title = c_ranesfere
+
+# Settlements
+max_settlements = 5
+
+b_ranesfere = castle
+b_ranesfere_2 = city
+b_ranesfere_3 = temple
+b_ranesfere_4 = castle
+b_ranesfere_5 = city
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

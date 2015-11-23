@@ -1,0 +1,20 @@
+# c_val_dorm
+
+# County Title
+title = c_val_dorm
+
+# Settlements
+max_settlements = 6
+
+b_val_dorm = castle
+b_val_dorm_2 = city
+b_val_dorm_3 = temple
+b_val_dorm_4 = castle
+b_val_dorm_5 = city
+b_val_dorm_6 = temple
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

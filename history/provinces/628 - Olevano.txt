@@ -1,0 +1,18 @@
+# c_olevano
+
+# County Title
+title = c_olevano
+
+# Settlements
+max_settlements = 4
+
+b_olevano = castle
+b_olevano_2 = city
+b_olevano_3 = temple
+b_olevano_4 = castle
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

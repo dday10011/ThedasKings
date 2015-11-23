@@ -1,0 +1,18 @@
+# c_laidlaw
+
+# County Title
+title = c_laidlaw
+
+# Settlements
+max_settlements = 4
+
+b_laidlaw = castle
+b_laidlaw_2 = city
+b_laidlaw_3 = temple
+b_laidlaw_4 = castle
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

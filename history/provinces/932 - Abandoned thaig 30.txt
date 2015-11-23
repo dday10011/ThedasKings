@@ -1,0 +1,21 @@
+# c_abandoned_thaig_30
+
+# County Title
+title = c_abandoned_thaig_30
+
+# Settlements
+max_settlements = 7
+
+b_abandoned_thaig_30 = castle
+#b_abandoned_thaig_30_2 = city
+#b_abandoned_thaig_30_3 = temple
+#b_abandoned_thaig_30_4 = castle
+#b_abandoned_thaig_30_5 = city
+#b_abandoned_thaig_30_6 = temple
+#b_abandoned_thaig_30_7 = castle
+
+# Misc
+culture = darkspawn
+religion = darkspawn_old_gods
+
+#History

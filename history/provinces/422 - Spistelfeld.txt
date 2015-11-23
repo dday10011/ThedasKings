@@ -1,0 +1,17 @@
+# c_spistelfeld
+
+# County Title
+title = c_spistelfeld
+
+# Settlements
+max_settlements = 3
+
+b_spistelfeld = castle
+b_spistelfeld_2 = city
+b_spistelfeld_3 = temple
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

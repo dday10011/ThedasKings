@@ -1,0 +1,18 @@
+# c_versone
+
+# County Title
+title = c_versone
+
+# Settlements
+max_settlements = 4
+
+b_versone = castle
+b_versone_2 = city
+b_versone_3 = temple
+b_versone_4 = castle
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,18 @@
+# c_vigils_keep
+
+# County Title
+title = c_vigils_keep
+
+# Settlements
+max_settlements = 4
+
+b_vigils_keep = castle
+b_vigils_keep_2 = city
+b_vigils_keep_3 = temple
+b_vigils_keep_4 = castle
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

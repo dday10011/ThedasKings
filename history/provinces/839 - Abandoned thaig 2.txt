@@ -1,0 +1,21 @@
+# c_abandoned_thaig_2
+
+# County Title
+title = c_abandoned_thaig_2
+
+# Settlements
+max_settlements = 7
+
+b_abandoned_thaig_2_2 = castle
+#b_abandoned_thaig_2_3 = city
+#b_abandoned_thaig_2_4 = temple
+#b_abandoned_thaig_2_5 = castle
+#b_abandoned_thaig_2_6 = city
+#b_abandoned_thaig_2_7 = temple
+#b_abandoned_thaig_2_8 = castle
+
+# Misc
+culture = kal_sharok
+religion = our_ancestors
+
+#History

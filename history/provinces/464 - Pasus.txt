@@ -1,0 +1,18 @@
+# c_pasus
+
+# County Title
+title = c_pasus
+
+# Settlements
+max_settlements = 4
+
+b_pasus = castle
+b_pasus_2 = city
+b_pasus_3 = temple
+b_pasus_4 = castle
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

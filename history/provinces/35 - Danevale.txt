@@ -1,0 +1,18 @@
+# c_danevale
+
+# County Title
+title = c_danevale
+
+# Settlements
+max_settlements = 4
+
+b_danevale = castle
+b_danevale_2 = city
+b_danevale_3 = temple
+b_danevale_4 = castle
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

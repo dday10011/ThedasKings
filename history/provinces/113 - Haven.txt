@@ -1,0 +1,18 @@
+# c_haven
+
+# County Title
+title = c_haven
+
+# Settlements
+max_settlements = 4
+
+b_haven = castle
+b_haven_2 = city
+b_haven_3 = temple
+b_haven_4 = castle
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

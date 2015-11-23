@@ -1,0 +1,18 @@
+# c_uluder
+
+# County Title
+title = c_uluder
+
+# Settlements
+max_settlements = 4
+
+b_uluder = castle
+b_uluder_2 = city
+b_uluder_3 = temple
+b_uluder_4 = castle
+
+# Misc
+culture = qunari
+religion = qun_religion
+
+#History

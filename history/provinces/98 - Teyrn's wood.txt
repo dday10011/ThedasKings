@@ -1,0 +1,15 @@
+# c_teyrns_wood
+
+# County Title
+title = c_teyrns_wood
+
+# Settlements
+max_settlements = 1
+
+b_teyrns_wood = castle
+
+# Misc
+culture = forest
+religion = forest
+
+#History

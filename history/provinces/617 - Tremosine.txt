@@ -1,0 +1,18 @@
+# c_tremosine
+
+# County Title
+title = c_tremosine
+
+# Settlements
+max_settlements = 4
+
+b_tremosine = castle
+b_tremosine_2 = city
+b_tremosine_3 = temple
+b_tremosine_4 = castle
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

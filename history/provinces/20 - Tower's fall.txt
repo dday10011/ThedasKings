@@ -1,0 +1,18 @@
+# c_towers_fall
+
+# County Title
+title = c_towers_fall
+
+# Settlements
+max_settlements = 4
+
+b_towers_fall = castle
+b_towers_fall_2 = city
+b_towers_fall_3 = temple
+b_towers_fall_4 = castle
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

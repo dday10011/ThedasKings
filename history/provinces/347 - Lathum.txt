@@ -1,0 +1,18 @@
+# c_lathum
+
+# County Title
+title = c_lathum
+
+# Settlements
+max_settlements = 4
+
+b_lathum = castle
+b_lathum_2 = city
+b_lathum_3 = temple
+b_lathum_4 = castle
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

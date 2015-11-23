@@ -1,0 +1,18 @@
+# c_pencoed
+
+# County Title
+title = c_pencoed
+
+# Settlements
+max_settlements = 4
+
+b_pencoed = castle
+b_pencoed_2 = city
+b_pencoed_3 = temple
+b_pencoed_4 = castle
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

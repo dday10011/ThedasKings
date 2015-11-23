@@ -1,0 +1,25 @@
+#RIVAIN
+technology = {
+	titles = {
+		d_dairsmuid
+		d_akhebar
+		d_areo
+		d_ashkiri
+		d_ayesleigh
+		d_kahan
+		d_komt_aar
+		d_nosh
+		d_seere
+		d_udher
+	}
+	7000 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+	12000 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}

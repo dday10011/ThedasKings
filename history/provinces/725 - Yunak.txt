@@ -1,0 +1,19 @@
+# c_yunak
+
+# County Title
+title = c_yunak
+
+# Settlements
+max_settlements = 5
+
+b_yunak = castle
+b_yunak_2 = city
+b_yunak_3 = temple
+b_yunak_4 = castle
+b_yunak_5 = city
+
+# Misc
+culture = qunari
+religion = qun_religion
+
+#History

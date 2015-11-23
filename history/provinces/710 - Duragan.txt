@@ -1,0 +1,18 @@
+# c_duragan
+
+# County Title
+title = c_duragan
+
+# Settlements
+max_settlements = 4
+
+b_duragan = castle
+b_duragan_2 = city
+b_duragan_3 = temple
+b_duragan_4 = castle
+
+# Misc
+culture = qunari
+religion = qun_religion
+
+#History

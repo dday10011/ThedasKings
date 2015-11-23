@@ -1,0 +1,19 @@
+# c_tisos
+
+# County Title
+title = c_tisos
+
+# Settlements
+max_settlements = 5
+
+b_tisos = castle
+b_tisos_2 = city
+b_tisos_3 = temple
+b_tisos_4 = castle
+b_tisos_5 = city
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

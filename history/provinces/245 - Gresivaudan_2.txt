@@ -1,0 +1,18 @@
+# c_gresivaudan_2
+
+# County Title
+title = c_gresivaudan_2
+
+# Settlements
+max_settlements = 4
+
+b_gresivaudan_6 = castle
+b_gresivaudan_7 = city
+b_gresivaudan_8 = temple
+b_gresivaudan_9 = castle
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

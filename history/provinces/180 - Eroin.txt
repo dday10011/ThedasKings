@@ -1,0 +1,18 @@
+# c_eroin
+
+# County Title
+title = c_eroin
+
+# Settlements
+max_settlements = 4
+
+b_eroin = castle
+b_eroin_2 = city
+b_eroin_3 = temple
+b_eroin_4 = castle
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,17 @@
+# c_solas
+
+# County Title
+title = c_solas
+
+# Settlements
+max_settlements = 3
+
+b_solas = castle
+b_solas_2 = city
+b_solas_3 = temple
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

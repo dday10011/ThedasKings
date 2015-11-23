@@ -1,0 +1,19 @@
+# c_daudna
+
+# County Title
+title = c_daudna
+
+# Settlements
+max_settlements = 5
+
+b_daudna = castle
+b_daudna_2 = city
+b_daudna_3 = temple
+b_daudna_4 = castle
+b_daudna_5 = city
+
+# Misc
+culture = rivaini
+religion = andrastian_chantry
+
+#History

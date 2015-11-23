@@ -1,0 +1,20 @@
+# c_dinar
+
+# County Title
+title = c_dinar
+
+# Settlements
+max_settlements = 6
+
+b_dinar = castle
+b_dinar_2 = city
+b_dinar_3 = temple
+b_dinar_4 = castle
+b_dinar_5 = city
+b_dinar_6 = temple
+
+# Misc
+culture = qunari
+religion = qun_religion
+
+#History

@@ -1,0 +1,17 @@
+# c_the_stormcoast
+
+# County Title
+title = c_the_stormcoast
+
+# Settlements
+max_settlements = 3
+
+b_the_stormcoast = castle
+b_the_stormcoast_2 = city
+b_the_stormcoast_3 = temple
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,17 @@
+# c_rhyl
+
+# County Title
+title = c_rhyl
+
+# Settlements
+max_settlements = 3
+
+b_rhyl = castle
+b_rhyl_2 = city
+b_rhyl_3 = temple
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

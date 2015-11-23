@@ -1,0 +1,29 @@
+#FREE MARCHES
+technology = {
+	titles = {
+		d_starkhaven
+		d_green_dales
+		d_minanter_hinterland
+		d_minanter_plains
+		d_hercina
+		d_ansburg
+		d_markham
+		d_ostwick
+		d_wycome
+		d_kirkwall
+		d_planascene_forest
+		d_wildervale
+		d_tantervale
+		d_hasmal
+	}
+	7000 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+	12000 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}

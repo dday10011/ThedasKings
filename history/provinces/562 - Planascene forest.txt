@@ -1,0 +1,17 @@
+# c_planascene_forest
+
+# County Title
+title = c_planascene_forest
+
+# Settlements
+max_settlements = 3
+
+b_planascene_forest = castle
+b_planascene_forest_2 = city
+b_planascene_forest_3 = temple
+
+# Misc
+culture = kirkwaller
+religion = andrastian_chantry
+
+#History

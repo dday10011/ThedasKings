@@ -1,0 +1,20 @@
+# c_valni
+
+# County Title
+title = c_valni
+
+# Settlements
+max_settlements = 6
+
+b_valni = castle
+b_valni_2 = city
+b_valni_3 = temple
+b_valni_4 = castle
+b_valni_5 = city
+b_valni_6 = temple
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,17 @@
+# c_durendyn
+
+# County Title
+title = c_durendyn
+
+# Settlements
+max_settlements = 3
+
+b_durendyn = castle
+b_durendyn_2 = city
+b_durendyn_3 = temple
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

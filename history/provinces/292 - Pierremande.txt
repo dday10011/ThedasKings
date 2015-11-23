@@ -1,0 +1,18 @@
+# c_pierremande
+
+# County Title
+title = c_pierremande
+
+# Settlements
+max_settlements = 4
+
+b_pierremande = castle
+b_pierremande_2 = city
+b_pierremande_3 = temple
+b_pierremande_4 = castle
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

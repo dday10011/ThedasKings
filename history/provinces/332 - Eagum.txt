@@ -1,0 +1,18 @@
+# c_eagum
+
+# County Title
+title = c_eagum
+
+# Settlements
+max_settlements = 4
+
+b_eagum = castle
+b_eagum_2 = city
+b_eagum_3 = temple
+b_eagum_4 = castle
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,21 @@
+# c_kalbarosh
+
+# County Title
+title = c_kalbarosh
+
+# Settlements
+max_settlements = 7
+
+b_kalbarosh = castle
+#b_kalbarosh_2 = city
+#b_kalbarosh_3 = temple
+#b_kalbarosh_4 = castle
+#b_kalbarosh_5 = city
+#b_kalbarosh_6 = temple
+#b_kalbarosh_7 = castle
+
+# Misc
+culture = orzammar
+religion = our_ancestors
+
+#History

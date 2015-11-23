@@ -1,0 +1,383 @@
+#5TH BLIGHT IMPORTANT CHARACTERS
+
+####ORLESIAN CHARACTERS####
+
+2006008 = { #Justinia
+name ="Dorothea"
+trait="deceitful"
+trait="elusive_shadow"
+trait="kind"
+trait="just"
+female = yes
+religion = "andrastian_chantry" 
+culture = "orlesian" 
+8860.1.1={
+    birth=yes
+            }
+8934.1.1={
+    name="Justinia V" #REMOVE THE V AFTER DOING THE HISTORY OF ALL DIVINE
+        }
+8941.3.1={ #Big explosion
+    death=yes
+     }
+}
+
+3006008 = { #Beatrix III
+name ="Beatrix"
+female = yes
+health = 1000
+religion = "andrastian_chantry" 
+culture = "orlesian" 
+8855.1.1={
+    birth=yes
+            }
+8901.1.1={
+    name="Beatrix III" #REMOVE THE III AFTER DOING THE HISTORY OF ALL DIVINES.
+        }
+8934.3.1={ #heartstroke
+    death=yes
+     }
+}
+
+####FERELDAN CHARACTERS####
+
+##GREY WARDENS##
+
+101006001 = { #Duncan
+health = 1000
+name ="Duncan"
+religion = "andrastian_chantry" 
+culture = "rivaini" 
+trait = "grey_warden"
+8890.1.1 ={
+        birth = yes 
+        }
+8930.1.1 ={
+        death=yes 
+        }
+}
+
+87006001 = { #Morrigan
+name ="Morrigan"
+health = 100
+female = yes
+religion = "creators" 
+culture = "fereldan" 
+8903.1.1 ={
+        birth = yes 
+        }
+}
+
+88006001 = { #Leliana
+name ="Leliana"
+health = 100
+female = yes
+religion = "andrastian_chantry" 
+culture = "orlesian" 
+8908.1.1 ={
+        birth = yes 
+        }
+}
+
+89006001 = { #Sten
+name ="Sten"
+health = 100
+religion = "qun_religion" 
+culture = "qunari" 
+8890.1.1 ={
+        birth = yes 
+        }
+}
+
+##HAWKE FAMILY##
+
+93002001 = { #Leandra
+health = 100
+name ="Leandra"
+female = yes
+religion = "andrastian_chantry" 
+culture = "fereldan"
+8888.1.1 ={
+        birth = yes 
+        }
+}
+
+93002002 = { #Malcom
+health = 100
+name ="Malcom"
+religion = "andrastian_chantry" 
+culture = "fereldan"
+8886.1.1 ={
+        birth = yes 
+        }
+8927.1.1 ={
+       death = yes 
+        }
+}
+
+93002003 = { #Bethany
+health = 100
+name ="Bethany"
+female = yes
+religion = "andrastian_chantry" 
+culture = "fereldan"
+8908.1.1 ={
+        birth = yes 
+        }
+}
+
+93002004 = { #Carver
+health = 100
+name ="Carver"
+religion = "andrastian_chantry" 
+culture = "fereldan"
+8908.1.1 ={
+        birth = yes 
+        }
+}
+
+93002005 = { #Herald - male
+health = 100
+name ="Garett"
+religion = "andrastian_chantry" 
+culture = "fereldan"
+8905.1.1 ={
+        birth = yes 
+        }
+}
+
+93002006 = { #Herald - female
+health = 100
+name ="Marian"
+female = yes
+religion = "andrastian_chantry" 
+culture = "fereldan"
+8905.1.1 ={
+        birth = yes 
+        }
+}
+
+##MAGES AND TEMPLARS##
+
+90002001 = { #Irving
+health = 100
+name ="Irving"
+religion = "andrastian_chantry" 
+culture = "fereldan" 
+trait = "mage"
+8855.1.1 ={
+        birth = yes 
+        }
+}
+
+91002001 = { #Uldred
+health = 100
+name ="Uldred"
+religion = "andrastian_chantry" 
+culture = "fereldan" 
+trait = "mage"
+8865.1.1 ={
+        birth = yes 
+        }
+}
+
+92006001 = { #Ser Greagor
+health = 100
+name ="Greagor"
+religion = "andrastian_chantry" 
+culture = "fereldan" 
+8885.1.1 ={
+        birth = yes 
+        }
+}
+
+####DWARVEN CHARACTERS####
+
+##HOUSE AEDUCAN##
+
+10011001 = { #Endrin
+health = 100
+name ="Endrin"
+dynasty = 1011
+religion = "our_ancestors" 
+culture = "orzammar" 
+trait = "noble_caste"
+8865.1.1 ={
+        birth =yes 
+        }
+8930.8.1 ={
+        death=yes
+        }
+}
+
+10011002 = { #Bhelen
+health = 100
+name ="Bhelen"
+dynasty = 1011
+religion = "our_ancestors" 
+culture = "orzammar" 
+trait = "noble_caste"
+father = 1011001
+8910.1.1 ={
+        birth =yes 
+        }
+}
+
+10011003 = { #Hero of ferelden Male - noble
+name ="Duran"
+dynasty = 1011
+health = 100
+trait = "noble_caste"
+religion = "our_ancestors" 
+culture = "orzammar" 
+father = 1011001
+8905.1.1 ={
+        birth =yes 
+        }
+}
+
+10011004 = { #Hero of ferelden Female - noble
+name ="Sereda"
+dynasty = 1011
+female = yes
+health = 100
+trait = "noble_caste"
+religion = "our_ancestors" 
+culture = "orzammar" 
+father = 1011001
+8905.1.1 ={
+        birth =yes 
+        }
+}
+
+10011005 = { #Trian
+health = 100
+dynasty = 1011
+name ="Trian"
+trait = "noble_caste"
+religion = "our_ancestors" 
+culture = "orzammar" 
+father = 1011001
+8900.1.1 ={
+        birth =yes 
+        }
+8930.2.1 ={
+        death=yes
+        }
+}
+
+##COMMONER ORIGIN##
+
+30011001 = { #Hero of ferelden Female - commoner
+name ="Natia"
+female = yes
+health = 100
+trait = "casteless"
+religion = "our_ancestors" 
+culture = "orzammar" 
+8910.1.1 ={
+        birth =yes 
+        }
+}
+
+30011002 = { #Hero of ferelden male - commoner
+name ="Faria"
+health = 100
+trait = "casteless"
+religion = "our_ancestors" 
+culture = "orzammar" 
+8910.1.1 ={
+        birth =yes 
+        }
+}
+
+##OGHREN AND CO##
+
+40011001 = { #Oghren
+name ="Ogrhen"
+health = 100
+trait = "warrior_caste"
+religion = "our_ancestors" 
+culture = "orzammar" 
+8890.1.1 ={
+        birth =yes 
+        }
+8931.1.1 ={
+        add_trait = "grey_warden"
+        }
+}
+
+
+##HOUSE HARROWMONT##
+
+50011001 = { #Harrowmont
+name ="Pyral"
+dynasty = 39011
+health = 100
+trait = "noble_caste"
+religion = "our_ancestors" 
+culture = "orzammar" 
+8890.1.1 ={
+        birth =yes 
+        }
+}
+
+##DALISH CHARACTERS
+
+1005001 = { #Zathrian
+health = 100
+name ="Zathrian"
+religion = "creators" 
+culture = "dalish_elf" 
+8880.1.1 ={
+        birth =yes 
+        }
+8930.8.1 ={
+        death=yes
+        }
+}
+
+2005001 = { #Hero - dalish male
+health = 100
+name ="Theron"
+religion = "creators" 
+culture = "dalish_elf" 
+8810.1.1 ={
+        birth =yes 
+        }
+}
+
+2005002 = { #Hero - dalish female
+health = 100
+name ="Lyna"
+female = yes
+religion = "creators" 
+culture = "dalish_elf" 
+8810.1.1 ={
+        birth =yes 
+        }
+}
+
+#Kirkwall characters##
+
+1012={  #Anders
+name ="Anders"
+religion = "andrastian_chantry" 
+culture = "kirkwaller"
+health=100
+trait = "mage" 
+8904.1.1={
+    birth = yes
+    }
+}
+
+1013={ #Merril"
+name="Merrill"
+religion = "creators" 
+culture = "dalish_elf"
+health=100
+trait = "mage" 
+8909.1.1={
+    birth = yes
+    }
+}

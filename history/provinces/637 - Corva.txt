@@ -1,0 +1,18 @@
+# c_corva
+
+# County Title
+title = c_corva
+
+# Settlements
+max_settlements = 4
+
+b_corva = castle
+b_corva_2 = city
+b_corva_3 = temple
+b_corva_4 = castle
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

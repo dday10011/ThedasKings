@@ -1,0 +1,17 @@
+# c_gresford
+
+# County Title
+title = c_gresford
+
+# Settlements
+max_settlements = 3
+
+b_gresford = castle
+b_gresford_2 = city
+b_gresford_3 = temple
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

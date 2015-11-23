@@ -1,0 +1,23 @@
+500.1.1={
+	#law = true_cognatic_succession
+	#law = succ_gavelkind
+}
+800.1.1={
+	liege=k_the_coastlands
+}
+
+	8824.1.1={
+		holder = 3002002 #Aldenon Cousland, non-canon grandfather of Bryce
+	}
+	8851.1.1={
+		holder = 3002003 #Aldenon Cousland, non-canon grandfather of Bryce
+	}
+	8886.1.1={
+		holder = 3002004 #Aldenon Cousland, non-canon grandfather of Bryce
+	}
+	8930.1.1={
+		holder = 4002004 #Aldenon Cousland, non-canon grandfather of Bryce
+	}
+	8931.1.1={
+		holder = 3002006 #Aldenon Cousland, non-canon grandfather of Bryce
+	}

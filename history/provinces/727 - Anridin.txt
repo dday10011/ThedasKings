@@ -1,0 +1,19 @@
+# c_anridin
+
+# County Title
+title = c_anridin
+
+# Settlements
+max_settlements = 5
+
+b_anridin = castle
+b_anridin_2 = city
+b_anridin_3 = temple
+b_anridin_4 = castle
+b_anridin_5 = city
+
+# Misc
+culture = qunari
+religion = qun_religion
+
+#History

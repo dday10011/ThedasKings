@@ -1,0 +1,18 @@
+# c_nahilan
+
+# County Title
+title = c_nahilan
+
+# Settlements
+max_settlements = 4
+
+b_nahilan = castle
+b_nahilan_2 = city
+b_nahilan_3 = temple
+b_nahilan_4 = castle
+
+# Misc
+culture = qunari
+religion = qun_religion
+
+#History

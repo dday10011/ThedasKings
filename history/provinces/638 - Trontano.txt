@@ -1,0 +1,18 @@
+# c_trontano
+
+# County Title
+title = c_trontano
+
+# Settlements
+max_settlements = 4
+
+b_trontano = castle
+b_trontano_2 = city
+b_trontano_3 = temple
+b_trontano_4 = castle
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

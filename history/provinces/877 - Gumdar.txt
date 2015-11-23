@@ -1,0 +1,21 @@
+# c_gumdar
+
+# County Title
+title = c_gumdar
+
+# Settlements
+max_settlements = 7
+
+b_gumdar = castle
+#b_gumdar_2 = city
+#b_gumdar_3 = temple
+#b_gumdar_4 = castle
+#b_gumdar_5 = city
+#b_gumdar_6 = temple
+#b_gumdar_7 = castle
+
+# Misc
+culture = darkspawn
+religion = darkspawn_old_gods
+
+#History

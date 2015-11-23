@@ -1,0 +1,18 @@
+# c_carrac
+
+# County Title
+title = c_carrac
+
+# Settlements
+max_settlements = 4
+
+b_carrac = castle
+b_carrac_2 = city
+b_carrac_3 = temple
+b_carrac_4 = castle
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

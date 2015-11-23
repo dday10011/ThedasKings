@@ -1,0 +1,17 @@
+# c_karakoban
+
+# County Title
+title = c_karakoban
+
+# Settlements
+max_settlements = 3
+
+b_karakoban = castle
+b_karakoban_2 = city
+b_karakoban_3 = temple
+
+# Misc
+culture = qunari
+religion = qun_religion
+
+#History

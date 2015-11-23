@@ -1,0 +1,17 @@
+# c_cona
+
+# County Title
+title = c_cona
+
+# Settlements
+max_settlements = 3
+
+b_cona = castle
+b_cona_2 = city
+b_cona_3 = temple
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

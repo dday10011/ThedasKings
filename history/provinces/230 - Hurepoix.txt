@@ -1,0 +1,18 @@
+# c_hurepoix
+
+# County Title
+title = c_hurepoix
+
+# Settlements
+max_settlements = 4
+
+b_hurepoix = castle
+b_hurepoix_2 = city
+b_hurepoix_3 = temple
+b_hurepoix_4 = castle
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,15 @@
+# c_langehalsen
+
+# County Title
+title = c_langehalsen
+
+# Settlements
+max_settlements = 1
+
+b_langehalsen = castle
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

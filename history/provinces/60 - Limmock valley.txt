@@ -1,0 +1,17 @@
+# c_limmock_valley
+
+# County Title
+title = c_limmock_valley
+
+# Settlements
+max_settlements = 3
+
+b_limmock_valley = castle
+b_limmock_valley_2 = city
+b_limmock_valley_3 = temple
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

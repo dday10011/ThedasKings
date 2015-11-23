@@ -1,0 +1,19 @@
+# c_lasouche
+
+# County Title
+title = c_lasouche
+
+# Settlements
+max_settlements = 5
+
+b_lasouche = castle
+b_lasouche_2 = city
+b_lasouche_3 = temple
+b_lasouche_4 = castle
+b_lasouche_5 = city
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

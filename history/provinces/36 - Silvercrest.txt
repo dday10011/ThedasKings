@@ -1,0 +1,18 @@
+# c_silvercrest
+
+# County Title
+title = c_silvercrest
+
+# Settlements
+max_settlements = 4
+
+b_silvercrest = castle
+b_silvercrest_2 = city
+b_silvercrest_3 = temple
+b_silvercrest_4 = castle
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

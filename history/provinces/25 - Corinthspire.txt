@@ -1,0 +1,19 @@
+# c_corinthspire
+
+# County Title
+title = c_corinthspire
+
+# Settlements
+max_settlements = 5
+
+b_corinthspire = castle
+b_corinthspire_2 = city
+b_corinthspire_3 = temple
+b_corinthspire_4 = castle
+b_corinthspire_5 = city
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

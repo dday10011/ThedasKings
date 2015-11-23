@@ -1,0 +1,17 @@
+# c_manstad
+
+# County Title
+title = c_manstad
+
+# Settlements
+max_settlements = 3
+
+b_manstad = castle
+b_manstad_2 = city
+b_manstad_3 = temple
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,18 @@
+# c_vime
+
+# County Title
+title = c_vime
+
+# Settlements
+max_settlements = 4
+
+b_vime = castle
+b_vime_2 = city
+b_vime_3 = temple
+b_vime_4 = castle
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

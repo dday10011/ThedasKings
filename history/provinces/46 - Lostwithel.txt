@@ -1,0 +1,19 @@
+# c_lostwithel
+
+# County Title
+title = c_lostwithel
+
+# Settlements
+max_settlements = 5
+
+b_lostwithel = castle
+b_lostwithel_2 = city
+b_lostwithel_3 = temple
+b_lostwithel_4 = castle
+b_lostwithel_5 = city
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

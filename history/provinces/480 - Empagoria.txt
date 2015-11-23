@@ -1,0 +1,16 @@
+# c_empagoria
+
+# County Title
+title = c_empagoria
+
+# Settlements
+max_settlements = 2
+
+b_empagoria = castle
+b_empagoria_2 = city
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

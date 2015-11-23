@@ -1,0 +1,15 @@
+# c_odenhorn
+
+# County Title
+title = c_odenhorn
+
+# Settlements
+max_settlements = 1
+
+b_odenhorn = castle
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,15 @@
+# c_grekenhorn
+
+# County Title
+title = c_grekenhorn
+
+# Settlements
+max_settlements = 1
+
+b_grekenhorn = castle
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

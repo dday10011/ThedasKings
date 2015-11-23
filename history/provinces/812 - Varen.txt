@@ -1,0 +1,21 @@
+# c_varen
+
+# County Title
+title = c_varen
+
+# Settlements
+max_settlements = 7
+
+b_varen = castle
+#b_varen_2 = city
+#b_varen_3 = temple
+#b_varen_4 = castle
+#b_varen_5 = city
+#b_varen_6 = temple
+#b_varen_7 = castle
+
+# Misc
+culture = orzammar
+religion = our_ancestors
+
+#History

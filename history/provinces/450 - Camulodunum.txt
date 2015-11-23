@@ -1,0 +1,17 @@
+# c_camulodunum
+
+# County Title
+title = c_camulodunum
+
+# Settlements
+max_settlements = 3
+
+b_camulodunum = castle
+b_camulodunum_2 = city
+b_camulodunum_3 = temple
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

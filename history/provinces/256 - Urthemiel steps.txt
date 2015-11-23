@@ -1,0 +1,16 @@
+# c_urthemiel_steps
+
+# County Title
+title = c_urthemiel_steps
+
+# Settlements
+max_settlements = 2
+
+b_urthemiel_steps = castle
+b_urthemiel_steps_2 = city
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

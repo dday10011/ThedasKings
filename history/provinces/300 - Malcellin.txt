@@ -1,0 +1,17 @@
+# c_malcellin
+
+# County Title
+title = c_malcellin
+
+# Settlements
+max_settlements = 3
+
+b_malcellin = castle
+b_malcellin_2 = city
+b_malcellin_3 = temple
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

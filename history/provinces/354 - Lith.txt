@@ -1,0 +1,16 @@
+# c_lith
+
+# County Title
+title = c_lith
+
+# Settlements
+max_settlements = 2
+
+b_lith = castle
+b_lith_2 = city
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

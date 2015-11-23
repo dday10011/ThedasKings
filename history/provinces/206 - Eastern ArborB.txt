@@ -1,0 +1,15 @@
+# c_eastern_arborb
+
+# County Title
+title = c_eastern_arborb
+
+# Settlements
+max_settlements = 1
+
+b_eastern_arborb = castle
+
+# Misc
+culture = forest
+religion = forest
+
+#History

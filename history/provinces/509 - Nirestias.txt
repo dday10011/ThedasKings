@@ -1,0 +1,18 @@
+# c_nirestias
+
+# County Title
+title = c_nirestias
+
+# Settlements
+max_settlements = 4
+
+b_nirestias = castle
+b_nirestias_2 = city
+b_nirestias_3 = temple
+b_nirestias_4 = castle
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

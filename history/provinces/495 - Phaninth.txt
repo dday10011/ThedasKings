@@ -1,0 +1,18 @@
+# c_phaninth
+
+# County Title
+title = c_phaninth
+
+# Settlements
+max_settlements = 4
+
+b_phaninth = castle
+b_phaninth_2 = city
+b_phaninth_3 = temple
+b_phaninth_4 = castle
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

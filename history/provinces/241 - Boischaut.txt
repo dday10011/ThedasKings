@@ -1,0 +1,18 @@
+# c_boischaut
+
+# County Title
+title = c_boischaut
+
+# Settlements
+max_settlements = 4
+
+b_boischaut = castle
+b_boischaut_2 = city
+b_boischaut_3 = temple
+b_boischaut_4 = castle
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

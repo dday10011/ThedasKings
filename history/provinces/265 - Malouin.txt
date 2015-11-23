@@ -1,0 +1,16 @@
+# c_malouin
+
+# County Title
+title = c_malouin
+
+# Settlements
+max_settlements = 2
+
+b_malouin = castle
+b_malouin_2 = city
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

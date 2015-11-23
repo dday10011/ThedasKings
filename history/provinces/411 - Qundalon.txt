@@ -1,0 +1,21 @@
+# c_qundalon
+
+# County Title
+title = c_qundalon
+
+# Settlements
+max_settlements = 7
+
+b_qundalon = castle
+b_qundalon_2 = city
+b_qundalon_3 = temple
+b_qundalon_4 = castle
+b_qundalon_5 = city
+b_qundalon_6 = temple
+b_qundalon_7 = castle
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

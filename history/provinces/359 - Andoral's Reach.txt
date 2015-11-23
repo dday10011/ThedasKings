@@ -1,0 +1,18 @@
+# c_andorals_reach
+
+# County Title
+title = c_andorals_reach
+
+# Settlements
+max_settlements = 4
+
+b_andorals_reach = castle
+b_andorals_reach_2 = city
+b_andorals_reach_3 = temple
+b_andorals_reach_4 = castle
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

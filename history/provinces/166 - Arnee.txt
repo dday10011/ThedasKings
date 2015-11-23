@@ -1,0 +1,19 @@
+# c_arnee
+
+# County Title
+title = c_arnee
+
+# Settlements
+max_settlements = 5
+
+b_arnee = castle
+b_arnee_2 = city
+b_arnee_3 = temple
+b_arnee_4 = castle
+b_arnee_5 = city
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

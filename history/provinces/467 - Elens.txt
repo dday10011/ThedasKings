@@ -1,0 +1,18 @@
+# c_elens
+
+# County Title
+title = c_elens
+
+# Settlements
+max_settlements = 4
+
+b_elens = castle
+b_elens_2 = city
+b_elens_3 = temple
+b_elens_4 = castle
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

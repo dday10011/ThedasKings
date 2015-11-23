@@ -1,0 +1,19 @@
+# c_afsin
+
+# County Title
+title = c_afsin
+
+# Settlements
+max_settlements = 5
+
+b_afsin = castle
+b_afsin_2 = city
+b_afsin_3 = temple
+b_afsin_4 = castle
+b_afsin_5 = city
+
+# Misc
+culture = qunari
+religion = qun_religion
+
+#History

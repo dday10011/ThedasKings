@@ -1,0 +1,18 @@
+# c_horephyrian
+
+# County Title
+title = c_horephyrian
+
+# Settlements
+max_settlements = 4
+
+b_horephyrian = castle
+b_horephyrian_2 = city
+b_horephyrian_3 = temple
+b_horephyrian_4 = castle
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

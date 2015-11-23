@@ -1,0 +1,18 @@
+# c_arpinum
+
+# County Title
+title = c_arpinum
+
+# Settlements
+max_settlements = 4
+
+b_arpinum = castle
+b_arpinum_2 = city
+b_arpinum_3 = temple
+b_arpinum_4 = castle
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

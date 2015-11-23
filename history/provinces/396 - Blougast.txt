@@ -1,0 +1,17 @@
+# c_blougast
+
+# County Title
+title = c_blougast
+
+# Settlements
+max_settlements = 3
+
+b_blougast = castle
+b_blougast_2 = city
+b_blougast_3 = temple
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

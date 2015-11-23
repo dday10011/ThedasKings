@@ -1,0 +1,18 @@
+# c_kepysos
+
+# County Title
+title = c_kepysos
+
+# Settlements
+max_settlements = 4
+
+b_kepysos = castle
+b_kepysos_2 = city
+b_kepysos_3 = temple
+b_kepysos_4 = castle
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

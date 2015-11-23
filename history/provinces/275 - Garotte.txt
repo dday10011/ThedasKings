@@ -1,0 +1,18 @@
+# c_garotte
+
+# County Title
+title = c_garotte
+
+# Settlements
+max_settlements = 4
+
+b_garotte = castle
+b_garotte_2 = city
+b_garotte_3 = temple
+b_garotte_4 = castle
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

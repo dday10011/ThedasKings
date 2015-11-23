@@ -1,0 +1,17 @@
+# c_grosbois
+
+# County Title
+title = c_grosbois
+
+# Settlements
+max_settlements = 3
+
+b_grosbois = castle
+b_grosbois_2 = city
+b_grosbois_3 = temple
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

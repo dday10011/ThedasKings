@@ -1,0 +1,19 @@
+# c_ataken
+
+# County Title
+title = c_ataken
+
+# Settlements
+max_settlements = 5
+
+b_ataken = castle
+b_ataken_2 = city
+b_ataken_3 = temple
+b_ataken_4 = castle
+b_ataken_5 = city
+
+# Misc
+culture = qunari
+religion = qun_religion
+
+#History

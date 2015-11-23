@@ -1,0 +1,211 @@
+empire_fereldan;Kingdom;;;;;;;;;;x
+empire_of_fereldan;Kingdom of;;;;;;;;;;x
+emperor_fereldan;King;;;;;;;;;x
+emperor_female_fereldan;Queen;;;;;;;;;;x
+emperor_foa_fereldan;Your Majesty;;;;;;;;;;x
+emperor_foa_female_fereldan;Your Majesty;;;;;;;;;;x
+kingdom_fereldan;Teyrnir;;;;;;;;;;x
+kingdom_of_fereldan;Teyrnir of;;;;;;;;;;x
+king_fereldan;Teyrn;;;;;;;;;;x
+king_female_fereldan;Teyrna;;;;;;;;;;x
+king_foa_fereldan;Your Highness;;;;;;;;;;x
+king_foa_female_fereldan;Your Highness;;;;;;;;;;x
+duchy_fereldan;Arling;;;;;;;;;;x
+duchy_of_fereldan;Arling of;;;;;;;;;;x
+duke_fereldan;Arl;;;;;;;;;;x
+duke_female_fereldan;Arlessa;;;;;;;;;;x
+duke_foa_fereldan;My lord;;;;;;;;;;x
+duke_foa_female_fereldan;My lady;;;;;;;;;;x
+duke_title_ruler_consort_fereldan;Lord;;;;;;;;;;x
+duke_title_ruler_consort_female_fereldan;Lady;;;;;;;;;;x
+county_fereldan;Bannorn;;;;;;;;;;x
+county_of_fereldan;Bannorn of;;;;;;;;;;x
+count_fereldan;Bann;;;;;;;;;;x
+count_female_fereldan;Bann;;;;;;;;;x
+count_foa_fereldan;My lord;;;;;;;;;x
+count_foa_female_fereldan;My lady;;;;;;;;;;x
+count_title_ruler_consort_fereldan;Lord;;;;;;;;;;x
+count_title_ruler_consort_female_fereldan;Lady;;;;;;;;;;x
+barony_fereldan;Freehold;;;;;;;;;;x
+barony_of_fereldan;Freehold of;;;;;;;;;;x
+baron_fereldan;Freeholder;;;;;;;;;;x
+baron_female_fereldan;Freeholder;;;;;;;;;;x
+baron_foa_fereldan;My lord;;;;;;;;;;x
+baron_foa_female_fereldan;My lady;;;;;;;;;;x
+
+empire_orlesian;Empire;;;;;;;;;x
+empire_of_orlesian;Empire of;;;;;;;;;x
+emperor_orlesian;Emperor;;;;;;;;;x
+emperor_female_orlesian;Empress;;;;;;;;;x
+emperor_foa_orlesian;Your Radiance;;;;;;;;;;x
+emperor_foa_female_orlesian;Your Radiance;;;;;;;;;;x
+kingdom_orlesian;Duchy;;;;;;;;;;x
+kingdom_of_orlesian;Duchy of;;;;;;;;;x;
+king_orlesian;Duke;;;;;;;;;x
+king_female_orlesian;Duchess;;;;;;;;;;x
+king_foa_orlesian;Your Grace;;;;;;;;;;x
+king_foa_female_orlesian;Your Grace;;;;;;;;;x
+duchy_orlesian;Marquisat;;;;;;;;;;x
+duchy_of_orlesian;Marquisat of;;;;;;;;;;x
+duke_orlesian;Marquis;;;;;;;;;;x
+duke_female_orlesian;Marquise;;;;;;;;;;x
+duke_foa_orlesian;Your Grace;;;;;;;;;;x
+duke_foa_female_orlesian;Your Grace;;;;;;;;;;x
+duke_title_ruler_consort_orlesian;Lord;;;;;;;;;;x
+duke_title_ruler_consort_female_orlesian;Lady;;;;;;;;;;x
+county_orlesian;Comtat;;;;;;;;;;x
+county_of_orlesian;Comtat of;;;;;;;;;;x
+count_orlesian;Comte;;;;;;;;;;x
+count_female_orlesian;Comtess;;;;;;;;;;x
+count_foa_orlesian;Your Lordship;;;;;;;;;;x
+count_foa_female_orlesian;Your Ladyship;;;;;;;;;;x
+count_title_ruler_consort_orlesian;Lord;;;;;;;;;;x
+count_title_ruler_consort_female_orlesian;Lady;;;;;;;;;;x
+barony_orlesian;Barony;;;;;;;;;;x
+barony_of_orlesian;Barony of;;;;;;;;;;x
+baron_orlesian;Baron;;;;;;;;;;x
+baron_female_orlesian;Baroness;;;;;;;;;;x
+baron_foa_orlesian;Your Lordship;;;;;;;;;;x
+baron_foa_female_orlesian;Your Ladyship;;;;;;;;;;x
+
+empire_imperial_tevinter;Imperium;;;;;;;;;x
+empire_of_imperial_tevinter;Empire of;;;;;;;;;x
+emperor_imperial_tevinter;Archon;;;;;;;;;x
+emperor_female_imperial_tevinter;Empress;;;;;;;;;x
+emperor_foa_imperial_tevinter;Your Radiance;;;;;;;;;;x
+emperor_foa_female_imperial_tevinter;Your Radiance;;;;;;;;;;x
+kingdom_imperial_tevinter;Duchy;;;;;;;;;;x
+kingdom_of_imperial_tevinter;Duchy of;;;;;;;;;x;
+king_imperial_tevinter;Magister;;;;;;;;;x
+king_female_imperial_tevinter;Magister;;;;;;;;;;x
+king_foa_imperial_tevinter;Your Grace;;;;;;;;;;x
+king_foa_female_imperial_tevinter;Your Grace;;;;;;;;;x
+duchy_imperial_tevinter;County;;;;;;;;;;x
+duchy_of_imperial_tevinter;County of;;;;;;;;;;x
+duke_orlesian;Count;;;;;;;;;;x
+duke_female_orlesian;Countess;;;;;;;;;;x
+duke_foa_imperial_tevinter;Your Grace;;;;;;;;;;x
+duke_foa_female_imperial_tevinter;Your Grace;;;;;;;;;;x
+duke_title_ruler_consort_imperial_tevinter;Lord;;;;;;;;;;x
+duke_title_ruler_consort_female_imperial_tevinter;Lady;;;;;;;;;;x
+county_imperial_tevinter;Barony;;;;;;;;;;x
+county_of_imperial_tevinter;Barony of;;;;;;;;;;x
+count_imperial_tevinter;Baron;;;;;;;;;;x
+count_female_imperial_tevinter;Baroness;;;;;;;;;;x
+count_foa_imperial_tevinter;Your Lordship;;;;;;;;;;x
+count_foa_female_imperial_tevinter;Your Ladyship;;;;;;;;;;x
+count_title_ruler_consort_imperial_tevinter;Lord;;;;;;;;;;x
+count_title_ruler_consort_female_imperial_tevinter;Lady;;;;;;;;;;x
+barony_imperial_tevinter;Lordship;;;;;;;;;;x
+barony_of_imperial_tevinter;Lordship of;;;;;;;;;;x
+baron_imperial_tevinter;Lord;;;;;;;;;;x
+baron_female_imperial_tevinter;Lady;;;;;;;;;;x
+baron_foa_imperial_tevinter;Your Lordship;;;;;;;;;;x
+baron_foa_female_imperial_tevinter;Your Ladyship;;;;;;;;;;x
+
+empire_avvar;Kingdom;;;;;;;;;;x
+empire_of_avvar;High kingdom of;;;;;;;;;;x
+emperor_avvar;high king;;;;;;;;;x
+emperor_female_avvar;high queen;;;;;;;;;;x
+emperor_foa_avvar;Your Majesty;;;;;;;;;;x
+emperor_foa_female_avvar;Your Majesty;;;;;;;;;;x
+kingdom_avvar;King;;;;;;;;;;x
+kingdom_of_avvar;TKingdom of;;;;;;;;;;x
+king_avvar;King;;;;;;;;;;x
+king_female_avvar;Queen;;;;;;;;;;x
+king_foa_avvar;Your Highness;;;;;;;;;;x
+king_foa_female_avvar;Your Highness;;;;;;;;;;x
+duchy_avvar;Jarldom;;;;;;;;;;x
+duchy_of_avvar;Jarldom of;;;;;;;;;;x
+duke_avvar;Jarl;;;;;;;;;;x
+duke_female_avvar;Jarl;;;;;;;;;;x
+duke_foa_avvar;My lord;;;;;;;;;;x
+duke_foa_female_avvar;My lady;;;;;;;;;;x
+duke_title_ruler_consort_avvar;Jarl;;;;;;;;;;x
+duke_title_ruler_consort_female_avvar;Jarl;;;;;;;;;;x
+county_avvar;Thanedom;;;;;;;;;;x
+county_of_avvar;Thanedom of;;;;;;;;;;x
+count_avvar;Thane;;;;;;;;;;x
+count_female_avvar;Thane;;;;;;;;;x
+count_foa_avvar;My lord;;;;;;;;;x
+count_foa_female_avvar;My lady;;;;;;;;;;x
+count_title_ruler_consort_avvar;Thane;;;;;;;;;;x
+count_title_ruler_consort_female_avvar;Thane;;;;;;;;;;x
+barony_avvar;Freehold;;;;;;;;;;x
+barony_of_avvar;Freehold of;;;;;;;;;;x
+baron_avvar;Freeholder;;;;;;;;;;x
+baron_female_avvar;Freeholder;;;;;;;;;;x
+baron_foa_avvar;My lord;;;;;;;;;;x
+baron_foa_female_avvar;My lady;;;;;;;;;;x
+
+
+empire_forest;Empire;;;;;;;;;x
+empire_of_forest; ;;;;;;;;;x
+emperor_forest; ;;;;;;;;;x
+emperor_female_forest; ;;;;;;;;;x
+emperor_foa_forest; ;;;;;;;;;;x
+emperor_foa_female_forest; ;;;;;;;;;;x
+kingdom_forest; ;;;;;;;;;;x
+kingdom_of_forest; ;;;;;;;;;x;
+king_forest; ;;;;;;;;;x
+king_female_forest; ;;;;;;;;;;x
+king_foa_forest; ;;;;;;;;;;x
+king_foa_female_forest; ;;;;;;;;;x
+duchy_forest; ;;;;;;;;;;x
+duchy_of_forest; ;;;;;;;;;;x
+duke_forest; ;;;;;;;;;;x
+duke_female_forest; ;;;;;;;;;;x
+duke_foa_forest; ;;;;;;;;;;x
+duke_foa_female_forest; ;;;;;;;;;;x
+duke_title_ruler_consort_forest; ;;;;;;;;;;x
+duke_title_ruler_consort_female_forest; ;;;;;;;;;;x
+county_forest; ;;;;;;;;;;x
+county_of_forest; ;;;;;;;;;;x
+count_forest; ;;;;;;;;;;x
+count_female_forest; ;;;;;;;;;;x
+count_foa_forest; ;;;;;;;;;;x
+count_foa_female_forest; ;;;;;;;;;;x
+count_title_ruler_consort_forest; ;;;;;;;;;;x
+count_title_ruler_consort_female_forest; ;;;;;;;;;;x
+barony_forest; ;;;;;;;;;;x
+barony_of_forest; ;;;;;;;;;;x
+baron_forest; ;;;;;;;;;;x
+baron_female_forest; ;;;;;;;;;;x
+baron_foa_forest; ;;;;;;;;;;x
+baron_foa_female_forest; ;;;;;;;;;;x
+
+empire;Kingdom;;;;;;;;;;x
+empire_of;Kingdom of;;;;;;;;;;x
+emperor;King;;;;;;;;;;x
+emperor_female;Queen;;;;;;;;;;x
+emperor_foa;Your Majesty;;;;;;;;;;x
+emperor_foa_female;Your Majesty;;;;;;;;;;x
+kingdom;Duchy;;;;;;;;;;x
+kingdom_of;Duchy_of;;;;;;;;;x;
+king;Duke;;;;;;;;;x
+king_female;Duchess;;;;;;;;;x
+king_foa;Your Highness;;;;;;;;;;x
+king_foa_female;Your Highness;;;;;;;;;x;
+duchy;Viscounty;;;;;;;;;;x
+duchy_of;Viscounty_of;;;;;;;;;;x
+duke;Viscount;;;;;;;;;;x
+duke_female;Viscountess;;;;;;;;;;x
+duke_foa;Your Lordship;;;;;;;;;;x
+duke_foa_female;Your Ladyship;;;;;;;;;;x
+duke_title_ruler_consort;Lord;;;;;;;;;;x
+duke_title_ruler_consort_female;Lady;;;;;;;;;;x
+
+temple_barony_maker;Chantry;;;;;;;;;;x
+temple_barony_of_maker;Chantry of;;;;;;;;;;x
+temple_baron_maker;Father;;;;;;;;;;x
+temple_baron_female_maker;Mother;;;;;;;;;;x
+temple_duke_maker;Grand Cleric;;;;;;;;;;x
+temple_duke_female_maker;Grand Cleric;;;;;;;;;;x
+temple_king_maker;Grand Cleric;;;;;;;;;;x
+temple_king_female_maker;Grand Cleric;;;;;;;;;;x
+
+job_chancellor_qunari;Beresaad;;;;;;;;;;x
+jo_marshall_qunari;Sten;;;;;;;;;;x
+job_treasurer_qunari;Genathlok;;;;;;;;;;x #maade up. From context, Arigena probably means "the one who takes care of administration" just like Arishok means "the one who takes care of war". So Genathlok would mean something like "administration worker".
+job_spymaster_qunari;Hisraad;;;;;;;;;;x
+job_spiritual_qunari;Ashkaari;;;;;;;;;;x

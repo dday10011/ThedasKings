@@ -1,0 +1,18 @@
+# c_ahlat
+
+# County Title
+title = c_ahlat
+
+# Settlements
+max_settlements = 4
+
+b_ahlat = castle
+b_ahlat_2 = city
+b_ahlat_3 = temple
+b_ahlat_4 = castle
+
+# Misc
+culture = qunari
+religion = qun_religion
+
+#History

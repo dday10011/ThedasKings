@@ -1,0 +1,20 @@
+# c_seere
+
+# County Title
+title = c_seere
+
+# Settlements
+max_settlements = 6
+
+b_seere = castle
+b_seere_2 = city
+b_seere_3 = temple
+b_seere_4 = castle
+b_seere_5 = city
+b_seere_6 = temple
+
+# Misc
+culture = rivaini
+religion = andrastian_chantry
+
+#History

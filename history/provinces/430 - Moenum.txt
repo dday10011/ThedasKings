@@ -1,0 +1,19 @@
+# c_moenum
+
+# County Title
+title = c_moenum
+
+# Settlements
+max_settlements = 5
+
+b_moenum = castle
+b_moenum_2 = city
+b_moenum_3 = temple
+b_moenum_4 = castle
+b_moenum_5 = city
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

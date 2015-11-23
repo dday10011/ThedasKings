@@ -1,0 +1,19 @@
+# c_theirinfall_redoubt
+
+# County Title
+title = c_theirinfall_redoubt
+
+# Settlements
+max_settlements = 5
+
+b_theirinfall_redoubt = castle
+b_theirinfall_redoubt_2 = city
+b_theirinfall_redoubt_3 = temple
+b_theirinfall_redoubt_4 = castle
+b_theirinfall_redoubt_5 = city
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

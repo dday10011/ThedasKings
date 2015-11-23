@@ -1,0 +1,13 @@
+#object = {
+#	type = "frame"
+#	position = { 5.000 -8.000 5.000 }
+#	rotation = { 0.000 0.000 0.000 }
+#	scale = 200.0
+#}
+#object = {
+#	type = "Landmark_Domeoftherock"
+#	position = { 1439.000 1294.000 1449.000 }
+#	rotation = { 0.000 0.000 0.000 }
+#	scale = 0.7
+#}
+	

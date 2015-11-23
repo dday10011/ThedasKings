@@ -1,0 +1,18 @@
+# c_arpajon
+
+# County Title
+title = c_arpajon
+
+# Settlements
+max_settlements = 4
+
+b_arpajon = castle
+b_arpajon_2 = city
+b_arpajon_3 = temple
+b_arpajon_4 = castle
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

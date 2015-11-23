@@ -1,0 +1,18 @@
+# c_zakrytos
+
+# County Title
+title = c_zakrytos
+
+# Settlements
+max_settlements = 4
+
+b_zakrytos = castle
+b_zakrytos_2 = city
+b_zakrytos_3 = temple
+b_zakrytos_4 = castle
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

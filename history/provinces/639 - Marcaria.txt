@@ -1,0 +1,18 @@
+# c_marcaria
+
+# County Title
+title = c_marcaria
+
+# Settlements
+max_settlements = 4
+
+b_marcaria = castle
+b_marcaria_2 = city
+b_marcaria_3 = temple
+b_marcaria_4 = castle
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

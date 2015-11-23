@@ -1,0 +1,18 @@
+# c_naam
+
+# County Title
+title = c_naam
+
+# Settlements
+max_settlements = 4
+
+b_naam = castle
+b_naam_2 = city
+b_naam_3 = temple
+b_naam_4 = castle
+
+# Misc
+culture = rivaini
+religion = andrastian_chantry
+
+#History

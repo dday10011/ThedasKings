@@ -1,0 +1,18 @@
+# c_bordelon
+
+# County Title
+title = c_bordelon
+
+# Settlements
+max_settlements = 4
+
+b_bordelon = castle
+b_bordelon_2 = city
+b_bordelon_3 = temple
+b_bordelon_4 = castle
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

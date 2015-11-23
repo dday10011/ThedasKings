@@ -1,0 +1,18 @@
+# c_corwyn
+
+# County Title
+title = c_corwyn
+
+# Settlements
+max_settlements = 4
+
+b_corwyn = castle
+b_corwyn_2 = city
+b_corwyn_3 = temple
+b_corwyn_4 = castle
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

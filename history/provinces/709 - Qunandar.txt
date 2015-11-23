@@ -1,0 +1,17 @@
+# c_qunandar
+
+# County Title
+title = c_qunandar
+
+# Settlements
+max_settlements = 3
+
+b_qunandar = castle
+b_qunandar_2 = city
+b_qunandar_3 = temple
+
+# Misc
+culture = qunari
+religion = qun_religion
+
+#History

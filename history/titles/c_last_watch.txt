@@ -1,0 +1,20 @@
+500.1.1={
+	#law = true_cognatic_succession
+	#law = succ_gavelkind
+}
+800.1.1={
+	liege=d_denerim
+}
+
+	8824.9.5={
+		holder = 7002002
+	}
+	8859.1.1={
+		holder = 7002003
+	}
+	8899.1.1={
+		holder = 7002004
+	}
+	8930.2.5={
+		holder = 7002006
+	}

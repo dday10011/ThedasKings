@@ -1,0 +1,19 @@
+# c_ayteiros
+
+# County Title
+title = c_ayteiros
+
+# Settlements
+max_settlements = 5
+
+b_ayteiros = castle
+b_ayteiros_2 = city
+b_ayteiros_3 = temple
+b_ayteiros_4 = castle
+b_ayteiros_5 = city
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

@@ -1,0 +1,19 @@
+# c_val_montaigne
+
+# County Title
+title = c_val_montaigne
+
+# Settlements
+max_settlements = 5
+
+b_val_montaigne = castle
+b_val_montaigne_2 = city
+b_val_montaigne_3 = temple
+b_val_montaigne_4 = castle
+b_val_montaigne_5 = city
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

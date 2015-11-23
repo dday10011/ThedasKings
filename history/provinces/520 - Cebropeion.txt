@@ -1,0 +1,16 @@
+# c_cebropeion
+
+# County Title
+title = c_cebropeion
+
+# Settlements
+max_settlements = 2
+
+b_cebropeion = castle
+b_cebropeion_2 = city
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

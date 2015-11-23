@@ -1,0 +1,18 @@
+# c_par_vollen
+
+# County Title
+title = c_par_vollen
+
+# Settlements
+max_settlements = 4
+
+b_par_vollen = castle
+b_par_vollen_2 = city
+b_par_vollen_3 = temple
+b_par_vollen_4 = castle
+
+# Misc
+culture = qunari
+religion = qun_religion
+
+#History

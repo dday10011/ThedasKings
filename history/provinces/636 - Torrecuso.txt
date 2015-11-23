@@ -1,0 +1,18 @@
+# c_torrecuso
+
+# County Title
+title = c_torrecuso
+
+# Settlements
+max_settlements = 4
+
+b_torrecuso = castle
+b_torrecuso_2 = city
+b_torrecuso_3 = temple
+b_torrecuso_4 = castle
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

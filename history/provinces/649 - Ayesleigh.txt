@@ -1,0 +1,19 @@
+# c_ayesleigh
+
+# County Title
+title = c_ayesleigh
+
+# Settlements
+max_settlements = 5
+
+b_ayesleigh = castle
+b_ayesleigh_2 = city
+b_ayesleigh_3 = temple
+b_ayesleigh_4 = castle
+b_ayesleigh_5 = city
+
+# Misc
+culture = rivaini
+religion = andrastian_chantry
+
+#History

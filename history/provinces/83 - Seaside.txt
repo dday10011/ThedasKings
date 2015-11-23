@@ -1,0 +1,17 @@
+# c_seaside
+
+# County Title
+title = c_seaside
+
+# Settlements
+max_settlements = 3
+
+b_seaside = castle
+b_seaside_2 = city
+b_seaside_3 = temple
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

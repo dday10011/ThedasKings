@@ -1,0 +1,16 @@
+# c_winter_keepd
+
+# County Title
+title = c_winter_keepd
+
+# Settlements
+max_settlements = 2
+
+b_winter_keepd = castle
+b_winter_keepd_2 = city
+
+# Misc
+culture = avvar
+religion = avvar
+
+#History

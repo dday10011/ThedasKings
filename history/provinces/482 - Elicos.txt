@@ -1,0 +1,15 @@
+# c_elicos
+
+# County Title
+title = c_elicos
+
+# Settlements
+max_settlements = 1
+
+b_elicos = castle
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

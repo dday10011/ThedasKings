@@ -1,0 +1,18 @@
+# c_gorsium
+
+# County Title
+title = c_gorsium
+
+# Settlements
+max_settlements = 4
+
+b_gorsium = castle
+b_gorsium_2 = city
+b_gorsium_3 = temple
+b_gorsium_4 = castle
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

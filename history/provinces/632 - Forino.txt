@@ -1,0 +1,17 @@
+# c_forino
+
+# County Title
+title = c_forino
+
+# Settlements
+max_settlements = 3
+
+b_forino = castle
+b_forino_2 = city
+b_forino_3 = temple
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,20 @@
+# c_val_chevin
+
+# County Title
+title = c_val_chevin
+
+# Settlements
+max_settlements = 6
+
+b_val_chevin = castle
+b_val_chevin_2 = city
+b_val_chevin_3 = temple
+b_val_chevin_4 = castle
+b_val_chevin_5 = city
+b_val_chevin_6 = temple
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

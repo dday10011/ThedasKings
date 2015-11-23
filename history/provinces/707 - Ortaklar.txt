@@ -1,0 +1,18 @@
+# c_ortaklar
+
+# County Title
+title = c_ortaklar
+
+# Settlements
+max_settlements = 4
+
+b_ortaklar = castle
+b_ortaklar_2 = city
+b_ortaklar_3 = temple
+b_ortaklar_4 = castle
+
+# Misc
+culture = qunari
+religion = qun_religion
+
+#History

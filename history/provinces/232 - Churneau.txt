@@ -1,0 +1,19 @@
+# c_churneau
+
+# County Title
+title = c_churneau
+
+# Settlements
+max_settlements = 5
+
+b_churneau = castle
+b_churneau_2 = city
+b_churneau_3 = temple
+b_churneau_4 = castle
+b_churneau_5 = city
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

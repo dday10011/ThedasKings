@@ -1,0 +1,18 @@
+# c_lugo
+
+# County Title
+title = c_lugo
+
+# Settlements
+max_settlements = 4
+
+b_lugo = castle
+b_lugo_2 = city
+b_lugo_3 = temple
+b_lugo_4 = castle
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

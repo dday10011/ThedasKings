@@ -1,0 +1,18 @@
+# c_drapia
+
+# County Title
+title = c_drapia
+
+# Settlements
+max_settlements = 4
+
+b_drapia = castle
+b_drapia_2 = city
+b_drapia_3 = temple
+b_drapia_4 = castle
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

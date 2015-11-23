@@ -1,0 +1,19 @@
+# c_assalam
+
+# County Title
+title = c_assalam
+
+# Settlements
+max_settlements = 5
+
+b_assalam = castle
+b_assalam_2 = city
+b_assalam_3 = temple
+b_assalam_4 = castle
+b_assalam_5 = city
+
+# Misc
+culture = rivaini
+religion = andrastian_chantry
+
+#History

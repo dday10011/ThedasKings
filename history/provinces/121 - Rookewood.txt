@@ -1,0 +1,18 @@
+# c_rookewood
+
+# County Title
+title = c_rookewood
+
+# Settlements
+max_settlements = 4
+
+b_rookewood = castle
+b_rookewood_2 = city
+b_rookewood_3 = temple
+b_rookewood_4 = castle
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

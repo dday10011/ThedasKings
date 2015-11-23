@@ -1,0 +1,17 @@
+# c_velum
+
+# County Title
+title = c_velum
+
+# Settlements
+max_settlements = 3
+
+b_velum = castle
+b_velum_2 = city
+b_velum_3 = temple
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

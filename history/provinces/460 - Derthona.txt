@@ -1,0 +1,18 @@
+# c_derthona
+
+# County Title
+title = c_derthona
+
+# Settlements
+max_settlements = 4
+
+b_derthona = castle
+b_derthona_2 = city
+b_derthona_3 = temple
+b_derthona_4 = castle
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

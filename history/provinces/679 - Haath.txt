@@ -1,0 +1,18 @@
+# c_haath
+
+# County Title
+title = c_haath
+
+# Settlements
+max_settlements = 4
+
+b_haath = castle
+b_haath_2 = city
+b_haath_3 = temple
+b_haath_4 = castle
+
+# Misc
+culture = rivaini
+religion = andrastian_chantry
+
+#History

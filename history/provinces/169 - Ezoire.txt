@@ -1,0 +1,18 @@
+# c_ezoire
+
+# County Title
+title = c_ezoire
+
+# Settlements
+max_settlements = 4
+
+b_ezoire = castle
+b_ezoire_2 = city
+b_ezoire_3 = temple
+b_ezoire_4 = castle
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

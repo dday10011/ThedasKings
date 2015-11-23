@@ -1,0 +1,793 @@
+namespace = qunari_marriage
+
+character_event = {  #from on_adulthood and qunari_marriage.5 and on_startup - and on_yearly pulse
+    id = qunari_marriage.1
+    is_triggered_only = yes  
+    only_men = yes
+	min_age = 16
+    desc = qunari_marriage.1DESC
+    
+    trigger = {
+        religion = qun_religion
+        is_married = no
+        location = {
+            empire = { title = e_the_qun }
+        }
+    }
+    immediate = {
+		if = {
+			limit = { trait = qunari_race }
+			if = {
+				limit = {   
+					any_realm_character = {
+						age = 16
+						is_married = no
+						not = {
+							age_diff = { who = ROOT years = 10 }
+							is_close_relative = ROOT
+						}
+						is_female = yes
+						religion = qun_religion
+						trait = qunari_race
+						location = {
+							empire = { title = e_the_qun }
+						}
+						count = 1
+					}
+				}
+				random_realm_character = {
+					limit = {
+						age = 16
+						is_married = no
+						not = {
+							age_diff = { who = ROOT years = 10 }
+							is_close_relative = ROOT
+						}
+						is_female = yes
+						religion = qun_religion
+						trait = qunari_race
+						location = {
+							empire = { title = e_the_qun }
+						}
+					}
+					add_spouse = ROOT
+					character_event = { id = qunari_marriage.2 }
+				}
+			}
+			if = {
+				limit = {   
+					not = {
+						any_realm_character = {
+							age = 16
+							is_married = no
+							not = {
+								age_diff = { who = ROOT years = 10 }
+								is_close_relative = ROOT
+							}
+							is_female = yes
+							religion = qun_religion
+							trait = qunari_race
+							location = {
+									empire = { title = e_the_qun }
+							}
+							count = 1
+						}
+					}
+				}
+			   # <we create the new character here>
+				create_character = {
+					dynasty = random
+					religion = ROOT
+					culture = ROOT
+					female = yes
+					age = 20
+				#	attributes = {
+				#		martial = ROOT
+				#		diplomacy = ROOT
+				#		stewardship = ROOT
+				#		intrigue = ROOT
+				#		learning = ROOT
+				#	}
+					random_traits = yes
+					health = 5 #this avoids making the new character sick or generally with poor health if ROOT happen to be
+					fertility = 0.6
+					race = ROOT
+					trait = qunari_race
+				} 
+				new_character = {  
+					add_spouse = ROOT
+					character_event = { id = qunari_marriage.2 }
+				}
+			}
+		}
+        if = {
+			limit = {
+				trait = human_race
+			}
+			if = {
+				limit = {   
+					any_realm_character = {
+						age = 16
+						is_married = no
+						not = {
+							age_diff = { who = ROOT years = 10 }
+							is_close_relative = ROOT
+						}
+						is_female = yes
+						religion = qun_religion
+						trait = human_race
+						location = {
+							empire = { title = e_the_qun }
+						}
+						count = 1
+					}
+				}
+				random_realm_character = {
+					limit = {
+						age = 16
+						is_married = no
+						not = {
+							age_diff = { who = ROOT years = 10 }
+							is_close_relative = ROOT
+						}
+						is_female = yes
+						religion = qun_religion
+						trait = human_race
+						location = {
+							empire = { title = e_the_qun }
+						}
+					}
+					add_spouse = ROOT
+					character_event = { id = qunari_marriage.2 }
+				}
+			}
+			if = {
+				limit = {   
+					not = {
+						any_realm_character = {
+							age = 16
+							is_married = no
+							not = {
+								age_diff = { who = ROOT years = 10 }
+								is_close_relative = ROOT
+							}
+							is_female = yes
+							religion = qun_religion
+							trait = human_race
+							location = {
+								empire = { title = e_the_qun }
+							}
+							count = 1
+						}
+					}
+				}
+			#<we create the new character here>
+				create_character = {
+					dynasty = random
+					religion = ROOT
+					culture = ROOT
+					female = yes
+					age = 20
+				#	attributes = {
+				#		martial = ROOT
+				#		diplomacy = ROOT
+				#		stewardship = ROOT
+				#		intrigue = ROOT
+				#		learning = ROOT
+				#	}
+					random_traits = yes
+					health = 5 #this avoids making the new character sick or generally with poor health if ROOT happen to be
+					fertility = 0.6
+					race = ROOT
+					trait = human_race
+				} 
+				new_character = {  
+					add_spouse = ROOT
+					character_event = { id = qunari_marriage.2 }
+				}
+			}
+        }      
+		if = {
+			limit = {
+				trait = elf_race
+			}
+			if = {
+				limit = {   
+					any_realm_character = {
+						age = 16
+						is_married = no
+						not = {
+							age_diff = { who = ROOT years = 10 }
+							is_close_relative = ROOT
+						}
+						is_female = yes
+						religion = qun_religion
+						trait = elf_race
+						location = {
+							empire = { title = e_the_qun }
+						}
+						count = 1
+					}
+				}
+                random_realm_character = {
+					limit = {
+						age = 16
+						is_married = no
+						not = {
+							age_diff = { who = ROOT years = 10 }
+							is_close_relative = ROOT
+						}
+						is_female = yes
+						religion = qun_religion
+						trait = elf_race
+						location = {
+							empire = { title = e_the_qun }
+						}
+					}
+					add_spouse = ROOT
+					character_event = { id = qunari_marriage.2 }
+				}
+            }
+			if = {
+				limit = {   
+					not = {
+						any_realm_character = {
+							age = 16
+							is_married = no
+							not = {
+								age_diff = { who = ROOT years = 10 }
+								is_close_relative = ROOT
+							}
+							is_female = yes
+							religion = qun_religion
+							trait = elf_race
+							location = {
+								empire = { title = e_the_qun }
+							}
+							count = 1
+						}
+					}
+				}
+                                #<we create the new character here>
+				create_character = {
+					dynasty = random
+					religion = ROOT
+					culture = ROOT
+					female = yes
+					age = 20
+				#	attributes = {
+				#		martial = ROOT
+				#		diplomacy = ROOT
+				#		stewardship = ROOT
+				#		intrigue = ROOT
+				#		learning = ROOT
+				#	}
+					random_traits = yes
+					health = 5 #this avoids making the new character sick or generally with poor health if ROOT happen to be
+					fertility = 0.6
+					race = ROOT
+					trait = elf_race
+			    } 
+				new_character = {  
+					add_spouse = ROOT
+					character_event = { id = qunari_marriage.2 }
+				}
+			}
+        }            
+		if = {
+			limit = {
+				trait = dwarf_race   
+			}
+            if = {
+				limit = {   
+					any_realm_character = {
+						age = 16
+						is_married = no
+						not = {
+							age_diff = { who = ROOT years = 10 }
+							is_close_relative = ROOT
+						}
+						is_female = yes
+						religion = qun_religion
+						trait = dwarf_race
+						location = {
+							empire = { title = e_the_qun }
+						}
+						count = 1
+					}
+				}
+				random_realm_character = {
+					limit = {
+						age = 16
+						is_married = no
+						not = {
+							age_diff = { who = ROOT years = 10 }
+							is_close_relative = ROOT
+						}
+						is_female = yes
+						religion = qun_religion
+						trait = dwarf_race
+						location = {
+							empire = { title = e_the_qun }
+						}
+					}
+					add_spouse = ROOT
+					character_event = { id = qunari_marriage.2 }
+				}
+			}
+			if = {
+				limit = {   
+					not = {
+						any_realm_character = {
+							age = 16
+							is_married = no
+							not = {
+								age_diff = { who = ROOT years = 10 }
+								is_close_relative = ROOT
+							}
+							is_female = yes
+							religion = qun_religion
+							trait = dwarf_race
+							location = {
+								empire = { title = e_the_qun }
+							}
+							count = 1
+						}
+					}
+				}
+				#<we create the new character here>
+				create_character = {
+					dynasty = random
+					religion = ROOT
+					culture = ROOT
+					female = yes
+					age = 20
+				#	attributes = {
+				#		martial = ROOT
+				#		diplomacy = ROOT
+				#		stewardship = ROOT
+				#		intrigue = ROOT
+				#		learning = ROOT
+				#	}
+					random_traits = yes
+					health = 5 #this avoids making the new character sick or generally with poor health if ROOT happen to be
+					fertility = 0.6
+					race = ROOT
+					trait = dwarf_race
+				} 
+				new_character = {  
+					add_spouse = ROOT
+					character_event = { id = qunari_marriage.2 }
+				}
+			}
+        }
+    }
+    option = {
+        name = qunari_marriage.1OPTA #Accept
+	}
+}
+
+character_event = { #notification for the bride - called from qunari_marriage.1
+    id = qunari_marriage.2
+    is_triggered_only = yes
+    desc = qunari_marriage.2DESC
+    option = {
+        name = qunari_marriage.2OPTA  #Accept
+	}
+}
+
+
+character_event = {  #from on_adulthood and qunari_marriage.5 - and on_yearly pulse
+    id = qunari_marriage.3
+    is_triggered_only = yes  
+    only_women = yes
+	min_age = 16
+    desc = qunari_marriage.3DESC
+    
+    trigger = {
+        religion = qun_religion
+        is_married = no
+        location = {
+            empire = { title = e_the_qun }
+        }
+    }
+    immediate = {
+		if = {
+			limit = { trait = qunari_race }
+			if = {
+				limit = {   
+					any_realm_character = {
+						age = 16
+						is_married = no
+						not = {
+							age_diff = { who = ROOT years = 10 }
+							is_close_relative = ROOT
+						}
+						is_female = no
+						religion = qun_religion
+						trait = qunari_race
+						location = {
+							empire = { title = e_the_qun }
+						}
+						count = 1
+					}
+				}
+				random_realm_character = {
+					limit = {
+						age = 16
+						is_married = no
+						not = {
+							age_diff = { who = ROOT years = 10 }
+							is_close_relative = ROOT
+						}
+						is_female = no
+						religion = qun_religion
+						trait = qunari_race
+						location = {
+							empire = { title = e_the_qun }
+						}
+					}
+					add_spouse = ROOT
+					character_event = { id = qunari_marriage.4 }
+				}
+			}
+			if = {
+				limit = {   
+					not = {
+						any_realm_character = {
+							age = 16
+							is_married = no
+							not = {
+								age_diff = { who = ROOT years = 10 }
+								is_close_relative = ROOT
+							}
+							is_female = no
+							religion = qun_religion
+							trait = qunari_race
+							location = {
+									empire = { title = e_the_qun }
+							}
+							count = 1
+						}
+					}
+				}
+			   # <we create the new character here>
+				create_character = {
+					dynasty = random
+					religion = ROOT
+					culture = ROOT
+					female = no
+					age = 20
+				#	attributes = {
+				#		martial = ROOT
+				#		diplomacy = ROOT
+				#		stewardship = ROOT
+				#		intrigue = ROOT
+				#		learning = ROOT
+				#	}
+					random_traits = yes
+					health = 5 #this avoids making the new character sick or generally with poor health if ROOT happen to be
+					fertility = 0.6
+					race = ROOT
+					trait = qunari_race
+				} 
+				new_character = {  
+					add_spouse = ROOT
+					character_event = { id = qunari_marriage.4 }
+				}
+			}
+		}
+        if = {
+			limit = {
+				trait = human_race
+			}
+			if = {
+				limit = {   
+					any_realm_character = {
+						age = 16
+						is_married = no
+						not = {
+							age_diff = { who = ROOT years = 10 }
+							is_close_relative = ROOT
+						}
+						is_female = no
+						religion = qun_religion
+						trait = human_race
+						location = {
+							empire = { title = e_the_qun }
+						}
+						count = 1
+					}
+				}
+				random_realm_character = {
+					limit = {
+						age = 16
+						is_married = no
+						not = {
+							age_diff = { who = ROOT years = 10 }
+							is_close_relative = ROOT
+						}
+						is_female = no
+						religion = qun_religion
+						trait = human_race
+						location = {
+							empire = { title = e_the_qun }
+						}
+					}
+					add_spouse = ROOT
+					character_event = { id = qunari_marriage.4 }
+				}
+			}
+			if = {
+				limit = {   
+					not = {
+						any_realm_character = {
+							age = 16
+							is_married = no
+							not = {
+								age_diff = { who = ROOT years = 10 }
+								is_close_relative = ROOT
+							}
+							is_female = no
+							religion = qun_religion
+							trait = human_race
+							location = {
+								empire = { title = e_the_qun }
+							}
+						count = 1
+						}
+					}
+				}
+			#<we create the new character here>
+				create_character = {
+					dynasty = random
+					religion = ROOT
+					culture = ROOT
+					female = no
+					age = 20
+				#	attributes = {
+				#		martial = ROOT
+				#		diplomacy = ROOT
+				#		stewardship = ROOT
+				#		intrigue = ROOT
+				#		learning = ROOT
+				#	}
+					random_traits = yes
+					health = 5 #this avoids making the new character sick or generally with poor health if ROOT happen to be
+					fertility = 0.6
+					race = ROOT
+					trait = human_race
+				} 
+				new_character = {  
+					add_spouse = ROOT
+					character_event = { id = qunari_marriage.4 }
+				}
+			}
+        }      
+		if = {
+			limit = {
+				trait = elf_race
+			}
+			if = {
+				limit = {   
+					any_realm_character = {
+						age = 16
+						is_married = no
+						not = {
+							age_diff = { who = ROOT years = 10 }
+							is_close_relative = ROOT
+						}
+						is_female = no
+						religion = qun_religion
+						trait = elf_race
+						location = {
+							empire = { title = e_the_qun }
+						}
+						count = 1
+					}
+				}
+                random_realm_character = {
+					limit = {
+						age = 16
+						is_married = no
+						not = {
+							age_diff = { who = ROOT years = 10 }
+							is_close_relative = ROOT
+						}
+						is_female = no
+						religion = qun_religion
+						trait = elf_race
+						location = {
+							empire = { title = e_the_qun }
+						}
+					}
+					add_spouse = ROOT
+					character_event = { id = qunari_marriage.4 }
+				}
+            }
+			if = {
+				limit = {   
+					not = {
+						any_realm_character = {
+								age = 16
+								is_married = no
+								not = {
+									age_diff = { who = ROOT years = 10 }
+									is_close_relative = ROOT
+								}
+								is_female = no
+								religion = qun_religion
+								trait = elf_race
+								location = {
+									empire = { title = e_the_qun }
+								}
+							count = 1
+						}
+					}
+				}
+                                #<we create the new character here>
+				create_character = {
+					dynasty = random
+					religion = ROOT
+					culture = ROOT
+					female = no
+					age = 20
+				#	attributes = {
+				#		martial = ROOT
+				#		diplomacy = ROOT
+				#		stewardship = ROOT
+				#		intrigue = ROOT
+				#		learning = ROOT
+				#	}
+					random_traits = yes
+					health = 5 #this avoids making the new character sick or generally with poor health if ROOT happen to be
+					fertility = 0.6
+					race = ROOT
+					trait = elf_race
+			    } 
+				new_character = {  
+					add_spouse = ROOT
+					character_event = { id = qunari_marriage.4 }
+				}
+			}
+        }            
+		if = {
+			limit = {
+				trait = dwarf_race   
+			}
+            if = {
+				limit = {   
+					any_realm_character = {
+						age = 16
+						is_married = no
+						not = {
+							age_diff = { who = ROOT years = 10 }
+							is_close_relative = ROOT
+						}
+						is_female = no
+						religion = qun_religion
+						trait = dwarf_race
+						location = {
+							empire = { title = e_the_qun }
+						}
+						count = 1
+					}
+				}
+				random_realm_character = {
+					limit = {
+						age = 16
+						is_married = no
+						not = {
+							age_diff = { who = ROOT years = 10 }
+							is_close_relative = ROOT
+						}
+						is_female = no
+						religion = qun_religion
+						trait = dwarf_race
+						location = {
+							empire = { title = e_the_qun }
+						}
+					}
+					add_spouse = ROOT
+					character_event = { id = qunari_marriage.4 }
+				}
+			}
+			if = {
+				limit = {   
+					not = {
+						any_realm_character = {
+								age = 16
+								is_married = no
+								not = {
+									age_diff = { who = ROOT years = 10 }
+									is_close_relative = ROOT
+								}
+								is_female = no
+								religion = qun_religion
+								trait = dwarf_race
+								location = {
+									empire = { title = e_the_qun }
+								}
+							count = 1
+						}
+					}
+				}
+				#<we create the new character here>
+				create_character = {
+					dynasty = random
+					religion = ROOT
+					culture = ROOT
+					female = no
+					age = 20
+				#	attributes = {
+				#		martial = ROOT
+				#		diplomacy = ROOT
+				#		stewardship = ROOT
+				#		intrigue = ROOT
+				#		learning = ROOT
+				#	}
+					random_traits = yes
+					health = 5 #this avoids making the new character sick or generally with poor health if ROOT happen to be
+					fertility = 0.6
+					race = ROOT
+					trait = dwarf_race
+				} 
+				new_character = {  
+					add_spouse = ROOT
+					character_event = { id = qunari_marriage.4 }
+				}
+			}
+        }
+    }
+    option = {
+        name = qunari_marriage.3OPTA #Accept
+	}
+}
+
+character_event = { #notification for the bride - called from qunari_marriage.3
+    id = qunari_marriage.4
+    is_triggered_only = yes
+    desc = qunari_marriage.3DESC
+    option = {
+        name = qunari_marriage.3OPTA  #Accept
+	}
+}
+
+
+
+
+character_event = { #hidden, send the marriage event from on_death
+    id = qunari_marriage.5
+    is_triggered_only = yes
+    hide_window = yes
+    
+    trigger = {
+		religion = qun_religion
+		spouse = {
+			or = {
+				and = {
+					is_female = yes
+					not = { age = 45 }
+				}
+				and = {
+					is_female = no
+					not = { age = 70 }
+				}
+			}
+		}
+    }
+    immediate = {
+        if = {
+            limit = {
+                is_female = no 
+            }
+            spouse = { character_event = qunari_marriage.1 }
+        }
+        if = {
+            limit = {
+                is_female = yes 
+            }
+            spouse = { character_event = qunari_marriage.3 }
+        }
+    }
+}

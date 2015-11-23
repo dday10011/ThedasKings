@@ -1,0 +1,15 @@
+# c_creaators_rest
+
+# County Title
+title = c_creaators_rest
+
+# Settlements
+max_settlements = 1
+
+b_creaators_rest = castle
+
+# Misc
+culture = forest
+religion = forest
+
+#History

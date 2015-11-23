@@ -1,0 +1,18 @@
+# c_kaman
+
+# County Title
+title = c_kaman
+
+# Settlements
+max_settlements = 4
+
+b_kaman = castle
+b_kaman_2 = city
+b_kaman_3 = temple
+b_kaman_4 = castle
+
+# Misc
+culture = qunari
+religion = qun_religion
+
+#History

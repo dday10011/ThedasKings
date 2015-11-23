@@ -1,0 +1,15 @@
+# c_absdale
+
+# County Title
+title = c_absdale
+
+# Settlements
+max_settlements = 1
+
+b_absdale = castle
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

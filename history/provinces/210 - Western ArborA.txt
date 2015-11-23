@@ -1,0 +1,15 @@
+# c_western_arbora
+
+# County Title
+title = c_western_arbora
+
+# Settlements
+max_settlements = 1
+
+b_western_arbora = castle
+
+# Misc
+culture = forest
+religion = forest
+
+#History

@@ -1,0 +1,21 @@
+# c_neromenian_outpost
+
+# County Title
+title = c_neromenian_outpost
+
+# Settlements
+max_settlements = 7
+
+b_neromenian_outpost = castle
+#b_neromenian_outpost_2 = city
+#b_neromenian_outpost_3 = temple
+#b_neromenian_outpost_4 = castle
+#b_neromenian_outpost_5 = city
+#b_neromenian_outpost_6 = temple
+#b_neromenian_outpost_7 = castle
+
+# Misc
+culture = kal_sharok
+religion = our_ancestors
+
+#History

@@ -1,0 +1,17 @@
+# c_diever
+
+# County Title
+title = c_diever
+
+# Settlements
+max_settlements = 3
+
+b_diever = castle
+b_diever_2 = city
+b_diever_3 = temple
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

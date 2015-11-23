@@ -1,0 +1,17 @@
+# c_lowerstead
+
+# County Title
+title = c_lowerstead
+
+# Settlements
+max_settlements = 3
+
+b_lowerstead = castle
+b_lowerstead_2 = city
+b_lowerstead_3 = temple
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

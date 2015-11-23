@@ -1,0 +1,18 @@
+# c_claose
+
+# County Title
+title = c_claose
+
+# Settlements
+max_settlements = 4
+
+b_claose = castle
+b_claose_2 = city
+b_claose_3 = temple
+b_claose_4 = castle
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

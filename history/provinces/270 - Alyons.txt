@@ -1,0 +1,18 @@
+# c_alyons
+
+# County Title
+title = c_alyons
+
+# Settlements
+max_settlements = 4
+
+b_alyons = castle
+b_alyons_2 = city
+b_alyons_3 = temple
+b_alyons_4 = castle
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

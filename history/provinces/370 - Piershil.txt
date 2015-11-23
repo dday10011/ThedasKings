@@ -1,0 +1,15 @@
+# c_piershil
+
+# County Title
+title = c_piershil
+
+# Settlements
+max_settlements = 1
+
+b_piershil = castle
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

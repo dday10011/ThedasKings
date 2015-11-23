@@ -1,0 +1,18 @@
+# c_brekberg
+
+# County Title
+title = c_brekberg
+
+# Settlements
+max_settlements = 4
+
+b_brekberg = castle
+b_brekberg_2 = city
+b_brekberg_3 = temple
+b_brekberg_4 = castle
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

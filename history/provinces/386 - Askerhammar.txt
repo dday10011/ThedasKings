@@ -1,0 +1,15 @@
+# c_askerhammar
+
+# County Title
+title = c_askerhammar
+
+# Settlements
+max_settlements = 1
+
+b_askerhammar = castle
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

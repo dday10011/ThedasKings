@@ -1,0 +1,16 @@
+# c_rhegodosia
+
+# County Title
+title = c_rhegodosia
+
+# Settlements
+max_settlements = 2
+
+b_rhegodosia = castle
+b_rhegodosia_2 = city
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

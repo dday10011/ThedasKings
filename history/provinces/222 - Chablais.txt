@@ -1,0 +1,19 @@
+# c_chablais
+
+# County Title
+title = c_chablais
+
+# Settlements
+max_settlements = 5
+
+b_chablais = castle
+b_chablais_2 = city
+b_chablais_3 = temple
+b_chablais_4 = castle
+b_chablais_5 = city
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

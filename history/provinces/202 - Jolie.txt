@@ -1,0 +1,17 @@
+# c_jolie
+
+# County Title
+title = c_jolie
+
+# Settlements
+max_settlements = 3
+
+b_jolie = castle
+b_jolie_2 = city
+b_jolie_3 = temple
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

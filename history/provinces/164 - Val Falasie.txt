@@ -1,0 +1,20 @@
+# c_val_falasie
+
+# County Title
+title = c_val_falasie
+
+# Settlements
+max_settlements = 6
+
+b_val_falasie = castle
+b_val_falasie_2 = city
+b_val_falasie_3 = temple
+b_val_falasie_4 = castle
+b_val_falasie_5 = city
+b_val_falasie_6 = temple
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

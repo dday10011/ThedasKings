@@ -1,0 +1,20 @@
+# c_seleny
+
+# County Title
+title = c_seleny
+
+# Settlements
+max_settlements = 6
+
+b_seleny = castle
+b_seleny_2 = city
+b_seleny_3 = temple
+b_seleny_4 = castle
+b_seleny_5 = city
+b_seleny_6 = temple
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

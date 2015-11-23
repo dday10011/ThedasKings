@@ -1,0 +1,19 @@
+# c_domfrontais
+
+# County Title
+title = c_domfrontais
+
+# Settlements
+max_settlements = 5
+
+b_domfrontais = castle
+b_domfrontais_2 = city
+b_domfrontais_3 = temple
+b_domfrontais_4 = castle
+b_domfrontais_5 = city
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

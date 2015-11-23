@@ -1,0 +1,19 @@
+# c_verchiel
+
+# County Title
+title = c_verchiel
+
+# Settlements
+max_settlements = 5
+
+b_verchiel = castle
+b_verchiel_2 = city
+b_verchiel_3 = temple
+b_verchiel_4 = castle
+b_verchiel_5 = city
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,18 @@
+# c_wycomec
+
+# County Title
+title = c_wycomec
+
+# Settlements
+max_settlements = 4
+
+b_wycomec = castle
+b_wycomec_2 = city
+b_wycomec_3 = temple
+b_wycomec_4 = castle
+
+# Misc
+culture = wycome
+religion = andrastian_chantry
+
+#History

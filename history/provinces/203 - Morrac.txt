@@ -1,0 +1,17 @@
+# c_morrac
+
+# County Title
+title = c_morrac
+
+# Settlements
+max_settlements = 3
+
+b_morrac = castle
+b_morrac_2 = city
+b_morrac_3 = temple
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

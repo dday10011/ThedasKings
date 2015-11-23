@@ -1,0 +1,17 @@
+# c_calvanico
+
+# County Title
+title = c_calvanico
+
+# Settlements
+max_settlements = 3
+
+b_calvanico = castle
+b_calvanico_2 = city
+b_calvanico_3 = temple
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

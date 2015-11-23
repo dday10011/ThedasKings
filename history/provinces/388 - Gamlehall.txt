@@ -1,0 +1,17 @@
+# c_gamlehall
+
+# County Title
+title = c_gamlehall
+
+# Settlements
+max_settlements = 3
+
+b_gamlehall = castle
+b_gamlehall_2 = city
+b_gamlehall_3 = temple
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

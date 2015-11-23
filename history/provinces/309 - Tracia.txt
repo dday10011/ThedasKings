@@ -1,0 +1,20 @@
+# c_tracia
+
+# County Title
+title = c_tracia
+
+# Settlements
+max_settlements = 6
+
+b_tracia = castle
+b_tracia_2 = city
+b_tracia_3 = temple
+b_tracia_4 = castle
+b_tracia_5 = city
+b_tracia_6 = temple
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

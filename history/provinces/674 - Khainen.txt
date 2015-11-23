@@ -1,0 +1,19 @@
+# c_khainen
+
+# County Title
+title = c_khainen
+
+# Settlements
+max_settlements = 5
+
+b_khainen = castle
+b_khainen_2 = city
+b_khainen_3 = temple
+b_khainen_4 = castle
+b_khainen_5 = city
+
+# Misc
+culture = rivaini
+religion = andrastian_chantry
+
+#History

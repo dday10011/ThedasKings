@@ -1,0 +1,19 @@
+# c_idin
+
+# County Title
+title = c_idin
+
+# Settlements
+max_settlements = 5
+
+b_idin = castle
+b_idin_2 = city
+b_idin_3 = temple
+b_idin_4 = castle
+b_idin_5 = city
+
+# Misc
+culture = qunari
+religion = qun_religion
+
+#History

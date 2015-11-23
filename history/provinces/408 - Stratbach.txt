@@ -1,0 +1,15 @@
+# c_stratbach
+
+# County Title
+title = c_stratbach
+
+# Settlements
+max_settlements = 1
+
+b_stratbach = castle
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

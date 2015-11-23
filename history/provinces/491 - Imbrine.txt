@@ -1,0 +1,18 @@
+# c_imbrine
+
+# County Title
+title = c_imbrine
+
+# Settlements
+max_settlements = 4
+
+b_imbrine = castle
+b_imbrine_2 = city
+b_imbrine_3 = temple
+b_imbrine_4 = castle
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

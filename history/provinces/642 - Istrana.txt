@@ -1,0 +1,17 @@
+# c_istrana
+
+# County Title
+title = c_istrana
+
+# Settlements
+max_settlements = 3
+
+b_istrana = castle
+b_istrana_2 = city
+b_istrana_3 = temple
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

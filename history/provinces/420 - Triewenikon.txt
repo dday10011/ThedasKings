@@ -1,0 +1,17 @@
+# c_triewenikon
+
+# County Title
+title = c_triewenikon
+
+# Settlements
+max_settlements = 3
+
+b_triewenikon = castle
+b_triewenikon_2 = city
+b_triewenikon_3 = temple
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

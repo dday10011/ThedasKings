@@ -1,0 +1,16 @@
+# c_hissing_wastes
+
+# County Title
+title = c_hissing_wastes
+
+# Settlements
+max_settlements = 2
+
+b_hissing_wastes = castle
+b_hissing_wastes_2 = city
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

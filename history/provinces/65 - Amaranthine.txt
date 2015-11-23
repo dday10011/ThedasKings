@@ -1,0 +1,19 @@
+# c_amaranthine
+
+# County Title
+title = c_amaranthine
+
+# Settlements
+max_settlements = 5
+
+b_amaranthine = castle
+b_amaranthine_2 = city
+b_amaranthine_3 = temple
+b_amaranthine_4 = castle
+b_amaranthine_5 = city
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

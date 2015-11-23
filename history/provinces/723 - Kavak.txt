@@ -1,0 +1,17 @@
+# c_kavak
+
+# County Title
+title = c_kavak
+
+# Settlements
+max_settlements = 3
+
+b_kavak = castle
+b_kavak_2 = city
+b_kavak_3 = temple
+
+# Misc
+culture = qunari
+religion = qun_religion
+
+#History

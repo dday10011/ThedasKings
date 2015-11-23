@@ -1,0 +1,17 @@
+# c_talgarth
+
+# County Title
+title = c_talgarth
+
+# Settlements
+max_settlements = 3
+
+b_talgarth = castle
+b_talgarth_2 = city
+b_talgarth_3 = temple
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

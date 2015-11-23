@@ -1,0 +1,15 @@
+# c_ruristhal
+
+# County Title
+title = c_ruristhal
+
+# Settlements
+max_settlements = 1
+
+b_ruristhal = castle
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

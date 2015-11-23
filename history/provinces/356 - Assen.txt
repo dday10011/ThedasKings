@@ -1,0 +1,16 @@
+# c_assen
+
+# County Title
+title = c_assen
+
+# Settlements
+max_settlements = 2
+
+b_assen = castle
+b_assen_2 = city
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

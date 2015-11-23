@@ -1,0 +1,16 @@
+# c_tantervalee
+
+# County Title
+title = c_tantervalee
+
+# Settlements
+max_settlements = 2
+
+b_tantervalee = castle
+b_tantervalee_2 = city
+
+# Misc
+culture = tantervale
+religion = andrastian_chantry
+
+#History

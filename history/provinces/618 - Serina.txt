@@ -1,0 +1,19 @@
+# c_serina
+
+# County Title
+title = c_serina
+
+# Settlements
+max_settlements = 5
+
+b_serina = castle
+b_serina_2 = city
+b_serina_3 = temple
+b_serina_4 = castle
+b_serina_5 = city
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

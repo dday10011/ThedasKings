@@ -1,0 +1,19 @@
+# c_armutalan
+
+# County Title
+title = c_armutalan
+
+# Settlements
+max_settlements = 5
+
+b_armutalan = castle
+b_armutalan_2 = city
+b_armutalan_3 = temple
+b_armutalan_4 = castle
+b_armutalan_5 = city
+
+# Misc
+culture = qunari
+religion = qun_religion
+
+#History

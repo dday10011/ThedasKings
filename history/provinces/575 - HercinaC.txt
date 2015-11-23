@@ -1,0 +1,19 @@
+# c_hercinac
+
+# County Title
+title = c_hercinac
+
+# Settlements
+max_settlements = 5
+
+b_hercinac = castle
+b_hercinac_2 = city
+b_hercinac_3 = temple
+b_hercinac_4 = castle
+b_hercinac_5 = city
+
+# Misc
+culture = hercinia
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,17 @@
+# c_nevassa
+
+# County Title
+title = c_nevassa
+
+# Settlements
+max_settlements = 3
+
+b_nevassa = castle
+b_nevassa_2 = city
+b_nevassa_3 = temple
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

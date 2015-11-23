@@ -1,0 +1,16 @@
+# c_stormhold
+
+# County Title
+title = c_stormhold
+
+# Settlements
+max_settlements = 2
+
+b_stormhold = castle
+b_stormhold_2 = city
+
+# Misc
+culture = avvar
+religion = avvar
+
+#History

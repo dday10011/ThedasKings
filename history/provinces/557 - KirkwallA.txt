@@ -1,0 +1,16 @@
+# c_kirkwalla
+
+# County Title
+title = c_kirkwalla
+
+# Settlements
+max_settlements = 2
+
+b_kirkwalla = castle
+b_kirkwalla_2 = city
+
+# Misc
+culture = kirkwaller
+religion = andrastian_chantry
+
+#History

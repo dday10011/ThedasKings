@@ -1,0 +1,18 @@
+# c_archambon
+
+# County Title
+title = c_archambon
+
+# Settlements
+max_settlements = 4
+
+b_archambon = castle
+b_archambon_2 = city
+b_archambon_3 = temple
+b_archambon_4 = castle
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

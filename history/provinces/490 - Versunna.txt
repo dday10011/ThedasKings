@@ -1,0 +1,19 @@
+# c_versunna
+
+# County Title
+title = c_versunna
+
+# Settlements
+max_settlements = 5
+
+b_versunna = castle
+b_versunna_2 = city
+b_versunna_3 = temple
+b_versunna_4 = castle
+b_versunna_5 = city
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

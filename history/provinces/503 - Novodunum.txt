@@ -1,0 +1,18 @@
+# c_novodunum
+
+# County Title
+title = c_novodunum
+
+# Settlements
+max_settlements = 4
+
+b_novodunum = castle
+b_novodunum_2 = city
+b_novodunum_3 = temple
+b_novodunum_4 = castle
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

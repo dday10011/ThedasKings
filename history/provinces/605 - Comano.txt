@@ -1,0 +1,18 @@
+# c_comano
+
+# County Title
+title = c_comano
+
+# Settlements
+max_settlements = 4
+
+b_comano = castle
+b_comano_2 = city
+b_comano_3 = temple
+b_comano_4 = castle
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

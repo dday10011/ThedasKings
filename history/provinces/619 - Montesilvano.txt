@@ -1,0 +1,19 @@
+# c_montesilvano
+
+# County Title
+title = c_montesilvano
+
+# Settlements
+max_settlements = 5
+
+b_montesilvano = castle
+b_montesilvano_2 = city
+b_montesilvano_3 = temple
+b_montesilvano_4 = castle
+b_montesilvano_5 = city
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

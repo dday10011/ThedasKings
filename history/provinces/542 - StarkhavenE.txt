@@ -1,0 +1,18 @@
+# c_starkhavene
+
+# County Title
+title = c_starkhavene
+
+# Settlements
+max_settlements = 4
+
+b_starkhavene = castle
+b_starkhavene_2 = city
+b_starkhavene_3 = temple
+b_starkhavene_4 = castle
+
+# Misc
+culture = starkhaven
+religion = andrastian_chantry
+
+#History

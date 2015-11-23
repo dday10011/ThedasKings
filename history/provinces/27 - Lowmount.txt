@@ -1,0 +1,18 @@
+# c_lowmount
+
+# County Title
+title = c_lowmount
+
+# Settlements
+max_settlements = 4
+
+b_lowmount = castle
+b_lowmount_2 = city
+b_lowmount_3 = temple
+b_lowmount_4 = castle
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

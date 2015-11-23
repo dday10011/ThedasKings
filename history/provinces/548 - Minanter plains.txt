@@ -1,0 +1,19 @@
+# c_minanter_plains
+
+# County Title
+title = c_minanter_plains
+
+# Settlements
+max_settlements = 5
+
+b_minanter_plains = castle
+b_minanter_plains_2 = city
+b_minanter_plains_3 = temple
+b_minanter_plains_4 = castle
+b_minanter_plains_5 = city
+
+# Misc
+culture = starkhaven
+religion = andrastian_chantry
+
+#History

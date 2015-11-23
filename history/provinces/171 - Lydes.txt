@@ -1,0 +1,19 @@
+# c_lydes
+
+# County Title
+title = c_lydes
+
+# Settlements
+max_settlements = 5
+
+b_lydes = castle
+b_lydes_2 = city
+b_lydes_3 = temple
+b_lydes_4 = castle
+b_lydes_5 = city
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

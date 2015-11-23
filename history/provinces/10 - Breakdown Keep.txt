@@ -1,0 +1,16 @@
+# c_breakdown_keep
+
+# County Title
+title = c_breakdown_keep
+
+# Settlements
+max_settlements = 2
+
+b_breakdown_keep = castle
+b_breakdown_keep_2 = city
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

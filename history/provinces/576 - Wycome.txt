@@ -1,0 +1,20 @@
+# c_wycome
+
+# County Title
+title = c_wycome
+
+# Settlements
+max_settlements = 6
+
+b_wycome = castle
+b_wycome_2 = city
+b_wycome_3 = temple
+b_wycome_4 = castle
+b_wycome_5 = city
+b_wycome_6 = temple
+
+# Misc
+culture = wycome
+religion = andrastian_chantry
+
+#History

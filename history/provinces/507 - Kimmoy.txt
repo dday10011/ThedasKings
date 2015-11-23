@@ -1,0 +1,18 @@
+# c_kimmoy
+
+# County Title
+title = c_kimmoy
+
+# Settlements
+max_settlements = 4
+
+b_kimmoy = castle
+b_kimmoy_2 = city
+b_kimmoy_3 = temple
+b_kimmoy_4 = castle
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

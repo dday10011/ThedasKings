@@ -1,0 +1,17 @@
+# c_petit_foret
+
+# County Title
+title = c_petit_foret
+
+# Settlements
+max_settlements = 3
+
+b_petit_foret = castle
+b_petit_foret_2 = city
+b_petit_foret_3 = temple
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

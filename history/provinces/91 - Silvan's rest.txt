@@ -1,0 +1,15 @@
+# c_silvans_rest
+
+# County Title
+title = c_silvans_rest
+
+# Settlements
+max_settlements = 1
+
+b_silvans_rest = castle
+
+# Misc
+culture = forest
+religion = forest
+
+#History

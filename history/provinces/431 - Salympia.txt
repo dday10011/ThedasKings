@@ -1,0 +1,18 @@
+# c_salympia
+
+# County Title
+title = c_salympia
+
+# Settlements
+max_settlements = 4
+
+b_salympia = castle
+b_salympia_2 = city
+b_salympia_3 = temple
+b_salympia_4 = castle
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

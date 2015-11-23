@@ -1,0 +1,17 @@
+# c_drostenede
+
+# County Title
+title = c_drostenede
+
+# Settlements
+max_settlements = 3
+
+b_drostenede = castle
+b_drostenede_2 = city
+b_drostenede_3 = temple
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

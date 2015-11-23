@@ -1,0 +1,15 @@
+# c_western_arborc
+
+# County Title
+title = c_western_arborc
+
+# Settlements
+max_settlements = 1
+
+b_western_arborc = castle
+
+# Misc
+culture = forest
+religion = forest
+
+#History

@@ -1,0 +1,18 @@
+# c_trinia
+
+# County Title
+title = c_trinia
+
+# Settlements
+max_settlements = 4
+
+b_trinia = castle
+b_trinia_2 = city
+b_trinia_3 = temple
+b_trinia_4 = castle
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

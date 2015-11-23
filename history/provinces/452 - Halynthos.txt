@@ -1,0 +1,18 @@
+# c_halynthos
+
+# County Title
+title = c_halynthos
+
+# Settlements
+max_settlements = 4
+
+b_halynthos = castle
+b_halynthos_2 = city
+b_halynthos_3 = temple
+b_halynthos_4 = castle
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

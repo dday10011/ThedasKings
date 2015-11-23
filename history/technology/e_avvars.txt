@@ -1,0 +1,21 @@
+#AVVARS
+technology = {
+	titles = {
+		d_redhold
+		d_skyhold
+		d_stormhold
+		d_ravens_keep
+		d_winter_keep
+		d_wyvern_keep
+	}
+	7000 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+	12000 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}

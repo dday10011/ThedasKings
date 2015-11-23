@@ -1,0 +1,19 @@
+# c_teyrns_moot
+
+# County Title
+title = c_teyrns_moot
+
+# Settlements
+max_settlements = 5
+
+b_teyrns_moot = castle
+b_teyrns_moot_2 = city
+b_teyrns_moot_3 = temple
+b_teyrns_moot_4 = castle
+b_teyrns_moot_5 = city
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

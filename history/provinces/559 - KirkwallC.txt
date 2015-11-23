@@ -1,0 +1,16 @@
+# c_kirkwallc
+
+# County Title
+title = c_kirkwallc
+
+# Settlements
+max_settlements = 2
+
+b_kirkwallc = castle
+b_kirkwallc_2 = city
+
+# Misc
+culture = kirkwaller
+religion = andrastian_chantry
+
+#History

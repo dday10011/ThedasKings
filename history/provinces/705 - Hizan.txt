@@ -1,0 +1,18 @@
+# c_hizan
+
+# County Title
+title = c_hizan
+
+# Settlements
+max_settlements = 4
+
+b_hizan = castle
+b_hizan_2 = city
+b_hizan_3 = temple
+b_hizan_4 = castle
+
+# Misc
+culture = qunari
+religion = qun_religion
+
+#History

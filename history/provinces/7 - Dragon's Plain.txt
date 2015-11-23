@@ -1,0 +1,16 @@
+# c_dragons_plain
+
+# County Title
+title = c_dragons_plain
+
+# Settlements
+max_settlements = 2
+
+b_dragons_plain = castle
+b_dragons_plain_2 = city
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

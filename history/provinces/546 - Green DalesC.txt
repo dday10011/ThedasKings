@@ -1,0 +1,19 @@
+# c_green_dalesc
+
+# County Title
+title = c_green_dalesc
+
+# Settlements
+max_settlements = 5
+
+b_green_dalesc = castle
+b_green_dalesc_2 = city
+b_green_dalesc_3 = temple
+b_green_dalesc_4 = castle
+b_green_dalesc_5 = city
+
+# Misc
+culture = starkhaven
+religion = andrastian_chantry
+
+#History

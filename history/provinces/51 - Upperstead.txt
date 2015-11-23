@@ -1,0 +1,17 @@
+# c_upperstead
+
+# County Title
+title = c_upperstead
+
+# Settlements
+max_settlements = 3
+
+b_upperstead = castle
+b_upperstead_2 = city
+b_upperstead_3 = temple
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,17 @@
+# c_onterre
+
+# County Title
+title = c_onterre
+
+# Settlements
+max_settlements = 3
+
+b_onterre = castle
+b_onterre_2 = city
+b_onterre_3 = temple
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

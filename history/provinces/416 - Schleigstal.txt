@@ -1,0 +1,17 @@
+# c_schleigstal
+
+# County Title
+title = c_schleigstal
+
+# Settlements
+max_settlements = 3
+
+b_schleigstal = castle
+b_schleigstal_2 = city
+b_schleigstal_3 = temple
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

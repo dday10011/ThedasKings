@@ -1,0 +1,19 @@
+# c_fairfield
+
+# County Title
+title = c_fairfield
+
+# Settlements
+max_settlements = 5
+
+b_fairfield = castle
+b_fairfield_2 = city
+b_fairfield_3 = temple
+b_fairfield_4 = castle
+b_fairfield_5 = city
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

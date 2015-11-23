@@ -1,0 +1,16 @@
+# c_barrowtown_by_the_sea
+
+# County Title
+title = c_barrowtown_by_the_sea
+
+# Settlements
+max_settlements = 2
+
+b_barrowtown_by_the_sea = castle
+b_barrowtown_by_the_sea_2 = city
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

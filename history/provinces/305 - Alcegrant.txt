@@ -1,0 +1,17 @@
+# c_alcegrant
+
+# County Title
+title = c_alcegrant
+
+# Settlements
+max_settlements = 3
+
+b_alcegrant = castle
+b_alcegrant_2 = city
+b_alcegrant_3 = temple
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

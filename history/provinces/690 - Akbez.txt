@@ -1,0 +1,17 @@
+# c_akbez
+
+# County Title
+title = c_akbez
+
+# Settlements
+max_settlements = 3
+
+b_akbez = castle
+b_akbez_2 = city
+b_akbez_3 = temple
+
+# Misc
+culture = qunari
+religion = qun_religion
+
+#History

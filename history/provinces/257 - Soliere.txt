@@ -1,0 +1,16 @@
+# c_soliere
+
+# County Title
+title = c_soliere
+
+# Settlements
+max_settlements = 2
+
+b_soliere = castle
+b_soliere_2 = city
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

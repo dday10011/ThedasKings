@@ -1,0 +1,18 @@
+# c_artenac
+
+# County Title
+title = c_artenac
+
+# Settlements
+max_settlements = 4
+
+b_artenac = castle
+b_artenac_2 = city
+b_artenac_3 = temple
+b_artenac_4 = castle
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

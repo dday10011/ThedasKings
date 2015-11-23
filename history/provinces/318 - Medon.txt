@@ -1,0 +1,17 @@
+# c_medon
+
+# County Title
+title = c_medon
+
+# Settlements
+max_settlements = 3
+
+b_medon = castle
+b_medon_2 = city
+b_medon_3 = temple
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,18 @@
+# c_finsund
+
+# County Title
+title = c_finsund
+
+# Settlements
+max_settlements = 4
+
+b_finsund = castle
+b_finsund_2 = city
+b_finsund_3 = temple
+b_finsund_4 = castle
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

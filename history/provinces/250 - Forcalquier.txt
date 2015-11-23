@@ -1,0 +1,18 @@
+# c_forcalquier
+
+# County Title
+title = c_forcalquier
+
+# Settlements
+max_settlements = 4
+
+b_forcalquier = castle
+b_forcalquier_2 = city
+b_forcalquier_3 = temple
+b_forcalquier_4 = castle
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

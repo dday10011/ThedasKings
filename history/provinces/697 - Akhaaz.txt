@@ -1,0 +1,19 @@
+# c_akhaaz
+
+# County Title
+title = c_akhaaz
+
+# Settlements
+max_settlements = 5
+
+b_akhaaz = castle
+b_akhaaz_2 = city
+b_akhaaz_3 = temple
+b_akhaaz_4 = castle
+b_akhaaz_5 = city
+
+# Misc
+culture = qunari
+religion = qun_religion
+
+#History

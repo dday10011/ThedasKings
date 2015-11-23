@@ -1,0 +1,12 @@
+#comments also work in localisation
+#Gave english localisation for german and spanish language as a placeholder.
+#codetag;english;french;german;spanish; otherlanguages;;;;;;;;;x
+
+qunari_marriage.1DESC;Now that you reached adulhood, you have been assigned a spouse, as the Qun demand it;Désormais que vous êtes adulte, une épouse vous à été assigné, comme le Qun l'exige.;Now that you reached adulhood, you have been assigned a spouse, as the Qun demand it;Now that you reached adulhood, you have been assigned a spouse, as the Qun demand it;;;;;;;;;;;;x
+qunari_marriage.2DESC;Now that you reached adulhood, you have been assigned a spouse, as the Qun demand it;Désormais que vous êtes adulte, une épouse vous à été assigné, comme le Qun l'exige.;Now that you reached adulhood, you have been assigned a spouse, as the Qun demand it;Now that you reached adulhood, you have been assigned a spouse, as the Qun demand it;;;;;;;;;;;;;x
+qunari_marriage.3DESC;Now that you reached adulhood, you have been assigned a spouse, as the Qun demand it;Désormais que vous êtes adulte, une épouse vous à été assigné, comme le Qun l'exige.;Now that you reached adulhood, you have been assigned a spouse, as the Qun demand it;Now that you reached adulhood, you have been assigned a spouse, as the Qun demand it;;;;;;;;;;;;;x
+qunari_marriage.4DESC;Now that you reached adulhood, you have been assigned a spouse, as the Qun demand it;Désormais que vous êtes adulte, une épouse vous à été assigné, comme le Qun l'exige.;Now that you reached adulhood, you have been assigned a spouse, as the Qun demand it;Now that you reached adulhood, you have been assigned a spouse, as the Qun demand it;;;;;;;;;;;;;x
+qunari_marriage.1OPTA;Ok;Ok;Ok;Ok;;;;;;;;;;;;;x
+qunari_marriage.2OPTA;Ok;Ok;Ok;Ok;;;;;;;;;;;;;x
+qunari_marriage.3OPTA;Ok;Ok;Ok;Ok;;;;;;;;;;;;;x
+qunari_marriage.4OPTA;Ok;Ok;Ok;Ok;;;;;;;;;;;;;x

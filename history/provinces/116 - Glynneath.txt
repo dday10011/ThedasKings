@@ -1,0 +1,16 @@
+# c_glynneath
+
+# County Title
+title = c_glynneath
+
+# Settlements
+max_settlements = 2
+
+b_glynneath = castle
+b_glynneath_2 = city
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

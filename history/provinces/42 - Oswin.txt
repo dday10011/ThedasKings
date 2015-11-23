@@ -1,0 +1,17 @@
+# c_oswin
+
+# County Title
+title = c_oswin
+
+# Settlements
+max_settlements = 3
+
+b_oswin = castle
+b_oswin_2 = city
+b_oswin_3 = temple
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

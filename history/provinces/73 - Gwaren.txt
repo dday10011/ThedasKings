@@ -1,0 +1,19 @@
+# c_gwaren
+
+# County Title
+title = c_gwaren
+
+# Settlements
+max_settlements = 5
+
+b_gwaren = castle
+b_gwaren_2 = city
+b_gwaren_3 = temple
+b_gwaren_4 = castle
+b_gwaren_5 = city
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

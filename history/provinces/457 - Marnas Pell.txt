@@ -1,0 +1,20 @@
+# c_marnas_pell
+
+# County Title
+title = c_marnas_pell
+
+# Settlements
+max_settlements = 6
+
+b_marnas_pell = castle
+b_marnas_pell_2 = city
+b_marnas_pell_3 = temple
+b_marnas_pell_4 = castle
+b_marnas_pell_5 = city
+b_marnas_pell_6 = temple
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

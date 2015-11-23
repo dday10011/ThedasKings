@@ -1,0 +1,20 @@
+# c_dairsmuid
+
+# County Title
+title = c_dairsmuid
+
+# Settlements
+max_settlements = 6
+
+b_dairsmuid = castle
+b_dairsmuid_2 = city
+b_dairsmuid_3 = temple
+b_dairsmuid_4 = castle
+b_dairsmuid_5 = city
+b_dairsmuid_6 = temple
+
+# Misc
+culture = rivaini
+religion = andrastian_chantry
+
+#History

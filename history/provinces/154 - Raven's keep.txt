@@ -1,0 +1,16 @@
+# c_ravens_keep
+
+# County Title
+title = c_ravens_keep
+
+# Settlements
+max_settlements = 2
+
+b_ravens_keep = castle
+b_ravens_keep_2 = city
+
+# Misc
+culture = avvar
+religion = avvar
+
+#History

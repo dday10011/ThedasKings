@@ -1,0 +1,18 @@
+# c_blaisois
+
+# County Title
+title = c_blaisois
+
+# Settlements
+max_settlements = 4
+
+b_blaisois = castle
+b_blaisois_2 = city
+b_blaisois_3 = temple
+b_blaisois_4 = castle
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,18 @@
+# c_great_mill
+
+# County Title
+title = c_great_mill
+
+# Settlements
+max_settlements = 4
+
+b_great_mill = castle
+b_great_mill_2 = city
+b_great_mill_3 = temple
+b_great_mill_4 = castle
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

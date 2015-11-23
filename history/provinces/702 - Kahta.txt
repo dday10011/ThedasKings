@@ -1,0 +1,19 @@
+# c_kahta
+
+# County Title
+title = c_kahta
+
+# Settlements
+max_settlements = 5
+
+b_kahta = castle
+b_kahta_2 = city
+b_kahta_3 = temple
+b_kahta_4 = castle
+b_kahta_5 = city
+
+# Misc
+culture = qunari
+religion = qun_religion
+
+#History

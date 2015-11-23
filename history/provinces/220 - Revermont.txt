@@ -1,0 +1,20 @@
+# c_revermont
+
+# County Title
+title = c_revermont
+
+# Settlements
+max_settlements = 6
+
+b_revermont = castle
+b_revermont_2 = city
+b_revermont_3 = temple
+b_revermont_4 = castle
+b_revermont_5 = city
+b_revermont_6 = temple
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

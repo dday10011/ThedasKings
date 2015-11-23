@@ -1,0 +1,18 @@
+# c_aayen
+
+# County Title
+title = c_aayen
+
+# Settlements
+max_settlements = 4
+
+b_aayen = castle
+b_aayen_2 = city
+b_aayen_3 = temple
+b_aayen_4 = castle
+
+# Misc
+culture = rivaini
+religion = andrastian_chantry
+
+#History

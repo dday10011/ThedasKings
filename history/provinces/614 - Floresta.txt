@@ -1,0 +1,18 @@
+# c_floresta
+
+# County Title
+title = c_floresta
+
+# Settlements
+max_settlements = 4
+
+b_floresta = castle
+b_floresta_2 = city
+b_floresta_3 = temple
+b_floresta_4 = castle
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

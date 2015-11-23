@@ -1,0 +1,17 @@
+# c_amiternum
+
+# County Title
+title = c_amiternum
+
+# Settlements
+max_settlements = 3
+
+b_amiternum = castle
+b_amiternum_2 = city
+b_amiternum_3 = temple
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

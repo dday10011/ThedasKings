@@ -1,0 +1,17 @@
+# c_prienegion
+
+# County Title
+title = c_prienegion
+
+# Settlements
+max_settlements = 3
+
+b_prienegion = castle
+b_prienegion_2 = city
+b_prienegion_3 = temple
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

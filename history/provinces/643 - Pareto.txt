@@ -1,0 +1,17 @@
+# c_pareto
+
+# County Title
+title = c_pareto
+
+# Settlements
+max_settlements = 3
+
+b_pareto = castle
+b_pareto_2 = city
+b_pareto_3 = temple
+
+# Misc
+culture = antivan
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,20 @@
+# c_afsaana
+
+# County Title
+title = c_afsaana
+
+# Settlements
+max_settlements = 6
+
+b_afsaana = castle
+b_afsaana_2 = city
+b_afsaana_3 = temple
+b_afsaana_4 = castle
+b_afsaana_5 = city
+b_afsaana_6 = temple
+
+# Misc
+culture = rivaini
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,20 @@
+# c_asariel
+
+# County Title
+title = c_asariel
+
+# Settlements
+max_settlements = 6
+
+b_asariel = castle
+b_asariel_2 = city
+b_asariel_3 = temple
+b_asariel_4 = castle
+b_asariel_5 = city
+b_asariel_6 = temple
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

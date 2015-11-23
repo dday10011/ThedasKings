@@ -1,0 +1,18 @@
+# c_kurtalan
+
+# County Title
+title = c_kurtalan
+
+# Settlements
+max_settlements = 4
+
+b_kurtalan = castle
+b_kurtalan_2 = city
+b_kurtalan_3 = temple
+b_kurtalan_4 = castle
+
+# Misc
+culture = qunari
+religion = qun_religion
+
+#History

@@ -1,0 +1,15 @@
+# c_ebbau
+
+# County Title
+title = c_ebbau
+
+# Settlements
+max_settlements = 1
+
+b_ebbau = castle
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,17 @@
+# c_thespyras
+
+# County Title
+title = c_thespyras
+
+# Settlements
+max_settlements = 3
+
+b_thespyras = castle
+b_thespyras_2 = city
+b_thespyras_3 = temple
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

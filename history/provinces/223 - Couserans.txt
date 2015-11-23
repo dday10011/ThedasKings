@@ -1,0 +1,19 @@
+# c_couserans
+
+# County Title
+title = c_couserans
+
+# Settlements
+max_settlements = 5
+
+b_couserans = castle
+b_couserans_2 = city
+b_couserans_3 = temple
+b_couserans_4 = castle
+b_couserans_5 = city
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

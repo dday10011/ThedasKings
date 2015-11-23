@@ -1,0 +1,17 @@
+# c_graccuris
+
+# County Title
+title = c_graccuris
+
+# Settlements
+max_settlements = 3
+
+b_graccuris = castle
+b_graccuris_2 = city
+b_graccuris_3 = temple
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

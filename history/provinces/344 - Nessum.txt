@@ -1,0 +1,17 @@
+# c_nessum
+
+# County Title
+title = c_nessum
+
+# Settlements
+max_settlements = 3
+
+b_nessum = castle
+b_nessum_2 = city
+b_nessum_3 = temple
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

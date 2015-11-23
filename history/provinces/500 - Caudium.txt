@@ -1,0 +1,18 @@
+# c_caudium
+
+# County Title
+title = c_caudium
+
+# Settlements
+max_settlements = 4
+
+b_caudium = castle
+b_caudium_2 = city
+b_caudium_3 = temple
+b_caudium_4 = castle
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

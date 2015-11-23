@@ -1,0 +1,17 @@
+# c_croton
+
+# County Title
+title = c_croton
+
+# Settlements
+max_settlements = 3
+
+b_croton = castle
+b_croton_2 = city
+b_croton_3 = temple
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

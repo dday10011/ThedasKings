@@ -1,0 +1,16 @@
+# c_rheden
+
+# County Title
+title = c_rheden
+
+# Settlements
+max_settlements = 2
+
+b_rheden = castle
+b_rheden_2 = city
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

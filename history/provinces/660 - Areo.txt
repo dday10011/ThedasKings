@@ -1,0 +1,19 @@
+# c_areo
+
+# County Title
+title = c_areo
+
+# Settlements
+max_settlements = 5
+
+b_areo = castle
+b_areo_2 = city
+b_areo_3 = temple
+b_areo_4 = castle
+b_areo_5 = city
+
+# Misc
+culture = rivaini
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,21 @@
+# c_minrathous_embassy
+
+# County Title
+title = c_minrathous_embassy
+
+# Settlements
+max_settlements = 7
+
+b_minrathous_embassy = castle
+#b_minrathous_embassy_2 = city
+#b_minrathous_embassy_3 = temple
+#b_minrathous_embassy_4 = castle
+#b_minrathous_embassy_5 = city
+#b_minrathous_embassy_6 = temple
+#b_minrathous_embassy_7 = castle
+
+# Misc
+culture = kal_sharok
+religion = our_ancestors
+
+#History

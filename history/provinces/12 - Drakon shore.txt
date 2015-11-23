@@ -1,0 +1,18 @@
+# c_drakon_shore
+
+# County Title
+title = c_drakon_shore
+
+# Settlements
+max_settlements = 4
+
+b_drakon_shore = castle
+b_drakon_shore_2 = city
+b_drakon_shore_3 = temple
+b_drakon_shore_4 = castle
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

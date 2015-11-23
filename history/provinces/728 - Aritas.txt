@@ -1,0 +1,19 @@
+# c_aritas
+
+# County Title
+title = c_aritas
+
+# Settlements
+max_settlements = 5
+
+b_aritas = castle
+b_aritas_2 = city
+b_aritas_3 = temple
+b_aritas_4 = castle
+b_aritas_5 = city
+
+# Misc
+culture = qunari
+religion = qun_religion
+
+#History

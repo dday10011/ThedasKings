@@ -1,0 +1,33 @@
+human_race = { 
+opposites = {  elf_race dwarf_race darkspawn_race qunari_race halfdwarf_race } 
+}
+
+elf_race = {
+opposites = { elf_blooded human_race dwarf_race darkspawn_race qunari_race halfdwarf_race }
+}
+
+dwarf_race = {
+ruler_designer_cost = 0
+health = 2
+fertility = -0.3
+martial = 3
+opposites = {  human_race elf_race darkspawn_race qunari_race halfdwarf_race }
+}
+
+qunari_race = {
+cannot_marry = yes 
+opposites = {  human_race elf_race darkspawn_race dwarf_race halfdwarf_race } 
+}	
+
+darkspawn_race = {cannot_marry = yes
+fertility = -4000 
+opposites = {  human_race elf_race dwarf_race qunari_race halfdwarf_race } 
+}
+
+halfdwarf_race = { 
+opposites = {  human_race elf_race dwarf_race qunari_race darkspawn_race } 
+}
+
+elf_blooded = {}
+
+mage = {}

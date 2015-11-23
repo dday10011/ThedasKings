@@ -1,0 +1,19 @@
+# c_weienstein
+
+# County Title
+title = c_weienstein
+
+# Settlements
+max_settlements = 5
+
+b_weienstein = castle
+b_weienstein_2 = city
+b_weienstein_3 = temple
+b_weienstein_4 = castle
+b_weienstein_5 = city
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

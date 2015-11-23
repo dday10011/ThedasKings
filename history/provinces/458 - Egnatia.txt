@@ -1,0 +1,19 @@
+# c_egnatia
+
+# County Title
+title = c_egnatia
+
+# Settlements
+max_settlements = 5
+
+b_egnatia = castle
+b_egnatia_2 = city
+b_egnatia_3 = temple
+b_egnatia_4 = castle
+b_egnatia_5 = city
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

@@ -1,0 +1,18 @@
+# c_ludelburg
+
+# County Title
+title = c_ludelburg
+
+# Settlements
+max_settlements = 4
+
+b_ludelburg = castle
+b_ludelburg_2 = city
+b_ludelburg_3 = temple
+b_ludelburg_4 = castle
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

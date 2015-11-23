@@ -1,0 +1,19 @@
+# c_pinarhisar
+
+# County Title
+title = c_pinarhisar
+
+# Settlements
+max_settlements = 5
+
+b_pinarhisar = castle
+b_pinarhisar_2 = city
+b_pinarhisar_3 = temple
+b_pinarhisar_4 = castle
+b_pinarhisar_5 = city
+
+# Misc
+culture = qunari
+religion = qun_religion
+
+#History

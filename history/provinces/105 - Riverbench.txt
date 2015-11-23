@@ -1,0 +1,15 @@
+# c_riverbench
+
+# County Title
+title = c_riverbench
+
+# Settlements
+max_settlements = 1
+
+b_riverbench = castle
+
+# Misc
+culture = forest
+religion = forest
+
+#History

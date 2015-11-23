@@ -1,0 +1,17 @@
+# c_geia
+
+# County Title
+title = c_geia
+
+# Settlements
+max_settlements = 3
+
+b_geia = castle
+b_geia_2 = city
+b_geia_3 = temple
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

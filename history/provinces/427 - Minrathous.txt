@@ -1,0 +1,21 @@
+# c_minrathous
+
+# County Title
+title = c_minrathous
+
+# Settlements
+max_settlements = 7
+
+b_minrathous = castle
+b_minrathous_2 = city
+b_minrathous_3 = temple
+b_minrathous_4 = castle
+b_minrathous_5 = city
+b_minrathous_6 = temple
+b_minrathous_7 = castle
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

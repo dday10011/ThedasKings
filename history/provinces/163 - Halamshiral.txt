@@ -1,0 +1,21 @@
+# c_halamshiral
+
+# County Title
+title = c_halamshiral
+
+# Settlements
+max_settlements = 7
+
+b_halamshiral = castle
+b_halamshiral_2 = city
+b_halamshiral_3 = temple
+b_halamshiral_4 = castle
+b_halamshiral_5 = city
+b_halamshiral_6 = temple
+b_halamshiral_7 = castle
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

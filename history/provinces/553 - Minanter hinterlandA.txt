@@ -1,0 +1,19 @@
+# c_minanter_hinterlanda
+
+# County Title
+title = c_minanter_hinterlanda
+
+# Settlements
+max_settlements = 5
+
+b_minanter_hinterlanda = castle
+b_minanter_hinterlanda_2 = city
+b_minanter_hinterlanda_3 = temple
+b_minanter_hinterlanda_4 = castle
+b_minanter_hinterlanda_5 = city
+
+# Misc
+culture = starkhaven
+religion = andrastian_chantry
+
+#History

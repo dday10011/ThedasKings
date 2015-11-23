@@ -1,0 +1,17 @@
+# c_emerald_groves
+
+# County Title
+title = c_emerald_groves
+
+# Settlements
+max_settlements = 3
+
+b_emerald_groves = castle
+b_emerald_groves_2 = city
+b_emerald_groves_3 = temple
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

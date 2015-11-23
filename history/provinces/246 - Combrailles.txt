@@ -1,0 +1,18 @@
+# c_combrailles
+
+# County Title
+title = c_combrailles
+
+# Settlements
+max_settlements = 4
+
+b_combrailles = castle
+b_combrailles_2 = city
+b_combrailles_3 = temple
+b_combrailles_4 = castle
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

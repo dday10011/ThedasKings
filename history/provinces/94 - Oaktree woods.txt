@@ -1,0 +1,15 @@
+# c_oaktree_woods
+
+# County Title
+title = c_oaktree_woods
+
+# Settlements
+max_settlements = 1
+
+b_oaktree_woods = castle
+
+# Misc
+culture = forest
+religion = forest
+
+#History

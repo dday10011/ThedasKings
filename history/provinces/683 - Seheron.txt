@@ -1,0 +1,21 @@
+# c_seheron
+
+# County Title
+title = c_seheron
+
+# Settlements
+max_settlements = 7
+
+b_seheron = castle
+b_seheron_2 = city
+b_seheron_3 = temple
+b_seheron_4 = castle
+b_seheron_5 = city
+b_seheron_6 = temple
+b_seheron_7 = castle
+
+# Misc
+culture = qunari
+religion = qun_religion
+
+#History

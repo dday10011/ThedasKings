@@ -1,0 +1,17 @@
+# c_capsa
+
+# County Title
+title = c_capsa
+
+# Settlements
+max_settlements = 3
+
+b_capsa = castle
+b_capsa_2 = city
+b_capsa_3 = temple
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

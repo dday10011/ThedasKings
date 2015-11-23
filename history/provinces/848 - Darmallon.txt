@@ -1,0 +1,21 @@
+# c_darmallon
+
+# County Title
+title = c_darmallon
+
+# Settlements
+max_settlements = 7
+
+b_darmallon = castle
+#b_darmallon_2 = city
+#b_darmallon_3 = temple
+#b_darmallon_4 = castle
+#b_darmallon_5 = city
+#b_darmallon_6 = temple
+#b_darmallon_7 = castle
+
+# Misc
+culture = kal_sharok
+religion = our_ancestors
+
+#History

@@ -1,0 +1,17 @@
+# c_honnleath
+
+# County Title
+title = c_honnleath
+
+# Settlements
+max_settlements = 3
+
+b_honnleath = castle
+b_honnleath_2 = city
+b_honnleath_3 = temple
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

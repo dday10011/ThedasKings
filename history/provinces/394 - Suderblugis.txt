@@ -1,0 +1,17 @@
+# c_suderblugis
+
+# County Title
+title = c_suderblugis
+
+# Settlements
+max_settlements = 3
+
+b_suderblugis = castle
+b_suderblugis_2 = city
+b_suderblugis_3 = temple
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

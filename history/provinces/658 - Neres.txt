@@ -1,0 +1,19 @@
+# c_neres
+
+# County Title
+title = c_neres
+
+# Settlements
+max_settlements = 5
+
+b_neres = castle
+b_neres_2 = city
+b_neres_3 = temple
+b_neres_4 = castle
+b_neres_5 = city
+
+# Misc
+culture = rivaini
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,2985 @@
+## House Valmont - dynasty 1006 #canon
+1006001={
+	name = "Celene" #canon
+	dynasty = 1006
+	female = yes
+
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+
+	add_trait = "grey_eminence"
+	add_trait = "fair"
+	add_trait = "quick"
+	add_trait = "diligent"
+	add_trait = "kind"
+	
+	8904.1.1 ={
+		birth = yes #canon
+	}
+	
+	8974.1.1 ={
+		death = yes #not canon
+	}
+}
+
+## House de Chalons - dynasty 2006 #canon
+2006001={
+	name = "Melisande" #canon
+	dynasty = 2006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "elusive_shadow"
+	add_trait = "proud"
+	add_trait = "diligent"
+	add_trait = "charitable"
+	add_trait = "shy"
+	
+	8850.1.1={
+		birth = yes #not canon
+	}
+	
+	8892.1.1={
+		death = yes #not canon
+	}
+}
+
+2006002={
+	name = "Florianne" #canon
+	dynasty = 2006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	mother = 2006001
+	
+	add_trait = "intricate_webweaver"
+	add_trait = "proud"
+	add_trait = "envious"
+	add_trait = "wroth"
+	add_trait = "deceitful"
+	
+	8887.1.1={
+		birth = yes #canon
+	}
+	
+	8955.1.1={
+		death = yes #notcanon
+	}
+}
+
+2006003={
+	name = "Gaspard" #canon
+	dynasty = 2006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	mother = 2006001
+	
+	add_trait = "skilled_tactician"
+	add_trait = "proud"
+	add_trait = "diligent"
+	add_trait = "greedy"
+	add_trait = "honest"
+	
+	8874.1.1={
+		birth = yes #canon
+	}
+	
+	8892.1.1={
+		add_spouse = 5006004 #date not canon
+	}
+	
+	8949.1.1={
+		death = yes #not canon
+	}
+}
+
+2006004={
+	name = "Germain" #canon paternal uncle of Gaspard
+	dynasty = 2006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "mastermind_theologian"
+	add_trait = "quick"
+	add_trait = "charitable"
+	add_trait = "kind"
+	add_trait = "humble"
+	
+	8868.1.1={
+		birth = yes #not canon
+	}
+	
+	8957.1.1={
+		death = yes #not canon
+	}
+}
+
+2006005={
+	name = "Brevin"
+	dynasty = 2006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "brilliant_strategist"
+	add_trait = "quick"
+	add_trait = "greedy"
+	add_trait = "humble"
+	add_trait = "honest"
+	
+	
+	8893.1.1={
+		birth = yes
+	}
+	
+	8961.1.1={
+		death = yes
+	}
+}
+
+##House de Montfort
+3006001={
+	name = "Prosper" #canon
+	dynasty = 3006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "skilled_tactician"
+	add_trait = "strong"
+	add_trait = "hunter"
+	add_trait = "cavalry_leader"
+	add_trait = "proud"
+	
+	8872.1.1={
+		birth = yes #not canon
+	}
+	
+	8951.1.1={
+		death = yes #not canon
+	}
+}
+
+3006002={
+	name = "Cyril" #canon
+	dynasty = 3006
+	father = 3006001
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "naive_appeaser"
+	add_trait = "homosexual"
+	add_trait = "kind"
+	add_trait = "proud"
+	add_trait = "patient"
+	
+	8906.1.1={
+		birth = yes #not canon
+	}
+	
+	8976.1.1={
+		death = yes #not canon
+	}
+}
+
+3006003={
+	name = "Joffrey"
+	dynasty = 3006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "skilled_tactician"
+	add_trait = "patient"
+	add_trait = "proud"
+	add_trait = "organizer"
+	add_trait = "strong"
+	
+	8879.1.1={
+		birth = yes #not canon
+	}
+	
+	8947.1.1={
+		death = yes #not canon
+	}
+}
+
+##House de Launcet
+4006001={
+	name = "Guillaume" #canon
+	dynasty = 4006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "thrifty_clerk"
+	add_trait = "trusting"
+	add_trait = "charitable"
+	add_trait = "kind"
+	add_trait = "honest"
+	
+	8888.1.1={
+		birth = yes #not canon
+	}
+	
+	8907.1.1={
+		add_spouse = 4006002 #canon marriage date not canon
+	}
+}
+
+4006002={
+	name = "Dulci" #canon
+	dynasty = 4006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "detached_priest"
+	add_trait = "shy"
+	add_trait = "cynical"
+	add_trait = "kind"
+	add_trait = "humble"
+	
+	8891.1.1={
+		birth = yes #not canon
+	}
+	
+	8953.1.1={
+		death = yes #not canon
+	}
+}
+
+4006003={
+	name = "Emile" #canon
+	dynasty = 4006
+	father = 4006001
+	mother = 4006002
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "naive_appeaser"
+	add_trait = "honest"
+	add_trait = "trusting"
+	add_trait = "ugly"
+	add_trait = "slow"
+	add_trait = "mage"
+	
+	8911.1.1={
+		birth = yes #not canon
+	}
+	
+	8977.1.1={
+		death = yes #not canon
+	}
+}
+
+4006004={
+	name = "Fifi"
+	dynasty = 4006
+	father = 4006001
+	mother = 4006002
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "amateurish_plotter"
+	add_trait = "fair"
+	add_trait = "slow"
+	add_trait = "shy"
+	add_trait = "humble"
+	
+	8914.1.1={
+		birth = yes #not canon
+	}
+	8986.1.1={
+		death = yes #not canon
+	}
+}
+
+4006005={
+	name = "Babbette"
+	dynasty = 4006
+	father = 4006001
+	mother = 4006002
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "charismatic_negotiator"
+	add_trait = "gregarious"
+	add_trait = "ambitious"
+	add_trait = "honest"
+	add_trait = "patient"
+	
+	8919.1.1={
+		birth = yes #not canon
+	}
+	
+	8992.1.1={
+		death = yes #not canon
+	}
+}
+
+#Guillaume has more unnamed children that are not confirmed to be Dulci's
+#Custom
+#the rest of these characters in the house are not canon
+
+4006006={
+	name = "Gilles" #not canon
+	dynasty = 4006
+	father = 4006001
+	mother = 4006002
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "scholarly_theologian"
+	add_trait = "celibate"
+	add_trait = "chaste"
+	add_trait = "charitable"
+	add_trait = "kind"
+	
+	8926.1.1={
+		birth = yes #not canon
+	}
+	
+	8989.1.1={
+		death = yes #not canon
+	}
+}
+
+4006007={
+	name = "Andrée" #not canon
+	dynasty = 4006
+	father = 4006001
+	mother = 4006002
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "thrifty_clerk"
+	add_trait = "hedonist"
+	add_trait = "lustful"
+	add_trait = "diligent"
+	add_trait = "proud"
+	
+	8928.1.1={
+		birth = yes #not canon
+	}
+	
+	8999.1.1={
+		death = yes #not canon
+	}
+}
+
+##House de Ghislain
+5006001={
+	name = "Bastien" #canon
+	dynasty = 5006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "grey_eminence"
+	add_trait = "lustful"
+	add_trait = "kind"
+	add_trait = "humble"
+	add_trait = "content"
+	
+	8865.1.1={
+		birth = yes #not canon
+	}
+	
+	8888.1.1={
+		add_spouse = 5006002 #date not canon - relationship is
+	}
+	
+	8931.1.1={
+		add_lover = 7006001 #date not canon - relationship is
+	}
+	
+	8941.1.1={
+		add_trait = ill #canon - tie this to an event?
+	}
+	
+	8945.1.1={
+		death = yes #not canon - canon death is conditional
+	}
+	
+}
+
+5006002={
+	name = "Nicoline" #canon
+	dynasty = 5006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "fortune_builder"
+	add_trait = "kind"
+	add_trait = "scholar"
+	add_trait = "envious"
+	add_trait = "content"
+	
+	8869.1.1={
+		birth = yes #not canon
+	}
+	
+	8941.1.1={
+		add_trait = depressed
+	}
+	
+	8948.1.1={
+		death = yes #not canon
+	}
+}
+
+5006003={
+	name = "Laurent" #canon
+	dynasty = 5006
+	mother = 5006002
+	father = 5006001
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "naive_appeaser"
+	add_trait = "kind"
+	add_trait = "content"
+	add_trait = "lustful"
+	add_trait = "scholar"
+	
+	8897.1.1={
+		birth = yes #not canon
+	}
+	
+	8960.1.1={
+		death = yes #not canon
+	}
+}
+
+5006004={
+	name = "Calienne"
+	dynasty = 5006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "fortune_builder"
+	add_trait = "kind"
+	add_trait = "content"
+	add_trait = "deceitful"
+	add_trait = "paranoid"
+	
+	8876.1.1={
+		birth = yes #not canon
+	}
+	
+	8958.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Blanchard of Val Montaigne
+6006001={
+	name = "Yvonne" #canon
+	dynasty = 6006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "skilled_tactician"
+	add_trait = "cavalry_leader"
+	add_trait = "organizer"
+	add_trait = "strong"
+	add_trait = "ambitious"
+	
+	8882.1.1={
+		birth = yes #not canon
+	}
+	
+	8955.1.1={
+		death = yes #not canon
+	}
+}
+
+6006002={
+	name = "Alvin" #canon
+	dynasty = 6006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "misguided_warrior"
+	add_trait = "ambitious"
+	add_trait = "deceitful"
+	add_trait = "greedy"
+	add_trait = "craven"
+	
+	8898.1.1={
+		birth = yes #not canon
+	}
+	
+	8961.1.1={
+		death = yes #not canon
+	}
+}
+
+##House de Fer
+7006001={
+	name = "Vivienne"
+	dynasty = 7006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "rivaini" #canon
+	
+	add_trait = "charismatic_negotiator"
+	add_trait = "quick"
+	add_trait = "diligent"
+	add_trait = "honest"
+	add_trait = "brave"
+	add_trait = "mage"
+	
+	8909.1.1={
+		birth = yes #not canon
+	}
+	
+	8983.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Fontaine
+8006001={
+	name = "Valere"
+	dynasty = 8006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "fortune_builder"
+	add_trait = "diligent"
+	add_trait = "proud"
+	add_trait = "ambitious"
+	add_trait = "trickster"
+	
+	8903.1.1={
+		birth = yes #not canon
+	}
+	
+	8977.1.1={
+		death = yes #not canon
+	}
+}
+
+##House de Val Montaigne
+9006001={
+	name = "Nicole"
+	dynasty = 9006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "flamboyant_schemer"
+	add_trait = "legit_bastard"
+	add_trait = "gardener"
+	add_trait = "shy"
+	add_trait = "trusting"
+	
+	8905.1.1={
+		birth = yes #not canon
+	}
+	
+	8972.1.1={
+		death = yes #not canon
+	}
+}
+
+##House de Chevin
+10006001={
+	name = "Mathis" #not canon
+	dynasty = 10006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "brilliant_strategist"
+	add_trait = "quick"
+	add_trait = "temperate"
+	add_trait = "shy"
+	add_trait = "content"
+	
+	8901.1.1={
+		birth = yes #not canon
+	}
+	
+	8974.1.1={
+		death = yes #not canon
+	}
+}
+
+##House de Montsimmard
+11006001={
+	name = "Matthieu" #not canon - first name not known
+	dynasty = 11006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "elusive_shadow"
+	add_trait = "cynical"
+	add_trait = "ambitious"
+	add_trait = "greedy"
+	add_trait = "kinslayer"
+	
+	8884.1.1={
+		birth = yes #not canon
+	}
+	
+	8902.1.1={
+		add_spouse = 11006002
+	}
+	
+	8950.1.1={
+		add_trait = depressed
+	}
+	
+	8953.1.1={
+		death = yes #not canon
+	}
+}
+
+11006002={
+	name = "Cosinne"
+	dynasty = 11006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "naive_appeaser"
+	add_trait = "lunatic"
+	add_trait = "drunkard"
+	add_trait = "fair"
+	add_trait = "imbecile"
+	
+	8885.1.1={
+		birth = yes #not canon
+	}
+	
+	8949.1.1={
+		add_trait = ill #not canon
+	}
+	
+	8950.1.1={
+		death = yes #not canon
+	}
+}
+
+11006003={
+	name = "Lienne"
+	dynasty = 11006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "intricate_webweaver"
+	add_trait = "fair"
+	add_trait = "ambitious"
+	add_trait = "deceitful"
+	add_trait = "slow"
+	
+	8910.1.1={
+		birth = yes #not canon
+	}
+	
+	#died at the end of the civil war. backstabbed by Briala exact date not known
+	8939.1.1={
+		death = yes
+	}
+}
+
+##Custom family name
+#Possible Marquise of the Dales - conditional on game events
+12006001={
+	name = "Briala"
+	dynasty = 12006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "intricate_webweaver"
+	add_trait = "diligent"
+	add_trait = "patient"
+	add_trait = "ambitious"
+	add_trait = "deceitful"
+	add_trait = "elf_race"
+	
+	8908.1.1={
+		birth = yes #not canon
+	}
+	
+	8980.1.1={
+		death = yes #not canon
+	}
+}
+
+##House DuRellion
+13006001={
+	name = "Anatole" #not canon
+	dynasty = 13006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "underhanded_rogue"
+	add_trait = "diligent"
+	add_trait = "deceitful"
+	add_trait = "gregarious"
+	add_trait = "envious"
+	
+	8873.1.1={
+		birth = yes #not canon
+	}
+	
+	8944.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Bouffon
+14006001={
+	name = "Effiloche"
+	dynasty = 14006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "flamboyant_schemer"
+	add_trait = "deceitful"
+	add_trait = "ambitious"
+	add_trait = "arbitrary"
+	add_trait = "greedy"
+	
+	8901.1.1={
+		birth = yes #not canon
+	}
+	
+	8968.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Montbelliard
+15006001={
+	name = "Solange"
+	dynasty = 15006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "grey_eminence"
+	add_trait = "kind"
+	add_trait = "fair"
+	add_trait = "charitable"
+	add_trait = "deceitful"
+	
+	8912.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+##House de Mourier
+16006001={
+	name = "Renald"
+	dynasty = 16006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "tough_soldier"
+	add_trait = "heavy_infantry_leader"
+	add_trait = "paranoid"
+	add_trait = "arbitrary"
+	add_trait = "content"
+	
+	8894.1.1={
+		birth = yes #not canon
+	}
+	
+	8959.1.1={
+		death = yes #not canon
+	}
+}
+
+##House de Poisson
+17006001={
+	name = "Marius"
+	dynasty = "17006"
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "brilliant_strategist"
+	add_trait = "flanker"
+	add_trait = "organizer"
+	add_trait = "strong"
+	add_trait = "brave"
+	
+	8893.1.1={
+		birth = yes #not canon
+	}
+	
+	8964.1.1={
+		death = yes #not canon
+	}
+}
+
+##House of Doucy
+18006001={
+	name = "Lothaire"
+	dynasty = 18006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "charismatic_negotiator"
+	add_trait = "deceitful"
+	add_trait = "paranoid"
+	add_trait = "craven"
+	add_trait = "greedy"
+	
+	8889.1.1={
+		birth = yes #not canon
+	}
+	
+	8963.1.1={
+		death = yes #not canon
+	}
+}
+
+18006002={
+	name = "Severin"
+	dynasty = 18006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "amateurish_plotter"
+	add_trait = "deceitful"
+	add_trait = "greedy"
+	add_trait = "brave"
+	add_trait = "fair"
+	
+	8895.1.1={
+		birth = yes #not canon
+	}
+	
+	8962.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Desjardins
+19006001={
+	name = "Edouard"
+	dynasty = 19006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "skilled_tactician"
+	add_trait = "hunter"
+	add_trait = "proud"
+	add_trait = "humble"
+	add_trait = "patient"
+	
+	8913.1.1={
+		birth = yes #not canon
+	}
+	
+	8991.1.1={
+		death = yes #not canon
+	}
+}
+
+##House d'Amortisan
+20006001={
+	name = "Havard-Pierre"
+	dynasty = 20006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "tough_soldier"
+	add_trait = "scholar"
+	add_trait = "genius"
+	add_trait = "patient"
+	add_trait = "trusting"
+	
+	8899.1.1={
+		birth = yes #not canon
+	}
+	
+	8975.1.1={
+		death = yes #not canon
+	}
+}
+
+##House de Lasouche
+21006001={
+	name = "Natale"
+	dynasty = 21006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "charismatic_negotiator"
+	add_trait = "brave"
+	add_trait = "trusting"
+	add_trait = "just"
+	add_trait = "deceitful"
+	
+	8896.1.1={
+		birth = yes #not canon
+	}
+	
+	8971.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Deveraux
+22006001={
+	name = "Emile"
+	dynasty = 22006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "brilliant_strategist"
+	add_trait = "brave"
+	add_trait = "strong"
+	add_trait = "wroth"
+	add_trait = "inspiring_leader"
+	
+	8915.1.1={
+		birth = yes #not canon
+	}
+	
+	8990.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Vasseur
+23006001={
+	name = "Cecilie"
+	dynasty = 23006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "elusive_shadow"
+	add_trait = "kind"
+	add_trait = "deceitful"
+	add_trait = "charitable"
+	add_trait = "quick"
+	
+	8885.1.1={
+		birth = yes #not canon
+	}
+	
+	8970.1.1={
+		death = yes #not canon
+	}
+}
+
+23006002={
+	name = "Lucas" #not canon
+	dynasty = 23006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "naive_appeaser"
+	add_trait = "kind"
+	add_trait = "charitable"
+	add_trait = "paranoid"
+	add_trait = "zealous"
+	
+	8883.1.1={
+		birth = yes #not canon
+	}
+	
+	8967.1.1={
+		death = yes #not canon
+	}
+}
+
+24006001={
+	name = "Ignace"
+	dynasty = 24006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "scholarly_theologian"
+	add_trait = "stressed"
+	add_trait = "humble"
+	add_trait = "stutter"
+	add_trait = "weak"
+	
+	8881.1.1={
+		birth = yes #not canon
+	}
+	
+	8898.1.1={
+		add_spouse = 24006002 #not canon
+	}
+	
+	8957.1.1={
+		death = yes #not canon
+	}
+}
+
+24006002={
+	name = "Lucrèce" #not canon
+	dynasty = 24006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "naive_appeaser"
+	add_trait = "deceitful"
+	add_trait = "lisp"
+	add_trait = "paranoid"
+	add_trait = "quick"
+	
+	8879.1.1={
+		birth = yes #not canon
+	}
+	
+	8952.1.1={
+		death = yes #not canon
+	}
+}
+
+24006003={
+	name = "Laetitia" #not canon
+	dynasty = 24006
+	father = 24006001
+	mother = 24006002
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "fortune_builder"
+	add_trait = "depressed"
+	add_trait = "stutter"
+	add_trait = "humble"
+	add_trait = "quick"
+	
+	8903.1.1={
+		birth = yes #not canon
+	}
+	
+	8969.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Lescot
+25006001={
+	name = "Adele"
+	dynasty = 25006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "naive_appeaser"
+	add_trait = "kind"
+	add_trait = "trusting"
+	add_trait = "patient"
+	add_trait = "humble"
+	
+	8900.1.1={
+		birth = yes #not canon
+	}
+	
+	8973.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Abernache
+26006001={
+	name = "Esmeral"
+	dynasty = 26006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "naive_appeaser"
+	add_trait = "proud"
+	add_trait = "honest"
+	add_trait = "brave"
+	add_trait = "arbitrary"
+	
+	8904.1.1={
+		birth = yes #not canon
+	}
+	
+	8978.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Garde-Haut
+27006001={
+	name = "Ademar"
+	dynasty = 27006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "scholarly_theologian"
+	add_trait = "scholar"
+	add_trait = "quick"
+	add_trait = "proud"
+	add_trait = "wroth"
+	
+	8871.1.1={
+		birth = yes #not canon
+	}
+	
+	8954.1.1={
+		death = yes #not canon
+	}
+}
+
+##house Lagaspe
+28006001={
+	name = "Ginette"
+	dynasty = 28006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "flamboyant_schemer"
+	add_trait = "ambitious"
+	add_trait = "honest"
+	add_trait = "paranoid"
+	add_trait = "arbitrary"
+	
+	8890.1.1={
+		birth = yes #not canon
+	}
+	
+	8956.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Maron
+29006001={
+	name = "Basile"
+	dynasty = 29006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "amateurish_plotter"
+	add_trait = "paranoid"
+	add_trait = "deceitful"
+	add_trait = "slow"
+	add_trait = "fair"
+	
+	8886.1.1={
+		birth = yes #not canon
+	}
+	
+	8903.1.1={
+		add_spouse = 29006002
+	}
+	
+	8947.1.1={
+		death = yes #not canon
+	}
+}
+
+#29006002 is not canon
+29006002={
+	name = "Adrienne" #not canon
+	dynasty = 29006 
+	female = yes
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "fortune_builder"
+	add_trait = "humble"
+	add_trait = "gluttonous"
+	add_trait = "craven"
+	add_trait = "content"
+	
+	8887.1.1={
+		birth = yes #not canon
+	}
+	
+	8952.1.1={
+		death = yes #not canon
+	}
+}
+
+#29006003 is canon
+29006003={
+	name = "Ducette"
+	dynasty = 29006
+	female = yes
+	father = 29006001
+	mother = 29006002
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "intricate_webweaver"
+	add_trait = "ambitious"
+	add_trait = "brave"
+	add_trait = "humble"
+	add_trait = "deceitful"
+	
+	8909.1.1={
+		birth = yes #not canon
+	}
+	
+	8984.1.1={
+		death = yes #not canon
+	}
+}
+
+##House de Lion
+30006001={
+	name = "Chancer"
+	dynasty = 30006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "tough_soldier"
+	add_trait = "inspiring_leader"
+	add_trait = "organizer"
+	add_trait = "proud"
+	add_trait = "brave"
+	
+	8899.1.1={
+		birth = yes #not canon
+	}
+	
+	8979.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Maurel
+31006001={
+	name = "Ramond"
+	dynasty = 31006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "thrifty_clerk"
+	add_trait = "paranoid"
+	add_trait = "quick"
+	add_trait = "wroth"
+	add_trait = "proud"
+	
+	8893.1.1={
+		birth = yes #not canon
+	}
+	
+	8965.1.1={
+		death = yes #not canon
+	}
+}
+
+##house Lemarque
+32006001={
+	name = "Bernice"
+	dynasty = 32006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "misguided_warrior"
+	add_trait = "humble"
+	add_trait = "brave"
+	add_trait = "just"
+	add_trait = "content"
+	
+	8880.1.1={
+		birth = yes #not canon
+	}
+	
+	8956.1.1={
+		death = yes #not canon
+	}
+}
+
+32006002={
+	name = "Evariste"
+	dynasty = 32006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "tough_soldier"
+	add_trait = "fair"
+	add_trait = "charitable"
+	add_trait = "just"
+	add_trait = "proud"
+	
+	8908.12.25={
+		birth = yes #canon
+	}
+	
+	8982.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Callier - Entire family was murdered in 9:35
+33006001={
+	name = "Vincent"
+	dynasty = 33006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "misguided_warrior"
+	add_trait = "trusting"
+	add_trait = "kind"
+	add_trait = "charitable"
+	add_trait = "slow"
+	
+	8881.1.1={
+		birth = yes #not canon
+	}
+	
+	8935.1.1={
+		death = yes #canon
+	}
+}
+
+33006002={
+	name = "Claudette" #not canon
+	dynasty = 33006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "thrifty_clerk"
+	add_trait = "kind"
+	add_trait = "paranoid"
+	add_trait = "deceitful"
+	add_trait = "weak"
+	
+	8883.1.1={
+		birth = yes #not canon
+	}
+	
+	8935.1.1={
+		death = yes #canon
+	}
+}
+
+33006003={
+	name = "Evrard" #not canon
+	dynasty = 33006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "skilled_tactician"
+	add_trait = "strong"
+	add_trait = "imbecile"
+	add_trait = "charitable"
+	add_trait = "wroth"
+	
+	8905.1.1={
+		birth = yes #not canon
+	}
+	
+	8935.1.1={
+		death = yes #canon
+	}
+}
+
+33006004={
+	name = "Norbert" #not canon
+	dynasty = 33006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "naive_appeaser"
+	add_trait = "deceitful"
+	add_trait = "fair"
+	add_trait = "wroth"
+	add_trait = "gluttonous"
+	
+	8909.1.1={
+		birth = yes #not canon
+	}
+	
+	8935.1.1={
+		death = yes #canon
+	}
+}
+
+33006005={
+	name = "Claudine" #not canon
+	dynasty = 33006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "indulgent_wastrel"
+	add_trait = "deceitful"
+	add_trait = "kind"
+	add_trait = "organizer"
+	add_trait = "brave"
+	
+	8915.1.1={
+		birth = yes #not canon
+	}
+	
+	8935.1.1={
+		death = yes #canon
+	}
+}
+
+##House DesRosiers
+34006001={
+	name = "Pierren"
+	dynasty = 34006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "naive_appeaser"
+	add_trait = "proud"
+	add_trait = "hedonist"
+	add_trait = "temperate"
+	add_trait = "diligent"
+	
+	8893.1.1={
+		birth = yes #not canon
+	}
+	
+	8966.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Thibault
+35006001={
+	name = "Velise"
+	dynasty = 35006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "fortune_builder"
+	add_trait = "kind"
+	add_trait = "humble"
+	add_trait = "greedy"
+	add_trait = "honest"
+	
+	8889.1.1={
+		birth = yes #not canon
+	}
+	
+	8968.1.1={
+		death = yes #not canon
+	}
+}
+
+35006002={
+	name = "Aymeric" #not canon
+	dynasty = 35006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "misguided_warrior"
+	add_trait = "brave"
+	add_trait = "paranoid"
+	add_trait = "impaler"
+	
+	
+	8883.1.1={
+		birth = yes #not canon
+	}
+	
+	8915.1.1={
+		add_trait = "maimed" #not canon
+	}
+	
+	8932.1.1={
+		death = yes #not canon
+	}
+}
+	
+35006003={
+	name = "Celeste"
+	dynasty = 35006
+	female = yes
+	father = 35006002 #not canon
+	mother = 35006001
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "charismatic_negotiator"
+	add_trait = "paranoid"
+	add_trait = "brave"
+	add_trait = "greedy"
+	add_trait = "honest"
+	add_trait = "bastard"
+	
+	8913.1.1={
+		birth = yes #not canon
+	}
+	
+	8994.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Richelieu
+36006001={
+	name = "Eustace"
+	dynasty = 36006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "charismatic_negotiator"
+	add_trait = "patient"
+	add_trait = "honest"
+	add_trait = "gregarious"
+	add_trait = "ambitious"
+	add_trait = "bastard"
+	
+	8907.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Gelinaux
+37006001={
+	name = "Benoit"
+	dynasty = 37006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "thrifty_clerk"
+	add_trait = "gardener"
+	add_trait = "craven"
+	add_trait = "kind"
+	add_trait = "patient"
+	
+	8892.1.1={
+		birth = yes #not canon
+	}
+	
+	8975.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Fernande
+38006001={
+	name = "Werner"
+	dynasty = 38006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "grey_eminence"
+	add_trait = "scholar"
+	add_trait = "genius"
+	add_trait = "proud"
+	add_trait = "brave"
+	
+	8866.1.1={
+		birth = yes #not canon
+	}
+	
+	8950.1.1={
+		death = yes #not canon
+	}
+}
+
+##House de Lancre
+39006001={
+	name = "Rudalt"
+	dynasty = 39006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "tough_soldier"
+	add_trait = "duelist"
+	add_trait = "organizer"
+	add_trait = "flanker"
+	add_trait = "brave"
+	
+	8909.1.1={
+		birth = yes #not canon
+	}
+	
+	8989.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Volant
+40006001={
+	name = "Guinevere"
+	dynasty = 40006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "charismatic_negotiator"
+	add_trait = "kind"
+	add_trait = "fair"
+	add_trait = "patient"
+	add_trait = "brave"
+	
+	8899.1.1={
+		birth = yes #not canon
+	}
+	
+	8963.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Emmald
+41006001={
+	name = "Taraline"
+	dynasty = 41006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "naive_appeaser"
+	add_trait = "kind"
+	add_trait = "charitable"
+	add_trait = "paranoid"
+	add_trait = "hunter"
+	
+	8887.1.1={
+		birth = yes #not canon
+	}
+	
+	8963.1.1={
+		death = yes #not canon
+	}
+}
+	
+##House Germaine
+42006001={
+	name = "Simone"
+	dynasty = 42006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "mastermind_theologian"
+	add_trait = "scholar"
+	add_trait = "proud"
+	add_trait = "paranoid"
+	add_trait = "temperate"
+	
+	8864.1.1={
+		birth = yes #not canon
+	}
+	
+	8947.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Severin
+43006001={
+	name = "Jonquil"
+	dynasty = 43006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "scholarly_theologian"
+	add_trait = "scholar"
+	add_trait = "slothful"
+	add_trait = "envious"
+	add_trait = "shy"
+	
+	8902.1.1={
+		birth = yes #not canon
+	}
+	
+	8981.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Bonchance
+44006001={
+	name = "Wilhelmina"
+	dynasty = 44006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "scholar"
+	add_trait = "ambitious"
+	add_trait = "arbitrary"
+	add_trait = "cynical"
+	
+	8878.1.1={
+		birth = yes #not canon
+	}
+	
+	8967.1.1={
+		death = yes #not canon
+	}
+}
+
+##House de Lydes
+45006001={
+	name = "Remache"
+	dynasty = 45006
+	mother = 45006003
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "skilled_tactician"
+	add_trait = "proud"
+	add_trait = "quick"
+	add_trait = "organizer"
+	add_trait = "cruel"
+	
+	8885.1.1={
+		birth = yes #not canon
+	}
+	
+	8939.1.1={
+		death = yes #not canon
+	}
+}
+
+45006002={
+	name = "Jean-Gaspard"
+	dynasty = 45006
+	mother = 45006003
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "brilliant_strategist"
+	add_trait = "quick"
+	add_trait = "cavalry_leader"
+	add_trait = "strong"
+	add_trait = "kind"
+	
+	8891.1.1={
+		birth = yes #not canon
+	}
+	
+	8958.1.1={
+		death = yes #not canon
+	}
+}
+
+45006003={
+	name = "Sabrina" #not canon
+	dynasty = 45006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "naive_appeaser"
+	add_trait = "cruel"
+	add_trait = "arbitrary"
+	add_trait = "organizer"
+	add_trait = "deceitful"
+	
+	8851.1.1={
+		birth = yes #not canon
+	}
+	
+	8892.1.1={
+		death = yes #not canon
+	}
+}
+
+#cousin of Remache
+45006004={
+	name = "Caralina"
+	dynasty = 45006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "charismatic_negotiator"
+	add_trait = "paranoid"
+	add_trait = "arbitrary"
+	add_trait = "honest"
+	add_trait = "quick"
+	
+	8904.1.1={
+		birth = yes #not canon
+	}
+	
+	8973.1.1={
+		death = yes #not canon
+	}
+}
+
+#daughter of Remache
+45006005={
+	name = "Monette"
+	dynasty = 45006
+	father = 45006001
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "martial_cleric"
+	add_trait = "kind"
+	add_trait = "proud"
+	add_trait = "deceitful"
+	add_trait = "brave"
+	
+	8905.1.1={
+		birth = yes #not canon
+	}
+	
+	8980.1.1={
+		death = yes #not canon
+	}
+}
+	
+##Custom canon character - Either missing first or last name
+
+#The Dowager
+##House Mantillon
+46006001={
+	name = "Lorraine"
+	dynasty = 46006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "intricate_webweaver"
+	add_trait = "wroth"
+	add_trait = "lunatic"
+	add_trait = "arbitrary"
+	add_trait = "ambitious"
+	
+	8879.1.1={
+		birth = yes #not canon
+	}
+	8947.1.1={
+		death = yes #not canon
+	}
+}
+
+46006002={
+	name = "Lauran"
+	dynasty = 46006
+
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "naive_appeaser"
+	add_trait = "kind"
+	add_trait = "trusting"
+	add_trait = "imbecile"
+	add_trait = "content"
+	
+	8877.1.1={
+		birth = yes #not canon
+	}
+	
+	8899.1.1={
+		death = yes #not canon
+	}
+}
+	
+46006003={
+	name = "Phillipe"
+	dynasty = 46006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "thrifty_clerk"
+	add_trait = "slow"
+	add_trait = "trusting"
+	add_trait = "slothful"
+	add_trait = "hedonist"
+	
+	8879.1.1={
+		birth = yes #not canon
+	}
+	
+	8904.1.1={
+		death = yes #not canon
+	}
+}
+	
+46006004={
+	name = "Pierre"
+	dynasty = 46006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "fortune_builder"
+	add_trait = "paranoid"
+	add_trait = "slow"
+	add_trait = "stressed"
+	add_trait = "honest"
+	
+	8883.1.1={
+		birth = yes #not canon
+	}
+	
+	8910.1.1={
+		death = yes #not canon
+	}
+}
+	
+46006005={
+	name = "Maximillian"
+	dynasty = 46006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "midas_touched"
+	add_trait = "slow"
+	add_trait = "craven"
+	add_trait = "homosexual"
+	add_trait = "deceitful"
+	
+	8882.1.1={
+		birth = yes #not canon
+	}
+	
+	8920.1.1={
+		death = yes #not canon
+	}
+}
+	
+46006006={
+	name = "Gerard"
+	dynasty = 46006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "indulgent_wastrel"
+	add_trait = "fair"
+	add_trait = "lustful"
+	add_trait = "hedonist"
+	add_trait = "strong"
+	
+	8892.1.1={
+		birth = yes #not canon
+	}
+	
+	8925.1.1={
+		death = yes #not canon
+	}
+}
+	
+46006007={
+	name = "Hervé"
+	dynasty = 46006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "flamboyant_schemer"
+	add_trait = "greedy"
+	add_trait = "gregarious"
+	add_trait = "trusting"
+	add_trait = "organizer"
+	
+	8904.1.1={
+		birth = yes #not canon
+	}
+	
+	8930.1.1={
+		death = yes #not canon
+	}
+}
+	
+46006008={
+	name = "Renard"
+	dynasty = 46006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "underhanded_rogue"
+	add_trait = "deceitful"
+	add_trait = "greedy"
+	add_trait = "paranoid"
+	add_trait = "trickster"
+	
+	8887.1.1={
+		birth = yes #not canon
+	}
+	
+	8933.1.1={
+		death = yes #not canon
+	}
+}
+	
+46006009={
+	name = "Nazaire"
+	dynasty = 46006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "brilliant_strategist"
+	add_trait = "slow"
+	add_trait = "brave"
+	add_trait = "strong"
+	add_trait = "trusting"
+	
+	8902.1.1={
+		birth = yes #not canon
+	}
+	
+	8937.1.1={
+		death = yes #not canon
+	}
+}
+	
+46006010={
+	name = "Etienne"
+	dynasty = 46006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "detached_priest"
+	add_trait = "homosexual"
+	add_trait = "deceitful"
+	add_trait = "depressed"
+	
+	8911.1.1={
+		birth = yes #not canon
+	}
+	
+	8939.1.1={
+		add_trait = "wounded" #not canon
+	}
+	
+	8940.1.1={
+		death = yes #not canon
+	}
+}
+
+#DA The Last Court character
+##House de Alyons
+47006001={
+	name = "Porthos"
+	dynasty = 47006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "underhanded_rogue"
+	add_trait = "gluttonous"
+	add_trait = "greedy"
+	add_trait = "honest"
+	add_trait = "brave"
+	
+	8901.1.1={
+		birth = yes #not canon
+	}
+	
+	8974.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Courtemance
+48006001={
+	name = "Jules" #not canon
+	dynasty = 48006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "fortune_builder"
+	add_trait = "paranoid"
+	add_trait = "brave"
+	add_trait = "deceitful"
+	add_trait = "homosexual"
+	
+	8887.1.1={
+		birth = yes #not canon
+	}
+	
+	8955.1.1={
+		death = yes #not canon
+	}
+}
+
+##House de Halamshiral
+49006001={
+	name = "Pierre"
+	dynasty = 49006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "fortune_builder"
+	add_trait = "kind"
+	add_trait = "scholar"
+	add_trait = "diligent"
+	add_trait = "humble"
+	
+	8909.1.1={
+		birth = yes #not canon
+	}
+	
+	8982.1.1={
+		death = yes #not canon
+	}
+}
+
+##House de Velun
+50006001={
+	name = "Chantral" #not canon
+	dynasty = 50006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "midas_touched"
+	add_trait = "ambitious"
+	add_trait = "trusting"
+	add_trait = "duelist"
+	add_trait = "patient"
+	
+	8902.1.1={
+		birth = yes #not canon
+	}
+	
+	8976.1.1={
+		death = yes #not canon
+	}
+}
+
+##House d'Argent
+51006001={
+	name = "Astrid" #not canon
+	dynasty = 51006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "elusive_shadow"
+	add_trait = "gardener"
+	add_trait = "diligent"
+	add_trait = "patient"
+	add_trait = "zealous"
+	
+	8906.1.1={
+		birth = yes #not canon
+	}
+	
+	8979.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Elodie
+52006001={
+	name = "Jasmine" #not canon
+	dynasty = 52006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "flamboyant_schemer"
+	add_trait = "slow"
+	add_trait = "weak"
+	add_trait = "celibate"
+	add_trait = "diligent"
+	
+	8898.1.1={
+		birth = yes #not canon
+	}
+	
+	8972.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Helene
+53006001={
+	name = "Aurélia" #not canon
+	dynasty = 53006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "amateurish_plotter"
+	add_trait = "paranoid"
+	add_trait = "diligent"
+	add_trait = "scholar"
+	add_trait = "gregarious"
+	
+	8907.1.1={
+		birth = yes #not canon
+	}
+	
+	8983.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Boisvert
+54006001={
+	name = "Ludovic" #not canon
+	dynasty = 54006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "tough_soldier"
+	add_trait = "trickster"
+	add_trait = "organizer"
+	add_trait = "brave"
+	add_trait = "quick"
+	
+	8911.1.1={
+		birth = yes #not canon
+	}
+	
+	8987.1.1={
+		death = yes #not canon
+	}
+}
+
+##House de Jader
+55006001={
+	name = "Gerard"
+	dynasty = 55006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "tough_soldier"
+	add_trait = "slothful"
+	add_trait = "stressed"
+	add_trait = "stutter"
+	add_trait = "strong"
+	
+	8903.1.1={
+		birth = yes #not canon
+	}
+	
+	8982.1.1={
+		death = yes #not canon
+	}
+}
+
+55006002={
+	name = "Seryl"
+	dynasty = 55006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "thrifty_clerk"
+	add_trait = "wounded"
+	add_trait = "depressed"
+	add_trait = "brave"
+	add_trait = "charitable"
+	
+	8896.1.1={
+		birth = yes #not canon
+	}
+	
+	8967.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Etienne
+56006001={
+	name = "Gautier" #not canon
+	dynasty = 56006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "brilliant_strategist"
+	add_trait = "wroth"
+	add_trait = "diligent"
+	add_trait = "brave"
+	add_trait = "weak"
+	
+	8911.1.1={
+		birth = yes #not canon
+	}
+	
+	8987.1.1={
+		death = yes #not canon
+	}
+}
+
+##House de Bayard
+57006001={
+	name = "Laure" #not canon
+	dynasty = 57006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "naive_appeaser"
+	add_trait = "kind"
+	add_trait = "shy"
+	add_trait = "deceitful"
+	add_trait = "ugly"
+	
+	8908.1.1={
+		birth = yes #not canon
+	}
+	
+	8983.1.1={
+		death = yes #not canon
+	}
+}
+
+
+##House d'Arnee
+58006001={
+	name = "Paulette" #not canon
+	dynasty = 58006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "charismatic_negotiator"
+	add_trait = "paranoid"
+	add_trait = "proud"
+	add_trait = "depressed"
+	add_trait = "lustful"
+	
+	8914.1.1={
+		birth = yes #not canon
+	}
+	
+	8988.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Arlange
+59006001={
+	name = "Wilfrid" #not canon
+	dynasty = 59006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "misguided_warrior"
+	add_trait = "deceitful"
+	add_trait = "slow"
+	add_trait = "proud"
+	add_trait = "wroth"
+	
+	8905.1.1={
+		birth = yes #not canon
+	}
+	
+	8937.1.1={
+		death = yes
+	}
+}
+
+##House de Rosfort
+60006001={
+	name = "Hector" #not canon
+	dynasty = 60006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "scholarly_theologian"
+	add_trait = "gardener"
+	add_trait = "kind"
+	add_trait = "charitable"
+	add_trait = "proud"
+	
+	8887.1.1={
+		birth = yes #not canon
+	}
+	
+	8959.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Couteau
+61006001={
+	name = "Karine" #not canon
+	dynasty = 61006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "intricate_webweaver"
+	add_trait = "kind"
+	add_trait = "deceitful"
+	add_trait = "quick"
+	add_trait = "patient"
+	
+	8913.1.1={
+		birth = yes #not canon
+	}
+	
+	8973.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Colombe
+62006001={
+	name = "Ophélie" #not canon
+	dynasty = 62006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "underhanded_rogue"
+	add_trait = "slow"
+	add_trait = "deceitful"
+	add_trait = "honest"
+	add_trait = "diligent"
+	
+	8909.1.1={
+		birth = yes #not canon
+	}
+	
+	8982.1.1={
+		death = yes #not canon
+	}
+}
+
+##House de Val Foret
+63006001={
+	name = "Eustace"
+	dynasty = 63006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "skilled_tactician"
+	add_trait = "wroth"
+	add_trait = "duelist"
+	add_trait = "proud"
+	add_trait = "weak"
+	
+	8871.1.1={
+		birth = yes #not canon
+	}
+	
+	8889.1.1={
+		add_spouse = 63006002
+	}
+	
+	8952.1.1={
+		death = yes #not canon
+	}
+}
+
+63006002={
+	name = "Cerise"
+	dynasty = 63006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "naive_appeaser"
+	add_trait = "strong"
+	add_trait = "brave"
+	add_trait = "humble"
+	add_trait = "gardener"
+	
+	8873.1.1={
+		birth = yes #not canon
+	}
+	
+	8957.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Elspeth
+64006001={
+	name = "Anaïs" #not canon
+	dynasty = 64006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "thrifty_clerk"
+	add_trait = "deceitful"
+	add_trait = "wroth"
+	add_trait = "slothful"
+	add_trait = "charitable"
+	
+	8897.1.1={
+		birth = yes #not canon
+	}
+	
+	8970.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Fleur
+65006001={
+	name = "Francine" #not canon
+	dynasty = 65006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "elusive_shadow"
+	add_trait = "fair"
+	add_trait = "kind"
+	add_trait = "diligent"
+	add_trait = "deceitful"
+	
+	8912.1.1={
+		birth = yes #not canon
+	}
+	
+	8992.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Bencour
+66006001={
+	name = "Enzo" #not canon
+	dynasty = 66006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "underhanded_rogue"
+	add_trait = "slothful"
+	add_trait = "imbecile"
+	add_trait = "lustful"
+	add_trait = "gluttonous"
+	
+	8896.1.1={
+		birth = yes #not canon
+	}
+	
+	8972.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Mainserai
+67006001={
+	name = "Gaëtan" #not canon
+	dynasty = 67006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "fortune_builder"
+	add_trait = "wroth"
+	add_trait = "proud"
+	add_trait = "strong"
+	add_trait = "craven"
+	
+	8894.1.1={
+		birth = yes #not canon
+	}
+	
+	8971.1.1={
+		death = yes #not canon
+	}
+}
+
+##House D'Onterre
+68006001={
+	name = "Alban" #not canon
+	dynasty = 68006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "thrifty_clerk"
+	add_trait = "kind"
+	add_trait = "charitable"
+	add_trait = "humble"
+	add_trait = "kinslayer"
+	
+	8890.1.1={
+		birth = yes #not canon
+	}
+	
+	8963.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Alcyone
+69006001={
+	name = "Thaïs" #not canon
+	dynasty = 69006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "scholarly_theologian"
+	add_trait = "scholar"
+	add_trait = "genius"
+	add_trait = "charitable"
+	add_trait = "humble"
+	
+	8888.1.1={
+		birth = yes #not canon
+	}
+	
+	8965.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Dever
+70006001={
+	name = "Agathe" #not canon
+	dynasty = 70006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "elusive_shadow"
+	add_trait = "deceitful"
+	add_trait = "charitable"
+	add_trait = "chaste"
+	add_trait = "scholar"
+	
+	8886.1.1={
+		birth = yes #not canon
+	}
+	
+	8954.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Bellien
+71006001={
+	name = "Marcel" #not canon
+	dynasty = 71006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "tough_soldier"
+	add_trait = "trickster"
+	add_trait = "duelist"
+	add_trait = "proud"
+	add_trait = "diligent"
+	
+	8893.1.1={
+		birth = yes #not canon
+	}
+	
+	8972.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Sidonia
+72006001={
+	name = "Tatiana" #not canon
+	dynasty = 72006
+	female = yes
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "skilled_tactician"
+	add_trait = "brave"
+	add_trait = "quick"
+	add_trait = "homosexual"
+	add_trait = "strong"
+	
+	8880.1.1={
+		birth = yes #not canon
+	}
+	
+	8953.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Nester
+73006001={
+	name = "Franck" #not canon
+	dynasty = 73006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "underhanded_rogue"
+	add_trait = "slow"
+	add_trait = "wounded"
+	add_trait = "brave"
+	add_trait = "stutter"
+	
+	8902.1.1={
+		birth = yes #not canon
+	}
+	
+	8979.1.1={
+		death = yes #not canon
+	}
+}
+
+##House Ezoire
+74006001={
+	name = "Fabrice" #not canon
+	dynasty = 74006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "scholarly_theologian"
+	add_trait = "scholar"
+	add_trait = "genius"
+	add_trait = "wroth"
+	add_trait = "diligent"
+	
+	8886.1.1={
+		birth = yes #not canon
+	}
+	
+	8959.1.1={
+		death = yes #not canon
+	}
+}
+
+####END OF CANON CHARACTERS
+###Custom Characters
+
+##House Le Roux
+75006001={
+	name = "Damien"
+	dynasty = 75006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "fortune_builder"
+	add_trait = "fair"
+	add_trait = "deceitful"
+	add_trait = "zealous"
+	add_trait = "envious"
+	add_trait = "gregarious"
+	
+	8885.1.1={
+		birth = yes
+	}
+	
+	8961.1.1={
+		death = yes
+	}
+}
+
+75006002={
+	name = "Remme"
+	dynasty = 75006
+	father = 75006001
+	mother = 75006003
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "tough_soldier"
+	add_trait = "brave"
+	add_trait = "deceitful"
+	add_trait = "zealous"
+	add_trait = "patient"
+	add_trait = "proud"
+	add_trait = "bastard"
+	
+	8909.1.1={
+		birth = yes
+	}
+	
+	8987.1.1={
+		death = yes
+	}
+}
+
+75006003={
+	name = "Jailyn"
+	dynasty = 75006
+	female = yes
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "charismatic_negotiator"
+	add_trait = "fair"
+	add_trait = "content"
+	add_trait = "zealous"
+	add_trait = "just"
+	add_trait = "gregarious"
+	
+	8889.1.1={
+		birth = yes
+	}
+	
+	8965.1.1={
+		death = yes
+	}
+}
+
+##House Richard
+76006001={
+	name = "Louis"
+	dynasty = 76006 
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "skilled_tactician"
+	add_trait = "strong"
+	add_trait = "brave"
+	add_trait = "honest"
+	add_trait = "just"
+	add_trait = "wroth"
+	add_trait = "drunkard"
+	add_trait = "lustful"
+	
+	8890.1.1={
+		birth = yes
+	}
+	
+	8969.1.1={
+		death = yes
+	}
+}
+
+76006002={
+	name = "Baptiste"
+	dynasty = 76006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = "flamboyant_schemer"
+	add_trait = "homosexual"
+	add_trait = "poet"
+	add_trait = "proud"
+	add_trait = "deceitful"
+	add_trait = "gregarious"
+	add_trait = "arbitrary"
+	
+	8890.1.1={
+		birth = yes
+	}
+	
+	8972.1.1={
+		death = yes
+	}
+}
+
+
+
+
+

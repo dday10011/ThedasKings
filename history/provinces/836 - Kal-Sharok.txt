@@ -1,0 +1,21 @@
+# c_kal_sharok
+
+# County Title
+title = c_kal_sharok
+
+# Settlements
+max_settlements = 7
+
+b_kal_sharok = castle
+#b_kal_sharok_2 = city
+#b_kal_sharok_3 = temple
+#b_kal_sharok_4 = castle
+#b_kal_sharok_5 = city
+#b_kal_sharok_6 = temple
+#b_kal_sharok_7 = castle
+
+# Misc
+culture = kal_sharok
+religion = our_ancestors
+
+#History

@@ -1,0 +1,14 @@
+500.1.1={
+	#law = true_cognatic_succession
+	#law = succ_gavelkind
+}
+800.1.1={
+	liege=e_ferelden
+}
+
+	8899.1.1={
+		holder=5002004
+	}
+	8932.1.1={
+		holder=5002005
+	}

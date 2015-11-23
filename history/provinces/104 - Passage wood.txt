@@ -1,0 +1,15 @@
+# c_passage_wood
+
+# County Title
+title = c_passage_wood
+
+# Settlements
+max_settlements = 1
+
+b_passage_wood = castle
+
+# Misc
+culture = forest
+religion = forest
+
+#History

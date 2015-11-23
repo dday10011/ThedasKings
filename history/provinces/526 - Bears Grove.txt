@@ -1,0 +1,15 @@
+# c_bears_grove
+
+# County Title
+title = c_bears_grove
+
+# Settlements
+max_settlements = 1
+
+b_bears_grove = castle
+
+# Misc
+culture = forest
+religion = forest
+
+#History

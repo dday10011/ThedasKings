@@ -1,0 +1,15 @@
+# c_silvan_gardens
+
+# County Title
+title = c_silvan_gardens
+
+# Settlements
+max_settlements = 1
+
+b_silvan_gardens = castle
+
+# Misc
+culture = forest
+religion = forest
+
+#History

@@ -1,0 +1,21 @@
+# c_priveal_thaig
+
+# County Title
+title = c_priveal_thaig
+
+# Settlements
+max_settlements = 7
+
+b_priveal_thaig = castle
+#b_priveal_thaig_2 = city
+#b_priveal_thaig_3 = temple
+#b_priveal_thaig_4 = castle
+#b_priveal_thaig_5 = city
+#b_priveal_thaig_6 = temple
+#b_priveal_thaig_7 = castle
+
+# Misc
+culture = orzammar
+religion = our_ancestors
+
+#History

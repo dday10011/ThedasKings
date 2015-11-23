@@ -1,0 +1,17 @@
+# c_desolations_end
+
+# County Title
+title = c_desolations_end
+
+# Settlements
+max_settlements = 3
+
+b_desolations_end = castle
+b_desolations_end_2 = city
+b_desolations_end_3 = temple
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

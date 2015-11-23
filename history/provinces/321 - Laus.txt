@@ -1,0 +1,17 @@
+# c_laus
+
+# County Title
+title = c_laus
+
+# Settlements
+max_settlements = 3
+
+b_laus = castle
+b_laus_2 = city
+b_laus_3 = temple
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

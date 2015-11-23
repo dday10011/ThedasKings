@@ -1,0 +1,17 @@
+# c_bellwood
+
+# County Title
+title = c_bellwood
+
+# Settlements
+max_settlements = 3
+
+b_bellwood = castle
+b_bellwood_2 = city
+b_bellwood_3 = temple
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,17 @@
+# c_arcadia
+
+# County Title
+title = c_arcadia
+
+# Settlements
+max_settlements = 3
+
+b_arcadia = castle
+b_arcadia_2 = city
+b_arcadia_3 = temple
+
+# Misc
+culture = nevarran
+religion = andrastian_chantry
+
+#History

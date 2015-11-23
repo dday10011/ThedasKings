@@ -1,0 +1,17 @@
+# c_gelligaer
+
+# County Title
+title = c_gelligaer
+
+# Settlements
+max_settlements = 3
+
+b_gelligaer = castle
+b_gelligaer_2 = city
+b_gelligaer_3 = temple
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

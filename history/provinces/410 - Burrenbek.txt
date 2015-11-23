@@ -1,0 +1,16 @@
+# c_burrenbek
+
+# County Title
+title = c_burrenbek
+
+# Settlements
+max_settlements = 2
+
+b_burrenbek = castle
+b_burrenbek_2 = city
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

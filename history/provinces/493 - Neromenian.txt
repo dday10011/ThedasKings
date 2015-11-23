@@ -1,0 +1,20 @@
+# c_neromenian
+
+# County Title
+title = c_neromenian
+
+# Settlements
+max_settlements = 6
+
+b_neromenian = castle
+b_neromenian_2 = city
+b_neromenian_3 = temple
+b_neromenian_4 = castle
+b_neromenian_5 = city
+b_neromenian_6 = temple
+
+# Misc
+culture = imperial_tevinter
+religion = imperial_chantry
+
+#History

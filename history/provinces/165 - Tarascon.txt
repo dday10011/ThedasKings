@@ -1,0 +1,18 @@
+# c_tarascon
+
+# County Title
+title = c_tarascon
+
+# Settlements
+max_settlements = 4
+
+b_tarascon = castle
+b_tarascon_2 = city
+b_tarascon_3 = temple
+b_tarascon_4 = castle
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

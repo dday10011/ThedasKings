@@ -1,0 +1,17 @@
+# c_mourier
+
+# County Title
+title = c_mourier
+
+# Settlements
+max_settlements = 3
+
+b_mourier = castle
+b_mourier_2 = city
+b_mourier_3 = temple
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

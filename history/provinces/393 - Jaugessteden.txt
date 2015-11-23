@@ -1,0 +1,17 @@
+# c_jaugessteden
+
+# County Title
+title = c_jaugessteden
+
+# Settlements
+max_settlements = 3
+
+b_jaugessteden = castle
+b_jaugessteden_2 = city
+b_jaugessteden_3 = temple
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,18 @@
+# c_salmont
+
+# County Title
+title = c_salmont
+
+# Settlements
+max_settlements = 4
+
+b_salmont = castle
+b_salmont_2 = city
+b_salmont_3 = temple
+b_salmont_4 = castle
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,20 @@
+# c_val_firmin
+
+# County Title
+title = c_val_firmin
+
+# Settlements
+max_settlements = 6
+
+b_val_firmin = castle
+b_val_firmin_2 = city
+b_val_firmin_3 = temple
+b_val_firmin_4 = castle
+b_val_firmin_5 = city
+b_val_firmin_6 = temple
+
+# Misc
+culture = orlesian
+religion = andrastian_chantry
+
+#History

@@ -1,0 +1,18 @@
+# c_olsis
+
+# County Title
+title = c_olsis
+
+# Settlements
+max_settlements = 4
+
+b_olsis = castle
+b_olsis_2 = city
+b_olsis_3 = temple
+b_olsis_4 = castle
+
+# Misc
+culture = anders
+religion = andrastian_chantry
+
+#History

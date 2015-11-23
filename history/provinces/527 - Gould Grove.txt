@@ -1,0 +1,15 @@
+# c_gould_grove
+
+# County Title
+title = c_gould_grove
+
+# Settlements
+max_settlements = 1
+
+b_gould_grove = castle
+
+# Misc
+culture = forest
+religion = forest
+
+#History

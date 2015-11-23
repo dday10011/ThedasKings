@@ -1,0 +1,19 @@
+# c_bywater
+
+# County Title
+title = c_bywater
+
+# Settlements
+max_settlements = 5
+
+b_bywater = castle
+b_bywater_2 = city
+b_bywater_3 = temple
+b_bywater_4 = castle
+b_bywater_5 = city
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

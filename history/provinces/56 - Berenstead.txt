@@ -1,0 +1,16 @@
+# c_berenstead
+
+# County Title
+title = c_berenstead
+
+# Settlements
+max_settlements = 2
+
+b_berenstead = castle
+b_berenstead_2 = city
+
+# Misc
+culture = fereldan
+religion = andrastian_chantry
+
+#History

@@ -2979,7 +2979,29 @@
 	}
 }
 
-
+##House Sabin
+77006001={
+	name = "Marie"
+	dynasty = 77006
+	
+	religion = "andrastian_chantry"
+	culture = "orlesian"
+	
+	add_trait = tough_soldier
+	add_trait = quick
+	add_trait = kind
+	add_trait = cynical
+	add_trait = just
+	add_trait = trusting
+	
+	8904.1.1={
+		birth = yes
+	}
+	
+	8969.1.1={
+		death = yes
+	}
+}
 
 
 

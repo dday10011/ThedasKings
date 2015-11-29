@@ -1,45 +1,45 @@
-1003 = { name = "Avvaring" culture = avvar }
-2003 = { name = "avvar 2" culture = avvar }
-3003 = { name = "avvar 3" culture = avvar }
-4003 = { name = "avvar 4" culture = avvar }
-5003 = { name = "avvar 5" culture = avvar }
-6003 = { name = "avvar 6" culture = avvar }
-7003 = { name = "avvar 7" culture = avvar }
-8003 = { name = "avvar 8" culture = avvar }
-9003 = { name = "avvar 9" culture = avvar }
-10003 = { name = "avvar 10" culture = avvar }
-11003 = { name = "avvar 11" culture = avvar }
-12003 = { name = "avvar 12" culture = avvar }
-13003 = { name = "avvar 13" culture = avvar }
-14003 = { name = "avvar 14" culture = avvar }
-15003 = { name = "avvar 15" culture = avvar }
-16003 = { name = "avvar 16" culture = avvar }
-17003 = { name = "avvar 17" culture = avvar }
-18003 = { name = "avvar 18" culture = avvar }
-19003 = { name = "avvar 19" culture = avvar }
-20003 = { name = "avvar 20" culture = avvar }
-21003 = { name = "avvar 21" culture = avvar }
-22003 = { name = "avvar 22" culture = avvar }
-23003 = { name = "avvar 23" culture = avvar }
-24003 = { name = "avvar 24" culture = avvar }
-25003 = { name = "avvar 25" culture = avvar }
-26003 = { name = "avvar 26" culture = avvar }
-27003 = { name = "avvar 27" culture = avvar }
-28003 = { name = "avvar 28" culture = avvar }
-29003 = { name = "avvar 29" culture = avvar }
-30003 = { name = "avvar 30" culture = avvar }
-31003 = { name = "avvar 31" culture = avvar }
-32003 = { name = "avvar 32" culture = avvar }
-33003 = { name = "avvar 33" culture = avvar }
-34003 = { name = "avvar 34" culture = avvar }
-35003 = { name = "avvar 35" culture = avvar }
-36003 = { name = "avvar 36" culture = avvar }
-37003 = { name = "avvar 37" culture = avvar }
-38003 = { name = "avvar 38" culture = avvar }
-39003 = { name = "avvar 39" culture = avvar }
-40003 = { name = "avvar 40" culture = avvar }
-41003 = { name = "avvar 41" culture = avvar }
-42003 = { name = "avvar 42" culture = avvar }
+1003 = { name = "Sun-Hair" culture = avvar }
+2003 = { name = "Khunzakhal" culture = avvar }
+3003 = { name = "Umorid" culture = avvar }
+4003 = { name = "Araslanid" culture = avvar }
+5003 = { name = "Pavalid" culture = avvar }
+6003 = { name = "Isbulid" culture = avvar }
+7003 = { name = "Sabir" culture = avvar }
+8003 = { name = "Akhasir" culture = avvar }
+9003 = { name = "Kazarig" culture = avvar }
+10003 = { name = "Kidar" culture = avvar }
+11003 = { name = "Khazbek" culture = avvar }
+12003 = { name = "Yantsukh" culture = avvar }
+13003 = { name = "Ghidatli" culture = avvar }
+14003 = { name = "Gumbekh" culture = avvar }
+15003 = { name = "Kharoda" culture = avvar }
+16003 = { name = "Ghunib" culture = avvar }
+17003 = { name = "Yandalal" culture = avvar }
+18003 = { name = "Tsumadal" culture = avvar }
+19003 = { name = "Tsuntab" culture = avvar }
+20003 = { name = "Altsikurs" culture = avvar }
+21003 = { name = "Altsiok" culture = avvar }
+22003 = { name = "Ovadia" culture = avvar }
+23003 = { name = "Yilmaz" culture = avvar }
+24003 = { name = "Aramman" culture = avvar }
+25003 = { name = "Csonka" culture = avvar }
+26003 = { name = "Kelemen" culture = avvar }
+27003 = { name = "Frode" culture = avvar }
+28003 = { name = "Berrintho" culture = avvar }
+29003 = { name = "Vastag" culture = avvar }
+30003 = { name = "Herceg" culture = avvar }
+31003 = { name = "Serhat" culture = avvar }
+32003 = { name = "Seres" culture = avvar }
+33003 = { name = "Katona" culture = avvar } #LaBattona
+34003 = { name = "Terzi" culture = avvar }
+35003 = { name = "Demirci" culture = avvar }
+36003 = { name = "Ostberg" culture = avvar }
+37003 = { name = "Raske" culture = avvar }
+38003 = { name = "Hummel" culture = avvar }
+39003 = { name = "Kadar" culture = avvar }
+40003 = { name = "Ottosen" culture = avvar }
+41003 = { name = "Eldr" culture = avvar }
+42003 = { name = "Avvaring" culture = avvar }
 43003 = { name = "avvar 43" culture = avvar }
 44003 = { name = "avvar 44" culture = avvar }
 45003 = { name = "avvar 45" culture = avvar }

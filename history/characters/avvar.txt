@@ -1,0 +1,388 @@
+#Important characters
+1003000={ #Janes, father of Svarah Sun-Hair
+name="Janes"
+religion=avvar
+8832.1.1={
+	born=yes
+		}
+8911.1.1={
+		death=yes
+	}
+}
+1003001={ #Svarah Sun-Hair Thane of Stone-Bear hold
+name="Svarah"
+dynasty=1003
+female=yes
+religion=avvar
+trait = "brilliant_strategist"
+trait = "quick"
+trait = "strong"
+trait = "duelist"
+trait = "proud"
+trait = "brave"
+trait = "Ambitious"
+trait = "Inspiring Leader"
+father=1003000
+female=yes
+8900.1.1={
+	born=yes
+	}
+}
+#
+#                     .-''-.                      
+#                   .`   ::.'.                    
+#                   /  .:((((\\\                   
+#                 .' //((`  )))))                  
+#                (  (/)':.__  _/                   
+#               /   /c(   -=\</^                   
+#              /   (/j)\  __.>)                    
+#             (/  :(r :.'.\_./   
+#             /  .'/    `(`-'                      
+#            (   '( '``'  '.                       
+#            /    ))    '   `-.                    
+#           (  (  ( .    .     `-x                 
+#           (( ( (: \    |       )                 
+#           )|)) )\Y     \  `--<                  
+#             |  `( \\    |     |                  
+#             |    `||    :.    |                  
+#             `-._  | \     `-._|                  
+#                 `-/ :\_.      ``\                
+#                  /    `'----..../                
+#                 /  , .        |/                 
+#                /               \                 
+#               /                |                 
+#              J    .            |                 
+#              |    |            |                 
+#              |  _ _\__         /                 
+#              \      _\).       |                 
+#cjr           |       ||        |    
+#
+
+
+2003001={
+name="Balak"
+dynasty=2003
+8920.1.1={
+birth=yes
+	}
+}
+
+3003001={
+name="Elorn"
+dynasty=3003
+8920.1.1={
+birth=yes
+	}
+}
+
+4003001={
+name="Havard"
+dynasty=4003
+8920.1.1={
+birth=yes
+	}
+}
+
+5003001={
+name="Kell"
+dynasty=5003
+8920.1.1={
+birth=yes
+	}
+}
+
+6003001={
+name="Owyne"
+dynasty=6003
+8920.1.1={
+birth=yes
+	}
+}
+
+7003001={
+name="Ruadan"
+dynasty=7003
+8920.1.1={
+birth=yes
+	}
+}
+
+8003001={
+name="Amund"
+dynasty=8003
+8920.1.1={
+birth=yes
+	}
+}
+
+9003001={
+name="Arrken"
+dynasty=9003
+8920.1.1={
+birth=yes
+	}
+}
+
+10003001={
+name="Finn"
+dynasty=10003
+8920.1.1={
+birth=yes
+	}
+}
+
+11003001={
+name="Sigfrid"
+dynasty=11003
+8920.1.1={
+birth=yes
+	}
+}
+
+12003001={
+name="Gurd"
+dynasty=12003
+8920.1.1={
+birth=yes
+	}
+}
+
+13003001={
+name="Harof"
+dynasty=13003
+8920.1.1={
+birth=yes
+	}
+}
+
+14003001={
+name="Feld"
+dynasty=14003
+8920.1.1={
+birth=yes
+	}
+}
+
+15003001={
+name="Heth"
+dynasty=15003
+8920.1.1={
+birth=yes
+	}
+}
+
+16003001={
+name="Movran"
+dynasty=16003
+8920.1.1={
+birth=yes
+	}
+}
+
+17003001={
+name="Myr"
+dynasty=17003
+8920.1.1={
+birth=yes
+	}
+}
+
+18003001={
+name="Arvild"
+dynasty=18003
+8920.1.1={
+birth=yes
+	}
+}
+
+19003001={
+name="Rolf"
+dynasty=19003
+8920.1.1={
+birth=yes
+	}
+}
+
+20003001={
+name="Helsdim"
+dynasty=20003
+8920.1.1={
+birth=yes
+	}
+}
+
+21003001={
+name="Balak"
+dynasty=21003
+8920.1.1={
+birth=yes
+	}
+}
+
+22003001={
+name="Elorn"
+dynasty=22003
+8920.1.1={
+birth=yes
+	}
+}
+
+23003001={
+name="Owyne"
+dynasty=23003
+8920.1.1={
+birth=yes
+	}
+}
+
+24003001={
+name="Ruadan"
+dynasty=24003
+8920.1.1={
+birth=yes
+	}
+}
+
+25003001={
+name="Amund"
+dynasty=25003
+8920.1.1={
+birth=yes
+	}
+}
+
+26003001={
+name="Arrken"
+dynasty=26003
+8920.1.1={
+birth=yes
+	}
+}
+
+27003001={
+name="Finn"
+dynasty=27003
+8920.1.1={
+birth=yes
+	}
+}
+
+28003001={
+name="Sigfrid"
+dynasty=28003
+8920.1.1={
+birth=yes
+	}
+}
+
+29003001={
+name="Gurd"
+dynasty=29003
+8920.1.1={
+birth=yes
+	}
+}
+
+30003001={
+name="Harof"
+dynasty=30003
+8920.1.1={
+birth=yes
+	}
+}
+
+31003001={
+name="Feld"
+dynasty=31003
+8920.1.1={
+birth=yes
+	}
+}
+
+32003001={
+name="Heth"
+dynasty=32003
+8920.1.1={
+birth=yes
+	}
+}
+
+33003001={
+name="Myr"
+dynasty=33003
+8920.1.1={
+birth=yes
+	}
+}
+
+34003001={
+name="Arvild"
+dynasty=34003
+8920.1.1={
+birth=yes
+	}
+}
+
+35003001={
+name="Rolf"
+dynasty=35003
+8920.1.1={
+birth=yes
+	}
+}
+
+36003001={
+name="Helsdim"
+dynasty=36003
+8920.1.1={
+birth=yes
+	}
+}
+
+37003001={
+name="Balak"
+dynasty=37003
+8920.1.1={
+birth=yes
+	}
+}
+
+38003001={
+name="Elorn"
+dynasty=38003
+8920.1.1={
+birth=yes
+	}
+}
+
+39003001={
+name="Kell"
+dynasty=39003
+8920.1.1={
+birth=yes
+	}
+}
+
+40003001={
+name="Owyne"
+dynasty=40003
+8920.1.1={
+birth=yes
+	}
+}
+
+41003001={
+name="Ruadan"
+dynasty=41003
+8920.1.1={
+birth=yes
+	}
+}
+
+42003001={
+name="Amund"
+dynasty=42003
+8920.1.1={
+birth=yes
+	}
+}

@@ -8,13 +8,17 @@ alamarri = {
 		
 		
 		male_names = {
-			Balak Elorn Havard Kell Maferath Morrighan'nan Owyne Ruadan
+			Balak Elorn Havard Kell Morrighan'nan Owyne Ruadan Amund Arrken Finn Sigfrid Gurd Harof Feld Heth Movran Myr Arvild Rolf Helsdim 
 		}
 		female_names = {
-			Anashe Kaelah Lowenna Stiksma 
+			Anashe Kaelah Lowenna Stiksma Fullna Linna Rinna_Rinnala Svarah Gyda Runa 
 		}
 
 		dukes_called_kings = yes
+		
+		male_patronym = "sen"
+		female_patronym = "dotten"
+
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 40

@@ -74,3 +74,4 @@
 74006 = { name = "Ezoire" culture = orlesian }
 75006 = { name = "Le Roux" culture = orlesian }
 76006 = { name = "Richard" culture = orlesian }
+77006 = { name = "Sabin" culture = orlesian }

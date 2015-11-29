@@ -1,0 +1,402 @@
+#Montilyet house
+1008001={	 #Yves Montilyet
+	name="Yves"
+	dynasty=1008
+
+	religion = "andrastian_chantry" 
+	culture = "antivan" 
+
+	8883.1.1={
+		birth=yes		
+	}
+}
+1008002={ #Josephine Montilyet
+name="Josephine"
+dynasty=1008
+female = yes
+religion = "andrastian_chantry"
+culture = "antivan"
+trait = "grey_eminence"
+trait = "quick"
+trait = "socializer"
+trait = "diligent"
+trait = "just"
+father = 1008001
+	8913.1.1={
+		birth=yes		
+	}
+}
+1008003={ #Laurien Montilyet
+name="Laurien"
+father = 1008001
+8916.1.1={
+birth=yes
+	}
+}
+1008004={ #Antoine Montilyet
+name="Antoine"
+dynasty=1008
+father = 1008001
+8919.1.1={
+birth=yes
+	}
+}
+1008003={ #Yvette Montilyet
+name="Yvette"
+dynasty=1008
+father = 1008001
+8922.1.1={
+birth=yes
+	}
+}
+#######################################################################################################################################################################################
+2008001={
+name="Azrin"
+dynasty=2008
+8920.1.1={	
+birth=yes
+	}
+}
+3008001={
+name="Azar"
+dynasty=3008
+8920.1.1={
+birth=yes
+	}
+}
+4008001={
+name="Dario"
+dynasty=4008
+8920.1.1={
+birth=yes
+	}
+}
+5008001={
+name="Cesar"
+dynasty=5008
+8920.1.1={
+birth=yes
+	}
+}
+6008001={
+name="Calien"
+dynasty=6008
+8920.1.1={
+birth=yes
+	}
+}
+7008001={
+name="Castillon"
+dynasty=7008
+8920.1.1={
+birth=yes
+	}
+}
+8008001={
+name="Fulgen"
+dynasty=8008
+8920.1.1={
+birth=yes
+	}
+}
+9008001={
+name="Semion"
+dynasty=9008
+8920.1.1={
+birth=yes
+	}
+}
+10008001={
+name="Luis"
+dynasty=10008
+8920.1.1={
+birth=yes
+	}
+}
+11008001={
+name="Velasco"
+dynasty=11008
+8920.1.1={
+birth=yes
+	}
+}
+12008001={
+name="Vincento"
+dynasty=12008
+8920.1.1={
+birth=yes
+	}
+}
+13008001={
+name="Felipo"
+dynasty=13008
+8920.1.1={
+birth=yes
+	}
+}
+14008001={
+name="Nicolò"
+dynasty=14008
+8920.1.1={
+birth=yes
+	}
+}
+15008001={
+name="Fabruzi"
+dynasty=15008
+8920.1.1={
+birth=yes
+	}
+}
+16008001={
+name="Caterin"
+dynasty=16008
+8920.1.1={
+birth=yes
+	}
+}
+17008001={
+name="Batista"
+dynasty=17008
+8920.1.1={
+birth=yes
+	}
+}
+18008001={
+name="Alvixe"
+dynasty=18008
+8920.1.1={
+birth=yes
+	}
+}
+19008001={
+name="Piero"
+dynasty=19008
+8920.1.1={
+birth=yes
+	}
+}
+20008001={
+name="Dolfin"
+dynasty=20008
+8920.1.1={
+birth=yes
+	}
+}
+21008001={
+name="Zacaria"
+dynasty=21008
+8920.1.1={
+birth=yes
+	}
+}
+22008001={
+name="Azrin"
+dynasty=22008
+8920.1.1={
+birth=yes
+	}
+}
+23008001={
+name="Azar"
+dynasty=23008
+8920.1.1={
+birth=yes
+	}
+}
+24008001={
+name="Dario"
+dynasty=24008
+8920.1.1={
+birth=yes
+	}
+}
+25008001={
+name="Cesar"
+dynasty=25008
+8920.1.1={
+birth=yes
+	}
+}
+26008001={
+name="Calien"
+dynasty=26008
+8920.1.1={
+birth=yes
+	}
+}
+27008001={
+name="Castillon"
+dynasty=27008
+8920.1.1={
+birth=yes
+	}
+}
+28008001={
+name="Fulgen"
+dynasty=28008
+8920.1.1={
+birth=yes
+	}
+}
+29008001={
+name="Semion"
+dynasty=29008
+8920.1.1={
+birth=yes
+	}
+}
+30008001={
+name="Luis"
+dynasty=30008
+8920.1.1={
+birth=yes
+	}
+}
+31008001={
+name="Velasco"
+dynasty=31008
+8920.1.1={
+birth=yes
+	}
+}
+32008001={
+name="Vincento"
+dynasty=32008
+8920.1.1={
+birth=yes
+	}
+}
+33008001={
+name="Felipo"
+dynasty=33008
+8920.1.1={
+birth=yes
+	}
+}
+34008001={
+name="Nicolò"
+dynasty=34008
+8920.1.1={
+birth=yes
+	}
+}
+35008001={
+name="Fabruzi"
+dynasty=35008
+8920.1.1={
+birth=yes
+	}
+}
+36008001={
+name="Caterin"
+dynasty=36008
+8920.1.1={
+birth=yes
+	}
+}
+37008001={
+name="Batista"
+dynasty="37008"
+8920.1.1={
+birth=yes
+	}
+}
+38008001={
+name="Alvixe"
+dynasty=38008
+8920.1.1={
+birth=yes
+	}
+}
+39008001={
+name="Piero"
+dynasty=39008
+8920.1.1={
+birth=yes
+	}
+}
+40008001={
+name="Dolfin"
+dynasty=40008
+8920.1.1={
+birth=yes
+	}
+}
+41008001={
+name="Zacaria"
+dynasty=41008
+8920.1.1={
+birth=yes
+	}
+}
+42008001={
+name="Azrin"
+dynasty=42008
+8920.1.1={
+birth=yes
+	}
+}
+43008001={
+name="Azar"
+dynasty=43008
+8920.1.1={
+birth=yes
+	}
+}
+44008001={
+name="Dario"
+dynasty=44008
+8920.1.1={
+birth=yes
+	}
+}
+45008001={
+name="Cesar"
+dynasty=45008
+8920.1.1={
+birth=yes
+	}
+}
+46008001={
+name="Calien"
+dynasty=46008
+8920.1.1={
+birth=yes
+	}
+}
+47008001={
+name="Castillon"
+dynasty=47008
+8920.1.1={
+birth=yes
+	}
+}
+48008001={
+name="Fulgen"
+dynasty=48008
+8920.1.1={
+birth=yes
+	}
+}
+49008001={
+name="Semion"
+dynasty=49008
+8920.1.1={
+birth=yes
+	}
+}
+50008001={
+name="Luis"
+dynasty=50008
+8920.1.1={
+birth=yes
+	}
+}
+51008001={
+name="Felipo"
+dynasty=51008
+8920.1.1={
+birth=yes
+	}
+}
